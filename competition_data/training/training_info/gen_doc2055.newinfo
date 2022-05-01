@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2055</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The values in the graphs are the difference between the impedance values for normal and cancer cell lines.</plag_sens>
+    <tag_file_ids>gen_doc3840</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The values in the graphs are the difference between the absolute impedance values of normal and cancer cell lines, and are presented in Figures 4(a) and 4(b).</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2055</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Proper structural arrangements in newly released viruses are accomplished by proteolytic processing of viral precursor proteins.</plag_sens>
+    <tag_file_ids>gen_doc982</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Proper structural arrangements in newly released viruses are accomplished by proteolytic processing of viral precursor proteins.</tag_plag_sens>
+  </row>
+</data>

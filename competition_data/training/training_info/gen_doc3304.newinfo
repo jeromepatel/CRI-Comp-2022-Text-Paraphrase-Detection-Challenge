@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3304</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Thompson and Wheeless published a study in 1969 about using single-trocar laparoscopy to perform tubal ligation.</plag_sens>
+    <tag_file_ids>gen_doc757</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Thompson and Wheeless published a study in 1969 about tubal ligation using single-trocar laparoscopy.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3548</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Only one reference laboratory in the country is capable of performing the MAT.</plag_sens>
+    <tag_file_ids>gen_doc596</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>There is only one reference laboratory in the country where MAT is performed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3548</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Students are asked to give examples of medication safety from hospital preceptorships or community pharmacy experience.</plag_sens>
+    <tag_file_ids>gen_doc894</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Students are asked to give examples of medication safety from hospital preceptorships or community pharmacy experience.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3548</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The most abundant species during the winter was E. entomelas.</plag_sens>
+    <tag_file_ids>gen_doc3193</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>E. entomelas was the most abundant species during the winter and spring of 2001 and 2002.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3548</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The number of individual mice with perturbed 8ENP324-332/Kb frequencies was similar to the data obtained in Figure 3A.</plag_sens>
+    <tag_file_ids>gen_doc532</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The number of individual mice with perturbed 8ENP324-332/Kb frequencies was similar to the data obtained in Figure 3A.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3548</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The measure of dissimilarity was called the Euclidean distance.</plag_sens>
+    <tag_file_ids>gen_doc3504</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The measure of dissimilarity was 9999 permutations of the Euclidean distance.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3548</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Table 6 shows the Pearson and Spearman correlations between Model 1 and Model 2, which ignores social genetic effects, and the individual estimated total breeding values and its components from Model 2.</plag_sens>
+    <tag_file_ids>gen_doc3504</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Table 6 shows the Pearson and Spearman correlations between Model 1 and Model 2, which ignores social genetic effects, as well as the individual estimated total breeding values and its components from Model 2.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3548</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>resting means that these cells did not express CD69 or CD25 figureB.</plag_sens>
+    <tag_file_ids>gen_doc2308</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The cells did not express CD69 or CD25 figureB and can therefore be considered resting.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc3548</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>One participant completed only the low-load trial and withdrew from the study as a result of a change in work commitments, while another did not complete the moderate-load trial because of unrelated health concerns.</plag_sens>
+    <tag_file_ids>gen_doc2374</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>One participant completed only the low-load trial and withdrew from the study as a result of a change in work commitments, whereas another participant did not complete the moderate-load trial because of unrelated health concerns</tag_plag_sens>
+  </row>
+</data>

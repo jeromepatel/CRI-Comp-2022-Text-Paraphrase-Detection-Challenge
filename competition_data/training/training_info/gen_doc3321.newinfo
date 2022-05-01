@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3321</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>After the Ti(BH4)3 is removed from the loaded MOF, there are no additional modes in the spectrum.</plag_sens>
+    <tag_file_ids>gen_doc963</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>After the Ti(BH4)3 is removed from the loaded MOF, there are no more modes observed in the Raman spectrum.</tag_plag_sens>
+  </row>
+</data>

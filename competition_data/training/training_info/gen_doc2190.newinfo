@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2190</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There was no statistically significant change in the long-term effects of NT3.</plag_sens>
+    <tag_file_ids>gen_doc19</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>S2 D did not show statistically significant change in the long-term effects of NT-3.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2190</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>If the CV was less than 10% the sample was considered acceptable.</plag_sens>
+    <tag_file_ids>gen_doc2940</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>If the CV was less than 10%, each sample was run in duplicate and considered acceptable.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2190</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Men don't produce offspring in the first six columns of matrix R.</plag_sens>
+    <tag_file_ids>gen_doc1109</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The first six columns of matrix R are zeros because males don't produce any offspring.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2190</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The embryogenic callus can be regenerated from FEC line #1.</plag_sens>
+    <tag_file_ids>gen_doc3254</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>It was easy to regenerate the embryogenic callus from FEC line #1.</tag_plag_sens>
+  </row>
+</data>

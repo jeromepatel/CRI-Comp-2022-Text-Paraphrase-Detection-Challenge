@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1099</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The final geometry exhibits quantitative agreement with FEA predictions; the assembly is enabled by S1A on a prestrained substrate.</plag_sens>
+    <tag_file_ids>gen_doc1511</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The final geometry exhibits quantitative agreement with FEA predictions; the assembly is enabled by S1A on a prestrained substrate.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1099</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The most upstream location of the target site of Brg1 had the least effect on the blocking ability of these MOs.</plag_sens>
+    <tag_file_ids>gen_doc244</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The most upstream location of the targeting site of Brg1 had the least effect on the blocking ability of these MOs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1099</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The combination of MNP-SiO2(RITC) and MUC1-MNP-SiO2(RITC) were measured.</plag_sens>
+    <tag_file_ids>gen_doc134</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We measured the UV-Vis spectrum of MNP-SiO2(RITC) and MUC1-MNP-SiO2(RITC) to confirm the combination.</tag_plag_sens>
+  </row>
+</data>

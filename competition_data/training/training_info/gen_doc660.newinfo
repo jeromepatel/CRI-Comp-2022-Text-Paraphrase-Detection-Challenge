@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc660</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The distribution of the different types of mutations was as follows: 40.4 % of patients had missense, 30.8 % had frameshift, 21.2 % had nonsense and 5.8 % had splicing.</plag_sens>
+    <tag_file_ids>gen_doc3469</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The distribution of the different types of mutations was as follows: 40.4 % of patients had missense, 30.8 % had frameshift, 21.2 % had nonsense and 5.8 % had splicing.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc660</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The clinical isolates were allcoded to assure full anonymousness.</plag_sens>
+    <tag_file_ids>gen_doc2551</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>All the clinical isolates werecoded to assure full anonymousness.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc660</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In-house quantitative assays were performed on samples that had been positive for the H1N1 swine flu.</plag_sens>
+    <tag_file_ids>gen_doc1176</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In-house quantitative assays were performed on samples that had been positive for H1N1 2009, and reported elsewhere.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc660</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Neutrophil rolling can't be measured in hypertonic medium because it changed the shape and rolling characteristics of the neutrophils.</plag_sens>
+    <tag_file_ids>gen_doc3811</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Neutrophil rolling can't be measured in hypertonic medium because it changed the shape and rolling characteristics of the neutrophils.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc660</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There were minor tandem repeat differences found in the analysis of the curli strains.</plag_sens>
+    <tag_file_ids>gen_doc2656</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There were minor tandem repeat (TR) differences found in the analysis of curli variant strains.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc660</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The opposite effect was seen when RNF216 was knocked down.</plag_sens>
+    <tag_file_ids>gen_doc570</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Knockdown of RNF216 had the opposite effect.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc660</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>One case had borderline personality disorder, one case had schizoaffective disorder and three cases had a diagnosis of severe depression.</plag_sens>
+    <tag_file_ids>gen_doc2067</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>One case had borderline personality disorder, one had schizoaffective disorder, and three cases had a diagnosis of severe depression.</tag_plag_sens>
+  </row>
+</data>

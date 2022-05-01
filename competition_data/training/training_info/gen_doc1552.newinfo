@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1552</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The CD19-IgG1Fc fusion proteins, CD19sIg1-3 and CD19sIg1-4, were constructed using either exons 1 to 3 or exons 1 to 4 of the human CD19</plag_sens>
+    <tag_file_ids>gen_doc585</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The CD19-IgG1Fc fusion proteins, CD19sIg1-3 and CD19sIg1-4, were constructed using either exons 1 to 3 or exons 1 to 4 of the human CD19 cDNA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1552</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Patients don't object to the application but would prefer it in the future.</plag_sens>
+    <tag_file_ids>gen_doc2039</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Patients have no objection to the application and would prefer it in future visits.</tag_plag_sens>
+  </row>
+</data>

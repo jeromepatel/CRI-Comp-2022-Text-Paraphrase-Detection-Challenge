@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc899</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The article was titled "Raudsepp-Hearne et al."</plag_sens>
+    <tag_file_ids>gen_doc152</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The article was titled "Raudsepp-Hearne et al."</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc899</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Alterations of nucleotides that contribute to misincorporation events are subject to the quantum-mechanic uncertainties associated with formation of infrequent tautomeric forms.</plag_sens>
+    <tag_file_ids>gen_doc1657</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Alterations of nucleotides that contribute to misincorporation events are subject to the quantum-mechanic uncertainties associated with formation of infrequent tautomeric forms.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc899</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Men accounted for more transmission for migrant flow.</plag_sens>
+    <tag_file_ids>gen_doc2600</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Men accounted for 17.0% more transmission than women for migrant flow.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc899</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The subjects were engaged in five task blocks and had to complete 160 trials.</plag_sens>
+    <tag_file_ids>gen_doc3961</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>During MEG measurement, subjects engaged in five task blocks, each consisting of 160 trials.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc899</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There were barriers such as co-pays, paperwork issues, and getting weights for patients.</plag_sens>
+    <tag_file_ids>gen_doc1795</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Barriers included getting weights for patients, co-pays, and paperwork issues.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc899</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There are several cysteine (Cys) residues that can be nitrosylated by no.</plag_sens>
+    <tag_file_ids>gen_doc2336</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>nitric oxide can be used to nitrosylate the cysteine (Cys) residues in the Ras protein.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc899</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Existence results for nonlocal boundary value problems with equations are presented.</plag_sens>
+    <tag_file_ids>gen_doc118</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Existence results for nonlocal boundary value problems with impulsive equations are presented.</tag_plag_sens>
+  </row>
+</data>

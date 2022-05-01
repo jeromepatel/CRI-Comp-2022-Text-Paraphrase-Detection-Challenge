@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc333</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The pro-B cell origin was supported by the CD19+CD 24+cKit+ IgMCD43+CD93+ immunophenotype in the BBC2 cell line.</plag_sens>
+    <tag_file_ids>gen_doc610</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A pro-B cell origin was supported by the CD19+CD24+cKit+ IgMCD43+CD93+ immunophenotype in the BBC2 cell line.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc333</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Pinnegar et al.</plag_sens>
+    <tag_file_ids>gen_doc1374</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Pinnegar et al. were published in 2001.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc333</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There was no risk of bias in the studies included in the meta-analysis.</plag_sens>
+    <tag_file_ids>gen_doc2070</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There was no risk of publication bias among the studies included in the meta-analysis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc333</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Shapiro and his team.</plag_sens>
+    <tag_file_ids>gen_doc2503</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Shapiro et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc333</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>T and M KcsA are both indicated.</plag_sens>
+    <tag_file_ids>gen_doc1297</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>T and M KcsA are indicated.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc333</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The inclusion is still there.</plag_sens>
+    <tag_file_ids>gen_doc3235</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The inclusion holds.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc333</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The direct comparison with the two devices didn't intersect the y- axis.</plag_sens>
+    <tag_file_ids>gen_doc2457</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The direct comparison with the two devices did not intersect the y-axis at zero.</tag_plag_sens>
+  </row>
+</data>

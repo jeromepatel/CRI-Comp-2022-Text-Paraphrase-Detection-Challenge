@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3074</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The site was inserted into a double-stranded shuttle vector containing an SV40 replication origin as well as the control vectors carrying the corresponding unmodified nucleosides at the site.</plag_sens>
+    <tag_file_ids>gen_doc976</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The site was inserted into a double-stranded shuttle vector containing an SV40 replication origin, as well as the lesion-free control vectors carrying the corresponding unmodified nucleosides at the lesion site.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3074</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Cell separators used for thrombocytapheresis do not use platelet or coagulation activation.</plag_sens>
+    <tag_file_ids>gen_doc3243</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The absence of platelet or coagulation activation by cell separators was demonstrated.</tag_plag_sens>
+  </row>
+</data>

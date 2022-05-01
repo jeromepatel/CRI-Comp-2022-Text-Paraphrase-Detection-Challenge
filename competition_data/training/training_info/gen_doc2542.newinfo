@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2542</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The exit end of the catheter was taken out through a separate opening between the ears and the skin.</plag_sens>
+    <tag_file_ids>gen_doc3380</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The exit end of the catheter was taken out through a separate opening in the skin between the ears and a metal wire.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2542</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There are at least two active trials involving the use of ETAs.</plag_sens>
+    <tag_file_ids>gen_doc2091</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There are at least two active trials involving the use of ETA-selective ERAs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2542</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The majority of the samples were single infections.</plag_sens>
+    <tag_file_ids>gen_doc2059</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Of the 1,272 samples with high-risk genotypes, 486 were single infections.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2542</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The culture was in the mid-exponential phase when aeration was turned on at day 7.</plag_sens>
+    <tag_file_ids>gen_doc3780</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The culture was in the mid-exponential phase figureB when the aeration was turned on at day 7.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2542</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The normalized residuals are shown in the main graph.</plag_sens>
+    <tag_file_ids>gen_doc1132</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The normalized residuals for those models are shown in the main graph.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2542</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The first step in the production of the fungicide pyrrolnitrin is catalysed by Tryptophan halogenase.</plag_sens>
+    <tag_file_ids>gen_doc3347</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Tryptophan is not found in any known host of cyanomyoviruses, however it is known to catalyse the first step in the biosynthesis of the fungicide pyrrolnitrin in Pseudomonas fluorescens.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2542</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>It varies from studies to studies.</plag_sens>
+    <tag_file_ids>gen_doc2307</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The incidence of CRBSI varies from study to study.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc2542</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The small differences of their polarizabilities aren't enough to explain the large variation of their adsorption enthalpies.</plag_sens>
+    <tag_file_ids>gen_doc154</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The small differences of their polarizabilities are not enough to explain the large variation of their adsorption enthalpies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc2542</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The Zusanli point is one of the most important points to nourish and regulate the body.</plag_sens>
+    <tag_file_ids>gen_doc2221</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The Zusanli point is one of the most important points to nourish, regulate, and tonify deficiencies in San Jiao.</tag_plag_sens>
+  </row>
+</data>

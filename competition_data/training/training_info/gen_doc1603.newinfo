@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1603</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Our bundle calculations show that a circular tube can be twisted.</plag_sens>
+    <tag_file_ids>gen_doc2646</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Our bundle calculations show that a circular tube may be twisted, as illustrated by the model of the tube used.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1603</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The graphs for gold spheres are very similar.</plag_sens>
+    <tag_file_ids>gen_doc3436</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The graphs for the gold spheres are the same as in Figure 4.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1603</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>They were asked to report their weight and height with their children.</plag_sens>
+    <tag_file_ids>gen_doc655</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>They were asked to report their weight and height as well as the weight and height of their children.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1603</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The most common branch of the major arteries is the left subclavian, which is one of the three major sub-groups.</plag_sens>
+    <tag_file_ids>gen_doc1745</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The most common branch of the major arteries is the left subclavian, which is one of the three major sub-groups of the right aortic arch.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1603</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There was a minimum inhibitory concentration of 500 g/mL.</plag_sens>
+    <tag_file_ids>gen_doc3019</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The minimum inhibitory concentration of gentamicin was defined as 500 g/mL (16).</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1603</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>When the maximally tolerated dose is reached, the daily dose levels are increased from 600 to 700.</plag_sens>
+    <tag_file_ids>gen_doc2026</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>When the maximally tolerated dose is reached, the daily dose levels are increased from 600 to 700.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1603</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The slope of the SAR is expected to become more steep with increasing isolation, so higher sea levels may have shifted the slope of the current curve compared to the past.</plag_sens>
+    <tag_file_ids>gen_doc1847</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The slope of the SAR is expected to become more steep with increasing isolation; therefore, higher sea levels may have shifted the slope of the current curve relative to the past.</tag_plag_sens>
+  </row>
+</data>

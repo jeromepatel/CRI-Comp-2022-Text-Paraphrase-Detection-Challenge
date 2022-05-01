@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc418</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Deletion of -Syntrophin may lead to the impairment of regulatory processes.</plag_sens>
+    <tag_file_ids>gen_doc3133</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The impairment of regulatory processes may be caused by the deletion of -Syntrophin, which results in the redistribution of AQP4 molecules.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc418</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The primer pairs were designed to be specific to the isoform.</plag_sens>
+    <tag_file_ids>gen_doc3339</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The primer pairs were designed to be specific to the isoform.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc418</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The test-retest measurement was conducted with a convenience sample of 60 early childhood education students at Penn State University.</plag_sens>
+    <tag_file_ids>gen_doc980</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We conducted a test-retest measurement with a convenience sample of 60 early childhood education students at Penn State University and 38 localCCPs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc418</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Hussain and co-workers developed a MIP sensor for HCHO detection to reduce the pathway of target molecules.</plag_sens>
+    <tag_file_ids>gen_doc3003</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Hussain and co-workers developed a MIP sensor for HCHO detection to reduce the pathway of target molecules.</tag_plag_sens>
+  </row>
+</data>

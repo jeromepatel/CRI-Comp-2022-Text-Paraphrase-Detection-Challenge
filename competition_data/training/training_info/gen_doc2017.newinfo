@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2017</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>They can be affected by the sensitivity.</plag_sens>
+    <tag_file_ids>gen_doc3528</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>They can be adjusted by the sensitivity described earlier.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2017</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The N-terminal domain is inactive and the C-terminal domain is active.</plag_sens>
+    <tag_file_ids>gen_doc166</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The N-terminal domain is inactive, while the C-terminal domain exhibits activity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2017</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The HITChip consists of over 4 800 probes that target the V1 and V6 hypervariable regions of the 16S rRNA gene.</plag_sens>
+    <tag_file_ids>gen_doc3706</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In brief, the HITChip consists of over 4 800 probes targeting the V1 and V6 hypervariable regions of the 16S rRNA gene, spotted in duplo on the custom Agilent array.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2017</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The integration is done over the FGs' total volume.</plag_sens>
+    <tag_file_ids>gen_doc3083</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The total volume of the FGs is integrated using the simulation fields 1415.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2017</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Increased scattering of charge carriers can cause the decreased mobility and increased Rsh for monolayer MoS2/r-sapphire devices.</plag_sens>
+    <tag_file_ids>gen_doc3264</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The decreased mobility and increased Rsh for monolayer MoS2/r-sapphire devices can be due to increased scattering of charge carriers caused by oxygen doping.</tag_plag_sens>
+  </row>
+</data>

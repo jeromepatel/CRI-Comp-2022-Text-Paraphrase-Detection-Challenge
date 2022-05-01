@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1972</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The MINI3 transcript levels in an3-4 plants were 4.5 times greater than those found in wild-type.</plag_sens>
+    <tag_file_ids>gen_doc54</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The two-tailed Student's t-test found that MINI3 transcript levels in an3-4 plants were 4.5 times greater than those found in wild-type.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1972</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The emission was recorded at 515  10 nm, and the light was 480  10.</plag_sens>
+    <tag_file_ids>gen_doc3456</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The emission was recorded at 515  10 nm, and the green FPs were excited with the light.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1972</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Competition experiments were performed in the Jurkat T cell line because the SupT1 T lymphocyte cell lines were not used for primary cell cultures.</plag_sens>
+    <tag_file_ids>gen_doc679</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Competition experiments were performed in the Jurkat and SupT1 T lymphocyte cell lines because they were productive infections with these viruses.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1972</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The expression of Agc1 and Col2a1 was suppressed in ATDC5 cells.</plag_sens>
+    <tag_file_ids>gen_doc3009</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In ATDC5 cells, the expression of Agc1 and Col2a1 was suppressed, compared to the expression of wtaspN figure.</tag_plag_sens>
+  </row>
+</data>

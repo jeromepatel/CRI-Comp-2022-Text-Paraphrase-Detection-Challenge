@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1640</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The groups that received 4 weeks of exercise were shown to have a strong inhibition of weight gain.</plag_sens>
+    <tag_file_ids>gen_doc2617</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There was a strong inhibition of weight gain in the groups that received 4 weeks of exercise, according to the data on body weight distribution.</tag_plag_sens>
+  </row>
+</data>

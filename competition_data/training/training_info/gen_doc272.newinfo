@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc272</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Other mammals have the ability to detect prosodic signals in speech.</plag_sens>
+    <tag_file_ids>gen_doc1899</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In other mammals, the ability to detect prosodic cues in speech has been observed before.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc272</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>There was a debate about the causes of the variation in caesarean section rates.</plag_sens>
+    <tag_file_ids>gen_doc2284</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There was debate about possible causes of the variation in caesarean section rates after the publication of the 2008-9 figures.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc272</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The lowest amount of information figureb bottom is provided by the highest number of genomic hits that are shown by the two tools.</plag_sens>
+    <tag_file_ids>gen_doc994</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The lowest amount of information figureb bottom is provided by the highest number of genomic hits, which is shown by the sequence filters.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc272</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There were 20 unmapped genes associated with limb bone lengths.</plag_sens>
+    <tag_file_ids>gen_doc1091</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>There were 20 unmapped SNPs associated with limb bone lengths at the suggestive significant level.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc272</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The lack of evidence that a broad scale change in carotenoid coloration is associated with size changes cannot be interpreted as conclusive evidence that changes in food availability do not occur.</plag_sens>
+    <tag_file_ids>gen_doc2374</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The lack of evidence that a broadscale change in carotenoid coloration is associated with size changes cannot be interpreted as conclusive evidence that changes in food availability do not.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3602</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The study was about Jacquemyn and his team.</plag_sens>
+    <tag_file_ids>gen_doc2853</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The study was about Jacquemyn et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3602</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Exposure to forest fire smoke can cause the bone marrow to release immature polymorphonucleates cells even if lung function has not been affected.</plag_sens>
+    <tag_file_ids>gen_doc2951</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Exposure to forest fire smoke can cause the bone marrow to release immature polymorphonucleates cells even if lung function has not been affected by air pollution.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3602</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The Ontario Ministry of Health and Long Term Care used the Reportable Disease Information System (RDIS) to get the data on 1,272 cases of human STEC infections in Ontario.</plag_sens>
+    <tag_file_ids>gen_doc2109</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The Ontario Ministry of Health and Long Term Care used the Reportable Disease Information System (RDIS) to obtain the data on 1,276 cases of human STEC infections.</tag_plag_sens>
+  </row>
+</data>

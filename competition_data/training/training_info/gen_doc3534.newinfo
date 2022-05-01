@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3534</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The currents involved in charging the t-tubular membrane above the action potential threshold must also flow across the substantial resistance positioned in the series with the t-tubular membrane impedance.</plag_sens>
+    <tag_file_ids>gen_doc492</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The currents involved in charging the t-tubular membrane above the action potential threshold must also flow across a substantial resistance positioned in series with the t-tubular membrane impedance because of the narrow lumen of the t-tubules.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3534</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Perenosins hydrolyse steadily due to the presence of the imine moiety.</plag_sens>
+    <tag_file_ids>gen_doc2174</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Perenosins hydrolyse steadily due to the presence of the imine moiety.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3534</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>We found that the levels of both GRIP1 and GRIP2 decreased after the depotentiation of the synaptosomes figureC.</plag_sens>
+    <tag_file_ids>gen_doc2616</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>We found that the levels of both GRIP1 and GRIP2 decreased after the depotentiation of the synaptosomes figureC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3534</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>For a given biological subnetwork, the hypergraph representing the dependencies in the network context consists of subsets O and L.</plag_sens>
+    <tag_file_ids>gen_doc1997</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>For a given biological subnetwork, the hypergraph representing the dependencies in the network context consists of subsets, O and L, in the subnetwork.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3534</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>When calculating ilogonucleotides candidates, the design software first checked against the consensus alignment to exclude designs not covering all sequence variant, and then evaluated using the simulation module of visual OMP.</plag_sens>
+    <tag_file_ids>gen_doc1958</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The candidates that were calculated by the design software were first checked against the consensus alignment to exclude designs not covering all sequence variant, and then evaluated using the simulation module of Visual OMP.</tag_plag_sens>
+  </row>
+</data>

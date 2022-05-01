@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc662</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>SLE T cells are unable to adhere to hemagglutinin-coated membranes because of the inhibition of the rho-associated protein kinase.</plag_sens>
+    <tag_file_ids>gen_doc870</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>SLE T cells are unable to adhere to hemagglutinin-coated membranes because of the inhibition of the rho-associatedprotein kinase (ROCK).</tag_plag_sens>
+  </row>
+</data>

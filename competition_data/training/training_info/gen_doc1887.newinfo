@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1887</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>A study of the motivational factors associated with postings in a professional network of practice found that reputation and enjoyment in helping others were positively related with the helpfulness of the postings as perceived by their recipients.</plag_sens>
+    <tag_file_ids>gen_doc2465</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In a more work related setting, a study of the motivational factors associated with postings in a professional network of practice found that reputation and enjoyment in helping others were positively related with the helpfulness of the postings as perceived by their recipients.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1887</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The undifferentiated state of cancer stem cells is resistant to most of the drugs.</plag_sens>
+    <tag_file_ids>gen_doc751</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The undifferentiated state of cancer stem cells, which are resistant to most of the drugs, is one of the reasons that HMGA2 is involved.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1887</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The structural component of the cuticle is called afrm.</plag_sens>
+    <tag_file_ids>gen_doc2412</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The structural component of the cuticle is called afrm.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1887</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The GCS were made of polyamide and elastane.</plag_sens>
+    <tag_file_ids>gen_doc2441</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The GCS was made of 85% polyamide and 15% Lycra.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1887</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Environmental factors are likely to be most important for shaping community structure according to the conceptual framework constructed by Heino et al.</plag_sens>
+    <tag_file_ids>gen_doc399</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Environmental factors are likely to be most important for shaping community structure based on the conceptual framework constructed by Heino et al.18.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1887</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Overestimation of fruit and vegetable intake is predictable and does not represent a flaw in the methodology used.</plag_sens>
+    <tag_file_ids>gen_doc220</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Overestimation of fruit and vegetable intake by the questionnaire is predictable and does not represent a flaw in the questionnaire itself or the methodology used.</tag_plag_sens>
+  </row>
+</data>

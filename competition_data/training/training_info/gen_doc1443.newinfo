@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1443</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>One of the first descriptions of changes in the community was provided in the study.</plag_sens>
+    <tag_file_ids>gen_doc760</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>One of the first descriptions of changes in the parasitoid community was provided in this study.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1443</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are other possible reasons for differences between the two running conditions, such as (i) the runner may gain energy from the motor-driven treadmill belt, or (ii) the instability caused by visual cues from static rather than moving surroundings, have been discussed.</plag_sens>
+    <tag_file_ids>gen_doc3616</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There are other possible reasons for differences between the two running conditions, such as (i) the runner may gain energy from the motor-driven treadmill belt, or (ii) the instability caused by visual cues from static rather than moving surroundings, have been discussed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1443</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In the subligamentous type, the branch arises within the carpal tunnel and stays there until it reaches the thenar muscles figureD and 1E.</plag_sens>
+    <tag_file_ids>gen_doc2031</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>In the subligamentous type, the branch arises within the carpal tunnel and remains deep to the TCL until it reaches the thenar muscles figureD and 1E).</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1443</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The key messages and strategies are likely to be relevant to other childhood obesity interventions, but they are not necessarily transferable.</plag_sens>
+    <tag_file_ids>gen_doc442</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The key messages and strategies are likely to be relevant to other childhood obesity interventions, but they are not necessarily transferable.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1443</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Fetal GRPs were differentiated into MBP+ oligodendrocytes and GFAP+ astrocytes after 12 weeks.</plag_sens>
+    <tag_file_ids>gen_doc2309</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Fetal GRPs were differentiated into MBP+ oligodendrocytes and GFAP+ astrocytes after 12 weeks after they were transplanted.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1443</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The values from the green channel are used to map the values for each individual person.</plag_sens>
+    <tag_file_ids>gen_doc3531</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The values from the green channel are used to map the luminance values for each individual pixel.</tag_plag_sens>
+  </row>
+</data>

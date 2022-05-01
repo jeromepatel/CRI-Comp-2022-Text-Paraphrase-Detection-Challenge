@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2249</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>People who are sick may not make as many contacts with others because of the effects of their illness or because of advice from public health organizations to stay home.</plag_sens>
+    <tag_file_ids>gen_doc2556</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>People who are sick may not make as many contacts with others because of the effects of their illness or because of advice from public health organizations to stay home.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2249</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>One possible explanation is that mothers and fathers may use different strategies to encourage their sons and daughters to be active, which may affect adolescent PA and body satisfaction.</plag_sens>
+    <tag_file_ids>gen_doc3657</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>One possible explanation is that mothers and fathers may use different strategies to encourage their sons and daughters to be active which may differentially impact adolescent PA and body satisfaction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2249</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A form of Heterochiasmy, where males and females of a species completely lack meiotic recombination, occurs frequently in Dipterans and in several orders of Lepidopterans.</plag_sens>
+    <tag_file_ids>gen_doc254</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>A form of Heterochiasmy, where males or females of a species completely lack meiotic recombination, occurs frequently in Dipterans and in several orders of Lepidopterans.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2249</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>Many citizens volunteer spatially explicit information that is of relevance to them, often integrating it with existing datasets, or using it for their own gain.</plag_sens>
+    <tag_file_ids>gen_doc3185</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Citizens are increasingly volunteering for spatially explicit information that is of relevance or interest to them, often integrating this information with existing datasets, or using it for their own gain.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2249</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>See: Brewer et al. for structures of the non-disordered MnIII.</plag_sens>
+    <tag_file_ids>gen_doc3294</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>See: Brewer et al. for structures of the non-disordered MnIII—MnIVO2 core.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2249</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Antigen-driven amplification of engineered T cells may help to achieve a sufficient T cell response but may also be accompanied by a flare of the disease.</plag_sens>
+    <tag_file_ids>gen_doc802</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>Antigen-driven amplification of engineered T cells may help to achieve a sufficient T cell response, but may also be accompanied by a flare of hepatitis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2249</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Delivery of MISSION-Vet is guided by a Treatment Manual that describes MISSION-Vet's core components and suggestions for service delivery.</plag_sens>
+    <tag_file_ids>gen_doc293</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Delivery of MISSION-Vet is guided by a Treatment Manual, which is a how-to-guide that describes MISSION-Vet's core components and suggestions for service delivery, as well as a number of appendices with additional didactic materials.</tag_plag_sens>
+  </row>
+</data>

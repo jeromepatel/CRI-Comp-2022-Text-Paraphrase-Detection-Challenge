@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3265</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The copurification of TACC3 and ch-TOG is not associated with Aurora A in ILK cells.</plag_sens>
+    <tag_file_ids>gen_doc2996</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The copurification of both TACC3 and ch-TOG is not associated with Aurora A in ILK siRNA–treated cells.</tag_plag_sens>
+  </row>
+</data>

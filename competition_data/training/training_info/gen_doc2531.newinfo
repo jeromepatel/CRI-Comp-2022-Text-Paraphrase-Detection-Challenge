@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2531</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>When DiI was placed in the visual cortex of P4 control and enucleated mice, INCs rostral figureA3 and 7A4 and 7B3 and 7B4 were not shown.</plag_sens>
+    <tag_file_ids>gen_doc2848</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>When DiI was placed in visual cortex of P4 control and enucleated mice, INCs rostral figureA3 and 7A4 and 7B3 and 7B4, respectively, were labeled.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2531</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Deafferentation of EOMs has never been shown to affect motor control.</plag_sens>
+    <tag_file_ids>gen_doc3008</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>A deafferentation of EOMs has never been shown to affect motor control or induce strabismus.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2531</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Seizures have been found to cause gender-specific effects on cell proliferation and survival.</plag_sens>
+    <tag_file_ids>gen_doc26</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>Seizures have been found to cause gender-specific effects on cell proliferation and survival in rats.</tag_plag_sens>
+  </row>
+</data>

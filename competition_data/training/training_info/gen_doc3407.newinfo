@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3407</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A  98% pure CD14-positive population of monocytes has been confirmed.</plag_sens>
+    <tag_file_ids>gen_doc1078</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>This results in a  98% pure CD14-positive population of monocytes that has been confirmed by flow cytometry.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3407</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Decreased SMN-1 resulted in a 21% decrease in maximum MEL 46::GFP fluorescence in motor neuron processes.</plag_sens>
+    <tag_file_ids>gen_doc2816</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Decreased SMN-1 resulted in a 21% decrease in maximum MEL 46::GFP fluorescence in motor neuron processes.</tag_plag_sens>
+  </row>
+</data>

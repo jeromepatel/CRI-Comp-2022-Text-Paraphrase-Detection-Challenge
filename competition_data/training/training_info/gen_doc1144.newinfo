@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1144</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>A majority of our patients with aHUS had at least one variant of complement genes.</plag_sens>
+    <tag_file_ids>gen_doc618</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>A majority of our patients with aHUS had variant in complement genes, which is consistent with the prevalence in larger cohort 5, 6, 7.</tag_plag_sens>
+  </row>
+</data>

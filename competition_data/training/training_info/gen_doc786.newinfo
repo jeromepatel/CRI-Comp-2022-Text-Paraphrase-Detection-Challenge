@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc786</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>It gives scores for the physical and mental dimensions.</plag_sens>
+    <tag_file_ids>gen_doc664</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>It provides scores for both physical and mental dimensions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc786</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The sample size estimation of our study assumed a 50% incidence of new DUs in the history group, but in reality there was only 22% incidence.</plag_sens>
+    <tag_file_ids>gen_doc559</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The sample size estimation of our study assumed a 50% incidence of new DUs in the history group, but in reality there was only 22% incidence.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc786</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The expression and function of Cxs in porcine GCs were indicated by our previous results.</plag_sens>
+    <tag_file_ids>gen_doc137</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The expression and function of Cxs in porcine GCs were indicated by our previous results.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc786</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The clinical data obtained after ICRS implantation do not indicate stopping the progression of the disease, despite various reports suggesting that MyoRing can achieve visual rehabilitation and possibly stop the progression of the disease.</plag_sens>
+    <tag_file_ids>gen_doc3637</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The clinical data obtained after ICRS implantation do not indicate stopping the progression of the disease, despite various reports suggesting that MyoRing implant in keratoconic corneas can not only achieve visual rehabilitation but also stop the progression of the disease.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc786</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>When a loading dose is given, the relative performance of different strategies is changed, especially between the 150mg/day and combined strategies, where 150mg/day is better than the combined strategy.</plag_sens>
+    <tag_file_ids>gen_doc2843</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>When a loading dose is given, the relative performance of different strategies is altered, especially between the 150mg/day and combined strategies, where 150mg/day outperformed the combined strategy under all assumptions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc786</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The method of Lichtenthaler was used to determine the contents of chlorophyll and carotenoids.</plag_sens>
+    <tag_file_ids>gen_doc3833</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The method of Lichtenthaler (1987) was used to determine the contents of chlorophyll and carotenoids.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc786</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There is evidence for selection pressures.</plag_sens>
+    <tag_file_ids>gen_doc771</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The evidence for selection pressures on these sequence is discussed below.</tag_plag_sens>
+  </row>
+</data>

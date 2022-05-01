@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2320</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The isolated genomic DNAs were looked at for copy number variations.</plag_sens>
+    <tag_file_ids>gen_doc2318</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The isolated genomic DNAs were examined for copy number variations using the CGH array.</tag_plag_sens>
+  </row>
+</data>

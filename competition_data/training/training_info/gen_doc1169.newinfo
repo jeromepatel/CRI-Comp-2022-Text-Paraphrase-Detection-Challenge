@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1169</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The process could be seen as an important aspect of goal statements.</plag_sens>
+    <tag_file_ids>gen_doc2919</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The motivative functions of goal statements could be considered an important aspect of this process.</tag_plag_sens>
+  </row>
+</data>

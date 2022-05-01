@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1029</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There are limitations to this technique due to the fact that the normal genes need to be successfully integrated into the mitochondrial genome of the affected subject.</plag_sens>
+    <tag_file_ids>gen_doc3013</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>There are limitations to this technique due to the fact that the normal gene must be successfully integrated into the mitochondrial genome of the affected subject and no technique is currently available to do so.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1029</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The overall MA was higher in Karemo than it was in Asembo or Gem.</plag_sens>
+    <tag_file_ids>gen_doc3358</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In the different area analyses, the overall MA was higher in Karemo at 96.7 % compared to Asembo and Gem.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1029</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The degree of inflammation and histological advancement of liver fibrosis were associated with the level of M30CK-18.</plag_sens>
+    <tag_file_ids>gen_doc3174</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The degree of inflammation and histological advancement of liver fibrosis were associated with the levels of Serum M30 CK-18.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1029</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Some infertile mycelia were observed with classical analysis in samples from the kitchen and the bedroom while the xMAP® test only detected P. chrysogenum.</plag_sens>
+    <tag_file_ids>gen_doc3379</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Some infertile mycelia were observed with classical analysis in samples from the kitchen and the bedroom, while the xMAP® test only detected P. chrysogenum.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1029</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We could use the methods above to identify the genes that are associated with a higher risk of irAEs.</plag_sens>
+    <tag_file_ids>gen_doc51</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We could use the methods above to identify the genes associated with a higher risk of irAEs, especially with severe grade irAEs, which can sometimes be fatal.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1029</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Scheduling was the cause of delay in almost all of the cases.</plag_sens>
+    <tag_file_ids>gen_doc1034</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In 87% of cases, the delay was attributed to scheduling.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1029</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The average distance between the sites of ionising and electron Localization is 4 nm.</plag_sens>
+    <tag_file_ids>gen_doc729</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The average distance between the site of ionising and eventual electron localization is 4 nm.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1029</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>Only a small amount of information on patient characteristics was available.</plag_sens>
+    <tag_file_ids>gen_doc2517</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Only a small amount of information on patient characteristics was available before surgery.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc1029</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There is a general problem regarding the interpretation of the SOC scores observed, which is that it is not yet clear when the protective effect on health will be lost and the development of severe health problems will begin.</plag_sens>
+    <tag_file_ids>gen_doc3548</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>There is a general problem regarding the interpretation of the SOC scores observed, which is that it is not yet clear at which point the protective effect on health is lost and the development of severe health problems begins.</tag_plag_sens>
+  </row>
+</data>

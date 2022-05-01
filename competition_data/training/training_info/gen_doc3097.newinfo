@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3097</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>locomotor sensitization can be caused by repeated METH treatment.</plag_sens>
+    <tag_file_ids>gen_doc2809</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The locomotor sensitization caused by repeated METH treatment was significantly mitigated by RO5203648.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3097</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The mean age for patients with non-Hbs non-HCV positive and Hbs Ag positive was 55.22  16.29, 49.85  16.62 and 47.82  13.51, respectively.</plag_sens>
+    <tag_file_ids>gen_doc2156</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The mean age for patients with non-Hbs non-HCV positive and HBs Ag positive was 55.22  16.29, 49.85  16.62 and 47.82  13.51, respectively.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3097</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Females who were 10 and 13 days old moved toward the standard signal.</plag_sens>
+    <tag_file_ids>gen_doc3688</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Females who were 10 and 13 days old exhibited the greatest movement toward the standard signal.</tag_plag_sens>
+  </row>
+</data>

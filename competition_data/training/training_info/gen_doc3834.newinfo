@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3834</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are other beneficial lipids, such as the MUFA, which accounts for 20%, as well as the PUFA, which includes CLA and phosphor- and sphingolipids.</plag_sens>
+    <tag_file_ids>gen_doc2393</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In addition to SCFA, there are other beneficial lipids, such as the MUFA, which accounts for 20%, and the PUFA, which includes CLA and phosphor- and sphingolipids.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3834</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>We concluded that CNN's inhibition of melanin is not the result of osmotic stress.</plag_sens>
+    <tag_file_ids>gen_doc537</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>CNN's inhibition of synthesis of melanin is not the result of osmotic stress, we concluded.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3834</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The alignment was done using the recommended parameters of the package and was done with the default settings.</plag_sens>
+    <tag_file_ids>gen_doc333</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The alignment was performed using the recommended parameters of the package and the analysis was run with the default settings.</tag_plag_sens>
+  </row>
+</data>

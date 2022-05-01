@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3904</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>We used the same methods to investigate whether excess or insufficient CycD/Cdk4 activity is causing cell death.</plag_sens>
+    <tag_file_ids>gen_doc133</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We investigated whether excess or insufficient CycD/Cdk4 activity is causing cell death by suppression of autophagy using the same methods.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3904</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In the table S1, there are the strains and plasmids used in the study.</plag_sens>
+    <tag_file_ids>gen_doc3050</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In table S1, there are the strains and plasmids used in the present study, while in table S2 there are the primers.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1485</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The anesthesia was maintained with a 50% air/oxygen mixture and a continuous injection of fentanyl and sevoflurane.</plag_sens>
+    <tag_file_ids>gen_doc355</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The anesthesia was maintained with a 50% air/oxygen mixture and a continuous injection of fentanyl and 1 vol% sevoflurane.</tag_plag_sens>
+  </row>
+</data>

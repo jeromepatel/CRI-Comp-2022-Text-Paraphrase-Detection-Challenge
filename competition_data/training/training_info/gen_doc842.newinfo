@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc842</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>C2C12 myoblasts can be stimulated to express osteogenic markers with the help of the ECM.</plag_sens>
+    <tag_file_ids>gen_doc2012</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>C2C12 myoblasts can be stimulated to express osteogenic markers by signals from the ECM in this work.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc842</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The prevalence of low vision was not known in 1988</plag_sens>
+    <tag_file_ids>gen_doc1513</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In 1988 there was little known about the prevalence of low vision.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc842</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Bergaust et al. show that the experiments were comprised of several parallel flasks due to the required amount of biomass.</plag_sens>
+    <tag_file_ids>gen_doc2238</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Bergaust et al. show that the experiments comprised several parallel flasks due to the required amount of biomass.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc842</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>If an effective child chromosome was generated, the mother chromosome was selected as elite and put into the pool of fathers.</plag_sens>
+    <tag_file_ids>gen_doc3875</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>If an effective child chromosome was generated, the mother's chromosomes were selected as elite and put into the mating pool as a father's chromosomes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc842</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>One participant reported a delayed menstrual cycle after using a lactation tincture.</plag_sens>
+    <tag_file_ids>gen_doc184</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>One participant reported a delayed menstrual cycle due to the use of a "lactation tincture" by her local Naturopath.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc842</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The monkey bladder urothelial cells grew better than the ones in the ureter.</plag_sens>
+    <tag_file_ids>gen_doc2312</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The monkey bladder urothelial cells grew better than the ureteral urothelial cells (not depicted).</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc842</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Only a few cells did not have an anti-CD3 figure.</plag_sens>
+    <tag_file_ids>gen_doc267</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Only a small number of cells did not show anti-CD3 accumulation figure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc842</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The hypothesis that the pksP mutants is virulence only due to its increased sensitivity toward host-derived ROS is questionable, since the Afyap1 and skn7 mutants do not differ in virulence from wild-types.</plag_sens>
+    <tag_file_ids>gen_doc1587</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The hypothesis that the pksP mutant is virulence only due to its increased sensitivity toward host-derived ROS is questionable, since the Afyap1 and skn7 mutants do not differ in virulence from wild-type con.</tag_plag_sens>
+  </row>
+</data>

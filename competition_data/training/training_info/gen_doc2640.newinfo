@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2640</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>H2O may be an intermediate in ABA signalling in guard cells.</plag_sens>
+    <tag_file_ids>gen_doc6</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In guard cells, hydrogen peroxide may function as an intermediate in ABA signalling.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc795</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>We pick the best performing step sizes for RFW and GFW.</plag_sens>
+    <tag_file_ids>gen_doc709</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We chose the best performing step sizes for RFW and GFW from various experiments.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc795</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In addition, the introduction of sgRNA as a complex may allow the simultaneous introduction of several of its type, and thus the system's functioning at several locations in the genome.</plag_sens>
+    <tag_file_ids>gen_doc448</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In addition, the introduction of sgRNA as a complex with CPP may allow the simultaneous introduction of several of its type, and thus the system's functioning at several locations in the genome.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc795</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In addition, mice deficient in IL 10 have altered responses to inflammatory stimuli and develop enterocolitis.</plag_sens>
+    <tag_file_ids>gen_doc1892</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In addition, mice that are deficient in IL10 have altered responses to inflammatory stimuli and develop enterocolitis and adenocarcinoma.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc795</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The data for the WT strain is replicated in all the graphs.</plag_sens>
+    <tag_file_ids>gen_doc787</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Data for the WT strain cultured with PE4 is replicated in all graphs of the Figure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc795</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>This manuscript does not include a detailed recount of the management of chronic/recurrent dermatophytosis.</plag_sens>
+    <tag_file_ids>gen_doc760</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The detailed recount on the management of chronic/recurrent dermatophytosis is beyond the scope of this manuscript.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc795</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The prooxidant activities ofBPA and the adaptive response have been linked to the development and progression of inflammatory diseases.</plag_sens>
+    <tag_file_ids>gen_doc87</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The prooxidant activities of BPA and the adaptive response identified here suggest that co-exposure to BPA may influence disease development and progression, particularly of inflammatory diseases, which have been linked toBPA exposure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc795</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The expression and activity of DUSP family members in different cells and tissues are regulated.</plag_sens>
+    <tag_file_ids>gen_doc1200</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The expression and activity of DUSP family members in different cells and tissues are regulated to determine the type of response.</tag_plag_sens>
+  </row>
+</data>

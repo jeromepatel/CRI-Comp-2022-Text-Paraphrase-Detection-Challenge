@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2009</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Further studies are needed to investigate the trends in the changes of lactate values and see if the addition of the highest value in the first 24 hours improves the prediction of mortality in the critically ill population.</plag_sens>
+    <tag_file_ids>gen_doc2103</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Further studies are needed to investigate the trends in the changes of lactate values and see if the addition of the highest value in the first 24 hours improves the prediction of mortality in the critically ill population.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2009</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The order of the suffixes were increasing.</plag_sens>
+    <tag_file_ids>gen_doc1967</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>lexicographically increasing order, the suffixes were stored in that order.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2009</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There was a low percentage of V. parahaemolyticus from the USA that was resistant to cefotaxime.</plag_sens>
+    <tag_file_ids>gen_doc2725</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There is a low percentage of V. parahaemolyticus from the USA that is resistant to cefotaxime.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2009</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The threshold for the design of ductile steel frames is considered by the MCBC.</plag_sens>
+    <tag_file_ids>gen_doc1609</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The threshold for the design of ductile steel frames is considered by the MCBC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2009</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There is a canal that begins from the mandibular foramen to the ramus.</plag_sens>
+    <tag_file_ids>gen_doc2827</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>There is a canal within the mandible that begins from the mandibular foramen on the ramus.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2009</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The control group of animals was not exposed to the intense sound that one group of animals was.</plag_sens>
+    <tag_file_ids>gen_doc69</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The control group of animals was not exposed to the intense sound that one group was exposed to.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2009</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The sperm energy index or genomic approach is used to better predict male fecundity and fertility.</plag_sens>
+    <tag_file_ids>gen_doc3100</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The sperm energy index or genomic approach is used to better predict male fecundity and fertility.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc2009</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The synchronization is somewhat perturbed during the stimulation, but it is restored after a Transient.</plag_sens>
+    <tag_file_ids>gen_doc1252</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>During the stimulation, the synchronization is somewhat perturbed, but it is restored after a post-stimulation Transient [figureC].</tag_plag_sens>
+  </row>
+</data>

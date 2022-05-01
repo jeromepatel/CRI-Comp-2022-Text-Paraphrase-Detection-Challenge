@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc653</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The conductance and gating properties of K+ channels can be altered by the concentrations of Na+ and K+e.</plag_sens>
+    <tag_file_ids>gen_doc3470</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The conductance and gating properties of K+ channels can be altered by the concentrations of Na+ and K+e.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc653</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The difference between the observed joint effect and additivity is very large.</plag_sens>
+    <tag_file_ids>gen_doc1658</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The difference between the observed joint effect and additivity is 25.1</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc653</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Imputation provides a common panel to facilitate a meta-analysis.</plag_sens>
+    <tag_file_ids>gen_doc870</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Imputation provides a common panel across all studies to facilitate a meta-analysis.</tag_plag_sens>
+  </row>
+</data>

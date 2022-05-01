@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1292</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There are several questions related to key lifestyle change measures for CVD risk reduction, such as diet, alcohol intake, and smoking, and based on the transtheoretical model of behavior change will be included.</plag_sens>
+    <tag_file_ids>gen_doc614</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There are several questions related to key lifestyle change measures for CVD risk reduction, such as diet, alcohol intake, and smoking, and based on the transtheoretical model of behavior change will be included.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1292</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The data we explored showed a similar distribution of patients with an improved response classification between treatment groups.</plag_sens>
+    <tag_file_ids>gen_doc1669</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>A second review was done by a blinded clinician, and the data we explored showed a similar distribution of patients with an improved response classification.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1292</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are two complimentary sources of circulating miRNA, one of which is actively exported from cells into the bloodstream.</plag_sens>
+    <tag_file_ids>gen_doc1394</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>There are two complimentary sources of circulating miRNA, one of which is passively released into the bloodstream after tissue injury and the other which is actively exported from cells into the bloodstream.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1292</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There were 25 different sets of clusters for each descriptor of the dataset.</plag_sens>
+    <tag_file_ids>gen_doc1595</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>There were 25 different sets of clusters for each descriptor of the dataset.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1292</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Eluates were analyzed by the Western blot.</plag_sens>
+    <tag_file_ids>gen_doc3377</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Eluates were directly analyzed by the Western blot.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1292</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In order to determine the functional consequences of ARTN expression in ER-MC, we created stable cell clones with forced expression of ARTN in the following cells:</plag_sens>
+    <tag_file_ids>gen_doc295</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In order to determine the functional consequences of ARTN expression in ER-MC, we generated stable cell clones with forced expression of ARTN in the same cells as previously described.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1292</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The six variables were used in the design of a score for the CGA.</plag_sens>
+    <tag_file_ids>gen_doc277</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The six variables were used to create a score for the CGA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1292</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The alignment was exported in a different format.</plag_sens>
+    <tag_file_ids>gen_doc587</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The alignment was exported in a format called a mega file.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3329</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The urine output should be between 80 and 100 mL/m2/hour.</plag_sens>
+    <tag_file_ids>gen_doc3195</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The urine output should be in the range of 80– 100 mL/m2/hour for Adequacy of fluid administration to be judged.</tag_plag_sens>
+  </row>
+</data>

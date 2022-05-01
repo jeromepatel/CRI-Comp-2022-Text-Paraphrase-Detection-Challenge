@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3078</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Of the recipients who were at increased risk of receiving a transfusion, only 22.0% performed post-fusion follow-up testing.</plag_sens>
+    <tag_file_ids>gen_doc3485</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Only 22.0% of the recipients who were at increased risk of transfusion-transmitted HBV had post-fusion follow-up testing performed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3078</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Hearing impairment at all levels was associated with poorer mental health.</plag_sens>
+    <tag_file_ids>gen_doc2909</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Hearing disability at all levels was associated with poorer mental health in an Australian study.</tag_plag_sens>
+  </row>
+</data>

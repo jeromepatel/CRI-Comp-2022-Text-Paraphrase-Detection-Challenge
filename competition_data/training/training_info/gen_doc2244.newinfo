@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2244</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The stacking method for three-dimensional neural probe array creates three-dimensional probe array by assembling two-D array and spacers layer by layer</plag_sens>
+    <tag_file_ids>gen_doc645</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The stacking method for three-dimensional neural probe array creates 3-D probe array by assembling two-D array and spacers layer by layer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2244</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The anti-HCC, anti-angiogenesis of HCC, and anti-metastatic activity ofHCC are some of the important properties of curcumin.</plag_sens>
+    <tag_file_ids>gen_doc2513</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The anti-HCC, anti-angiogenesis of HCC, and anti-metastatic activity ofHCC are some of the important properties of curcumin.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc904</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There is a chance that WMC differentially affects the spread of activation.</plag_sens>
+    <tag_file_ids>gen_doc316</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Another possibility is that WMC differentially affects spreading activation, that is, the boost of activation due to matching cues.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc904</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Th1 and Th2 subsets are thought to be the most stable and mutually exclusive, but now it appears that they depend on the state of differentiation.</plag_sens>
+    <tag_file_ids>gen_doc2908</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The Th1 and Th2 subsets are thought to be the most stable and mutually exclusive, but now it appears that they depend on the differentiation state.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc904</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A new generation of nanocrystals has already been mentioned in the literature.</plag_sens>
+    <tag_file_ids>gen_doc2857</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>A new generation of nanocrystals has already been mentioned in the literature.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc904</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Smoking and physical activity were found to have an effect on education and T2DM.</plag_sens>
+    <tag_file_ids>gen_doc1641</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Smoking and physical activity were found to have a part in the association between education and T2DM.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc904</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The ability to form a left-handed filament is a general property of the RecA family.</plag_sens>
+    <tag_file_ids>gen_doc3646</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We conclude that the ability to form a left-handed filament is a general property of most, if not all, RecA family proteins.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc904</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>After six weeks of practice, children showed increased activity in the frontoparietal network for manipulation relative to maintenance, which is contrary to the idea that these regions are not accessible due to immature neural circuitry.</plag_sens>
+    <tag_file_ids>gen_doc2755</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>After six weeks of practice, children showed increased activity in the frontoparietal network for manipulation relative to maintenance, which was contrary to the hypothesis that these regions were "inaccessible" due to immature neural circuitry.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc904</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>All others were aligned to the base spectrum.</plag_sens>
+    <tag_file_ids>gen_doc3337</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The base spectrum to which all others were aligned was the average of all raw spectrum.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc904</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Cotton was used to brush the sensitive areas of the live frog.</plag_sens>
+    <tag_file_ids>gen_doc1089</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Cotton swabs were used to brush the Bd sensitive areas of each individual live frog.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc904</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The regional propagation of development and transport infrastructure down the settlement hierarchy diffuses in time and space.</plag_sens>
+    <tag_file_ids>gen_doc825</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In time and space, migratory behavior diffuses along with regional propagation of development and transport infrastructure down the settlement hierarchy.</tag_plag_sens>
+  </row>
+</data>

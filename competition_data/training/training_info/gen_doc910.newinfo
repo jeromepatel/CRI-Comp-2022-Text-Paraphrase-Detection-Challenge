@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc910</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>A decision tree is used to divide the data based on features that can be represented on a continuous scale.</plag_sens>
+    <tag_file_ids>gen_doc2196</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The method uses a decision tree in order to divide the data based on features that can be represented on a continuous scale.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc910</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In the past, it has been reported that UBF is regulated more in patients withHCC.</plag_sens>
+    <tag_file_ids>gen_doc3566</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In the past, it has been reported that UBF is up regulated in patients withHCC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc910</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>We asked if there was any bias in the length of theProtein.</plag_sens>
+    <tag_file_ids>gen_doc621</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>We asked if there was any bias in the length of theProtein.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc910</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The results have been normalized to the controls that were performed with the cell line.</plag_sens>
+    <tag_file_ids>gen_doc1201</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The results have been normalized to the controls performed with the same cell line, based on this evidence.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc910</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The normal rhythm was shown on the ECG.</plag_sens>
+    <tag_file_ids>gen_doc3909</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There was a normal rhythm on the ECG.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc910</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The combination of yeast extract and peptone was found to be the best for maximum xylanase production by Penicillium canescens.</plag_sens>
+    <tag_file_ids>gen_doc3617</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The combination of yeast extract and peptone was found to be the best for maximum xylanase production by Penicillium canescens.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc910</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The mean AVO in the combination group was lower than the mean in the two groups.</plag_sens>
+    <tag_file_ids>gen_doc1259</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There was a significant decrease in the AVO number in the combination group when compared to the mean AVO in the treated cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc910</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>This study was done with a wild-type strain of S. pombe.</plag_sens>
+    <tag_file_ids>gen_doc1707</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A wild-type strain of S. pombe was used in this study.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc910</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The increases in fat loss are discussed in the abstract.</plag_sens>
+    <tag_file_ids>gen_doc2145</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Significant increases in fat loss.</tag_plag_sens>
+  </row>
+</data>

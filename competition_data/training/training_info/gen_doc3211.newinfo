@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3211</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There is a role for hyperproliferation in the OIS establishment.</plag_sens>
+    <tag_file_ids>gen_doc3088</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>There is a role for hyperproliferation in the OIS establishment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3211</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There was a honeycomb pattern at the dermoepidermal junction and a rim of bright monomorphous cells at the representative lesion.</plag_sens>
+    <tag_file_ids>gen_doc1990</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There was a honeycomb pattern at the dermoepidermal junction and a rim of bright monomorphous cells at the representative lesion in the RCM.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3211</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Irradiation resulted in an increase in mtROS levels and amifostine reduced the effect.</plag_sens>
+    <tag_file_ids>gen_doc1672</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Irradiation resulted in a slight increase of mtROS levels and amifostine reduced this already minor effect.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3211</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The orientations of four other materials prepared by the soft friction transfer method were also observed.</plag_sens>
+    <tag_file_ids>gen_doc1240</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The orientations of four other materials prepared by the soft friction transfer method were also observed.</tag_plag_sens>
+  </row>
+</data>

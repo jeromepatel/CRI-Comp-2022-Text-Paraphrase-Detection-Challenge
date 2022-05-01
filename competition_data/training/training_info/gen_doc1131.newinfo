@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1131</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In Tamil Nadu and Kerala, the majority of cases occurred in children under the age of 10 in 2010.</plag_sens>
+    <tag_file_ids>gen_doc3258</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In Tamil Nadu and Kerala, the majority of cases occurred in children below 10 years of age in 2010.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1131</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Epidemiology based cancer registries have been used to derive most information about gastric cancer survival in India.</plag_sens>
+    <tag_file_ids>gen_doc1159</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The majority of gastric cancer survival information in India is derived from cancer registries.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1131</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Endotype cluster analysis is an important method for determining the treatment of asthma.</plag_sens>
+    <tag_file_ids>gen_doc45</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The results show that endotype cluster analysis is an important approach for determining the treatment of asthma.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1131</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>It was reported that engagement with RBBs was negatively related to social competence.</plag_sens>
+    <tag_file_ids>gen_doc2299</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>It was reported that engagement with RBBs was negatively related to social competence over a 2 to 3 year period.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1131</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The outcome of the analysis was in-hospital mortality.</plag_sens>
+    <tag_file_ids>gen_doc3382</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>An analysis was done using in-hospital mortality as the outcome.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1131</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The inverted microscope with 40, 1.3 NA or 100, 1.35 NA oil immersion lens was used for Deconvolution Microscopy.</plag_sens>
+    <tag_file_ids>gen_doc3724</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>An inverted microscope with 40, 1.3 NA or 100, 1.35 NA oil immersion lens, and a cooled CCD was used for Deconvolution microscopy.</tag_plag_sens>
+  </row>
+</data>

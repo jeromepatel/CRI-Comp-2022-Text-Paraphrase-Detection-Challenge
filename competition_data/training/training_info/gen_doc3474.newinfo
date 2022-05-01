@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3474</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Out of eight final networks, NUMB was in four of them and scored well on the specificity index.</plag_sens>
+    <tag_file_ids>gen_doc2671</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>Out of eight final networks, NUMB was in four of them and scored well on the specificity index.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3474</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>With increasing distance from the interface in both media, the amplitudes of the fields decrease.</plag_sens>
+    <tag_file_ids>gen_doc2330</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>With increasing distance from the interface in both media, the amplitudes of the fields decrease.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3474</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>FC cells still present a panel of surface epitopes which are considered to be MSC criteria.</plag_sens>
+    <tag_file_ids>gen_doc1890</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>FC cells still present a panel of surface epitopes which are considered to be MSC criteria according to previous analyses from both our and the Prockop groups.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3474</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The genes coding for the major histocompatibility complex class II cell surface receptors have been found to have single nucleotide polymorphisms near the CTLA-4.</plag_sens>
+    <tag_file_ids>gen_doc2522</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>There are single nucleotide polymorphisms (SNPs) near the CTLA-4 and the HLA-DR13 that are coding for the major histocompatibility complex class II cell surface receptors.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3474</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In the third case, a reduction in Thd levels below the basal levels was observed after repeated treatment.</plag_sens>
+    <tag_file_ids>gen_doc3573</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In the third case, a reduction in Thd levels below the basal levels was observed after repeated treatments.</tag_plag_sens>
+  </row>
+</data>

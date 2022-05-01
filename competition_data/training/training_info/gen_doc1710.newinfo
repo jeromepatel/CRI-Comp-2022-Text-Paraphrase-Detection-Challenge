@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1710</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The soft tissue interface of MgCa0.8 and S316L was studied.</plag_sens>
+    <tag_file_ids>gen_doc1105</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The soft tissue interface of MgCa0.8 and S316L has a moderately developed fibrous layer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1710</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>They think that the phenomenon could be caused by the casei.</plag_sens>
+    <tag_file_ids>gen_doc2428</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>They think the phenomenon could be caused by the casei.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1710</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The PHI programme65 was used to model the magnetization curves.</plag_sens>
+    <tag_file_ids>gen_doc2294</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Modelling of the magnetization curves and spin Hamiltonian solution was done with the PHI programme65.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1710</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The images were captured and then deconvolved using the ApoTome structured illumination module.</plag_sens>
+    <tag_file_ids>gen_doc171</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The images were captured using a Zeiss Axioplan equipped with an ApoTome structured illumination module.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1710</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The death of pre-existing odontoblasts can be caused by RDT  0.25mm.</plag_sens>
+    <tag_file_ids>gen_doc1413</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The death of preexisting odontoblasts can be caused by RDT  0.25mm, which allows the byproducts from restorative material to reach the pulp and show effects.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1710</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In both settings, face to face in-depth interviews and focus group discussions were used to understand the views, experiences and perspectives of the people who were studied.</plag_sens>
+    <tag_file_ids>gen_doc1730</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In both settings, face to face in-depth interviews and focus group discussions were used to understand views, experiences and perspectives on TBAs as health promoters and birth companions in the study settings.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1710</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>To block the light by the odd zones of the plate figure, and to avoid charging effects on the dielectric fibre surface during the FIB milling, the metallic film is needed.</plag_sens>
+    <tag_file_ids>gen_doc479</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The metallic film is needed to block the light by the odd zones of the plate figure, and to avoid charging effects on the dielectric fibre surface during the FIB milling.</tag_plag_sens>
+  </row>
+</data>

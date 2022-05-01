@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2016</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The purpose is to identify embryos that are free of chromosomal abnormality.</plag_sens>
+    <tag_file_ids>gen_doc2762</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The purpose is to identify embryos that are free from chromosomal abnormality.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2016</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>There will be 5,400 male and 1,500 female patients in the year.</plag_sens>
+    <tag_file_ids>gen_doc2571</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>5,400 male and 1,500 female patients are estimated for this year.</tag_plag_sens>
+  </row>
+</data>

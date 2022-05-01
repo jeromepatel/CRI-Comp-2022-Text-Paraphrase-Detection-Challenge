@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc540</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Human myogenic cells were isolated from dystrophic muscle-derived cell cultures as NCAM- positive cells.</plag_sens>
+    <tag_file_ids>gen_doc1600</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Human myogenic cells were isolated from dystrophic muscle-derived cell cultures as NCAM-positive cells figureF–1H.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc540</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There are modular structures that bind C-terminal ligands via 16 key binding pocket residues, which are dispersed over alpha-helix 2 andbeta-sheets 2 and 3, figureA.</plag_sens>
+    <tag_file_ids>gen_doc563</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There are modular structures that bind C-terminal ligands via 16 key binding pocket residues, which are dispersed over alpha-helix 2 and beta-sheets 2 and 3, figureA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc540</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The participants were recruited from Rush University.</plag_sens>
+    <tag_file_ids>gen_doc257</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Rush University, Chicago, Illinois, USA, recruited participants from the Rush Memory Clinic Data Repository.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc540</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Eco-exergy is the reflection of the current stocks of available energy, while emergy is the historical memory of development and maintenance in the system network.</plag_sens>
+    <tag_file_ids>gen_doc520</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>Eco-exergy is the reflection of the current stocks of available energy, while emergy can quantify the historical memory of development and maintenance in the system network.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc540</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The method is easy to use and widely used, however it is sensitive to systematic or non-systematic errors.</plag_sens>
+    <tag_file_ids>gen_doc2578</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The method is simple and widely used in many research works, however it is likely to be sensitive to systematic or non-systematic errors.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1882</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are differences in economic development and access to health care facilities that lead to regional health inequalities.</plag_sens>
+    <tag_file_ids>gen_doc1140</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Regional health inequalities are a result of differences in economic development and access to health care facilities.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1882</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The cells wereseeded in 100mm dishes with a density of 1  106 cells/dish and then treated the next day with either BPA, KBrO3 or co-exposed substances.</plag_sens>
+    <tag_file_ids>gen_doc1501</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The cells wereseeded in 100mm dishes at a density of 1  106 cells/dish and then treated the next day with either BPA, KBrO3 or co-exposed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1882</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>In previous work, a time dependence was noted, but based on calculations on fewer structures.</plag_sens>
+    <tag_file_ids>gen_doc241</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>This is in contrast to previous work where a time dependence was noted, but based on calculations on fewer structures.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1882</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The percent of variation is determined by the true effect sizes.</plag_sens>
+    <tag_file_ids>gen_doc3928</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The percent of variance is determined by the true effect sizes in the studies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1882</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The methods used for the statistical analysis in (D,E,G,I,J and L) were described.</plag_sens>
+    <tag_file_ids>gen_doc517</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The methods used for the statistical analysis in (D,E,G,I,J and L) were described.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1882</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In patients with myeloid malignancies, the gene is frequently absent.</plag_sens>
+    <tag_file_ids>gen_doc3654</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In patients with myeloid malignancies, the gene is frequently absent.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1882</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Phase synchronization between pyramidal cells can be measured with the MEG.</plag_sens>
+    <tag_file_ids>gen_doc2098</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Phase synchronization between pyramidal cells is one of the properties of the cortex's neuronal network oscillations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1882</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The main goal of anesthesia providers is to make patients comfortable during surgery, and the effect of anesthesia on different organisms is not usually considered in the clinical setting.</plag_sens>
+    <tag_file_ids>gen_doc844</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The primary goal of anesthesia providers is to make patients comfortable during surgery, and the effect of anesthetics on different organisms such asbacteria is not usually taken into consideration in the clinical setting.</tag_plag_sens>
+  </row>
+</data>

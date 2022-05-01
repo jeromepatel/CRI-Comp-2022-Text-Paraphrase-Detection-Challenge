@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3694</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The majority of participants were either overweight or obese and had undergone previous surgery, with an average of 17 lysies removed.</plag_sens>
+    <tag_file_ids>gen_doc1254</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Most participants were either overweight or obese, and had undergone previous surgery, with an average of 17 lymph nodes removed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3694</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>A comparison was made between visfatin-treated cells and cells from the same donor.</plag_sens>
+    <tag_file_ids>gen_doc3479</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The viral production in visfatin-treated cells was compared to that in cells from the same donor, which was taken as 100% production.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3694</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The pyrene-functionalized SWCNT-based FETs had a 5% reduction in I in the on state and a negative shift in the V fth.</plag_sens>
+    <tag_file_ids>gen_doc2967</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The pyrene-functionalized SWCNT-based FETs showed a 5% reduction in I in the on state and a negative shift in the V fth after probe DNA immobilization.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3694</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>If dN supply only partially rescues HIV-1 reverse transcription in resting CD4+ T-cells, one can ask if the restriction imposed by SAMHD1 is fully or partially due to its dNTP triphosphohydrolase activity</plag_sens>
+    <tag_file_ids>gen_doc3833</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>If dN supply only partially rescues HIV-1 reverse transcription in resting CD4+ T-cells, one can ask if the restriction imposed by SAMHD1 is fully or partially due to its dNTP triphosphohydrolase activity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3694</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In figure 7, the effects of radicals with different organizational times are explored.</plag_sens>
+    <tag_file_ids>gen_doc1608</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In figure 7, the effects of radical factions with different organizational times are explored.</tag_plag_sens>
+  </row>
+</data>

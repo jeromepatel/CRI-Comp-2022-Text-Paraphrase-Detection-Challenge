@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3559</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>GAS infections can be hospital acquired in up to 12% of cases.</plag_sens>
+    <tag_file_ids>gen_doc1782</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>GAS infections can be hospital acquired in as many as 12% of cases, but are most often individual and community acquired.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3559</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The weighted UniFrac is where PCoA and UPGMA were conducted.</plag_sens>
+    <tag_file_ids>gen_doc417</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The weighted UniFrac was used to conduct PCoA and UPGMA clustering based on a protocol published previously.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3559</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The cyclo ligands framework and length of the diimine bridges reflect on the formation of poly(cyclohexenylene carbonate) over CHC and the resulting averagemolecular weights.</plag_sens>
+    <tag_file_ids>gen_doc2335</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The cyclo ligands framework and length of the diimine bridges reflect on the formation of poly(cyclohexenylene carbonate) over CHC and the resulting averagemolecular weights.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3559</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Patient participants are using social media and centralized patients sites to distribute materials to other patients.</plag_sens>
+    <tag_file_ids>gen_doc604</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Patient participants are distributing materials directly to other patients via social media and postings on centralized patients sites.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3559</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>In species of the cercopithecine sub family, in which males and females are associated year-round, males and immatures are found in close spatial association.</plag_sens>
+    <tag_file_ids>gen_doc2366</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>In primate species of the cercopithecine subfamily, where males and females are associated year-round and live in multimale–multifemale groups, males and immatures are often found in close spatial association.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3559</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The counter ion concentration was set at 0.15 mM.</plag_sens>
+    <tag_file_ids>gen_doc3723</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The APBS calculation52 had a counter ion concentration set at 0.15 mM.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3559</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Figure 1 shows the signal processing flow of the vocoder.</plag_sens>
+    <tag_file_ids>gen_doc1317</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The signal processing flow of the vocoder is shown in Figure 1.</tag_plag_sens>
+  </row>
+</data>

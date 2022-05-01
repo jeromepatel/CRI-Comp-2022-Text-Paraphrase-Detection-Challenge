@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc402</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The double Mutant esk1-5 aba3-1 did not have a direct role in ABA biosynthesis.</plag_sens>
+    <tag_file_ids>gen_doc1061</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The double mutant esk1-5 aba3-1 was not due to a direct role in ABA biosynthesis.</tag_plag_sens>
+  </row>
+</data>

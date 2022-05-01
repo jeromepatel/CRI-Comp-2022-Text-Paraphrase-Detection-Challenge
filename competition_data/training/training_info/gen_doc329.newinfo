@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc329</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The percentage difference of deforestation in each health district was calculated.</plag_sens>
+    <tag_file_ids>gen_doc2610</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The percentage difference of deforestation in each health district was used to calculate the percentage of change.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc329</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In Cstb and control mice, we did not detect expression of CXCL1 and only low level of CXCL10 at P14 and P30, which is not shown in the data.</plag_sens>
+    <tag_file_ids>gen_doc496</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In Cstb and control mice, we did not detect expression of CXCL1 and only low level of CXCL10 at P14 and P30, data not shown.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc329</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The primer was able to be extended in all three cases, if the four nucleotides were present.</plag_sens>
+    <tag_file_ids>gen_doc2554</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The primer was able to be extended in all three cases, if the four nucleotides were present.</tag_plag_sens>
+  </row>
+</data>

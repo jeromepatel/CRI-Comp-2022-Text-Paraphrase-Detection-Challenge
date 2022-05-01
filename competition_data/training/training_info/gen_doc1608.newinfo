@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1608</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Even though polar requirement is important, I don't think it's enough.</plag_sens>
+    <tag_file_ids>gen_doc3308</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>I don't believe that any one property is sufficient, even though polar requirement seems to be an important property.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1608</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The abundance of transcript of PA in BMDCs was lower than in other cultures.</plag_sens>
+    <tag_file_ids>gen_doc2764</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The abundance of transcript of PA in Axl-/- BMDCs was lower than in WT BMDC cultures.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1608</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The enhancement is dependent on the disruption of the blood-brain barrier.</plag_sens>
+    <tag_file_ids>gen_doc2087</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The enhancement depends on the disruption of the blood-brain barrier.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1608</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The trajectory of estimated GFR was traced through the use of serial measurements of cystatin C.</plag_sens>
+    <tag_file_ids>gen_doc807</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The trajectory of estimated GFR was traced through the use of serial measurements of cystatin C in sera.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1608</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>A male Antenna figure.</plag_sens>
+    <tag_file_ids>gen_doc3311</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>A male is Antenna simple figure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1608</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In this vein, the parent plasmid carried 25 DpnI recognition sites and cleavage at any of these sites would lead to the degradation of the entire plasmid by exonuclease III.</plag_sens>
+    <tag_file_ids>gen_doc3258</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>In this vein, the parent plasmid carried 25 DpnI recognition sites and cleavage at any of these sites would lead to degradation of the entire plasmid by exonuclease III and prohibit the subsequent amplification of the parent vector.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2274</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The mature oocytes enter the uterus.</plag_sens>
+    <tag_file_ids>gen_doc2840</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The mature oocytes enter at the end of the ovary.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2274</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The formation of a thick MgAl2O4 layer could be accelerated with the increase of pre-oxidation temperature, as there would be more SiO2 coated on the SiC.</plag_sens>
+    <tag_file_ids>gen_doc2554</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The formation of a thick MgAl2O4 layer could be accelerated with the increase of pre-oxidation temperature, as there would be more SiO2 coated on the SiC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2274</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>We found that GC treatment reduced body weight, improved survival rate, and decreased production of pro inflammatory cytokines in mice compared to the control group.</plag_sens>
+    <tag_file_ids>gen_doc1530</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Similar to their data, we found that GC treatment reduced body weight, improved survival rate, weakened pathological damage, and decreased production of pro inflammatory cytokines in mice compared to a control group.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2274</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The lack of recognition of other signs of bleeding in the absence of bleeding is a reason for concern.</plag_sens>
+    <tag_file_ids>gen_doc1733</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The lack of recognition of other signs of blood loss in the absence of bleeding, mainly by nurses and nurse technicians is a reason for concern.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2274</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Each object has a least element, where for all, and each morphism preserves this element, i.e., is the least element in that object.</plag_sens>
+    <tag_file_ids>gen_doc1812</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Each object contains a least element, where for all, and each morphism preserves this element, i.e., is the least element in the object.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2274</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The predictions for hg18 were done.</plag_sens>
+    <tag_file_ids>gen_doc3340</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The predictions were done for the hg18 genome assembly.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2274</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The family has been divided into four subclades.</plag_sens>
+    <tag_file_ids>gen_doc2804</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The family has been divided into four subclades.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc2274</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Some mechanisms may work together to accelerate the occurrence of CVD events.</plag_sens>
+    <tag_file_ids>gen_doc3746</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There are some unique mechanisms that may work together to accelerate the occurrence of CVD events.</tag_plag_sens>
+  </row>
+</data>

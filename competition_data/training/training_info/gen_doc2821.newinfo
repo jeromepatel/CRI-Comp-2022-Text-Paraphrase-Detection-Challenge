@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2821</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The Cl is stable by two ionic hydrogen bonds.</plag_sens>
+    <tag_file_ids>gen_doc2746</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The Cl is stable by two ionic hydrogen bonds with amino nitrogens.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2821</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A wide variety of ADAM22-transcripts have been reported in mice, and these multiple bands are thought to be translated from the other way around.</plag_sens>
+    <tag_file_ids>gen_doc1557</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A wide variety of ADAM22-transcripts have been reported in mice, and these multiple bands are thought to be translated from splicing variant.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2821</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The primary diagnosis of Parkinson's disease requires accurate and specific biomarkers.</plag_sens>
+    <tag_file_ids>gen_doc3162</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There is a need for accurate and specific biomarkers to aid in the primary diagnosis ofPD.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2821</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The mode of fat gain/loss for patients with DMD is biphasic, with an increase in fat mass in the prepubertal age followed by a decline in fat mass after 13 years of age.</plag_sens>
+    <tag_file_ids>gen_doc227</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The mode of fat gain/loss for patients with DMD is a biphasic one, with an increase in fat mass in the prepubertal age followed by a decline in fat mass after 13 years of age.</tag_plag_sens>
+  </row>
+</data>

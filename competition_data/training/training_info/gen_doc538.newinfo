@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc538</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The MAMC is a standard formula used to calculate the mid-arm muscle circumference.</plag_sens>
+    <tag_file_ids>gen_doc3414</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The MAMC is a standard formula used to calculate the mid-arm muscle circumference.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc538</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Recent studies show that environmental influences are not as important as the genetics of the disease.</plag_sens>
+    <tag_file_ids>gen_doc2453</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Recent studies show that environmental influences are not as important as the genetic risk in people with autism.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc538</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The increase of differentiated cells with low or no expression of CD44 in mice treated with ATRA plus fucoidan adds more evidence that it may decrease the migration of these cells.</plag_sens>
+    <tag_file_ids>gen_doc2890</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We suggest that the increase of differentiated cells with low or no expression of CD44 in mice treated with ATRA plus fucoidan adds further evidence that it may decrease the migration of these cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc538</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There is a lack of research on the relationship between smoking and EF.</plag_sens>
+    <tag_file_ids>gen_doc1356</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>There is a lack of research on the relationship between lifetime smoking and EF.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2187</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>It is likely that the conversion from V5+ to V4+ will cause huge lattice stress, structure rearrangement and gradual amorphization.</plag_sens>
+    <tag_file_ids>gen_doc1826</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>It is likely that the conversion from V5+ to V4+ will result in huge lattice stress, structure rearrangement, and gradual amorphization.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2187</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There is a standard for using the 429 MHz band in Japan.</plag_sens>
+    <tag_file_ids>gen_doc104</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The 429 MHz band is used for medical telemetry in Japan, and there is a standard for using this band.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2187</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In addition to remodeling the microenvironment to facilitate metastasis, cancer cells also turn on embryonic morphogenesis regulators to undergo the epithelial-mesenchymal transition and turn off differentiation programs.</plag_sens>
+    <tag_file_ids>gen_doc2578</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In addition to remodeling the microenvironment to facilitate metastasis, cancer cells also turn on embryonic morphogenesis regulators to undergo the epithelial-mesenchymal transition (EMT) and turn off differentiation programs, allowing cancer cells to gain motility, invasion and acquire stem-like properties.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2187</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The article was written by Zhang et al.</plag_sens>
+    <tag_file_ids>gen_doc3731</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The article was written byZhang et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2187</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The chemical groups have identified three major groups of plant secondary metabolites.</plag_sens>
+    <tag_file_ids>gen_doc2475</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The three major groups of plant secondary metabolites are flavonoids and phenolic compounds, terpenoids, and nitrogen/sulfur-based compounds.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2187</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A study using mouse embryonic fibroblasts with C. trachomatis shows that the cells died through a combination of necrosis and apoptosis.</plag_sens>
+    <tag_file_ids>gen_doc3050</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The study employing mouse embryonic fibroblasts with C. trachomatis which died through a combination of necrosis and apoptosis is in agreement with the study in HASMC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2187</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The assembly of apoptosome can be prevented by them.</plag_sens>
+    <tag_file_ids>gen_doc1724</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>They can prevent the assembly of apoptosome.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc2187</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The support machines performed best in the evaluation, achieving 98% accuracy.</plag_sens>
+    <tag_file_ids>gen_doc3110</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The support machines performed best in the evaluation, achieving 98% accuracy.</tag_plag_sens>
+  </row>
+</data>

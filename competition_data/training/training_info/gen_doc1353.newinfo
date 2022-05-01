@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1353</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Seroprevalence patterns in a number of Asian countries suggest that tropical countries may be at a higher risk of morbidity and mortality as a result of later-age seroconversion.</plag_sens>
+    <tag_file_ids>gen_doc2612</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Seroprevalence patterns in a number of Asian countries suggest that tropical countries may be at a higher risk of morbidity and mortality as a result of later-age seroconversion.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1353</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Individuals were asked to report their perceived difficulties based on a 5-point Likert scale question for eight health state domains: mobility, self-care, pain and discomfort, cognitive, vision, sleep and energy, and affect.</plag_sens>
+    <tag_file_ids>gen_doc3012</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Individuals were asked to report their perceived difficulties based on a 5-point Likert scale question for eight health state domain, which included mobility, self-care, pain and discomfort, cognitive, interpersonal activities, vision, sleep and energy, and affect.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1353</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The reactions contained different concentrations of Stl in the activity buffer.</plag_sens>
+    <tag_file_ids>gen_doc2239</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There were different concentrations of Stl in the activity buffer and reaction mixtures contained 10 nM.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1353</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There were two focus groups.</plag_sens>
+    <tag_file_ids>gen_doc1809</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The participants participated in two focus groups.</tag_plag_sens>
+  </row>
+</data>

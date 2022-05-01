@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1263</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The maximum voluntary Torque of the right quadriceps femoris muscle was determined using a CYBEXNORM dynamometer after familiarity with the experimental setup.</plag_sens>
+    <tag_file_ids>gen_doc3317</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The maximum voluntary Torque of the right quadriceps femoris muscle was determined using a CYBEXNORM dynamometer after familiarization with the experimental setup.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1263</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In these studies, the nucleic acid content of these particles was not looked at, and we theorize that they were stable by cellular RNA bound to the inside surface.</plag_sens>
+    <tag_file_ids>gen_doc810</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In these studies, the nucleic acid content of these particles was not examined, and we theorize that the particles were stable by the cellular RNA bound to the positive charge on the inside surface.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1263</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We focus on the evolution of wet foams in 2D</plag_sens>
+    <tag_file_ids>gen_doc598</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In this work, we focus on the evolution of wet foams in 2D.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1263</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>JNK is a good target for experimental approaches because it has an important role in survival.</plag_sens>
+    <tag_file_ids>gen_doc941</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>JNK may be a good target for experimental approaches because it has an important role in schistosome survival.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1263</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A longitudinal stretch decreases the power while a longitudinal compression increases it.</plag_sens>
+    <tag_file_ids>gen_doc294</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>A longitudinal stretch leads to a decrease in the scattered power, whereas a longitudinal compression increases it.</tag_plag_sens>
+  </row>
+</data>

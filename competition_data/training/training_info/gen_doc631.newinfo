@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc631</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The lack of effective AD treatments and the large number of potential compounds that could be tested is critically needed so that we can more efficiently and cost-effectively identify efficacy signals for critical "go-no-go" decisions in AD treatment programs.</plag_sens>
+    <tag_file_ids>gen_doc2832</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The lack of effective AD treatments and the large number of potential compounds that could be tested is critically needed so that we may more efficiently and cost-effectively identify efficacy signals for critical "go-no go" decisions in AD treatment programs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc631</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Rituximab and local injection of prostaglandin E1 and steroids improved outcomes for recipients who underwent ABO-in compatible LDLT.</plag_sens>
+    <tag_file_ids>gen_doc1320</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Rituximab prophylaxis and local injection of prostaglandin E1 and steroids were recently established as therapeutic measures for recipients who underwent ABO-in compatible LDLT.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc631</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The authors suggest that the differences in suppression are related to the life history of the aphids.</plag_sens>
+    <tag_file_ids>gen_doc1700</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The authors suggest that the differences in suppression are related to the life history of the aphids.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc631</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There was a gradual increase in pseudo-cholinesterase levels among survivors in the AP group.</plag_sens>
+    <tag_file_ids>gen_doc964</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There was a progressive increase in pseudo-cholinesterase levels among survivors in the AP group; however, the increase in pseudo-cholinesterase levels among nonsurvivors in the AP group showed minimal change from baseline.</tag_plag_sens>
+  </row>
+</data>

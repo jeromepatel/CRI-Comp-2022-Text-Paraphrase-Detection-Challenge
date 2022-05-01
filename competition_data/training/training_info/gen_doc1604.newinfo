@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1604</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Significant improvements were achieved when we reduced the resolution of the electrode.</plag_sens>
+    <tag_file_ids>gen_doc440</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Significant improvements were achieved when we reduced the resolution of the electrode.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1604</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The incidence of KD was low in February and October.</plag_sens>
+    <tag_file_ids>gen_doc1182</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The incidence of KD was lowest in February and October every year.</tag_plag_sens>
+  </row>
+</data>

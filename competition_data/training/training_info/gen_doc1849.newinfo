@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1849</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>According to the ROQ domain, RoquinProteins bindRNA in invertebrates, although their exact targets are currently unknown.</plag_sens>
+    <tag_file_ids>gen_doc3625</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>According to the ROQ domain, RoquinProteins bindRNA in invertebrates, although their specificRNA targets are currently unknown.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1849</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are excellent methods for forming the (E)-1,3-diene isomer, but there is a lack of methods for the synthesis of isomerically pure (Z)-1,3-dienes.</plag_sens>
+    <tag_file_ids>gen_doc230</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There are excellent methods for the formation of the (E)-1,3-diene isomer, but there is a lack of methods for the synthesis of isomerically pure (Z)-1,3-dienes, and in many biologically important compounds.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1849</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The server would display the results without email if there was no email address.</plag_sens>
+    <tag_file_ids>gen_doc3370</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The server would display the results without email if no email address was provided by the user.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1849</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The effect of sex and treatment were shown to be significant by two-way ANOVA.</plag_sens>
+    <tag_file_ids>gen_doc3127</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The effect of sex and treatment were shown to be significant in two-way ANOVA.</tag_plag_sens>
+  </row>
+</data>

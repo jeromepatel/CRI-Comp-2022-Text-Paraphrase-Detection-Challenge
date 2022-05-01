@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc607</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>-actin is required for normal cardiac function, and for cell spreading and motility.</plag_sens>
+    <tag_file_ids>gen_doc908</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>-actin is required for normal cardiac function, and for cell spreading and motility.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc607</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The progenitors are divided into five groups on the basis of seed and Pod characteristics.</plag_sens>
+    <tag_file_ids>gen_doc3097</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The wild progenitors are divided into five groups on the basis of their seed and vegetable characteristics.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc607</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The cycling program began at 95C for 30 seconds, followed by 40 cycles of 95C for 5 seconds and a pre-selected annealing temperature for 30 seconds.</plag_sens>
+    <tag_file_ids>gen_doc1181</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The cycling program started at 95C for 30 seconds, followed by 40 cycles of 95C for 5 seconds, and a pre-selected annealing temperature for 30 seconds.</tag_plag_sens>
+  </row>
+</data>

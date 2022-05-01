@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3757</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There are 13 single edge spur models.</plag_sens>
+    <tag_file_ids>gen_doc2383</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The 13 single edge spur models are fitted with M1 of Eq.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3757</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There were shared haplotypes between localities in the median joining network for mtDNA HVR-I.</plag_sens>
+    <tag_file_ids>gen_doc3773</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There were shared haplotypes between localities and the median joining network for mtDNA HVR-I reflects the high levels of genetic diversity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3757</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The medical records were used to collect the clinical data.</plag_sens>
+    <tag_file_ids>gen_doc2115</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>According to the medical records, all the clinical data was collected in the initial evaluation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3757</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>FPCL cultures of primary cell lines provide a functional and in-vivo environment to quantify cell-mediated collagen contraction events.</plag_sens>
+    <tag_file_ids>gen_doc3291</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>FPCL cultures ofDD primary cell lines provide a functional and in-vivo environment to quantify cell-mediated collagen contraction events.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3757</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The anti-Ets-1 antibody was used to detect the proteins after it was transferred onto the bio- rad.</plag_sens>
+    <tag_file_ids>gen_doc963</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The anti-Ets-1 antibody was used to detect the proteins after they were transferred onto the Bio-Rad membranes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3757</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>All patients were investigated by the same doctor, who completed 30 hours of practice before data collection.</plag_sens>
+    <tag_file_ids>gen_doc1462</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>All patients were investigated by the same doctor, who completed 30 hours of practice before data collection, according to JTECH Medical guidelines.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2559</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>fibroblasts and activated T-cells can express RANKL, despite the fact that osteoblasts are the major producers.</plag_sens>
+    <tag_file_ids>gen_doc2035</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>fibroblasts and activated T-cells can express RANKL, although osteoblasts are the major producers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2559</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The results of experiment one show no functional effect of sugar beet silage.</plag_sens>
+    <tag_file_ids>gen_doc1271</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The results of experiment one indicate that there is no functional effect of sugar beet silage.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3667</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>No individual response can be related to any particularStimulus cycle.</plag_sens>
+    <tag_file_ids>gen_doc855</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>No individual response can be related to any specific cycle because each potential overlaps another.</tag_plag_sens>
+  </row>
+</data>

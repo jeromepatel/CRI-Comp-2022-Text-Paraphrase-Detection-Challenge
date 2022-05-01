@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3964</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The output of the signal conditioning stage and the output of the pressure sensor head are similar.</plag_sens>
+    <tag_file_ids>gen_doc2662</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The output of the signal conditioning stage and the output of the pressure sensor head correspond to the shape of this waveform.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3964</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The blood supply in the ipsilateral MCA figure was compensated by the rest of the A CoA.</plag_sens>
+    <tag_file_ids>gen_doc3446</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The blood supply in the ipsilateral MCA figure was compensated for by the rest of the ACoA flow.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3964</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>A number of related protocols have been applied to other populations for linkage mapping, association mapping, and bulked segregant analysis studies.</plag_sens>
+    <tag_file_ids>gen_doc3337</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A number of related protocols have been applied to other populations for linkage mapping, association mapping, or bulked segregant analysis studies, and these resources have limited value beyond their population.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3964</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The Li diffusivity is one of the limiting factors in an electrode material.</plag_sens>
+    <tag_file_ids>gen_doc3969</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The Li diffusivity is one of the limiting factors in an electrode material.</tag_plag_sens>
+  </row>
+</data>

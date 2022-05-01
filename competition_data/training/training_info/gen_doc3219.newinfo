@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3219</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are details in the table.</plag_sens>
+    <tag_file_ids>gen_doc2298</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The details are given in the table.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3219</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The relationship between PM and MM intensity histograms can be considered.</plag_sens>
+    <tag_file_ids>gen_doc817</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>One can consider the relationship between PM and MM intensity histograms.</tag_plag_sens>
+  </row>
+</data>

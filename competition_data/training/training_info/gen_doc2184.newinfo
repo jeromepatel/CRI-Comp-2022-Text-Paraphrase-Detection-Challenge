@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2184</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>A model was drafted by a tutor representative of HIIC courses in the North Lanarkshire region of Scotland.</plag_sens>
+    <tag_file_ids>gen_doc3853</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The first model was drafted by a HIIC tutor representative of HIIC courses in the North Lanarkshire region of Scotland.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2184</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The proposed aMiSPU test can be used to rank the importance of taxa and provide some insights on which taxa are likely to be associated with the outcome of interest.</plag_sens>
+    <tag_file_ids>gen_doc3712</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The proposed aMiSPU test can be used to rank the importance of taxa and provide some insights on which taxa are likely to be associated with the outcome of interest, unlike MiRKAT and other distance-based methods.</tag_plag_sens>
+  </row>
+</data>

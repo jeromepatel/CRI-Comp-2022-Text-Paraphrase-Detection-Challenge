@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2417</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Natural transformation introduced genes into K. kingae.</plag_sens>
+    <tag_file_ids>gen_doc3808</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Natural transformation introduced Gene disruptions into K. kingae.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2417</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Teen birth and abortion rates are used to calculate teen pregnancy rates.</plag_sens>
+    <tag_file_ids>gen_doc579</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The teen pregnancy rates are calculated based on reported teen birth and abortion rates.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2417</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>When T% &gt; MIC values were less than 15 within 24 h, the CEQ was able to prevent H parasuis.</plag_sens>
+    <tag_file_ids>gen_doc1997</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>When T% &gt; MIC values were equal to or below 15 within 24 h, the CEQ was able to prevent H. parasuis moderately.</tag_plag_sens>
+  </row>
+</data>

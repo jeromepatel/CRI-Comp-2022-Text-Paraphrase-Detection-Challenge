@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3434</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In 45 out of 47 BL cases, there was a strong immunoreactivity, characterized by single or multiple droplets in the cytoplasm and clustering of these to the outer nuclear Membrane.</plag_sens>
+    <tag_file_ids>gen_doc1873</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In 45 out of 47 BL cases, there was a strong immunoreactivity, which was characterized by single or multiple droplets in the cytoplasm and clustering of these to the outer nuclear membrane.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3434</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In this study, we define synonymous words.</plag_sens>
+    <tag_file_ids>gen_doc3359</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In this study, we define synonymous words.</tag_plag_sens>
+  </row>
+</data>

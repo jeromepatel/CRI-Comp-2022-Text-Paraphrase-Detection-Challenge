@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc697</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The TIDA neurons in females are more sensitive to stress but less sensitive to bombesin and Opioids.</plag_sens>
+    <tag_file_ids>gen_doc563</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The TIDA neurons in females are more sensitive to stress and to stimulation by prolactin but less sensitive to bombesin and opioid antagonists.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc697</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Patients over 50 years of age are more likely to have breast cancer cells migrate to the endometrium.</plag_sens>
+    <tag_file_ids>gen_doc504</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>According to this fact, patients over 50 years of age are more likely to have breast cancer cells spread to the endometrium than other cell types.</tag_plag_sens>
+  </row>
+</data>

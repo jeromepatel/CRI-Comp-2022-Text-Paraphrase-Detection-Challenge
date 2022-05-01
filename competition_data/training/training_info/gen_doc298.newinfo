@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc298</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Reynolds et al.</plag_sens>
+    <tag_file_ids>gen_doc1463</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>In 2000, Reynolds et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc298</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>However, Fisk and his associates.</plag_sens>
+    <tag_file_ids>gen_doc243</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>However, Fisk et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc298</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The HTE states that the recent selection of the host genome should have influenced host phenotype in the same direction.</plag_sens>
+    <tag_file_ids>gen_doc3911</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>According to the HTE, there should have been corresponding selection of the microbiota that influenced host phenotype in the same direction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc298</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The presence of blaNDM-1 has been confirmed.</plag_sens>
+    <tag_file_ids>gen_doc3285</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The presence of blaNDM-1 was confirmed by the PCR.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc298</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The secretory lysosomes are located in the Golgi complex and allow for a rapid response when certain stimuli are triggered.</plag_sens>
+    <tag_file_ids>gen_doc790</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The secretory lysosomes are located in the Golgi complex and allow for a rapid response when specific stimuli are released from the cells.</tag_plag_sens>
+  </row>
+</data>

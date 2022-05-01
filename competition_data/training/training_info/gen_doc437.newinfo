@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc437</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>A deep pre-domestic bifurcation between modern taurine and Zebu animals has been confirmed by genetic analyses of matrilineal mitochondrial DNA and nuclear DNA.</plag_sens>
+    <tag_file_ids>gen_doc1802</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>This has been confirmed by genetic analyses of matrilineal mitochondrial DNA and nuclear DNA sequence, which reveal a deep pre-domestic bifurcation between modern taurine and Zebu animals.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc437</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There was a summary DOR of 8.49 and an AUC of 0.81.</plag_sens>
+    <tag_file_ids>gen_doc2217</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The summary DOR was 8.49 and the AUC was 0.81, which is the standard error.</tag_plag_sens>
+  </row>
+</data>

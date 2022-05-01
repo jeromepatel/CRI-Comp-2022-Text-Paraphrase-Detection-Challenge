@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2950</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There was a significant reduction in the expression of IRS1, IRS2, Akt2, aPKC, and aPKC in the muscles of OLETF rats compared to the muscles of control SD rats.</plag_sens>
+    <tag_file_ids>gen_doc3955</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In Figure 2, you can see that the expression of IRS1, IRS2, Akt2, aPKC, and GLUT4 were all significantly reduced in skeletal muscle from OLETF rats.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2950</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The convulsion may go down the limb if the fit begins in the face.</plag_sens>
+    <tag_file_ids>gen_doc3043</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The convulsion in the arm may go down the limb when the fit begins in the leg.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2950</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The relative performance of di- and polyploids under different stress situations is needed to conclude whether polyploids are generally superior or only under dry conditions.</plag_sens>
+    <tag_file_ids>gen_doc9</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The relative performance of di- and polyploids under different stress situations is needed to conclude whether polyploids are generally superior or if they are only the case under dry conditions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2950</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The GO-terms'response to stress' and'response to water deprivation' were the two main subcategories in the cluster of the main category biological process.</plag_sens>
+    <tag_file_ids>gen_doc57</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In the cluster of the main category biological process, the GO-terms'response to stress' and'response to water deprivation' were the dominant subcategories.</tag_plag_sens>
+  </row>
+</data>

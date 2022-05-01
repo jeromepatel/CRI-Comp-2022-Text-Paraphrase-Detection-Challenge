@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1216</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The eye was enucleated after an increase in the size of the mass.</plag_sens>
+    <tag_file_ids>gen_doc1792</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The eye was enucleated after a 1-month follow-up in which there was an increase in the size of the mass.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1216</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Our findings are in agreement with the study that suggests that garlic extracts induce the defense system of cucumber seedlings.</plag_sens>
+    <tag_file_ids>gen_doc2551</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Our findings are in agreement with the study that suggests that garlic extracts induce the defense system of cucumber seedlings.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1216</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Sundeen and Raskoff were in 2005.</plag_sens>
+    <tag_file_ids>gen_doc1627</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Sundeen and Raskoff in 2005.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1216</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The participants in the present study were asked about the acts of physical violence they experienced after moving to Germany.</plag_sens>
+    <tag_file_ids>gen_doc898</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The participants in the present study were asked about the acts of physical violence they had ever experienced after moving to Germany.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1216</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>XIAP is found in almost every cell of the body.</plag_sens>
+    <tag_file_ids>gen_doc2853</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>XIAP is widely expressed.</tag_plag_sens>
+  </row>
+</data>

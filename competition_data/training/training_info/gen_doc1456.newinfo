@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1456</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The preference for Bombus terrestris workers for the tested combinations is based on the index of behavior.</plag_sens>
+    <tag_file_ids>gen_doc1604</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The preference for Bombus terrestris workers for the tested stimuli is based on the index of behavior.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1456</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Our treatment cohort was representative because all the patients were from the same district and had the same strain of the disease.</plag_sens>
+    <tag_file_ids>gen_doc2545</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Our treatment cohort was representative because all the patients were from the same district and had the same infections.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1456</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Cells, flagellar beating, and attachment were assessed in both live and fixed trophozoite.</plag_sens>
+    <tag_file_ids>gen_doc1431</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Cells, flagellar beating, and attachment were assessed in both live and fixed trophozoites after PF16 specific morpholino oligonucleotides or controls.</tag_plag_sens>
+  </row>
+</data>

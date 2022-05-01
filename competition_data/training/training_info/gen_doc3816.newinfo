@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3816</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The total -glucan contents of raw Saessal were only 8.0%, and the content decreased to 1.21% as the concentration increased.</plag_sens>
+    <tag_file_ids>gen_doc2276</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The total -glucan contents of raw Saessal were only 8.0%, and the content decreased to 1.21% as the concentration increased.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3816</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The authors compared normal endometrium, atypical hyperplasia and EEC samples and found that there was a decrease in the expression of two genes.</plag_sens>
+    <tag_file_ids>gen_doc3732</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The authors compared normal endometrium, atypical hyperplasia, and EEC samples and found that the expression of miR-100 and miR-199b was decreased in EEC tissues.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3816</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In figureB, there is a depiction of the taxonomic composition of 11 phyla for each patient.</plag_sens>
+    <tag_file_ids>gen_doc112</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In figureB, there is a depiction of the taxonomic composition of 11 phyla for each patient.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3816</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The input options for PolyPhen are the sequence of genes, database ID/accession number, and the position of the genes.</plag_sens>
+    <tag_file_ids>gen_doc876</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The input options for PolyPhen are theProtein sequence, database ID/accession number, and amino acid position.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3816</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Met28p is a stabilizing factor of the Met4p-containing complexes.</plag_sens>
+    <tag_file_ids>gen_doc2105</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Met28p is a stabilizing factor of the Met4p-containing complexes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3816</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The transformation from non-freezable water to bound water may have been due to the saturation of the surfactant head group by water molecules.</plag_sens>
+    <tag_file_ids>gen_doc2215</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The transformation from non-freezable water to bound water may have been due to the saturation of the surfactant head group by water molecules.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3816</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The numbers increased rapidly as a result of the advancement in techniques.</plag_sens>
+    <tag_file_ids>gen_doc2008</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The numbers increased rapidly with the advancement in cloning techniques.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc3816</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The model with four basic ROIs is shown in Figure.</plag_sens>
+    <tag_file_ids>gen_doc2000</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The model with four basic ROIs is shown in Figure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc3816</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The mean height and weight were used to calculate the score.</plag_sens>
+    <tag_file_ids>gen_doc3185</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The mean height and weight were used to generate a score for the WHO international growth reference standards.</tag_plag_sens>
+  </row>
+</data>

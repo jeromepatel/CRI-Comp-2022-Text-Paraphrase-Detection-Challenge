@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2592</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The biphenotypic nature of the disease provides an opportunity to gain a better understanding of the fundamental genetic changes that occur during development and progression of this disease.</plag_sens>
+    <tag_file_ids>gen_doc2907</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The biphenotypic nature of the disease provides an opportunity to gain a better understanding of the fundamental genetic changes that occur during development and progression of this disease.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2592</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The English South East has 0.25 groups per km2 and 6 adults per group, while the South West has 0.75 groups per km2 with 8 badgers per group.</plag_sens>
+    <tag_file_ids>gen_doc3898</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Medium density is similar to the English South East with 0.25 groups per km2 and 6 adults per group, while high density is similar to the South West with 0.75 groups per km2 with 8 badgers per group.</tag_plag_sens>
+  </row>
+</data>

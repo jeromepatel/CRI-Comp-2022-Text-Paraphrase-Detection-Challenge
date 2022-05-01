@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2008</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The VASs of the C Group were higher than the others.</plag_sens>
+    <tag_file_ids>gen_doc1543</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The VASs of C Group were much higher than those of K Group, P Group, and PM Group.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2008</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The analgesic effects of muscimol were visible at 20 M, as well as the concentration dependence of all the compounds.</plag_sens>
+    <tag_file_ids>gen_doc3678</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The analgesic effects of muscimol were visible at 20 M, and all the compounds displayed concentration dependence within the used concentration range.</tag_plag_sens>
+  </row>
+</data>

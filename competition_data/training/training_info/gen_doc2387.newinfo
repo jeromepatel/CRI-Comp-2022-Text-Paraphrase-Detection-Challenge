@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2387</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There were 120 STI patient cards that were reviewed.</plag_sens>
+    <tag_file_ids>gen_doc30</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>120 STI patient cards were reviewed for observation.</tag_plag_sens>
+  </row>
+</data>

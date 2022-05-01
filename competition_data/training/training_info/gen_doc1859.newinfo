@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1859</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Half of the animals were reinforced for their responses to words like trochaic and iambic.</plag_sens>
+    <tag_file_ids>gen_doc3483</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Half of the animals were reinforced for their responses to words like trochaic and iambic words.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1859</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The average increase in giving to parents is about 50%, as the average value of token passed to parents was $5.</plag_sens>
+    <tag_file_ids>gen_doc825</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>According to the estimates, the average increase in giving to parents was 50%, as the average value of token passed to parents was £5.</tag_plag_sens>
+  </row>
+</data>

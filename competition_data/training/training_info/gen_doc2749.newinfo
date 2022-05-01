@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2749</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The rate of decline will be compared using linear mixed models.</plag_sens>
+    <tag_file_ids>gen_doc132</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The rate of decline will be compared using linear mixed models.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2749</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>55 low- and middle-income countries were excluded from the analysis.</plag_sens>
+    <tag_file_ids>gen_doc3581</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>55 low- and middle-income countries were excluded from our analysis due to the UNAIDS Investment Framework.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2749</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>When compared to colonic adenocarcinomas, the expression of classical CCK-2receptor gene was shown in both human colonic adenoma cell lines and human adenoma specimen.</plag_sens>
+    <tag_file_ids>gen_doc2768</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>When compared to colonic adenocarcinomas, the maximal expression of classical CCK-2 receptor gene was shown in both human colonic adenoma cell lines and human adenoma specimens.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2749</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The prevalence of prediabetes was very high if both FPG and HbA1c were taken into account.</plag_sens>
+    <tag_file_ids>gen_doc1956</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The prevalence of prediabetes was very high if both FPG and HbA1c were considered.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2749</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The black pool was filled with water.</plag_sens>
+    <tag_file_ids>gen_doc1185</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The MWM was performed in a pool filled with water.</tag_plag_sens>
+  </row>
+</data>

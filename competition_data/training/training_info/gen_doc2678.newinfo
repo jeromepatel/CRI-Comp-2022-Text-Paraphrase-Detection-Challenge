@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2678</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The data collected by the systems allows for the allocation of limited resources.</plag_sens>
+    <tag_file_ids>gen_doc364</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>CVD data collected by systems allow for the allocation of limited resources and focused programmatic planning and intervention.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2678</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>This was done to make sure there was no smell in the area of testing.</plag_sens>
+    <tag_file_ids>gen_doc2391</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>This was done to make sure no smell remained in the area where testing was taking place.</tag_plag_sens>
+  </row>
+</data>

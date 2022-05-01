@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc16</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The double mutants had a loopy body posture like animals, and an even slower locomotion rate.</plag_sens>
+    <tag_file_ids>gen_doc1072</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The double mutants had a loopy body posture and a slower locomotion rate, suggesting that they have Additive locomotion phenotypes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc16</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Ten million cells were lysed using a kit.</plag_sens>
+    <tag_file_ids>gen_doc64</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Ten million cells were cross-linked and lysed using the kit.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc16</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There are other explanations for the lack of convergence with abstract art.</plag_sens>
+    <tag_file_ids>gen_doc2481</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There are alternative explanations for the lack of convergence with abstract art that we must consider.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc16</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The Lyon method relies on sports, such as basketball figure.</plag_sens>
+    <tag_file_ids>gen_doc170</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Basketball figure is an essential part of the Lyon method.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc16</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The signalling network that drives survival and imatinib resistance may have an essential role in SLUG.</plag_sens>
+    <tag_file_ids>gen_doc489</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The signalling network that drives survival and imatinib resistance may have an essential role in SLUG's function.</tag_plag_sens>
+  </row>
+</data>

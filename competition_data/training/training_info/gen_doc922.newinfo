@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc922</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Up to 80% reduction in the incidence of NTDS has been associated with periconceptional FA intake by women at least four weeks prior to conception.</plag_sens>
+    <tag_file_ids>gen_doc586</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Up to 80% reduction in the incidence of NTDS has been associated with periconceptional FA intake, which is taken by women at least four weeks prior to conception and throughout the first trimester of pregnancy.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc922</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A litter of newborn piglets was used as an experimental model to demonstrate the importance of early life exposure to the GI microbiota.</plag_sens>
+    <tag_file_ids>gen_doc1905</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A litter of newborn piglets were used as the experimental model to show the importance of early life exposure to the GI microbiota.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc922</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>This mechanism has also been found for the Rickettsia species.</plag_sens>
+    <tag_file_ids>gen_doc1265</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>This mechanism for exclusion of infections has also been revealed for the Rickettsia species.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc922</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>HPSE1 has a 30% homology with heparanase-2 and its biological role is still unknown.</plag_sens>
+    <tag_file_ids>gen_doc3443</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Heparanase-2 has no activity, but has a 30% homology with HPSE1, and its biological role is still unknown.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc922</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In order to examine the effect of fibronectin Type III domain unfolding on TRAIL signaling, whole cell lysates were collected and analyzed for cleave.</plag_sens>
+    <tag_file_ids>gen_doc1562</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>To examine the effect of fibronectin Type III domain unfolding on TRAIL signaling, cells were pre-treated with the FnIII-1c peptide for 1 h, and then incubated with TRAIL for an additional 2.5 h.</tag_plag_sens>
+  </row>
+</data>

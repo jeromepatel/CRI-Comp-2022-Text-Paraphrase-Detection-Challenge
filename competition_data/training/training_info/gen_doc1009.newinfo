@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1009</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>WT and nikA strains were cultured in 1 L of YGMM.</plag_sens>
+    <tag_file_ids>gen_doc3436</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The WT and nikA strains were cultured in 1 L of YGMM for 24 h.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1009</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>ISEACULTURE growth rates increased with increasing dysregulation.</plag_sens>
+    <tag_file_ids>gen_doc35</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The mean ISEA CULTURE growth rates increased with increasing dysregulation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1009</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The effect of FTO with type 2 diabetes has not been observed in other studies.</plag_sens>
+    <tag_file_ids>gen_doc2082</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>It's possible that this indicates a direct effect of FTO with type 2 diabetes, which has not been observed in other studies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1009</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The appropriate pair of groups were used for the level.</plag_sens>
+    <tag_file_ids>gen_doc1665</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The appropriate pair of groups were used as the level's suitable nodes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1009</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>As recommended by the WHO, iron supplements should be given to pregnant women in conjunction with measures to prevent, diagnose and treat Malaria.</plag_sens>
+    <tag_file_ids>gen_doc2355</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>As recommended by the WHO, iron supplements should be provided to pregnant women in conjunction with measures to prevent, diagnose and treat malaria, since the continued efficacy of intermittent preventive treatment and insecticideimpregnated mosquito nets.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1009</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The subgroup II had 35 family members meet with the counsellor on an average of 3.8 times within a year.</plag_sens>
+    <tag_file_ids>gen_doc1091</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The 35 family members of subgroup II met with the counsellor on an average of 3.9 times within a period of 12 months.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1009</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>It can be seen from Figure 10 that the E-trickle is more beneficial than the original trickle in maintaining a consistent network.</plag_sens>
+    <tag_file_ids>gen_doc859</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>It can be deduced from Figure 10 that the E-trickle is more beneficial than the original trickle in maintaining a consistent network in an environment where the network topology changes frequently.</tag_plag_sens>
+  </row>
+</data>

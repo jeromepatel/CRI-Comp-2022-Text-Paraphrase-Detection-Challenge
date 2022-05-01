@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2418</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The activity of the antibacterial activity decreases over time.</plag_sens>
+    <tag_file_ids>gen_doc71</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The activity of antibacterials decreases over time.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2418</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>We looked at the growth characteristics of the cells.</plag_sens>
+    <tag_file_ids>gen_doc2388</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The three cell types figureG have growth characteristics that we looked at.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2418</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>A complete response is only seen in around 5 % of patients, with a larger proportion of patients benefiting from down-staging and patients who successfully complete neoadjuvant chemoradiotherapy and go on to have surgery tend to have high rates of clear.</plag_sens>
+    <tag_file_ids>gen_doc3658</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A complete tumours response is only seen in around 5 % of patients, with a larger proportion of patients benefiting from down-staging to achieve resectability, and patients who successfully complete neoadjuvant chemoradiotherapy and go on to have resection tend to have high rates of clear.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2418</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The cell layer was detached in 10 minutes.</plag_sens>
+    <tag_file_ids>gen_doc593</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The cell layer was detached with 5 mM EDTA at 37C for 10 minutes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2418</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>After we see some concrete features, an example is shown.</plag_sens>
+    <tag_file_ids>gen_doc1770</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>After we see some concrete features, an example is shown in Equation (16) of Supplementary Material.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2418</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There are many studies on the prevalence and progress of depression in AD, but few studies on the incidence.</plag_sens>
+    <tag_file_ids>gen_doc3363</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Studies on the incidence of depression are rare, but there are many studies on the prevalence and progress of depression in AD.</tag_plag_sens>
+  </row>
+</data>

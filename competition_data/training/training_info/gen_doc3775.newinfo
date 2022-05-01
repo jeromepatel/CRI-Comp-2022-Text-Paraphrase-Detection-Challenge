@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3775</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>We can use mixed gain configurations to maximize the camera for certain illumination conditions and achieve a combined dynamic range and image fidelity of 14.4 bit if we use the high- or low-gain modes.</plag_sens>
+    <tag_file_ids>gen_doc103</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We can use mixed gain configurations to maximize the camera for certain illumination conditions and achieve a combined dynamic range and image fidelity of 14.4 bit if we use a high- or low-gain mode.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3775</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>It's believed that the key to drug resistance is the activation of the NF-B molecule.</plag_sens>
+    <tag_file_ids>gen_doc3558</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>It's believed that the key to drug resistance is the activation of NF-B.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3775</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The genetic variant most broadly distributed across LA is the G6PD A-202A/373G, which is present in 81% of the deficient individuals surveyed.</plag_sens>
+    <tag_file_ids>gen_doc1959</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The genetic variant most broadly distributed across LA is the G6PD A-202A/373G, which is present in 81% of the deficient individuals surveyed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3775</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The number of tumor cells and mammosphere formation were increased by IL-8 in an experiment.</plag_sens>
+    <tag_file_ids>gen_doc2381</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>In an experiment, IL-8 was found to increase the number of cancer cells and mammosphere formation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3775</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The function of the genes has not yet been shown.</plag_sens>
+    <tag_file_ids>gen_doc221</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There are question marks indicating that the function of the genes has not been shown.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3775</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>For patients who started the season on OAH monotherapy, eye drops were a more common therapy add-on than for patients who started the season on INS monotherapy.</plag_sens>
+    <tag_file_ids>gen_doc1413</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>For patients starting the season on OAH monotherapy, eye drops were a more common therapy add-on than for patients starting the season on INS monotherapy.</tag_plag_sens>
+  </row>
+</data>

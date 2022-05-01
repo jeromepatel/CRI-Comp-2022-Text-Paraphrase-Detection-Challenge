@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2964</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The results were similar to the above trial in terms of improvements from the tamsulosin OCAS 0.4 and 0.8 doses.</plag_sens>
+    <tag_file_ids>gen_doc34</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The findings were similar to the above trial in terms of relative improvements from the tamsulosin OCAS 0.4 and 0.8 doses.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2964</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The mEC of humans has been reported with PNNs.</plag_sens>
+    <tag_file_ids>gen_doc1837</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The mEC of humans have been reported with PNNs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2964</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>According to Thibault et al, TLRs play an important role in identifying and triggering the body's immune response to invaders, and Sun et al, TLR9 is an important member of the family and plays an important role in recognition of invaders.</plag_sens>
+    <tag_file_ids>gen_doc3324</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>According to Thibault et al, TLRs played an important role in identifying and triggering the body's immune response to invaders, and Sun et al showed that TLR9 was involved in the recognition of invaders.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2964</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Hunt et al.</plag_sens>
+    <tag_file_ids>gen_doc2596</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>2015; Hunt et al.</tag_plag_sens>
+  </row>
+</data>

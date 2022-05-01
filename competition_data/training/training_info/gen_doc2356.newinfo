@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2356</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The anti-C1q antibodies were more likely to be found in the sera of LN patients than in those without a flare.</plag_sens>
+    <tag_file_ids>gen_doc3268</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Anti-C1q antibodies were more likely to be found in the sera of LN patients (30/35, 85%) than in the sera of those without a flare (20/60, 33.3%).</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2356</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There were no significant gender and age interactions.</plag_sens>
+    <tag_file_ids>gen_doc508</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There was no significant gender x age interaction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2356</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>As we are interested in applying this novel immunization strategy to the clinic, we are going to investigate whether NOD mice are more likely to develop diabetes if IL10 signalling is blocked at the time of immunization.</plag_sens>
+    <tag_file_ids>gen_doc1226</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>As we are interested in applying this novel immunization strategy to clinic, next we investigated whether NOD mice were more likely to develop diabetes when IL10 signalling was blocked at the time of immunization.</tag_plag_sens>
+  </row>
+</data>

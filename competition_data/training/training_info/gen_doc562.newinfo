@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc562</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>For a more efficient search large electronic databases were used.</plag_sens>
+    <tag_file_ids>gen_doc3515</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Large electronic databases were used to combine different research disciplines for a more efficient search.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc562</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Rats were fed a standard diet throughout the experiment.</plag_sens>
+    <tag_file_ids>gen_doc518</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The rats were fed a standard diet.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc562</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>In both study arms, annual visits were scheduled to assess a number of parameters.</plag_sens>
+    <tag_file_ids>gen_doc1709</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In both study arms, annual visits were scheduled to assess a number of parameters.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc562</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In contrast to the present study, none of the studies used the IHI ADEtrigger-tool as an aid during the PCR.</plag_sens>
+    <tag_file_ids>gen_doc1277</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In contrast to the present study, none of the studies used the IHI ADE Trigger-tool as an aid to enhance ADE identification.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc562</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Patients with a 21-hydroxylase deficiency who were treated with GCS had a down-regulation of OPG and over-expression of RANKL in their T-cells.</plag_sens>
+    <tag_file_ids>gen_doc3512</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The down-regulation of OPG and over-expression of RANKL in T-cells from patients with a 21-hydroxylase deficiency who were treated with GCS, compared with controls, was shown.</tag_plag_sens>
+  </row>
+</data>

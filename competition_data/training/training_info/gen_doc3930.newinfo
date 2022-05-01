@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3930</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The foundation for visible and ultraviolet photo detectors is the light-to-electricity conversion process of III-nitride materials.</plag_sens>
+    <tag_file_ids>gen_doc3561</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The light-to-electricity conversion process of III-nitride materials and devices is the foundation for visible and ultraviolet photodetectors that are potentially applied in light communication, medical care and smoke alarm1234.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3930</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The complete mechanism of action of SSRIs is not fully understood.</plag_sens>
+    <tag_file_ids>gen_doc3938</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The complete mechanism of action of SSRIs is not fully understood.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3930</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There were no serious adverse events in both trials.</plag_sens>
+    <tag_file_ids>gen_doc1405</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There were no serious treatment-related adverse events in the trials.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3930</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Epidemiologic studies show a negative correlation between leptin and muscle mass and function.</plag_sens>
+    <tag_file_ids>gen_doc3435</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Despite this positive effect of leptin on muscle metabolism, epidemiologic studies show a negative association between leptin and muscle mass and function.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3930</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The prevalence in pets, which lived with humans, was reported.</plag_sens>
+    <tag_file_ids>gen_doc1713</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The prevalence of pets with human colonised with MRSA was reported by Moriss et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3930</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Dynamic hybrid tree cutting is used in systems biology applications such as weighted gene co- expression network analysis.</plag_sens>
+    <tag_file_ids>gen_doc1128</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Dynamic hybrid tree cutting is used in systems biology applications such as weighted gene co-expression network analysis and is commonly used to cut the dendrograms created from clustering.</tag_plag_sens>
+  </row>
+</data>

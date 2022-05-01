@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2391</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>For their follow-up visit, the participants completed the food records.</plag_sens>
+    <tag_file_ids>gen_doc2283</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>For their follow-up visit, the participants completed the food records in each month.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2391</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>They used two mouse strains which differed in their sensitivity to LPS and found that recipients who had a genetic variation in the TLR4 gene had less lung injury and better quality of life.</plag_sens>
+    <tag_file_ids>gen_doc3881</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>They used two mouse strains which differed in their sensitivity to LPS and found that recipients who had a genetic variation in the TLR4 gene had less lung injury.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2391</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Physical comorbidities were not included.</plag_sens>
+    <tag_file_ids>gen_doc3514</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>We did not include physical comorbidities.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2391</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Non-hypertensive elders can prevent hypertension by changing their lifestyles.</plag_sens>
+    <tag_file_ids>gen_doc3615</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Non-hypertensive elders can prevent hypertension through lifestyle modification and exercise.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2391</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The immune response and multiplication of parasites cause cardiac damage during T. cruzi infections.</plag_sens>
+    <tag_file_ids>gen_doc466</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The immune response and multiplication of parasites cause Cardiac damage during T. cruzi infections.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2391</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The environment is less important since the partners lived in the same environment and had the same lifestyles.</plag_sens>
+    <tag_file_ids>gen_doc531</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The environment seems to be of less importance since the partners lived in the same environment and had similar lifestyles.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2391</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>It is of interest to note that this pair is present inbacteria and eubacteria, where S16 is referred to as S9.</plag_sens>
+    <tag_file_ids>gen_doc2446</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>It is of interest to note that this pair is present inbacteria and eubacteria, where the S16 homologue is referred to as S9.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc2391</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Lorenz et al. wrote about the prevention of CVD</plag_sens>
+    <tag_file_ids>gen_doc1652</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In the prevention of CVD, Lorenz et al.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1950</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The use of false transmitters to investigate transmitter release in both neuronal and non-neuronal cells has been shown to cause phasic release events.</plag_sens>
+    <tag_file_ids>gen_doc3798</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The use of false transmitters to investigate transmitter release in both neuronal and non-neuronal cells has been shown to cause phasic release events.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1950</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A double-blind randomized controlled trial found that astaxanthin treatment reduced the number of markers of cardiovascular disease.</plag_sens>
+    <tag_file_ids>gen_doc3456</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>A double-blind randomized controlled trial showed that astaxanthin treatment significantly reduced the number of markers of cholesterol in the blood.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1950</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Consider t, (k + 1)h, T.</plag_sens>
+    <tag_file_ids>gen_doc2579</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Consider t  [k + 1)h]</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1950</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In Spain, the maximum level of arsenic intended for human consumption was 100 g/l.</plag_sens>
+    <tag_file_ids>gen_doc3994</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The maximum level of arsenic intended for human consumption in Spain was 100 g/l until 1990.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1950</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The confidence in the comparison of unconstrained and constrained trees was assessed with the use of the CONSEL package.</plag_sens>
+    <tag_file_ids>gen_doc1268</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>To assess the confidence in the comparison of constrained and unconstrained trees, the CONSEL package was used to calculate the probability value.</tag_plag_sens>
+  </row>
+</data>

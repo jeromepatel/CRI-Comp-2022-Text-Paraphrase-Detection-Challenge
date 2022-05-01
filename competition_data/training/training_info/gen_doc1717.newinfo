@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1717</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>More than half of the structural anomalies detected by sonography involve the central nervous system.</plag_sens>
+    <tag_file_ids>gen_doc450</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Almost half of the structural anomalies detected by sonography involve the central nervous system, 20% are genitourinary, 15% are gastrointestinal, and 8% are cardiopulmonary.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1717</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Primary care physicians often encounter challenging acute pain scenarios, such as sub acute post surgical pain, acute exacerbations of chronic back pain, and acute pharyngitis.</plag_sens>
+    <tag_file_ids>gen_doc3609</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Primary care physicians often encounter challenging acute pain scenarios, such as sub-acute post surgical pain, acute exacerbations of chronic back pain, and acute pharyngitis.</tag_plag_sens>
+  </row>
+</data>

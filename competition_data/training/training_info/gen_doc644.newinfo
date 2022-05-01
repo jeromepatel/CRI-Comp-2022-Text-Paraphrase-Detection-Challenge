@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc644</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The introduction of 3D DSA gave a more precise diagnostic tool compared to 2D DSA and has become a tool of paramount importance for the treatment of anneurysm.</plag_sens>
+    <tag_file_ids>gen_doc507</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The introduction of 3D DSA gave a more precise diagnostic tool compared to 2D DSA and has become a tool of paramount importance for the treatment of an aneurysm.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc644</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Only 18% of crypts contained Paneth cells in wild type mice, but 100% of crypts contained Paneth cells in Blimp1 Mutant mice.</plag_sens>
+    <tag_file_ids>gen_doc677</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Only 18% of crypts contained Paneth cells in wild-type mice, but 100% of crypts contained Paneth cells in Blimp1 mutant mice.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc644</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The carrierprotein of T4 was increased at the level.</plag_sens>
+    <tag_file_ids>gen_doc3960</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The carrierprotein of T4 TTR was upregulated.</tag_plag_sens>
+  </row>
+</data>

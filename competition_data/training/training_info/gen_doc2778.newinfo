@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2778</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Financial independence and Family formation criteria were rated more important by men.</plag_sens>
+    <tag_file_ids>gen_doc2234</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Men rated Financial independence and Family formation criteria more important than women for adult status.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2778</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>We were able to establish a network of normal ducts in 6 week old virgin females, and then induce hyperplasia over the course of 3 days.</plag_sens>
+    <tag_file_ids>gen_doc3787</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We were able to establish a network of normal ducts in 6 week old virgin females, and then induce hyperplasia through 3 days of NF-B signaling.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2778</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>MMTV-erbB-2 mice could be a useful model for studying the modification of mammary development and tumor risk by in utero exposure to alcohol.</plag_sens>
+    <tag_file_ids>gen_doc641</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>MMTV-erbB-2 mice could be a useful model for studying the modification of mammary development and tumor risk by in utero exposure to alcohol according to these studies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2778</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>MEG3 could be used as a potential factor for cancer.</plag_sens>
+    <tag_file_ids>gen_doc922</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>MEG3 could be considered as a potential factor for various cancers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2778</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It is possible that if cells are deleted for RPD3 the expected increase in acetylation leads to increased Sir3 binding.</plag_sens>
+    <tag_file_ids>gen_doc1835</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>It is possible that in cells deleted for RPD3 the expected increase in acetylation leads to increased Sir3 binding and thus reduced transcription.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2778</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There were no differences in the work rates between groups.</plag_sens>
+    <tag_file_ids>gen_doc3497</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There were no differences in altitude specific VO2peak work rates between the groups.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2778</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The systematic method used to determine the most suitable approach to extrapolation OS data was considered a strength of this analysis.</plag_sens>
+    <tag_file_ids>gen_doc2409</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The use of a systematic method to determine the most suitable approach to extrapolation OS data was considered a strength of this analysis.</tag_plag_sens>
+  </row>
+</data>

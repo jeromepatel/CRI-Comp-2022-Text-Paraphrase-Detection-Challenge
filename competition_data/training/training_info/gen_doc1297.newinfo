@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1297</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The global analysis of these patients gave information.</plag_sens>
+    <tag_file_ids>gen_doc1981</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The global analysis of these patients provided information under the following headings.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1297</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There is no effective therapeutic strategy for either of these disorders despite recent advances in our understanding.</plag_sens>
+    <tag_file_ids>gen_doc875</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>There is no effective therapeutic strategy for either of these disorders, despite recent advances in our understanding of the pathogenesis of these diseases.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1297</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There is a gel for control lung on the left.</plag_sens>
+    <tag_file_ids>gen_doc1773</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A representative 2-D gel for control lung is shown on the left.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1297</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The results show that HIV contributes to an increase in hepatic damage.</plag_sens>
+    <tag_file_ids>gen_doc2201</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The results show that HIV contributes to an increase in hepatic damage in patients with the same strain of HCV.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1297</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The OSM was released in large quantities.</plag_sens>
+    <tag_file_ids>gen_doc1871</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>OSM was released in large quantities by PBMC.</tag_plag_sens>
+  </row>
+</data>

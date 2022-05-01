@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2894</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Stimulating human adipocytes with TNF alpha alone at the same concentration of 1 ng/ml for a longer time of 24 hours resulted in reduced leptin transcripts compared to un-stimulated controls.</plag_sens>
+    <tag_file_ids>gen_doc3991</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Stimulating human adipocytes with TNF alpha alone at the same concentration of 1 ng/ml for a longer time of 24 hours resulted in leptin mRNA transcripts decreased by 59% compared to un-stimulated controls.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2894</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The low effects of EC, SAR, and pH were noted in Table 2.</plag_sens>
+    <tag_file_ids>gen_doc3388</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The effects of EC, SAR, and pH were low.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2894</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Barbary and rhesus macaque females give better signals to ovulation than Assamese macaques but less precise ones than yellow and cha cma baboons.</plag_sens>
+    <tag_file_ids>gen_doc623</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Barbary and rhesus macaque females give better signals to ovulation than Assamese macaques, but less precise ones than yellow and cha cma baboons.</tag_plag_sens>
+  </row>
+</data>

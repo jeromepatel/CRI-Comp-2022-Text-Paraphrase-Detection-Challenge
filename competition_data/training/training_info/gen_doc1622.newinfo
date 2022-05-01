@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1622</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>It has been speculated that the emergence of multicellular life should have brought about genes that control cheating cells.</plag_sens>
+    <tag_file_ids>gen_doc85</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>It has been speculated that the emergence of multicellular life should have brought about genes that control cheater cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1622</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The survival capacity of the TSCM cells was shown to be better in the non-human primate model of a viral infection.</plag_sens>
+    <tag_file_ids>gen_doc3167</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In a viral infection model in non-human primates, the survival capacity of the TSCM cells was shown to be better than that of conventional memory T cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1622</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Researchers looked into the use of cannabis by drug-addicts who were discharged from a treatment program to see if it could help them maintain their abstinence.</plag_sens>
+    <tag_file_ids>gen_doc1350</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Researchers looked into the use of cannabis by drug-addicts who were discharged from a treatment program to see if it could help them maintain their abstinence.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1622</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Domestication of sand rice in desert environments via development of plants with larger grains and higher yield is one of the goals of the current project.</plag_sens>
+    <tag_file_ids>gen_doc2536</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>One of the current primary goals is the domestication of sand rice in desert environments via development of plants with larger grains and higher yield, and to exclude unfavorable traits such as seed shattering, thorns, etc.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1622</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We found that the PIG3 expression was silenced in H460 cells when we used the highest efficacy to transfect them.</plag_sens>
+    <tag_file_ids>gen_doc1705</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>We found that the PIG3 expression was silenced in H460 cells when we used the highest efficacy of the siRNA.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc389</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The crystallographic data shows that the nuclear scattering density maps calculated from both configurations are essentially the same.</plag_sens>
+    <tag_file_ids>gen_doc1549</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>This result is consistent with our crystallographic data, which shows that the nuclear scattering density maps calculated from both configurations are essentially the same, with the deuterons on H256 refining to 51% and 49%.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc389</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The areas on the wax–silica colloidosomes that are shown in Figure 1 B are selected by the SEM micrographs.</plag_sens>
+    <tag_file_ids>gen_doc733</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The areas on the wax–silica colloidosomes shown in Figure 1 B have different amounts of DDAB in them.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc389</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>BRCA1 is found in a large DNA repair complex and plays a role in the repair of DNA.</plag_sens>
+    <tag_file_ids>gen_doc2349</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>BRCA1 is found in a large DNA repair complex that includes various mismatch repair genes such as hMLH1 and hMSH2.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc389</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The control figureA doesn't usually show the changes of mature OLs in cultures that are treated with cytokines.</plag_sens>
+    <tag_file_ids>gen_doc2579</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The control figureA doesn't typically show the changes of mature OLs in cultures treated with cytokines.</tag_plag_sens>
+  </row>
+</data>

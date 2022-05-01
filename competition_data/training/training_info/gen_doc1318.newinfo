@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1318</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The third leading cause of death is amebiasis.</plag_sens>
+    <tag_file_ids>gen_doc112</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The third leading cause of death is Amebiasis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1318</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The highest percentage of apoptotic cells was observed at this time point.</plag_sens>
+    <tag_file_ids>gen_doc2520</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The highest percentage of apoptotic cells was observed in this time point.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1318</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The results suggest that there are redundant roles of NF-YC3 and NF-YC4 in the suppression of seed germination.</plag_sens>
+    <tag_file_ids>gen_doc96</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The results suggest that there are redundant roles of NF-YC3 and NF-YC4 in the suppression of GA-mediated seed germination.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1318</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Blood pressure response to RDN was defined as a decrease in office systolic blood pressure of  10mmHg, which is less than the decrease in white coat effect at 6 months in the German multicentre cohort.</plag_sens>
+    <tag_file_ids>gen_doc2222</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In the latter, blood pressure response to RDN was defined as a decrease in office systolic blood pressure of  10mmHg, which is less than the decrease in white coat effect of 6 months in the German multicentre cohort.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1318</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Kamatani and colleagues have found an association between chronic hepatitis B and 11 SNPs in the HLA-DP region.</plag_sens>
+    <tag_file_ids>gen_doc2222</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Kamatani and colleagues have discovered an association between chronic hepatitis B and 11 SNPs in the HLA-DP region, two of which are rs3077 and rs9277535.</tag_plag_sens>
+  </row>
+</data>

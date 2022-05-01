@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2512</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Mean plaque index was 2.02 in Group A.</plag_sens>
+    <tag_file_ids>gen_doc2083</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In Group A, the mean plaque index was 2.02  0.49.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2512</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>When recruited to target a promoter by a transcription factor, ddx5 can recruit or displace histone modifying enzymes, like CBP/p300 and HDACs.</plag_sens>
+    <tag_file_ids>gen_doc856</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>When recruited to target a promoter by a transcription factor, ddx5 can recruit or displace histone modifying enzymes, like CBP/p300 and HDACs, which ddx5 also binding to.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2512</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Women of childbearing age with class I hypertension don't need antihypertensive mediations.</plag_sens>
+    <tag_file_ids>gen_doc1260</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Women of childbearing age with class I hypertension don't usually need antihypertensive mediations because of successful lifestyle modifications and exercise.</tag_plag_sens>
+  </row>
+</data>

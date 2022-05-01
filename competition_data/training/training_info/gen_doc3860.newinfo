@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3860</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>10 min after motor practice was when the baseline acquisition began.</plag_sens>
+    <tag_file_ids>gen_doc1445</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>10 min after motor practice was when the baseline acquisition began.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3860</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>TheMAPK cascades are evolutionary conserved and connect cell-surface receptors to critical regulatory targets within cells leading to responses as diverse as proliferation, differentiation, immune response and cell death.</plag_sens>
+    <tag_file_ids>gen_doc942</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>TheMAPK cascades are evolutionary conserved enzymes connecting cell-surface receptors to critical regulatory targets within cells leading to responses as diverse as proliferation, differentiation, immune response and cell death.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3860</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The doses to the target volumes always met their prescription constraints.</plag_sens>
+    <tag_file_ids>gen_doc3070</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The doses to the target volumes always met their prescription constraints.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3860</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The O2 consumption was high at lower concentrations of DOC.</plag_sens>
+    <tag_file_ids>gen_doc376</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>O2 consumption was high when the pH was less than 8.</tag_plag_sens>
+  </row>
+</data>

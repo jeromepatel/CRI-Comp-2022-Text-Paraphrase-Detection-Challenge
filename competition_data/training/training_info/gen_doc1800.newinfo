@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1800</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>According to the criteria in Amsterdam, a clinical diagnosis of Lynch II syndrome was done.</plag_sens>
+    <tag_file_ids>gen_doc1676</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>According to Amsterdam criteria, a clinical diagnosis of Lynch II syndrome was done.</tag_plag_sens>
+  </row>
+</data>

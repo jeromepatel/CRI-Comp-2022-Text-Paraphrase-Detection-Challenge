@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3051</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>We believe that BLISS is a powerful and versatile method for profiling DSBs in many conditions and sample types.</plag_sens>
+    <tag_file_ids>gen_doc3784</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In conclusion, we believe that BLISS is a powerful and versatile method for genome-wide DSB profiling that will catalyse efforts to profile natural and artificially induced DSBs in many conditions and sample types.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3051</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Highly proficient bilinguals were compared on switch tasks.</plag_sens>
+    <tag_file_ids>gen_doc3065</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Highly proficient bilinguals were compared on both linguistic and non-linguistic switch tasks.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3051</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Inconsistent responding can cause scores on psychophysical tasks to be vastly different.</plag_sens>
+    <tag_file_ids>gen_doc988</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Inconsistent responding can cause scores on psychophysical tasks to be vastly different.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3051</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>T cells from patients with SLE show abnormal alternative splicing of a number of genes.</plag_sens>
+    <tag_file_ids>gen_doc2663</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>T cells from patients with SLE show abnormal alternative splicing of a number of genes involved in diverse functions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3051</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The region with the best results has a red outline.</plag_sens>
+    <tag_file_ids>gen_doc694</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The best results are shown in the red outline.</tag_plag_sens>
+  </row>
+</data>

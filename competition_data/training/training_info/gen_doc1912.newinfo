@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1912</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Access to social, cultural, educational and professional opportunities increase preference to live in a certain area.</plag_sens>
+    <tag_file_ids>gen_doc3234</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Access to social, cultural, educational and professional opportunities increase preference to settle in certain areas.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1912</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The Ir metal segregation started at the initial film growth stage and was observable even in a 0.4-nm-thick single-unit cell film, which means that the nanopillars nucleated directly on the surface and grew continuously through the film.</plag_sens>
+    <tag_file_ids>gen_doc594</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The Ir metal segregation started at the initial film growth stage and was observable even in a 0.4-nm-thick single-unit cell film, which means that the nanopillars nucleated directly on the substrate surface and grew continuously through the film.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1912</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>All positions were measured relative to a 3.2 m polystyrene bead fixed to the bottom of the flow cell.</plag_sens>
+    <tag_file_ids>gen_doc2463</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>To exclude the effect of thermal drift, all positions were measured relative to a 3.2 m polystyrene bead fixed to the bottom of the flow cell.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1912</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Although we can't say for certain with regard to the present case, the cytokines likely play an important role in sarcoidosis.</plag_sens>
+    <tag_file_ids>gen_doc984</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Although we can't say for certain with regard to the present case, these cytokines likely play an important role in the etiology of sarcoidosis.</tag_plag_sens>
+  </row>
+</data>

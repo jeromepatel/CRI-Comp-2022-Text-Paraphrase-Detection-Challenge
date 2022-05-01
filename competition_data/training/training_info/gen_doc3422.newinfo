@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3422</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>To ensure safe and effective medication use, patients must be engaged by the pharmacy.</plag_sens>
+    <tag_file_ids>gen_doc1734</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>To address this gap and ensure safe and effective medication use, patients must be engaged by the pharmacists.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3422</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The final conformations of the previous iteration are assumed in the 8th iteration.</plag_sens>
+    <tag_file_ids>gen_doc2385</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The final conformations of the previous iteration are assumed in the 8th iteration.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3422</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The regulation networks that control the development of cancer are created by functional molecules.</plag_sens>
+    <tag_file_ids>gen_doc2147</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The development of endometrial cancer is controlled by the functional molecules that are in the regulation networks.</tag_plag_sens>
+  </row>
+</data>

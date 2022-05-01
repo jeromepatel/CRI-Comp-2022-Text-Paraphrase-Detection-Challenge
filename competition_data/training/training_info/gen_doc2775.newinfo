@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2775</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There were different pre-therapy numbers for patients.</plag_sens>
+    <tag_file_ids>gen_doc3287</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Between patients, the pre-therapy numbers ranged from 47160 to 200 cells/ml.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2775</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The NZB/BINJ strain has a reduced callosum size.</plag_sens>
+    <tag_file_ids>gen_doc1317</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The NZB/BINJ strain has a reduced callosum size compared to the C57BL/6 By strain.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2775</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The assumption may collapse due to many factors.</plag_sens>
+    <tag_file_ids>gen_doc2013</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>This assumption may collapse due to many factors.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2775</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>If there is no change in patient condition or proposed intervention, consent is valid for an indefinitely.</plag_sens>
+    <tag_file_ids>gen_doc2050</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>If there is no change in patient condition or proposed intervention, consent remains valid for an indefinite period.</tag_plag_sens>
+  </row>
+</data>

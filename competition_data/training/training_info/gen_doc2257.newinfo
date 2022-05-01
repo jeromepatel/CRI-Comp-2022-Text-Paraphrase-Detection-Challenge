@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2257</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The correlations were further confirmed by in silico analysis of the patient data from the TCGA.</plag_sens>
+    <tag_file_ids>gen_doc3614</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The correlations were further confirmed by in silico analysis of the gliomas patient data from the TCGA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2257</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The mechanism of catalytic function is designed</plag_sens>
+    <tag_file_ids>gen_doc575</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The mechanism of catalytic function is designed.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc576</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A study of obstacle effects on MTC in young adults revealed, however, that only approximately 98 % of gait cycles in unconstrained preferred speed walking, and 80 % during obstacle crossing did demonstrate the effects of an MTC event.</plag_sens>
+    <tag_file_ids>gen_doc83</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>A study of obstacle effects on MTC in young adults revealed, however, that only approximately 98 % of gait cycles in unconstrained preferred speed walking, and 80 % during obstacle crossing did demonstrate gait cycles with an MTC event.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc576</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There is a scale bar.</plag_sens>
+    <tag_file_ids>gen_doc1018</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>5 m scale bar.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc576</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>As shown in the figureA and 8B, the APX1 and GPX1 chromatin was divided into different regions and the enriched chromosomes were detected.</plag_sens>
+    <tag_file_ids>gen_doc554</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>As shown in the figureA and 8B, the APX1 and GPX1 chromatin was divided into different regions and the enriched chromosome fragments were detected by quantitative RT-PCR.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc576</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The control extract had an increased binding activity.</plag_sens>
+    <tag_file_ids>gen_doc2256</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In the control extract, the binding activity of p65 increased significantly.</tag_plag_sens>
+  </row>
+</data>

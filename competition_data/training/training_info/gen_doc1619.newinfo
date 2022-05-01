@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1619</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The size of the DNA was determined by the XbaI-digestedSalmonella enterica.</plag_sens>
+    <tag_file_ids>gen_doc1730</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The DNA size marker was used with the XbaI-digested Salmonella enterica.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1619</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The undigested PCR products resulted from the separation of the mixed VRN-A1 and VRN-B1 transcripts, which were separated and distinguished by the use of restriction enzymes.</plag_sens>
+    <tag_file_ids>gen_doc1045</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The undigested PCR products resulted from the separation of the mixed VRN-A1 and VRN-B1 transcripts, which were separated by the use of restriction enzymes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1619</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We obtained histograms of the F-dex content of OMVs at various times after they were in the lab.</plag_sens>
+    <tag_file_ids>gen_doc3019</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We obtained histograms of the F-dex content of OMVs at various times after loading them with F-dex and then incubated them with recombinant Bax.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1619</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>All cell lines tested were lethal regardless of CHK1i, as shown in Supplementary Figure 1D.</plag_sens>
+    <tag_file_ids>gen_doc2648</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>All cell lines tested were lethal regardless of CHK1i, as shown in Supplementary Figure 1D.</tag_plag_sens>
+  </row>
+</data>

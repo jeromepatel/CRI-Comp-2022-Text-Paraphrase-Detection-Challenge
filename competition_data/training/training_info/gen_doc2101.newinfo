@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2101</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Sulfate is first activated toAPS through the action of adenylylsulfate.</plag_sens>
+    <tag_file_ids>gen_doc3875</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Sulfate is first activated through the action of adenylylsulfate kinase.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2101</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The gyrator is designed to provide a non-reciprocal /2 phase shift at 25 GHz.</plag_sens>
+    <tag_file_ids>gen_doc386</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The gyrator is designed to provide a non-reciprocal /2 phase shift at 25 GHz.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2101</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Human skin fibroblasts with hTERT were treated with a fluorescent probe in order to prove the lack of GLUT10 in the cells.</plag_sens>
+    <tag_file_ids>gen_doc125</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Human skin fibroblasts with hTERT were treated with a fluorescent probe in order to prove the lack of GLUT10 in mitochondria.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2101</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>They failed to find the AVP gene.</plag_sens>
+    <tag_file_ids>gen_doc3088</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>They did not find the AVP gene in squamous cell carcinoma.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2101</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The majority of the patients were treated with the same drug.</plag_sens>
+    <tag_file_ids>gen_doc2993</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Most of these patients were treated with the same drug.</tag_plag_sens>
+  </row>
+</data>

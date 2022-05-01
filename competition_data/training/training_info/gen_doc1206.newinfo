@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1206</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Since automatic feeding systems are not available for this species, it's difficult to implement direct selection since it requires individual recording of feed intake, which is expensive and time consuming for animals housed in individual cages.</plag_sens>
+    <tag_file_ids>gen_doc1035</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>It is difficult to implement direct selection for this trait because it requires individual recording of feed intake, which is expensive and time consuming for animals housed in individual cages, and not possible for animals housed in groups since automatic feeding systems are still not available for this species.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1206</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The results were the same as those shown for the analysis in Table 4.</plag_sens>
+    <tag_file_ids>gen_doc1564</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The results were almost the same as those shown for the analysis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1206</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The vaccine was made in Indonesia and was available for purchase.</plag_sens>
+    <tag_file_ids>gen_doc2081</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The vaccine was made in Indonesia and was commercially available.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1206</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The amount of Ku was reduced by overexpression of Sir2 protein.</plag_sens>
+    <tag_file_ids>gen_doc1832</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Overexpression of Sir2 reduced the amount of Ku protein.</tag_plag_sens>
+  </row>
+</data>

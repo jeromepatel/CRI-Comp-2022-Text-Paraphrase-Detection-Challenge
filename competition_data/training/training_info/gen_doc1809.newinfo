@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1809</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Patients reported cold paresis more often.</plag_sens>
+    <tag_file_ids>gen_doc239</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Despite this, patients reported cold paresis more often than heat paresis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1809</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It occurs as a natural trace element and can be taken up by plants if it enters water.</plag_sens>
+    <tag_file_ids>gen_doc900</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>It is a trace element that can be taken up by plants and can enter water from the rain.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2971</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The preliminary data analysis was done using the software of the Affymetrix suite.</plag_sens>
+    <tag_file_ids>gen_doc2823</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Preliminary data analysis was conducted using the software of the Affymetrix microarray suite, following the statistical procedures described in the Affymetrix: Statistical Algorithms Detection Document.</tag_plag_sens>
+  </row>
+</data>

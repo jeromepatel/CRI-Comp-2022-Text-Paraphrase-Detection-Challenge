@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2036</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The growth, migration, colony formation and invasion of the 7404 and PVTT cells were disrupted by knocking down the expression of NUP37.</plag_sens>
+    <tag_file_ids>gen_doc70</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>In line with the findings shown in Figure 2, knocking down the expression of NUP37 caused the growth, migration, colony formation and invasion of the 7404 and PVTT cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2036</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In cultured mammals, the presence or absence of a central spindle determines whether or not a cleavage furrow forms.</plag_sens>
+    <tag_file_ids>gen_doc3403</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In cultured mammal cells, the presence or absence of a central spindle determines whether or not a cleavage furrow forms (Cao and Wang 1996; Wheatley and Wang 1996b; Eckley et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2036</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The set of W-strengths forms a matrix.</plag_sens>
+    <tag_file_ids>gen_doc3440</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>A matrix with matrix elements is formed by the set of W-strengths.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2036</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>If the Glenarbuck and Loch Humphrey Burn sequence are sandwiched within extensive lava flows, then this explanation is very unlikely.</plag_sens>
+    <tag_file_ids>gen_doc107</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>If the Glenarbuck and Loch Humphrey Burn sequence are sandwiched within extensive lava flows, this explanation is not likely.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2036</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>MOLSIM has been used for simulation of allatom and different coarsegrained levels.</plag_sens>
+    <tag_file_ids>gen_doc744</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>MOLSIM has been developed for simulation of allatom and different coarsegrained levels of molecular systems.</tag_plag_sens>
+  </row>
+</data>

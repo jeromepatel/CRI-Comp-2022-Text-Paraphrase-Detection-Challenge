@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1375</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>An abnormal asymmetric distribution of POP-1/TCF between daughter cells indicated that cyd-1 regulates the polarity of the first asymmetric divisions of the DTC ancestors.</plag_sens>
+    <tag_file_ids>gen_doc14</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>An abnormal asymmetric distribution of POP-1/TCF between daughter cells indicated that cyd-1 regulates the polarity of the first asymmetric divisions of DTC ancestors.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2567</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Prior to testing, all sera were inactivated in a water bath at 56C for an hour.</plag_sens>
+    <tag_file_ids>gen_doc1618</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Prior to testing, all sera were inactivated in a water bath at 56C for one hour.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2567</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There were 266 patients with some degree of renal impairment who were screened for it by the pharmacy.</plag_sens>
+    <tag_file_ids>gen_doc764</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There were 266 patients with some degree of renal impairment who were screened by the pharmacy.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2567</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Studies have shown that floride toothpaste with 500ppm is more effective than non- floride toothpaste for the prevention of demineralization.</plag_sens>
+    <tag_file_ids>gen_doc2379</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In previous studies, it was found that floride toothpaste with 500ppm was more effective than non-floride toothpaste for the prevention of demineralization in primary tooth enamel.</tag_plag_sens>
+  </row>
+</data>

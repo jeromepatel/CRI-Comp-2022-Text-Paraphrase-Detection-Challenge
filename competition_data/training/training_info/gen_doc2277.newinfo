@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2277</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The overexpressed miRNA increased the expression of IL10 in the macrophages.</plag_sens>
+    <tag_file_ids>gen_doc199</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The overexpressed miRNA increased the expression of IL-10 in the macrophages.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2277</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>At the time when my mother was cured, there was nothing that could be done to change her intake of arachidonic acid, since her meat consumption at that time was fairly modest.</plag_sens>
+    <tag_file_ids>gen_doc3855</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>At the time when my mother was cured, there was nothing that could be done to change her intake of arachidonic acid, since her meat consumption at that time was not very high.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2277</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Cardiac muscle from wild-type mice had a typical convoluted organization of intercalated discs with compact gap junctions.</plag_sens>
+    <tag_file_ids>gen_doc1538</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Cardiac muscle from wild-type mice displayed a typical convoluted organization of intercalated discs with compact gap junctions that were connected with adjacent desmosomes and adherens junctions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2277</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The sonographers were not aware of the study.</plag_sens>
+    <tag_file_ids>gen_doc3434</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The six sonographers were unaware of the study.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2277</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The results are derived from at least 3 microscopy fields for each mouse.</plag_sens>
+    <tag_file_ids>gen_doc25</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Results are derived from at least 3 microscopy fields for each mouse.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2277</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>These agents do not act directly on the recovery of the skin barrier and can cause serious side effects.</plag_sens>
+    <tag_file_ids>gen_doc1680</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>These agents do not act directly on the recovery of the skin barrier and can cause a number of serious side effects.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2277</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The results obtained from this study, together with our previous findings and those of other laboratories, support a model in which neurotrophins are activated through two parallel signaling pathways.</plag_sens>
+    <tag_file_ids>gen_doc1035</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The results obtained from this study, together with our previous findings and those of other laboratories, support a model in which neurotrophins, through activation of Trk receptor tyrosine kinases, induce long-term structural and functional changes at synapses through two parallel signaling pathways figure.</tag_plag_sens>
+  </row>
+</data>

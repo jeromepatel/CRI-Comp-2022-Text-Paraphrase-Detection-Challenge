@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc61</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The bone-related degradation product of DPD cross-links in urine was used to determine osteoclast activity.</plag_sens>
+    <tag_file_ids>gen_doc37</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The measurement of the bone-related degradation product of DPD cross-links in urine was used to determine osteoclast activity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc61</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The four cell phones contemporarily transmit, the metallic walls are in the order of 6, 10, and 4 dB, and the E field increases due to bad coverage.</plag_sens>
+    <tag_file_ids>gen_doc514</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The four cell phones contemporarily transmit, the metallic walls are in the order of 6, 10, and 4 dB, and the E field increases due to the bad coverage.</tag_plag_sens>
+  </row>
+</data>

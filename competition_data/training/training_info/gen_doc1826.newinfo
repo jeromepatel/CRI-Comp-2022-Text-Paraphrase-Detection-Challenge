@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1826</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>COPD patients have extensive rehabilitation needs because their disease imposes major restrictions on their everyday life and some patients fail to attend programs and others drop out.</plag_sens>
+    <tag_file_ids>gen_doc3104</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>COPD patients have extensive rehabilitation needs because their disease imposes major restrictions on their everyday life, but poor adherence is common in daily practice as some patients fail to attend programs and others drop out.</tag_plag_sens>
+  </row>
+</data>

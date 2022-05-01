@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2054</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>More than 90% of the cells were still viable after 48 h of incubation with 1.00 mM PVP-C-KGdFeCN NPs.</plag_sens>
+    <tag_file_ids>gen_doc624</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>More than 90% of the cells were still viable after 48 h of incubation with 1.00 mM PVP-C-KGdFeCN NPs, showing the nontoxic nature of such NPs.</tag_plag_sens>
+  </row>
+</data>

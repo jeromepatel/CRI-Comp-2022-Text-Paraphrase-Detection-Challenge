@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3822</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Cancer cells appear to use EVs as a means of cell-cell communication by transferring their contents to a recipient cell, which in turn leads to a transformation from a non-malignant to a malignant phenotype of the recipient cell.</plag_sens>
+    <tag_file_ids>gen_doc2779</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Cancer cells appear to use EVs as a means of cell-cell communication by transferring their contents to a recipient cell, which in turn leads to a transformation from a non-malignant to a malignant phenotype of the recipient cell.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3822</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The ratio of these cell types between the two sea urchins could be reflected in this.</plag_sens>
+    <tag_file_ids>gen_doc1907</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The ratio of these cell types between the two sea urchins could be reflected in this.</tag_plag_sens>
+  </row>
+</data>

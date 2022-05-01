@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3208</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Poor overlap between the two structures can be seen in the visual inspection of the superposition.</plag_sens>
+    <tag_file_ids>gen_doc611</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Poor overlap between the two structures is shown in the visual inspection of the superposition.</tag_plag_sens>
+  </row>
+</data>

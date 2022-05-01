@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2980</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>It is lethal and has a poor chance of recovery.</plag_sens>
+    <tag_file_ids>gen_doc1202</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>It is lethal and has a poor prognosis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2980</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The mean hourly wage was $31.14 and the mean RN experience was 15.85 years among our total population.</plag_sens>
+    <tag_file_ids>gen_doc235</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The mean hourly wage was $31.14 and the mean RN experience was 15.85 years among our total population, with some variation depending on the initial RN education.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2980</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The model has a temporal and spatial filter.</plag_sens>
+    <tag_file_ids>gen_doc205</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The model has two main ingredients, a temporal and spatial filter.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2980</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>In order to give a clear view on different methods for sensor data search and query in the literature, we summarize the characteristics of those methods with a particular focus on mobile sensor data.</plag_sens>
+    <tag_file_ids>gen_doc65</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>To give a clear view on different methods for sensor data search and query in the literature, we summarize the characteristics of those methods, with a particular focus on mobile sensor data.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2980</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The simplest partition of the space was used to create the final dataset.</plag_sens>
+    <tag_file_ids>gen_doc2350</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The simplest partition of the space into alpha and non- alpha peptides was used to build the final dataset.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2980</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The human mesangial cell line was grown in RPMI 1640 supplemented with 10 % fetal bovine semen at 37 C in a 5 %.</plag_sens>
+    <tag_file_ids>gen_doc981</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The human mesangial cell line was grown in RPMI 1640 and supplemented with 10 % fetal bovine serum at 37 C in a 5 % condition.</tag_plag_sens>
+  </row>
+</data>

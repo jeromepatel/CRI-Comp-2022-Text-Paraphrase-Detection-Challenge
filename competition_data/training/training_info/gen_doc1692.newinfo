@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1692</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>One month after initial registration of a person at risk of the disease, 4% of patients were diagnosed with conventional DST and 42% were diagnosed with Xpert.</plag_sens>
+    <tag_file_ids>gen_doc3411</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>One month after initial registration of a person at risk of the disease, 4% of those diagnosed with conventional DST and 42% of those diagnosed with Xpert were started on second-line treatment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1692</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In the second scenario, there is no extension of theDHAlipids.</plag_sens>
+    <tag_file_ids>gen_doc2756</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>In the second scenario, the DHA lipids are not extended.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1692</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>When compared with other published studies, the results of our whole genome analysis shows consistency in the expression patterns of the genes that have been observed at lower levels.</plag_sens>
+    <tag_file_ids>gen_doc2962</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>When compared with other published studies, the results of our whole genome analysis shows consistency in the expression patterns of genes that have been observed at lower doses.</tag_plag_sens>
+  </row>
+</data>

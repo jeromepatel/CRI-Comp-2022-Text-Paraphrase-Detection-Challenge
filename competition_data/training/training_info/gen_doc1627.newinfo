@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1627</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The thickness obtained from subjects in the present study was smaller than the thickness obtained from Asian subjects.</plag_sens>
+    <tag_file_ids>gen_doc1932</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The thickness obtained from Asian subjects using the same measurement method was smaller than it was in the present study.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1627</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The mortality rate and suicide rate for the former CAP patients were reported by de Chateau.</plag_sens>
+    <tag_file_ids>gen_doc2661</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>In a 30-year follow-up study of the former CAP patients, de Chateau reported a 4.8% mortality rate and 1.5% suicide mortality rate.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1627</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The low rates of urologic toxicity reported by both patient and physician may indicate that radiation dose and dose per fraction are not a factor in urologic toxicity.</plag_sens>
+    <tag_file_ids>gen_doc3859</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The low rates of urologic toxicity reported by both patient and physician may indicate that radiation dose and dose per fraction are not related to toxicity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1627</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>As soon as some are encountered, the implicature generation takes place.</plag_sens>
+    <tag_file_ids>gen_doc3157</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The implicature generation takes place before the full sentence is processed.</tag_plag_sens>
+  </row>
+</data>

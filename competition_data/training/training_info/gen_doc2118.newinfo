@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2118</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The level of TURP-detected rates was very similar between the two religions.</plag_sens>
+    <tag_file_ids>gen_doc2207</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The level of TURP-detected rates was very similar between LDS and nonLDS.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2118</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>TheESR1 gene is a good candidate for all reproduction traits.</plag_sens>
+    <tag_file_ids>gen_doc3064</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>One of the genes that is a good candidate for all reproduction traits is the estrogen receptor 1 (ESR1).</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2118</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Once the adult mosquito acquires a blood meal, she spends 48 hours converting 20% of it into egg constituents, using another 20% to support biosynthetic activities and defecating the rest.</plag_sens>
+    <tag_file_ids>gen_doc664</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Once the adult mosquito acquires a blood meal, she spends about 48 hours converting about 20% of it into egg constituents, using another fraction of it to support the intense biosynthetic activities of this period and defecating the rest.</tag_plag_sens>
+  </row>
+</data>

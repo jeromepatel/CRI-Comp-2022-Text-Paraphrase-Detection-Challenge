@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1766</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In tTA: CHMP2B mice, Gria1, Gria2, Gria3 and Gria4 levels were the same at all time points examined, whereas Gria2, Gria3 and Gria4 levels were increased substantially in older figureb and Supplementary figurea.</plag_sens>
+    <tag_file_ids>gen_doc3926</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In tTA: CHMP2B mice, Gria1, Gria2, Gria3 and Gria4 levels were the same at all time points examined, whereas Gria2, Gria3 and Gria4 levels were increased substantially in older mice.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc476</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Differences in susceptibility to infectious agents may be explained by differences in immune response.</plag_sens>
+    <tag_file_ids>gen_doc2475</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Differences in susceptibility to infectious agents between humans and other primates might be explained by inter-species differences in immune response to infection.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc476</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>They arise spontaneously after cooling from the isotropic phase into the N phase, and can be seen as the intersection of four dark and four bright brushes.</plag_sens>
+    <tag_file_ids>gen_doc311</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>They arise spontaneously after cooling from the isotropic phase into the N phase, and are clearly visible as the intersection of four dark and four bright brushes under crossed polarizers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc476</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The third level for cancer driver genes to start tumors is called amutation.</plag_sens>
+    <tag_file_ids>gen_doc3882</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The third level for cancer driver genes to start tumors is called amutations.</tag_plag_sens>
+  </row>
+</data>

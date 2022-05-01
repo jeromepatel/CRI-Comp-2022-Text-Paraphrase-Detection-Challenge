@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3371</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Down-Regulated genes were disproportionately represented in the following processes: regulation of metabolism, nucleic acid metabolism, cellular metabolism, cellular response to stress, and macromolecule biosynthetic processes.</plag_sens>
+    <tag_file_ids>gen_doc607</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Down-regulated genes were disproportionately represented in the following processes: regulation of metabolic processes, nucleic acid metabolic processes, cellular macromolecule metabolic processes, cellular response to stress and macromolecule biosynthetic processes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3371</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>Figures 1 to 2 and 3 to 4 are the results of the trees from the datasets.</plag_sens>
+    <tag_file_ids>gen_doc3983</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Figures 1 to 2 and 3 to 4 are the results of the trees from the 3 to 6 datasets.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3371</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Our data shows that there are differences in the food reward impact between males and females.</plag_sens>
+    <tag_file_ids>gen_doc2175</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The sensitivity to the food reward impact of Ex4 between females and males is clearly shown in our data.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1959</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Depression is the fourth leading cause of disability worldwide and will be the second leading cause by 2020, according to the World Health Organization.</plag_sens>
+    <tag_file_ids>gen_doc161</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>According to the World Health Organization, depression is the fourth leading cause of disability worldwide and will be the second leading cause by 2020.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1959</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Despite the fact that SMAC mimetics show great promise for cancer therapy, they can cause loss of cIAP1 and cIAP2.</plag_sens>
+    <tag_file_ids>gen_doc3189</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Despite the fact that SMAC mimetics show great promise for cancer therapy, they can cause loss of cIAP1 and cIAP2, resulting in NIK stabilization and NF-kB activation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1959</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>Men with sperm parameters below WHO normal are considered to have male factor infertility.</plag_sens>
+    <tag_file_ids>gen_doc3308</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Males with sperm parameters below the WHO normal values are considered to have male factor infertility.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1959</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The protective efficacy ofPrEP trials have been predicted by objective biological markers.</plag_sens>
+    <tag_file_ids>gen_doc2156</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The protective efficacy ofPrEP trials have been predicted using objective biological markers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1959</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A radioactivity detector or a spectrofluorescence detector were used to detect conjugated phenolics.</plag_sens>
+    <tag_file_ids>gen_doc2163</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There were either a radioactivity detector (LB 509 EGG Berthold, Bad Wildbad-Germany) or a spectrofluorescence detector used to detect conjugated phenolics.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1959</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There was no obvious difference between the levels of the MKK7 and the other genes.</plag_sens>
+    <tag_file_ids>gen_doc2543</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There was no obvious difference in the levels of the MKK7 and UTR1 genes with rescue.</tag_plag_sens>
+  </row>
+</data>

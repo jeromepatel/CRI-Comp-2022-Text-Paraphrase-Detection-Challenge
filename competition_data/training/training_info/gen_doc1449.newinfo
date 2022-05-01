@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1449</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The outcome of the recognition of the folds was improved by the above mentioned methods.</plag_sens>
+    <tag_file_ids>gen_doc3962</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The expansion of the prediction scope for protein folds using the hierarchical classification framework was improved by the above mentioned methods.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1449</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The rate of transfer to another facility was similar.</plag_sens>
+    <tag_file_ids>gen_doc3055</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The rate of transfer to another facility was the same as before.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1449</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The L3i gene set has several classes of known genes expressed.</plag_sens>
+    <tag_file_ids>gen_doc950</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Several classes of genes were highly expressed in the L3i gene set.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1449</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The rise in GM is related to (a) hyperpolarization of the fibers, and (b) a marked reduction in the action potential.</plag_sens>
+    <tag_file_ids>gen_doc3395</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The rise in GM is related to (a) hyperpolarization of the fibers, (b) a marked reduction in the action potential waveform, and (c) excitation failures.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1449</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>After anoxia in worm strains with egl-3 null alleles, it's hard to survive.</plag_sens>
+    <tag_file_ids>gen_doc3527</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>After anoxia in worm strains with egl-3 null alleles, it is difficult to survive.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1449</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The McNamara criteria were used to define a hemodynamically significant duct.</plag_sens>
+    <tag_file_ids>gen_doc3315</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The McNamara criteria were used to define a hemodynamically significant duct.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1449</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The JE03-1760F strain had a 29 point deletion with 6 non-synonymous deletions found in the virus in feces, which was not possessed by any of the reported HEV strains.</plag_sens>
+    <tag_file_ids>gen_doc1133</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The JE03-1760F strain had a 29 point deletion with 6 non-synonymous deletions found in the virus in feces, which were not possessed by any of the reported genotype 3 HEV strains.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1449</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Most clean reads were mapped to the pear reference genome.</plag_sens>
+    <tag_file_ids>gen_doc325</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>More than 65% of clean reads were successfully mapped to the pear reference genome.</tag_plag_sens>
+  </row>
+</data>

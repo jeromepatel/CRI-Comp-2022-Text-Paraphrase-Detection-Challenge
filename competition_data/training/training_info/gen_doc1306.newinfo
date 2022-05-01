@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1306</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>In more detail, TLR7 and TLR8 sense single- and double-strandedRNA and short interferingRNA, whereas TLR3 doesn't.</plag_sens>
+    <tag_file_ids>gen_doc360</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In more detail, TLR7 and TLR8 sense single- and double-strandedRNA and short interferingRNA, whereas TLR3 does not.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1306</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The abbreviations used are: M1–300 and M1</plag_sens>
+    <tag_file_ids>gen_doc1319</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The abbreviations used are: M1–300 and M1</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1306</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The number of host infections is determined by the number of mosquitoes and the vertical efficiency of their spread.</plag_sens>
+    <tag_file_ids>gen_doc3973</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The number of host infections is determined by the number of mosquitoes and the vertical efficiency of the infections.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1306</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It was not possible to identify cross-reactivity with ABCC2 and MGMT.</plag_sens>
+    <tag_file_ids>gen_doc279</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>It was not possible to identify cross-reactivity with ABCC2 and MGMT antibodies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1306</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The graphs show the mean SEM of the parasites at different times.</plag_sens>
+    <tag_file_ids>gen_doc1329</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The graphs show the mean SEM of the parasites at different times in mice.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1306</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The optical detecting mechanism is one of the fundamental parts.</plag_sens>
+    <tag_file_ids>gen_doc469</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The two fundamental parts are the optical detecting mechanism and the electrochemical actuator.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1306</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Will the review address effectiveness or clarify understanding?</plag_sens>
+    <tag_file_ids>gen_doc1843</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Will the review address effectiveness, clarify understanding or describe education or curricula items?</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1325</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The opportunity to enhance gene transfer by maintaining an elevated concentration of DNA within the cellular microenvironment is offered by the controlled delivery of DNA complexes from LbL coated ensembles.</plag_sens>
+    <tag_file_ids>gen_doc1253</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The opportunity to enhance gene transfer by maintaining an elevated concentration of DNA within the cellular microenvironment using an appropriate polyelectrolyte film carrier is offered by the controlled delivery of DNA complexes from LbL coated ensembles.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1325</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>A His-tag is used to get theProtein onto the IMAC column.</plag_sens>
+    <tag_file_ids>gen_doc3202</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A His-tag is used to bind the protein to the IMAC column.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1325</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>7,797 sequences were successfully united into one sequence after assembly of the 5′ and 35′ESTs using Cap3.</plag_sens>
+    <tag_file_ids>gen_doc1496</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>7,797 sequences were successfully united into one sequence after assembly of 5′ and 35′ESTs using Cap3 and one-pass sequences with long transcripts were excluded.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1325</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>9,573 and 10,956 Sequences were produced from the one-pass sequence from 5′ and 3′ ends.</plag_sens>
+    <tag_file_ids>gen_doc324</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>9,573 and 10,956 sequence were produced from the one-pass sequence from 5′ and 3′ ends.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1325</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The results from QTL analysis on our multiparental population confirm previous results using the IBM Syn4 (B 73xMo17) population.</plag_sens>
+    <tag_file_ids>gen_doc2994</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The results from QTL analysis on our multiparental population confirm previous results using the IBM Syn4 (B73xMo17) population, suggesting that the genetic architecture of maize is dominated by small and medium QTL.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1325</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There was no significant shift for viral loads under 105 copies.</plag_sens>
+    <tag_file_ids>gen_doc1853</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There was no significant shift for viral loads below 105 copies/mL.</tag_plag_sens>
+  </row>
+</data>

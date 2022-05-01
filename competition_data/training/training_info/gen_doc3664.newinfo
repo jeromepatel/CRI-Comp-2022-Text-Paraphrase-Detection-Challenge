@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3664</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Degree values of genes, miRNAs and TFs ranged from 2 to 66, 2 to 77, and 2 to 123.</plag_sens>
+    <tag_file_ids>gen_doc703</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The degree values of genes, miRNAs and TFs ranged from 2 to 66, 2 to 77, and 2 to 123, respectively.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3664</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The effects of the VEGF-specific inhibitors Ki8751 and tivozanib were shown.</plag_sens>
+    <tag_file_ids>gen_doc2725</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The effects of the VEGF-specific inhibitors Ki8751 and tivozanib were demonstrated.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3664</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The relationship of the mixture volume and the individually optimal intensities were investigated.</plag_sens>
+    <tag_file_ids>gen_doc2890</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A relationship of the mixture volume and the individually optimalLED intensities was investigated in Figure 7b.</tag_plag_sens>
+  </row>
+</data>

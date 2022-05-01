@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3195</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The LTR retrotransposon is related to retroviruses, such as HIV-1, human RTL1/MART1, and HERV-K.</plag_sens>
+    <tag_file_ids>gen_doc3298</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The LTR retrotransposon is related to retroviruses, such as HIV-1, human RTL1/MART1, and HERV-K.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3195</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The Brazilian government made a recommendation in 2008 to use the HACSC indicator to evaluate primary care.</plag_sens>
+    <tag_file_ids>gen_doc3329</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The Brazilian government, through a Directive of the Ministry of Health (SAS/MS 221), recommended the use of the HACSC indicator to evaluate primary care in the country.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3195</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The European breed D statistics are plotted according to the population origin.</plag_sens>
+    <tag_file_ids>gen_doc1383</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Figure 5 shows a map of the European breed D statistics.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3195</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Hads is repulsive for small sizes, and the median end-to-end distance of the product isomers, and levels off for larger sizes.</plag_sens>
+    <tag_file_ids>gen_doc2859</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Hads is repulsive for small sizes, and the median end-to-end distance of the product isomers, and levels off for larger sizes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3195</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The role of BMMSCs and their contributions toward PCa development and progression are not clear.</plag_sens>
+    <tag_file_ids>gen_doc2714</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The role of BMMSCs and the extent of their contributions toward PCa development and progression are still unclear.</tag_plag_sens>
+  </row>
+</data>

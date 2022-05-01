@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3770</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>A hypertension is defined as a systolic blood pressure more than 140mmHg, a diastolic blood pressure more than 90mmHg, and currently receiving antihypertensive drugs.</plag_sens>
+    <tag_file_ids>gen_doc1032</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Hypertension was defined as a systolic blood pressure more than 140mmHg, a diastolic blood pressure more than 90mmHg, or currently receiving antihypertensive drugs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3770</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There is a report byLiu et al.</plag_sens>
+    <tag_file_ids>gen_doc339</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Liu et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3770</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The complete PNP gene clusters, which include the genes that were previously reported from other microorganisms, have been found to be present within DNA fragments ranging in size from 9 to 15 kb.</plag_sens>
+    <tag_file_ids>gen_doc2710</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The complete PNP gene clusters, which include the genes that were previously reported from other microorganisms, have been found to be present within DNA fragments ranging from 9 to 15 kb.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3770</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The authors analysed the regulation of the porins and found that OmpF is up-regulated and OmpC is down-regulated after 28C.</plag_sens>
+    <tag_file_ids>gen_doc3213</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The authors analysed the regulation of the porins and found that OmpF is up-regulated and OmpC is down-regulated after growth.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3770</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The proportion of test-positive herds is dependent on the test being used.</plag_sens>
+    <tag_file_ids>gen_doc3263</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The proportion of test-positive herds is largely dependent on the specificity of the test being used.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3770</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Yamashita et al did an analysis on patients with hepatolithiasis and bile-duct carcinoma and found differences in the expression and production of mucin carbohydrates.</plag_sens>
+    <tag_file_ids>gen_doc2363</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Yamashita et al did an analysis on patients with hepatolithiasis and bile-duct carcinoma and found that the different expression and production of mucin carbohydrates was related to the core antigens.</tag_plag_sens>
+  </row>
+</data>

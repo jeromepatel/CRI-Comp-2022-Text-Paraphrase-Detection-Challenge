@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc222</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>It is characterized by hypoproliferative and normal megakaryocytes with hypolobated nuclei.</plag_sens>
+    <tag_file_ids>gen_doc1947</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>It is characterized by hypoproliferative anemia and normal megakaryocytes with hypolobated nuclei.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc222</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The plates were put into a humidified 5% CO2 atmosphere after being shaken.</plag_sens>
+    <tag_file_ids>gen_doc946</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The plates were put into a humidified 5% CO2 atmosphere after being shaken and incubated.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc222</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>CARM1E15 is enriched in normal mouse mammary stroma.</plag_sens>
+    <tag_file_ids>gen_doc1548</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Normal mouse mammary stroma is enriched in CARM1E15.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc222</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Less severe intermittent hypoxia produced a different HPA axis programming response than more severe intermittent hypoxia.</plag_sens>
+    <tag_file_ids>gen_doc3654</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Less severe intermittent hypoxia produced a different HPA axis "programming" response than more severe intermittent hypoxia.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc222</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Kawaguchi et al.</plag_sens>
+    <tag_file_ids>gen_doc75</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Kawaguchi et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc222</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Other studies found that inviting women to perform self-sampling by mailing them the HPV kit directly at home results in a greater participation when compared to that obtained with an invitation letter for a clinic-based Pap test.</plag_sens>
+    <tag_file_ids>gen_doc489</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In contrast to our results, other studies found that inviting women to perform Self-sampling by mailing them the HPV kit directly at home results in a greater participation when compared to that obtained with an invitation letter for a clinic based Pap test.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc222</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There are several studies that show that the biological effects ofLPS can be reduced if negative charges in the cholesterol groups are changed.</plag_sens>
+    <tag_file_ids>gen_doc1265</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There are several studies that show that the biological effects of LPS can be reduced if negative charges in the phosphate groups of lipid A are changed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc222</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A statement like that.</plag_sens>
+    <tag_file_ids>gen_doc191</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>A statement such as that.</tag_plag_sens>
+  </row>
+</data>

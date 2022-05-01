@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1246</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>650 mV has a peak half-maximum current density of  0.31 mA cm–2 at an overpotential of ca.</plag_sens>
+    <tag_file_ids>gen_doc875</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>650 mV, reaching a peak half-maximum current density of 0.31 mA cm–2 at an overpotential of ca.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1246</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The respondents were asked if they knew about the procedures at their workplace to support consumer and community involvement.</plag_sens>
+    <tag_file_ids>gen_doc3538</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Respondents were asked if they were aware of the procedures at their workplace to support consumer and community involvement prior to the workshop.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1246</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>These relationships were accounted for in our method.</plag_sens>
+    <tag_file_ids>gen_doc1739</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Our method accounted for these relationships.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1246</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>She had sarcoidosis, which was suspected to be the reason for her impaired visual acuity.</plag_sens>
+    <tag_file_ids>gen_doc1742</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>She had sarcoidosis which was suspected to be the cause of impaired visual acuity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1246</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>On Dataset 1 and 2.</plag_sens>
+    <tag_file_ids>gen_doc3752</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>On Dataset 1 and Dataset 2.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1246</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>An authorized public or private insurance agency is needed to enroll in the SGGSS.</plag_sens>
+    <tag_file_ids>gen_doc384</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>An authorized public or private insurance agency is needed to enroll in the SGGSS.</tag_plag_sens>
+  </row>
+</data>

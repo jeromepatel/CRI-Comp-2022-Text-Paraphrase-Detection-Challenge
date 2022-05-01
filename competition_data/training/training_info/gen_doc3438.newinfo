@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3438</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A simple remedy can be presented by considering what needs to be known about average belief.</plag_sens>
+    <tag_file_ids>gen_doc3033</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A simple remedy presents itself by considering what needs to be known to evaluate average belief directly.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3438</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The gap opening penalty was 10, the gap extension penalty was 1.0, and the delay divergence penalty was 30% of the BLOSUM similarity matrix.</plag_sens>
+    <tag_file_ids>gen_doc3751</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The gap opening penalty was 10, the gap extension penalty was 1.0, and the delay divergence penalty was 30% of the BLOSUM similarity matrix.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3438</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Demarco et al used calcium hydroxide.</plag_sens>
+    <tag_file_ids>gen_doc965</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Demarco et al. use calcium hydroxide.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3438</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>CSF is helpful in discriminating among different causes.</plag_sens>
+    <tag_file_ids>gen_doc325</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Cerebrospinal examination is helpful in discriminating among different causes.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc332</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A less complicated real-time PCR technique is the use of non-specific DNA intercalating dyes, which emit fluorescent signals when bound to double stranded DNA.</plag_sens>
+    <tag_file_ids>gen_doc2351</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A less complicated real-time PCR technique is the use of non-specific DNA intercalating dyes, which emit fluorescent signals when bound to double stranded DNA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc332</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>However, van den Heuvel and his associates.</plag_sens>
+    <tag_file_ids>gen_doc343</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>However, van den Heuvel et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc332</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>BmSP14, BmSPH125 and BmSPH78 were up-regulated between 1.5 and 2, suggesting that they may have similar functions to their tobacco hornworm homologs.</plag_sens>
+    <tag_file_ids>gen_doc3562</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>BmSP14, BmSPH125 and BmSPH78 were up-regulated between 1.5 and 2, suggesting they may have similar functions to their tobacco hornworm homologs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc332</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The aim of the study was to determine if the addition of an -lactam antibiotic with an -glycoside has an effect on the killing rate of a common Gram-negative pathogen.</plag_sens>
+    <tag_file_ids>gen_doc2505</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The aim of the study was to determine if the addition of an -lactam antibiotic with an -glycoside has an effect on the killing rate of a Gram-negative pathogen in a porcine intensive care model of severe sepsis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc332</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>A wavelength tunable Ti:Sapphire laser (Chameleon VISION II, Coherent Inc.) with a repetition rate of 76 MHz and pulse durations of 140 fs across the full wavelength tuning range was the excitation source.</plag_sens>
+    <tag_file_ids>gen_doc513</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>A wavelength tunable Ti:Sapphire laser (Chameleon VISION II, Coherent Inc.) with a repetition rate of 76 MHz and pulse durations of 140 fs across the full wavelength tuning range was used as the excitation source.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc332</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Extra resources are required for the alternative account of the reasoning steps, where one reverses the already made but-implicture.</plag_sens>
+    <tag_file_ids>gen_doc229</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Extra resources are needed for the alternative account of the reasoning steps, where one reverses the already made but-implicature.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc332</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The presence of adiposity is one of the risk factors for hypertension.</plag_sens>
+    <tag_file_ids>gen_doc3782</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Hyperglycemia and hypertension may be related to risk factors, such as adiposity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc332</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>At high locations along the second and third dimensions, some of the highest ROI response stimuli appear.</plag_sens>
+    <tag_file_ids>gen_doc1522</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>At high locations along the second and third dimensions, some of the highest ROI response stimuli appear.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc332</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The association between HRQL and hemoglobin levels was not as strong as the association between HRQL and anemia.</plag_sens>
+    <tag_file_ids>gen_doc2508</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The association between HRQL and anemia as a variable was weaker than the association between HRQL and hemoglobin levels.</tag_plag_sens>
+  </row>
+</data>

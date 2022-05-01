@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1381</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>At about 7 years of age, almost all of the children had IQ and blood lead tests on the same day.</plag_sens>
+    <tag_file_ids>gen_doc1776</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>At about 7 years of age, 98% of children had IQ and blood lead tests on the same day.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1381</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>All experiments were done with cells in passages 6–9.</plag_sens>
+    <tag_file_ids>gen_doc1530</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The cells in passages 6–9 were used for all the experiments.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1381</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>There is a lot of complexity in the signaling of NF-B.</plag_sens>
+    <tag_file_ids>gen_doc3523</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Recent studies show the complexity of signaling during tumorigenesis.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc286</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The orthosteric binding pocket of the NOP receptor was suggested to be able to bind with the 1,3,8-triaza-spiro[ 4.5]-decane scaffold.</plag_sens>
+    <tag_file_ids>gen_doc923</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The orthosteric binding pocket of the NOP receptor was suggested to be able to bind with the 1,3,8-triaza-spiro[4.5]-decane scaffold.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc286</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The completion of homework assignments is encouraged by therapists.</plag_sens>
+    <tag_file_ids>gen_doc1103</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Patients are encouraged to complete homework assignments to facilitate skill acquisition.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc286</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The activity coefficients are calculated from eqn.</plag_sens>
+    <tag_file_ids>gen_doc687</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Where the activity coefficients are calculated from eqn is where the rate constants are.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc286</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The mode of fat gain/loss for patients with DMD is biphasic, with an increase in fat mass in the prepubertal age followed by a decline in fat mass after 13 years of age.</plag_sens>
+    <tag_file_ids>gen_doc227</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The mode of fat gain/loss for patients with DMD is a biphasic one, with an increase in fat mass in the prepubertal age followed by a decline in fat mass after 13 years of age.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc286</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>We started by surveying activity with a gyr+ culture of E. coli.</plag_sens>
+    <tag_file_ids>gen_doc2600</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>We began by surveying activity with a gyr+ culture of E. coli to provide a baseline for comparison of compounds.</tag_plag_sens>
+  </row>
+</data>

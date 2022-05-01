@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3468</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Cetuximab was found to improve the OS, PFS, and CI compared to the best supportive care.</plag_sens>
+    <tag_file_ids>gen_doc690</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Cetuximab was found to improve the OS, PFS, and confidence interval compared to supportive care.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3468</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The NTS strains that were Fermentation were effective and yielded up to 24.2% of their original strength.</plag_sens>
+    <tag_file_ids>gen_doc3053</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The NTS strains that were Fermentation were effective and yielded up to 24.2% of OD/L.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3468</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>counterclockwise rotation results in positive values.</plag_sens>
+    <tag_file_ids>gen_doc271</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>counterclockwise rotation results in positive values while clockwise rotation results in negative values.</tag_plag_sens>
+  </row>
+</data>

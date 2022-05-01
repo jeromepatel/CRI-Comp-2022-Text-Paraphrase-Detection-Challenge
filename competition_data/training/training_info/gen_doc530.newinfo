@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc530</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The object's ability to compete with neighboring representations is increased by object activation.</plag_sens>
+    <tag_file_ids>gen_doc1463</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>This object activation strengthens the sensory representation of the entire object and increases its ability to compete with neighboring representations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc530</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The intervention was aimed at applicants from medical schools outside of Illinois.</plag_sens>
+    <tag_file_ids>gen_doc2339</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The target audience for this intervention was applicants from medical schools outside of Illinois who completed interviews.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc530</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Gs, Gi, G12/13, Gq and G0 are some of the G subunits that are involved in S1P receptor G.</plag_sens>
+    <tag_file_ids>gen_doc2295</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Gs, Gi, G12/13, Gq and G0 are some of the G subunits that are involved in the S1P receptor G protein coupling.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc530</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The leaves of rice plants were used to make the DNA samples.</plag_sens>
+    <tag_file_ids>gen_doc3607</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The leaves of rice plants were taken from the tilling stage and used to extract the DNA samples.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc530</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There was an absent foveal pit and absent foveal reflexes on the fundus examination.</plag_sens>
+    <tag_file_ids>gen_doc1285</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>She had a horizontal pendular nystagmus, with an absent foveal pit and absent foveal reflexes on the fundus examination.</tag_plag_sens>
+  </row>
+</data>

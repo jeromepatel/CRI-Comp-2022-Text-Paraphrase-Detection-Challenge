@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1428</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The overall growth rates differ by 82.4% at the end of the study.</plag_sens>
+    <tag_file_ids>gen_doc2326</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The overall growth rates differ by 82.4% at the end of the study, which is a remarkable difference figurec-d.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1428</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Women with a high Nugent score were more likely to have a Gardnerella 16S rRNA read than women with a low Nugent score.</plag_sens>
+    <tag_file_ids>gen_doc3174</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Women with a high Nugent score were more likely to have a Gardnerella 16S rRNA read, compared to women with moderate or low Nugent scores.</tag_plag_sens>
+  </row>
+</data>

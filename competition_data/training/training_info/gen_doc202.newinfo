@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc202</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The Kruskal-Wallis association tests were used to detect the cis eQTL for each of the 40,000 genes.</plag_sens>
+    <tag_file_ids>gen_doc238</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The single-marker Kruskal-Wallis association tests were conducted to detect the cis eQTL for each of the 40,000 genes profiled in the deLiver cohort.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc202</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The power to capture signals for untyped SNPs will be gained by testing for association to a trait.</plag_sens>
+    <tag_file_ids>gen_doc169</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The power to capture signals for untyped causal SNPs will be gained by testing for association to traits of interest.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc202</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>If the SNPs are strategically distributed.</plag_sens>
+    <tag_file_ids>gen_doc169</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>If the SNPs are strategically distributed across the genome.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc202</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>14 metal oxide Semiconductor field-effect transistors on a driver stage are fixed onto a shaking tray next to a microtiter plate and are used to switch on and off the LEDs.</plag_sens>
+    <tag_file_ids>gen_doc125</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>14 metal oxide Semiconductor field-effect transistors on a driver stage are fixed onto a shaking tray next to the microtiter plate, and are used to switch on and off the LEDs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc202</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The city of Leipzig has over 500,000 inhabitants mostly from central European descent.</plag_sens>
+    <tag_file_ids>gen_doc0</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The city of Leipzig has over 500,000 inhabitants mostly from central European descent.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc202</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In the other two tubes, -glucosidase was added and the tubes were put in the freezer for 20 minutes.</plag_sens>
+    <tag_file_ids>gen_doc999</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In the other two tubes, -glucosidase was added and the tubes were put into a 50C container for 20 min.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc202</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>From the integration of the CoIII to CoIII oxidation wave in the CV scans, the charge was calculated and the amount of cobalt catalyst immobilized was estimated to be approximately 33 nmol cm2 and 25 nmol cm2 for PyCo and pPyCo, respectively.</plag_sens>
+    <tag_file_ids>gen_doc1502</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>From the integration of the CoII to CoIII oxidation wave in the CV scans, the charge was calculated and the amount of cobalt catalyst immobilized was estimated to be approximately 33 nmol cm2 and 25 nmol cm2 for PyCo and pPyCo, respectively.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc202</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The double and the two singlenucleotide polymorphisms are shaded in gray.</plag_sens>
+    <tag_file_ids>gen_doc896</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The double and two singlenucleotide polymorphisms are shaded in gray in the third, fourth, and 23rd repeats.</tag_plag_sens>
+  </row>
+</data>

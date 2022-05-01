@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc551</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Allowing nerve blocks to be performed in a separate site while other patients are being operated on reduces room time and can potentially increase time available for surgical procedures.</plag_sens>
+    <tag_file_ids>gen_doc3801</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Allowing nerve blocks to be performed in a separate site whilst other patients are being operated on in theatre reduces room time and can potentially increase time available for surgical procedures.</tag_plag_sens>
+  </row>
+</data>

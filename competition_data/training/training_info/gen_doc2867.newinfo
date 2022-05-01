@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2867</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The fennec did not show any signs of seizure or neurologic manifestations over the course of his life, and these results indicated that the animal was well-adapted.</plag_sens>
+    <tag_file_ids>gen_doc1990</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Remarkably, this fennec did not show any signs of seizure or neurologic manifestations over the course of his life, and these results indicated that the animal was well-adapted.</tag_plag_sens>
+  </row>
+</data>

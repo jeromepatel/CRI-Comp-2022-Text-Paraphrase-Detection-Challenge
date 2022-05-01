@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc287</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Australia/Mayes and Cochons/Cimetire each form a single cluster on the island.</plag_sens>
+    <tag_file_ids>gen_doc704</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Australia/Mayes and Cochons/Cimetire each form a single cluster and Guillou Island forms a separate cluster.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc287</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The formation of gap junction channels between opposing cells could be the reason.</plag_sens>
+    <tag_file_ids>gen_doc2003</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Possibly because of the formation of gap junction channels between opposing cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc287</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Blue dye used to mark the deep surgical resection margin of some specimen caused a further source of false positives.</plag_sens>
+    <tag_file_ids>gen_doc842</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Blue dye used to mark the deep surgical resection margin of some specimen resulted in a further source of false positives.</tag_plag_sens>
+  </row>
+</data>

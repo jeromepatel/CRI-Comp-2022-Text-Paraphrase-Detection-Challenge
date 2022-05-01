@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1637</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There has been a growth of the nursing agency industry in South Africa.</plag_sens>
+    <tag_file_ids>gen_doc435</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>According to anecdotal evidence, there has been a growth of the nursing agency industry in South Africa in the past decade.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1637</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Mesenchymal stem cells-derived EVs have been used for the treatment of a wide range of injuries, mainly at a paracrine level.</plag_sens>
+    <tag_file_ids>gen_doc2646</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Mesenchymal stem cells-derived EVs have been used for the treatment of a variety of injuries, mainly at a paracrine level, and are thought to have a protective effect against injury through the delivery of growth factors and miRNAs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1637</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The details of the study participants have been previously reported.</plag_sens>
+    <tag_file_ids>gen_doc1153</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The details of the study participants and recruitment procedures have been previously reported.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1637</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The delay in the start of disease when compared with animals treated with PBS figure A and Table 1) was similar to the findings in the TNF/ animals figure.</plag_sens>
+    <tag_file_ids>gen_doc3</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Animals treated with very high doses of TNFR–IgG immediately before the start of neurological deficits had a delay in the start of disease that was similar to the findings in the TNF/ animals figure.</tag_plag_sens>
+  </row>
+</data>

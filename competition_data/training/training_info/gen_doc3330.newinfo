@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3330</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In 2006 health district boundaries were drawn by health district field staff and then mapped in real time with a gps device.</plag_sens>
+    <tag_file_ids>gen_doc26</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In 2006 the health district boundaries in Mncio Lima were drawn by health district field staff and then mapped in real time with a gps device.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3330</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The optimal MiRKAT failed to reject the null hypothesis even at the significance level.</plag_sens>
+    <tag_file_ids>gen_doc3756</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The optimal MiRKAT generated a p value of 0.080, failing to reject the null hypothesis even at the significance level.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3330</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>We were interested in a possible link between TGF-2 and Snail because of the correlation between hyperproliferation and Snail transgene expression.</plag_sens>
+    <tag_file_ids>gen_doc2171</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Our interest in a possible link between TGF-2 and Snail was further fostered by the correlation between epithelial hyperproliferation and Snail transgene expression.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3330</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Several investigations have shown that the production of COX-2 and PGE2 is increased in the kidneys of patients with diabetes.</plag_sens>
+    <tag_file_ids>gen_doc394</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Several investigations have shown that the production of COX-2 and PGE2 is increased in the kidneys of diabetic animals, and that the inhibition of PGE2 or antagonism of PGE2 is helpful in the treatment of diabetic patients.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3330</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In the present study, we looked at the expression profiles of miRNAs during early flower opening and in response to ethylene.</plag_sens>
+    <tag_file_ids>gen_doc1091</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In the present study we looked at the expression profiles of miRNAs during early flower opening and in response to ethylene in rose petals.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3330</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>bAP amplitude and half-width were unaffected by the block, as was the case in the Hippocampal pyramidal neurons.</plag_sens>
+    <tag_file_ids>gen_doc1525</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>bAP amplitude and half-width were not affected by the BK channel block, as was the case in Hippocampal pyramidal neurons.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3330</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In the past, we have shown that the damage response machinery in STICs could cause the cancer.</plag_sens>
+    <tag_file_ids>gen_doc2508</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In the past, we have shown that there was an activation of the DNA damage response machinery in STICs, which could cause the cancer process.</tag_plag_sens>
+  </row>
+</data>

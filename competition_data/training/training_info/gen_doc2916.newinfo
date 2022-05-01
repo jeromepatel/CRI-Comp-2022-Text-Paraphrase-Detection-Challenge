@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2916</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Finally, smokers who decide to quit spontaneously and seek immediate help might be offered passive immunization followed by pharmacotherapy to reduce craving and withdrawal symptoms while vaccination is started concurrently in order to establish adequate antibodies to prevent relapse at a later stage</plag_sens>
+    <tag_file_ids>gen_doc1667</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>Finally, smokers who decide to quit spontaneously and seek immediate help might be offered passive immunization followed by pharmacotherapy to reduce craving and withdrawal symptoms while vaccination is started concurrently in order to establish adequate antibody titres to prevent relapse at a later stage.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2916</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The loss of transport activity was shown to be caused by adding an extra Met at the N-terminus.</plag_sens>
+    <tag_file_ids>gen_doc1654</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The loss of transport activity was shown in previous studies to be caused by adding an additional Met at the N-terminus or an Ala between Met1 and His2.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1867</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The investigators didn't find any Pro/Pro genes.</plag_sens>
+    <tag_file_ids>gen_doc1520</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The investigators did not find any Pro/Pro genes in their study population.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1867</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The hematopoiesis development may be altered byurbations of the tightly regulated network.</plag_sens>
+    <tag_file_ids>gen_doc3769</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>This tightly regulated network may change hematopoiesis development and promote leukemogenesis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1867</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The risk of various diseases, such as chronicrenal failure, retinopathy, pulmonary hypertension, chronic pain, ischemia, stroke, priapsm and infraction of the penis, is decreased by sickling.</plag_sens>
+    <tag_file_ids>gen_doc950</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The risk of various diseases, such as chronic renal failure, retinopathy, pulmonary hypertension, chronic pain, ischemia, stroke, priapsm and infraction of the penis, is decreased by sickling.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1867</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Rab11 and Rab10 regulate phagosomal recycling and Rab1 and Rab2 regulate the interaction of phagosomes with the ER-Golgi intermediate compartment.</plag_sens>
+    <tag_file_ids>gen_doc2095</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Rab11 and Rab10 regulate phagosomal recycling, Rab1 and Rab2 regulate the interaction of phagosomes with the ER-Golgi intermediate compartment, and Rab1 and Rab2 regulate the fusion with specific endocytic compartments.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1867</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The expression of E-cadherin was caused by the treatment of MCF10A-Ras cells.</plag_sens>
+    <tag_file_ids>gen_doc3335</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The expression of E-cadherin was led to by the treatment of MCF10A-Ras cells with inhibitors of IL6/Jak/pStat3 signaling.</tag_plag_sens>
+  </row>
+</data>

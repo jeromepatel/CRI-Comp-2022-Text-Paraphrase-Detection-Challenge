@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3991</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>.</plag_sens>
+    <tag_file_ids>gen_doc1073</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3991</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The investigators didn't find any Pro/Pro genes.</plag_sens>
+    <tag_file_ids>gen_doc1520</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The investigators did not find any Pro/Pro genes in their study population.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3991</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Two experts pre-tested the questionnaire for comprehension and acceptability in two rounds by 12 mothers who represented different age, parity and ethnic groups.</plag_sens>
+    <tag_file_ids>gen_doc259</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Two experts reviewed the questionnaire and pre-tested it for comprehension and acceptability in two rounds by 12 mothers who represented different age, parity, and ethnic background.</tag_plag_sens>
+  </row>
+</data>

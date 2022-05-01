@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2200</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The results show the benefits of HFC.</plag_sens>
+    <tag_file_ids>gen_doc1318</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The results show the benefits of HFC on cardiovascular health.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2200</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Most of the mass that was less than 10 cm were benign while most of the mass that was more than 10 cm were mostly cancer cases.</plag_sens>
+    <tag_file_ids>gen_doc3312</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The majority of the mass that was less than 10 cm were benign, while the majority of the mass that was between 10 and 14 cm were malignant.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2200</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In this case, a pair design was used and different crop types were collected in different area pairs.</plag_sens>
+    <tag_file_ids>gen_doc3149</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A pair design was used and different crop types were sample in different area pairs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2200</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Theescence from cells in the growth phase was examined using a microscope.</plag_sens>
+    <tag_file_ids>gen_doc2970</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Theescence derived from cells in the mid-logarithmic phase of growth was examined using a microscope.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2200</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Despite the lack of overall difference in methylation, the differences in expression suggest that further investigation is necessary.</plag_sens>
+    <tag_file_ids>gen_doc2252</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Despite the lack of overall difference in methylation, the differences in expression suggest that further investigation of this locus as a potential biomarker is needed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2200</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The LMGs were able to communicate with the HMGs thanks to the help of other genes.</plag_sens>
+    <tag_file_ids>gen_doc3358</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The LMGs were able to communicate with the HMGs thanks to other genes.</tag_plag_sens>
+  </row>
+</data>

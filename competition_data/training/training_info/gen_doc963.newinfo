@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc963</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The probability that the network depicted architecture along the x- axis will be able to satisfy the constraints that the associated network context is capable of placing upon it is quantified.</plag_sens>
+    <tag_file_ids>gen_doc814</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The probability that the network depicted architecture along the x- axis will be able to satisfy the constraints that the associated network context is capable of placing upon it is quantified.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc963</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>We found a concentration dependent constriction of the nanotube where the control radius was 513 nm and the soy-PE enhanced tubes were 395 nm with 10% PE.</plag_sens>
+    <tag_file_ids>gen_doc668</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We found a concentration dependent constriction of the nanotube where the control radius was 513 nm and the soy- PE enhanced tubes were 395 nm with 10% PE and 20% PE.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc963</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The moles of hydrogen peroxide reduced per minute was defined by the CAT activity.</plag_sens>
+    <tag_file_ids>gen_doc1910</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>moles of hydrogen peroxide reduced per minute is what one unit of CAT activity was defined as.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc963</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There is no research on the effectiveness of the combination of patient education and exercise for patients with dizziness.</plag_sens>
+    <tag_file_ids>gen_doc2761</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There has been no research on the effectiveness of the combination of therapeutic patient education and therapeutic exercise in patients with cervicogenic dizziness.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc963</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The associations between clinico-pathological features and MSC are summarized in Table 2.</plag_sens>
+    <tag_file_ids>gen_doc334</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Table 2 summarizes the associations between MSC at diagnosis and clinico-pathological features.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc963</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The structures T/T, R/T, R′′/R, R′/T and R′′/T are all PDB ids.</plag_sens>
+    <tag_file_ids>gen_doc3066</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The structures T/T, R/T, R′′/R, R′/T and R′′/T have PDB ids that are 1C7E, 2C7C and 1AON, respectively.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc963</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>After 1 h pre-electrophoresis, the Tris- Borate- EDTA buffer was used for 60 min.</plag_sens>
+    <tag_file_ids>gen_doc1394</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>After 1 h of pre-electrophoresis, Tris- Borate- EDTA buffer was used for about 60 min at room temperature.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc963</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Over 31% of 500 Sterne/Wip1 spores had at least one exosporial layer, which is usually a single layer.</plag_sens>
+    <tag_file_ids>gen_doc3792</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Over 31% of 500 Sterne/Wip1 spores had two exosporial layers; normally this is a single layer, with two layers appearing.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc963</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The activities involved identification and discussion of the narrative components.</plag_sens>
+    <tag_file_ids>gen_doc123</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The activities involved identification and discussion of the narrative components.</tag_plag_sens>
+  </row>
+</data>

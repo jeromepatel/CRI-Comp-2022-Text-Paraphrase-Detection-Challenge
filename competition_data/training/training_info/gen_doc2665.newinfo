@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2665</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The C57BL/6 mice give rise to a 5 gram tumor in three weeks or less, suggesting that a large percentage of these cells fulfill the criteria for cancer stem cells.</plag_sens>
+    <tag_file_ids>gen_doc656</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The C57BL/6 mice give rise to a 5 gram tumor in three weeks or less, suggesting that a large percentage of these cells fulfill the operational criteria for cancer stem cells.</tag_plag_sens>
+  </row>
+</data>

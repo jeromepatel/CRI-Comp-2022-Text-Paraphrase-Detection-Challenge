@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3744</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>It has been said that the shelf life of the fruit is 14 to 20 days.</plag_sens>
+    <tag_file_ids>gen_doc2675</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>It has been said that the shelf life of blueberries is about 14 to 20 days.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3744</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The sister group of the Miconieae (Amorim, Goldenberg, andMichelangeli, 2009), an exclusively Neotropical group, is represented by the Physeterostemon.</plag_sens>
+    <tag_file_ids>gen_doc1475</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The sister group of the Miconieae (Amorim, Goldenberg &amp;Michelangeli, 2009), an exclusively Neotropical group, is represented by the Physeterostemon, which was first described from two species from southern Bahia.</tag_plag_sens>
+  </row>
+</data>

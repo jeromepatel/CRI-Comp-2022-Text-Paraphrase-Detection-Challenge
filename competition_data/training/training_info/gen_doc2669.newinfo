@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2669</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We used the GAD67-GFP knock-in mice to study the DRG neurons.</plag_sens>
+    <tag_file_ids>gen_doc970</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We used GAD67-GFP knock-in mice and immunohistochemistry to identify the DRG neurons.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2669</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>All of our EpiSC-like ESC lines were injected into NOD/SCID mice to find out if they could differentiate.</plag_sens>
+    <tag_file_ids>gen_doc3103</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>All of our EpiSC-like ESC lines were injected into NOD/SCID mice in order to investigate in vivo differentiation potential.</tag_plag_sens>
+  </row>
+</data>

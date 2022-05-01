@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2812</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Feelgood is an important tool for identifying potential candidate genes and regulatory networks because of the complex genetic basis for these diseases.</plag_sens>
+    <tag_file_ids>gen_doc2949</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Feelgood is an important tool for identifying potential candidate genes and regulatory networks because the genetic basis for these diseases is often highly complex.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2812</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Parada et al.</plag_sens>
+    <tag_file_ids>gen_doc3320</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Parada et al. were examples.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2812</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>A paper published more than 15 years ago describes our hypothesis that the cerebellum controls the acquisition of sensory data, an idea first proposed 10 years earlier in a paper exploring the spatial structure of the extensive peri-oral representations in the cerebellum of rats.</plag_sens>
+    <tag_file_ids>gen_doc2397</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The title is the same as a paper published more than 15 years ago describing our hypothesis that the cerebellum controls the acquisition of sensory data, an idea first proposed 10 years earlier in a paper exploring the spatial structure of the extensive peri-oral tactile representations in the cerebellum of rats:</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2812</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Lactaid is one of the most extensively studied biochemical productions in cyanobacteria and is produced with high productivity.</plag_sens>
+    <tag_file_ids>gen_doc699</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>One of the most extensively studied biochemical productions in cyanobacteria is the production of lactate.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2812</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The total -glucan content ranged from 2% to 8% in similar studies.</plag_sens>
+    <tag_file_ids>gen_doc2686</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The total -glucan content of barley ranged from 2% to 8% and varied by environment, milling ratio and extract conditions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2812</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>According to the 8th edition of the TNM classification, the pTNM was done.</plag_sens>
+    <tag_file_ids>gen_doc2891</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>According to the 8th edition of the TNM classification the pTNM was carried out.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2812</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The high levels of HU combined with its sequence-independent binding and bending activities are consistent with the fact that it has an important architectural role in the chromosomes.</plag_sens>
+    <tag_file_ids>gen_doc181</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The high levels of HU combined with its sequence-independent binding and bending activities are consistent with the fact that HU has an important architectural role in chromosome compaction.</tag_plag_sens>
+  </row>
+</data>

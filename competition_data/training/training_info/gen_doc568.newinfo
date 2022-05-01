@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc568</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The analysis shows that the CRC tissues have a higher level of NOX4 than the non-malignant tissues.</plag_sens>
+    <tag_file_ids>gen_doc2264</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The analysis showed that the CRC tissues expressed a higher level of NOX4 than the adjacent non-malignant tissues.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc568</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>TheDDRs are activated by several collagen types, both fibrillar and non-fibrillar, with different specificities for different types.</plag_sens>
+    <tag_file_ids>gen_doc2595</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>TheDDRs are activated by several collagen types, both fibrillar and non-fibrillar types, with the two receptors displaying different specificities.</tag_plag_sens>
+  </row>
+</data>

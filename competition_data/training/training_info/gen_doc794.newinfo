@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc794</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The structure, regulatory and resistance genes of those compounds are usually clustered in the genomes.</plag_sens>
+    <tag_file_ids>gen_doc3707</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The structure, regulatory and resistance genes of those compounds are usually clustered in the genomes, which greatly facilitates biosynthetic investigations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc794</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>It was assumed that the T 2W images were ground truth and there was a significant difference between them.</plag_sens>
+    <tag_file_ids>gen_doc3547</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There was a significant difference between T 2W and right gradient, based on the assumption that the T 2W images were ground truth.</tag_plag_sens>
+  </row>
+</data>

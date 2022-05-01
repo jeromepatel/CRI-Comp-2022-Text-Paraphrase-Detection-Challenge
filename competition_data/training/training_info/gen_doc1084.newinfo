@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1084</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Weighted average CG methylation was calculated for each sample.</plag_sens>
+    <tag_file_ids>gen_doc1706</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Weighted average CG methylation was calculated for each sample.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1084</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There is a lack of access to efficient therapy for this problem.</plag_sens>
+    <tag_file_ids>gen_doc2415</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>There is a lack of access to efficient therapy for the problem of infections with this parasites.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1084</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The data of Bergamaschi et al. supports these findings.</plag_sens>
+    <tag_file_ids>gen_doc2017</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The findings are in line with the data of Bergamaschi et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1084</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The main effect was found when it came to Subjective Preference.</plag_sens>
+    <tag_file_ids>gen_doc1456</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The main effect was found for Subjective preference.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1084</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>S6 is a figure.</plag_sens>
+    <tag_file_ids>gen_doc1867</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Figure S6.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1084</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Using animal models of depression, we tested whether or not Yueju rapidly and lastingly act to alleviate the symptoms.</plag_sens>
+    <tag_file_ids>gen_doc1862</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Using animal models of depression, we tested whether Yueju rapidly and lastingly act to alleviate the symptoms and examined the underlying mechanisms.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1084</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>When it appears in sudden hemolytic events, thrombocytopenia of unknown origin, or splenomegaly, it's considered to be clinically autoimmune cytopenia.</plag_sens>
+    <tag_file_ids>gen_doc1235</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>When it appears in sudden hemolytic events, thrombocytopenia of unknown origin, or splenomegaly, it is considered to be clinically autoimmune cytopenia.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1084</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>If the promotion of autophagy was combined with the knockdown of BECN1, it would no longer be possible.</plag_sens>
+    <tag_file_ids>gen_doc1206</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>If combined with the knockdown of BECN1 by SiBecn1, the promotion of autophagy was obviated.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc1084</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There have been reports of inflammation of the adrenal medulla in humans and a mare.</plag_sens>
+    <tag_file_ids>gen_doc2305</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In IDDM subjects, there have been reports ofLymphocytic inflammation of the adrenal medulla and high prevalence of serum autoantibody.</tag_plag_sens>
+  </row>
+</data>

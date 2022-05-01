@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc958</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The first thing we did was to measure acupuncture vertical movements as shown on an oscillogram, which allowed for a more precise assessment of subtle acupuncture movements than is possible with direct observation.</plag_sens>
+    <tag_file_ids>gen_doc3722</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The first thing we did was to measure acupuncture vertical movements as shown on an oscillogram, which allows for a more precise assessment of subtle acupuncture movements than is possible with direct observation of the actual movement.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc958</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>After 5 days, the slides were washed and stained with DAPI, and then again with distilled water, and then with Distamycin.</plag_sens>
+    <tag_file_ids>gen_doc2865</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>After 5 days, the slides were washed and stained with DAPI and then again with distilled water and Distamycin for 45 minutes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc958</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>de Kock et al.</plag_sens>
+    <tag_file_ids>gen_doc2282</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>1992; de Kock et al.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3276</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The O'Brien-Fleming technique is the most powerful of these, according to a simulation study.</plag_sens>
+    <tag_file_ids>gen_doc1283</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The O'Brien-Fleming technique is the most powerful of these, according to a simulation study.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3276</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Supplementary Figures 1a, 1b, and 1c were assessed with a test.</plag_sens>
+    <tag_file_ids>gen_doc2906</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Supplementary Figures 1a, 1b, and 1c statistical significance were assessed with a test.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3276</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The contribution of the multiplet to the line shape can not be large in a region where the measured intensity is small.</plag_sens>
+    <tag_file_ids>gen_doc2596</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The strongest lines of the 1s3p  2p3p multiplet are in a region where the measured intensity is small, and therefore the contribution of this multiplet to the line shape can not be large.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3276</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The risk factors found after the clinical validation process of this diagnosis in CVA patients were: dysphagia, impaired or absent cough reflex, neurological disorders, use of gastrointestinal tubes, impaired physical mobility, and low headboard.</plag_sens>
+    <tag_file_ids>gen_doc522</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The risk factors found after the clinical validation process of this diagnosis in CVA patients were: dysphagia, impaired or absent cough reflex, neurological disorders, use of gastrointestinal tubes, impaired physical mobility and low headboard.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3276</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There are over 60 billion pairs of SNPs that can be tested for association, and the P value is less than 1013.</plag_sens>
+    <tag_file_ids>gen_doc3176</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There are over 60 billion pairs of SNPs that can be tested for association, and the P value is less than 10.</tag_plag_sens>
+  </row>
+</data>

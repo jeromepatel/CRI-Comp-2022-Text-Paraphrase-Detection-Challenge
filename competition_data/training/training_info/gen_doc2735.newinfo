@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2735</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The ability to collaborate across disciplines is one of the skills inherent to being a quantitative biologist.</plag_sens>
+    <tag_file_ids>gen_doc2985</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The ability to collaborate across disciplines is one of the skills inherent to being a quantitative Biologist, and we propose that other skills are equally important.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2735</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There are letters for the position of the amino acids.</plag_sens>
+    <tag_file_ids>gen_doc722</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There are letters for the position of the amino acids and height amplitudes for the degree of preservation.</tag_plag_sens>
+  </row>
+</data>

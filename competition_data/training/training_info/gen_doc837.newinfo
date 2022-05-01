@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc837</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>As shown in Figure 3A, 1 M MG132 elicited robust PARP cleavage in both Cas-FL and WT MEFs, but had little effect on EV cells.</plag_sens>
+    <tag_file_ids>gen_doc2357</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>As shown in Figure 3A, 1 M MG132 elicited robust PARP cleavage in both Cas-FL and WT MEFs, while it had little effect on EV cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc837</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>We have looked at more target regions in the TIR with the corresponding 10 nt target-recognition sequences.</plag_sens>
+    <tag_file_ids>gen_doc1574</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We have looked at more target regions in the TIR with the corresponding 10 nt target-recognition sequences.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1828</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The result may be caused by segmental duplication in the sequence and by a different alignment strategy.</plag_sens>
+    <tag_file_ids>gen_doc974</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The result may be caused by segmental duplication in the sequence and by a difference in alignment strategy.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1828</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The nature of the basic reproduction number R0 can be examined since the components of the deterministic model have been described.</plag_sens>
+    <tag_file_ids>gen_doc3359</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The nature of the basic reproduction number R0 can be examined since the components of the deterministic model are described in the PSD Formula.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1828</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The costs of these diseases are added to other body systems, and this is likely why.</plag_sens>
+    <tag_file_ids>gen_doc1031</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The costs of these diseases are added to other body systems, so this is likely.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1828</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The results of the Western blotting of the separated nuclear and cytoplasmic fractions indicate that the mutants entered the nucleus.</plag_sens>
+    <tag_file_ids>gen_doc2036</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The results of the Western blotting of the separated nuclear and cytoplasmic fractions indicate that the Mutant protein entered the nucleus.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1828</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The GFP fusion expression was detected by Western blotting with an anti-anillin antibody after the HeLa cell lines had been in the air for 24 h.</plag_sens>
+    <tag_file_ids>gen_doc2440</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The GFP fusion expression was detected by Western blotting with an anti-anillin antibody after the HeLa cell lines were cultured with 1 g/ml Dox for 24 h.</tag_plag_sens>
+  </row>
+</data>

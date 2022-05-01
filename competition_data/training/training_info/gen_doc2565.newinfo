@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2565</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>In spite of the often systematic differences in retention time, no information from the chromatographic dimensions is included.</plag_sens>
+    <tag_file_ids>gen_doc3611</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In spite of the often systematic differences in retention time among the homologues of a series, any available information from the chromatographic dimensions is omitted.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2565</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The source of the pituitary cells in Figure 1 was derived from the lines.</plag_sens>
+    <tag_file_ids>gen_doc3503</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The source of the pituitary cells used in Figure 1 was found in these lines.</tag_plag_sens>
+  </row>
+</data>

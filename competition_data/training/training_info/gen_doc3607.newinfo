@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3607</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The amount of Matrigel is the highest in type CM+, which is stiff compared to C and CM.</plag_sens>
+    <tag_file_ids>gen_doc3138</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The storage modulus increases with the amount of Matrigel, which is the highest in type CM+.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3607</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The cynomolgus monkey and rabbit have the potential to be pharmacologically reactive to ASKP1240.</plag_sens>
+    <tag_file_ids>gen_doc3828</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The cynomolgus monkey and rabbit have the potential to be pharmacologically reactive to ASKP1240, which was detected in human, cynomolgus monkey and rabbit CD40</tag_plag_sens>
+  </row>
+</data>

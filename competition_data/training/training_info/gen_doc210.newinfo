@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc210</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In addition, a transcriptome study in Parkinson's disease patients showed that AKT, FOXO, and mTOR signaling were playing a central role in regulating the transcriptional effects of apparent upstream mitochondrial RC damage.</plag_sens>
+    <tag_file_ids>gen_doc2430</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In addition, a transcriptome study in Parkinson's disease patients showed that AKT, FOXO, and mTOR signaling were playing a central role in regulating the transcriptional effects of apparent upstream mitochondrial RC dysfunction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc210</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Plants that were transferred to continuous darkness had no transcript, but those that were transferred toLD had a constant expression of AOP2.</plag_sens>
+    <tag_file_ids>gen_doc3422</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Plants that were transferred to continuous darkness had no transcript, but those that were transferred to LD had a constant expression of AOP2 (Figure 7C).</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc210</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The resuspended P was mixed with an equal volume of 2X loading buffer.</plag_sens>
+    <tag_file_ids>gen_doc95</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>P was resuspended in 30 L PBS/2 % sarcosyl and mixed with an equal volume of 2X loading buffer.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1545</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>By convention, V was fixed to one.</plag_sens>
+    <tag_file_ids>gen_doc3511</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>By convention, V was fixed to one in binomial models.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1545</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Immediately after the impact, changes in the atmosphere were up to 0–0.5 C, 2–3 C, 4–6 C, 8–10 C and 8–11 C cooling of the global mean surface air temperature.</plag_sens>
+    <tag_file_ids>gen_doc3379</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Immediately after the impact, changes in the atmosphere ranged from 0–0.5 C, 2–3 C, 4–6 C, 8–10 C, and 8–11 C cooling of the global mean surface air temperature.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1545</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The pIFC2 and pIFC2 were linearized with SacI in a partial digest, dephosphorylated and gel purified with the help of a commercial kit.</plag_sens>
+    <tag_file_ids>gen_doc2723</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The pIFC2 and pIFC2 were linearized with SacI in a partial digest, dephosphorylated and gel purified with the help of a commercial kit.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1545</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The complexity increase is smaller because of the use of threaded libraries and the high sparsity of the GJE routine.</plag_sens>
+    <tag_file_ids>gen_doc1046</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The complexity increase is smaller because of using threaded libraries for the SVD routine and using high sparsity for the GJE routine.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1545</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The symptoms of most patients were relieved and the gut microflora diversities of recipients were higher than before treatment.</plag_sens>
+    <tag_file_ids>gen_doc1858</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The clinical symptoms of most patients were relieved and the gut microflora diversities of recipients were significantly higher compared with those before treatment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1545</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The sensogram of the interactions was measured with MAb DB 81 bound to the solid-phase chip.</plag_sens>
+    <tag_file_ids>gen_doc1733</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The sensogram of these interactions was measured with MAb DB 81 bound to the solid-phase chip.</tag_plag_sens>
+  </row>
+</data>

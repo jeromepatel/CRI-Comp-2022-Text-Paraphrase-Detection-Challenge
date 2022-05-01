@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2933</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>This approach for the general gene model was introduced in the following.</plag_sens>
+    <tag_file_ids>gen_doc2576</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>This approach for the general gene model is introduced in the following.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2933</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>A systematic review was conducted to assess the impact of STH on SSA children.</plag_sens>
+    <tag_file_ids>gen_doc1579</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A systematic review was conducted to assess the impact of STH on the children in SSA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2933</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The MCs were grown until they were 70% to 80% confluent after being sown into 12-well plates.</plag_sens>
+    <tag_file_ids>gen_doc365</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The MCs were grown until they were 70% to 80% confluent after seeding.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2933</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>For a long time, I thought this was the most successful achievement of my life.</plag_sens>
+    <tag_file_ids>gen_doc1265</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>I plumed myself upon this as the most successful achievement of my long life, because from this I was successful in persuading him.</tag_plag_sens>
+  </row>
+</data>

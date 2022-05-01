@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc547</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The situation may be similar if cells are treated with IL-7.</plag_sens>
+    <tag_file_ids>gen_doc1698</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A similar situation could be created by treating cells with IL-7, which signals through the JAK/STAT pathway.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc547</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>It might be difficult to perform the end-to-end anastomosis if there is a large A2A3 aneurysm.</plag_sens>
+    <tag_file_ids>gen_doc2559</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>It might be difficult to perform end-to-end anastomosis if there is a large, broad neck A2-A3 aneurysm.</tag_plag_sens>
+  </row>
+</data>

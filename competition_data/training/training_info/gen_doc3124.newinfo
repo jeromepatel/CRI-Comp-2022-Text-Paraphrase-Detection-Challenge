@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3124</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The data for the US was obtained from theSEER program.</plag_sens>
+    <tag_file_ids>gen_doc2406</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Population-based data for the US was obtained from theSEER program.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3124</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Even though most of the isolates carried the wild-type N86 pfmdr1 codon around Lambaréné, four of the five patients harboured the wild-type.</plag_sens>
+    <tag_file_ids>gen_doc1657</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Even though most of the isolates carried the wild-type N86 pfmdr1 codon around Lambaréné, four of the five patients harboured the N86 codon.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3124</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The immune system is sufficient to confine the harbored organisms within the organized cellular structures called granulomas.</plag_sens>
+    <tag_file_ids>gen_doc121</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The immune system is sufficient to confine the harbored organisms within the organized cellular structures called granulomas and establish a latent infection in the majority of infections.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3124</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In a study on children with allergic conjunctivitis at an outpatient clinic inDenmark, 24% were found to have asthma, 30% had eczema and 42% had rhinitis.</plag_sens>
+    <tag_file_ids>gen_doc388</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In a study on children with allergic conjunctivitis at an outpatient clinic inDenmark, 24% were found to have asthma, while 30% had eczema and 42% had rhinitis.</tag_plag_sens>
+  </row>
+</data>

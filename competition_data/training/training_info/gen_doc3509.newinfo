@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3509</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The brain sections were cut on a cryostat and blocked for 1.5 hours with 5% bovine albumin in PBS.</plag_sens>
+    <tag_file_ids>gen_doc2723</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The brain sections were cut on a cryostat, and the sections were blocked for 1.5 hours with 5% bovine albumin in PBS.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3509</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The pre-departure and on-site training modules should be used to prepare delegates to deal effectively with the context, roles, security threats and psychological risks on-site in order to avoid discouragement, panic and burnout.</plag_sens>
+    <tag_file_ids>gen_doc3129</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In addition, pre-departure and on-site training modules should prepare delegates to deal effectively with the context, roles, security threats and psychological risks on-site in order to avoid discouragement, panic and burnout.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3509</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The digestibility of evergreen leaves is not as good as that of the short-lived deciduous leaves.</plag_sens>
+    <tag_file_ids>gen_doc3675</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The digestibility of evergreen leaves is inferior to that of short-lived deciduous leaves.</tag_plag_sens>
+  </row>
+</data>

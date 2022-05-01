@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc505</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There are two types of problems that can arise from surgical repair.</plag_sens>
+    <tag_file_ids>gen_doc735</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Problems with the VP shunt itself are two types of complication that can arise from surgical repair and VP shunting.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc505</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The significance was accepted at p 0.05.</plag_sens>
+    <tag_file_ids>gen_doc564</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The statistical significance was accepted at p  0.05.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc505</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The blood-brain barrier can be crossed by the bacterium and cause a disease.</plag_sens>
+    <tag_file_ids>gen_doc3334</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The bacterium can enter the blood-brain barrier and cause a disease.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc505</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Level set-based approaches are used for object detection in time series images.</plag_sens>
+    <tag_file_ids>gen_doc3007</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Level set-based approaches are used for object detection in time-series images in the second class of algorithms.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc505</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>BALB/c morulas were aggregated with clones that were correctly targeted.</plag_sens>
+    <tag_file_ids>gen_doc1335</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>BALB/c morulas were aggregated with correctly targeted clones.</tag_plag_sens>
+  </row>
+</data>

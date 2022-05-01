@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1324</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It's not known if the same effect would result in a situation where a person was moving to a nursing home on a permanent basis.</plag_sens>
+    <tag_file_ids>gen_doc1436</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Whether the same effect would result in a situation where a person was moving to a nursing home on a permanent basis is not known.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1324</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>No fragments from the transgene were visualized using this method, suggesting that the transgene was not efficiently phosphorylated and acetylated.</plag_sens>
+    <tag_file_ids>gen_doc2404</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>No fragments from the transgene were visualized using this method with the modification-specific antibodies, suggesting that the transgene was not efficiently phosphorylated and acetylated, although it could be detected after immunoprecipititation with the Enzo Life Sciences, Inc.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1324</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>There was no difference between cell monolayers that were treated with DMSO for 30 h and those that were treated with OCC1 for 10 h.</plag_sens>
+    <tag_file_ids>gen_doc3661</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The difference between cell monolayers that were treated with DMSO for 30 h did not show up in an examination of gross cell morphology.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1324</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The lines containing PQT3pro: GUS were isolated by glufosinate screening.</plag_sens>
+    <tag_file_ids>gen_doc3548</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The lines containing PQT3pro: GUS were isolated by glufosinate screening.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1324</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The results of a previous study on some randomly selected experiments from the Gene Expression Omnibus server have been presented.</plag_sens>
+    <tag_file_ids>gen_doc384</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The results of a previous study on some randomly selected experiments from the Gene Expression Omnibus server are presented here.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1324</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The application of these methods in portable BCI devices is limited because they require a lot of computational power.</plag_sens>
+    <tag_file_ids>gen_doc525</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In portable BCI devices which are based on embedded device and batteries, the complex coding strategy used by these methods often requires a lot of computational power and thus limited their application.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1324</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>serial photographs were used to calculate the moving speed of the FMS.</plag_sens>
+    <tag_file_ids>gen_doc3861</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The traveling distance of FMS was determined from serial photographs.</tag_plag_sens>
+  </row>
+</data>

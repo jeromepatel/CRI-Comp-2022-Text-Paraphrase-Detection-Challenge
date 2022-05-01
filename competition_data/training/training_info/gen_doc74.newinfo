@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc74</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A transition to work that is devoid of physical labor is associated with urbanization.</plag_sens>
+    <tag_file_ids>gen_doc111</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A transition to work that is devoid of physical labor is a factor associated with urbanization.</tag_plag_sens>
+  </row>
+</data>

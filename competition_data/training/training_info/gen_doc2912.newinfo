@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2912</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Five months after starting ipilimumab, he described blurred vision in his right eye.</plag_sens>
+    <tag_file_ids>gen_doc3966</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Five months after starting ipilimumab, he described blurred vision in his right eye.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2912</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The behavioral reactions were more common at the dandelion pollen than at the stimuli combination.</plag_sens>
+    <tag_file_ids>gen_doc368</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>They exhibited these behavioral reactions only rarely, but more often at the dandelion pollen than at the stimuli combination.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2912</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The number and length of exons in SaSTT3A and SaSTT3B were similar to their counterparts in rice.</plag_sens>
+    <tag_file_ids>gen_doc1465</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>We found that the number and length of exons in SaSTT3A and SaSTT3B were very similar to those in rice and Arabidopsis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2912</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Compared to the number of simulations, the number of variant included in the distribution tended to be overestimation.</plag_sens>
+    <tag_file_ids>gen_doc1334</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Compared to the number of simulation QTL, the number of variant included in the distributions tended to be underestimated.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2912</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The bcarotene method is excellent and in the decreasing order of the DPPH method and reducing power with 2.52 million L1, 2.77 million L1, and 4.13 million L1, for crude oil.</plag_sens>
+    <tag_file_ids>gen_doc1294</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The bcarotene method is excellent and in the decreasing order of the DPPH method and reducing power with 2.52 million L1, 2.67 million L1, and 4.13 million L1,respectively, for crude oil.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2912</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Many drugs affect the drug metabolism by the well-known inducers of CYP3A4.</plag_sens>
+    <tag_file_ids>gen_doc2234</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Many drugs affect the drug metabolism by the well-known inducers of CYP3A4.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2912</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The decrease in absorbance at different concentrations was calculated by using the following equation.</plag_sens>
+    <tag_file_ids>gen_doc58</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The decrease in absorbance at different concentrations was used to calculate the antioxidant activity.</tag_plag_sens>
+  </row>
+</data>

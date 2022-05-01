@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3239</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Due to the variable responses of different cell types, it might be difficult to construct a compact panel of readouts, which could be used to assess all the aspects of the responses of certain EN in all cell types.</plag_sens>
+    <tag_file_ids>gen_doc2037</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Due to the variable responses of different cell types, it might be difficult to construct a compact panel of readouts, which could be used to assess all the aspects of the responses of certain EN in all cell types.</tag_plag_sens>
+  </row>
+</data>

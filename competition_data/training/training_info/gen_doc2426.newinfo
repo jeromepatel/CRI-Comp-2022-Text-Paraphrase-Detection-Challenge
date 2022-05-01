@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2426</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In most cases, the level of p53 expression was less than 70%.</plag_sens>
+    <tag_file_ids>gen_doc3230</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The level of p53 expression was less than 70% in most cases.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2426</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>To prevent the drying of the bilayers, the sample was kept at room temperature in the sealed container inside which a piece of Kimwipe was stuffed.</plag_sens>
+    <tag_file_ids>gen_doc157</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>To prevent the drying of the bilayers, the sample was kept at room temperature in the sealed container inside which a piece of Kimwipe wetted with Milli-Q water was stuffed.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1192</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Other supporting information can be represented through the prior and formally incorporated with the data.</plag_sens>
+    <tag_file_ids>gen_doc1535</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Other supporting information can be represented via the prior and thus formally incorporated with the data.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1192</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The petri dishes were covered with plastic film in order to maintain humidity and the conidial suspension was applied to each disk.</plag_sens>
+    <tag_file_ids>gen_doc3257</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>20 L of conidial suspension was applied to each disk and the petri dishes were covered with plastic film to maintain humidity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1192</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>We measured a different response than the head entering response and proboscis extension response reported in.</plag_sens>
+    <tag_file_ids>gen_doc1428</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We measured a different response, which was completely entering a response hole, compared to the head entering response and proboscis extension response.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1192</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Our findings were consistent with previous literature.</plag_sens>
+    <tag_file_ids>gen_doc2259</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Our findings were consistent with previous literature.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1192</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>3D TOF sequence acquires a large slab with signal loss, which may reduce signal intensity within the aneurysm, and thus may underestimate the size of the aneurysm.</plag_sens>
+    <tag_file_ids>gen_doc3647</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Nevertheless, 3D TOF sequence acquires a large slab with signal loss, which may reduce signal intensity within the aneurysm, and thus may underestimate the size of the aneurysm.</tag_plag_sens>
+  </row>
+</data>

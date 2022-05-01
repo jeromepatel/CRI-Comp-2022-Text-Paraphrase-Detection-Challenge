@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc580</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It was rationalized as a result of the complex structure of mucin, in which GlcNAc could be masked.</plag_sens>
+    <tag_file_ids>gen_doc1164</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>This was rationalized as a result of the complex structure of mucin, in which GlcNAc could be masked by other sugars.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc580</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Bright wrote, "These fits were due to some local disorganization affecting the membranes and cineritious portion of the brain on the left side, and probably influencing the deep seated parts about the anterior end of the corpus striatum."</plag_sens>
+    <tag_file_ids>gen_doc867</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Bright wrote, "These fits were due to some local disorganization affecting the membranes and cineritious portion of the brain on the left side, and probably influencing the deep seated parts about the posterior end of the corpus striatum."</tag_plag_sens>
+  </row>
+</data>

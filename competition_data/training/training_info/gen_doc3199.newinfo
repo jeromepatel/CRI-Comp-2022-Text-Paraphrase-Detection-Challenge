@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3199</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>It has four distinct features: pulmonary outflow tract obstruction, ventricular septal defects, and right ventricular hypertrophy.</plag_sens>
+    <tag_file_ids>gen_doc2187</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>It is characterized by four different features: pulmonary outflow tract obstruction, ventricular septal defects, and right ventricular hypertrophy.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3199</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The increase in PPTs values could not be explained by an increase in testosterone levels or changes in plasma -endorphin concentration.</plag_sens>
+    <tag_file_ids>gen_doc1603</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The increase in PPTs values could not be explained by an increase in testosterone levels or changes in plasma -endorphin concentration, since there were no differences in the levels of endorphin after 6 months of metformin administration.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3199</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>This is the reason why we did not find this in the strain.</plag_sens>
+    <tag_file_ids>gen_doc305</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>This is the reason why we did not find this in the J99 strain.</tag_plag_sens>
+  </row>
+</data>

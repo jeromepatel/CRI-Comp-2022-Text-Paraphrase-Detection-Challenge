@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2650</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Smooth airway muscle changes may be related to this association.</plag_sens>
+    <tag_file_ids>gen_doc1815</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Our data shows that airway smooth muscle changes may underlie this association.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2650</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Increasing the density on the tip of the AFM resulted in an increase in the number of curves containing evidence of interaction.</plag_sens>
+    <tag_file_ids>gen_doc400</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Increasing the density on the tip of the AFM resulted in an increase in the number of curves containing evidence of interaction.</tag_plag_sens>
+  </row>
+</data>

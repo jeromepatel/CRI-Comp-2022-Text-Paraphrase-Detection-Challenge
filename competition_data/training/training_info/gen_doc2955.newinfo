@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2955</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Depending on the efficiency of the navigator sequence, acquisition time can be up to 10 minutes.</plag_sens>
+    <tag_file_ids>gen_doc3212</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Depending on the efficiency of the navigator sequence, acquisition time can be high with navigator based MRA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2955</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>This sample size estimate was based on the known rates of mental health and SUD disorders among HPACT participants, which suggests that half of the 4018 veteran HPACT participants will meet the eligibility criteria for MISSION-Vet and participate in the study.</plag_sens>
+    <tag_file_ids>gen_doc3889</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The sample size estimate was based on the known rates of mental health and SUD disorders among HPACT participants, which suggests that conservatively, half of the 4018 veteran HPACT participants will meet the eligibility criteria for MISSION-Vet and participate in the study.</tag_plag_sens>
+  </row>
+</data>

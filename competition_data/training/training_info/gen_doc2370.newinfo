@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2370</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Mass communication and self-repairing of shells are enabled by these properties.</plag_sens>
+    <tag_file_ids>gen_doc3180</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>These properties allow self-assembly and self-repairing of shells, and also facilitates mass communication.</tag_plag_sens>
+  </row>
+</data>

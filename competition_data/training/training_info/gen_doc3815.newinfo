@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3815</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In primary cultures of pituitary cells taken from rats, there were similar patterns where the hPRL-Luc BAC was integrated into an X-chromosome.</plag_sens>
+    <tag_file_ids>gen_doc1096</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Similar patterns were observed in primary cultures of pituitary cells, where the hPRL-Luc BAC was integrated either into an autosomal or X-chromosome locus.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3815</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>STDP is a Hebbian learning rule and is a promising candidate to change the way the brain interacts.</plag_sens>
+    <tag_file_ids>gen_doc3459</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>STDP is a Hebbian learning rule, and is a promising candidate to change the way neurons interact.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3815</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>If the matching variable is not a confounder it will introduce irremediable bias.</plag_sens>
+    <tag_file_ids>gen_doc1595</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>If the matching variable is not a confounder but in the pathway between exposure and disease, matching will introduce irremediable bias.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2919</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>II-spectrin is abundant at the sarcomeres but also at the Z- and intercalated discs.</plag_sens>
+    <tag_file_ids>gen_doc90</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>II- Spectrin is abundant at the sarcomeres but also at the Z- and intercalated discs close to the edges.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2919</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Natural sorbents selection is complicated by overlap of requirements chemical, biological, and surface structure, deep knowledge of relations-properties-biological effects, and an integrated study.</plag_sens>
+    <tag_file_ids>gen_doc2187</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Natural sorbents selection is complicated by overlap of requirements chemical, biological, and surface structure requiring deep knowledge of relations-properties-biological effects and an integrated interdisciplinary study.</tag_plag_sens>
+  </row>
+</data>

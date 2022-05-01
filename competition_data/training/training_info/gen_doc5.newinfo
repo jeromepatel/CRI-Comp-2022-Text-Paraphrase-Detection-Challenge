@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc5</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>We injected the Gq DREADD viruses into the L4 DRG of the VGAT-Cre mice to see if they affected the noci.</plag_sens>
+    <tag_file_ids>gen_doc173</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Next, we injected the Gq DREADD viruses into the L4 DRG of the VGAT-Cre mice and the WT littermates to see if they would affect noci.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc5</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The calanoid copepods are usually specialized on phytoplankton prey during the summer.</plag_sens>
+    <tag_file_ids>gen_doc173</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The calanoid copepods are usually specialized on phytoplankton prey during the summer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc5</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Padubidri, et al.</plag_sens>
+    <tag_file_ids>gen_doc3988</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Padubidri, et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc5</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The sciatic nerve was exposed.</plag_sens>
+    <tag_file_ids>gen_doc13</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The sciatic nerve was exposed at the mid-thigh level.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc5</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The study was performed to describe flow patterns in the portal vein.</plag_sens>
+    <tag_file_ids>gen_doc3126</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The study was performed to describe flow patterns in the portal vein.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc5</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Scanned array images were reviewed and converted to signal data.</plag_sens>
+    <tag_file_ids>gen_doc3998</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Scanned array images were reviewed and converted to signal data using the Affymetrix MAS 5.0 algorithm.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc5</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The detection rate of lung cancer using computed toms is 10 times higher than using analog.</plag_sens>
+    <tag_file_ids>gen_doc842</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The detection rate of lung cancer using CT is 10 times higher than using analog radiography.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc5</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The effect relies on STDP-induced multistability rather than bistability.</plag_sens>
+    <tag_file_ids>gen_doc2391</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The effect relies on the STDP-induced multistability rather than bistability.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc813</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Calcium is a second messenger and plays an important role in plant growth and development.</plag_sens>
+    <tag_file_ids>gen_doc1151</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Calcium is a second messenger and plays an important role in plant growth, development and stress response.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc813</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There was no difference in blood pressure changes between tamsulosin OCAS and placebo in phase III of over 2000 men.</plag_sens>
+    <tag_file_ids>gen_doc1258</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The phase III of over 2000 men did not show a significant difference in blood pressure changes between tamsulosin OCAS and placebo.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc813</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The slow varying DC-like signal cannot be used to directly modify the RF carrier for wireless transmission.</plag_sens>
+    <tag_file_ids>gen_doc1034</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The output voltage is a slow DC-like signal, which cannot be used to directly modify the RF carrier for wireless transmission.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc813</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The loss of several exons in the CYP19P1 transcript causes major differences between the genes and the pseudogene transcripts.</plag_sens>
+    <tag_file_ids>gen_doc1294</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The loss of several exons in the CYP19P1 transcript causes major differences between the genes and pseudogene transcripts.</tag_plag_sens>
+  </row>
+</data>

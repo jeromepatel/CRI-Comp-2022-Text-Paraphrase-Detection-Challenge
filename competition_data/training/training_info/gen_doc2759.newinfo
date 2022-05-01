@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2759</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>TheMAPK/ERK-mediated pathway and thePLC-mediated signal pathway are related to thephosphorylated sites.</plag_sens>
+    <tag_file_ids>gen_doc2948</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>tyrosine 1068 and 1086 are related to the MAPK/ERK-mediated pathway and the other two sites are related to the PLC-mediated signal pathway.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2759</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The most studied Nudix effector is PsAvr3b.</plag_sens>
+    <tag_file_ids>gen_doc1024</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>PsAvr3b is the most studied Nudix effector in oomycete pathogens.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2759</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In addition to the parietal regions, neural activity was also reliably greater in the right.</plag_sens>
+    <tag_file_ids>gen_doc2099</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In addition to the parietal regions, neural activity was also reliably greater in the right in.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2759</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Q321 clusters are related to a group formed by QpDV-harboring strains.</plag_sens>
+    <tag_file_ids>gen_doc1146</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Q321 clusters have a distinct group formed by QpDV-harboring strains with the adaA deletion type Q154_B1.</tag_plag_sens>
+  </row>
+</data>

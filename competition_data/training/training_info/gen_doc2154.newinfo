@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2154</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The European Organization for Research and Treatment of Cancer (EORTC) performed a pooled analysis of individual patient demographic data from 18 European datasets in order to confirm the findings of the LOE-1 study.</plag_sens>
+    <tag_file_ids>gen_doc2671</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The European Organization for Research and Treatment of Cancer (EORTC) performed a pooled analysis of individual patient demographic data from 18 European datasets and found that the prognostic utility of uPA and PAI-1 in breast cancer was found to be valid in the second LOE-1 study.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2154</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>They were more likely to be victims of traditional aggression and less likely to be motivated to play sports.</plag_sens>
+    <tag_file_ids>gen_doc1212</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Traditional victims were more likely to have low enjoyment and low motivation for sports than those who were not victims of aggression.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2154</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There is a well-known epigenetic event associated with the silencing of genes due to disrupted binding affinity between genes and their genes.</plag_sens>
+    <tag_file_ids>gen_doc3668</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Alterations in binding affinity between genes and their cognate TFs is a well-known epigenetic event associated with transcriptional silencing.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2154</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The insects are vulnerable to changes due to human activity because they are influenced by both the environmental variations themselves and the unpredictable changes in host dynamics.</plag_sens>
+    <tag_file_ids>gen_doc3550</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>These insects, like all natural enemies of arthropods, are susceptible to changes due to human activity because they are influenced by both the environmental variations themselves and by the unpredictable changes in host dynamics.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2154</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The expression of Ppar is lower in DKO mice than it is in other mice.</plag_sens>
+    <tag_file_ids>gen_doc1699</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The expression of Ppar is lower in DKO mice than it is in Ob/Ob mice.</tag_plag_sens>
+  </row>
+</data>

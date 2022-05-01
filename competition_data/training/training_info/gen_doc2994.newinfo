@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2994</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Many ADHs are not suited for harsh environments such as extremes of temperature and pH.</plag_sens>
+    <tag_file_ids>gen_doc136</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Many ADHs are susceptible to harsh conditions such as extremes of pH and temperature, which can hamper their industrial application.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2994</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>A recent study shows that walnuts can improve memory.</plag_sens>
+    <tag_file_ids>gen_doc3054</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A recent study shows that walnuts could improve memory in rats.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2994</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The high-quality seafood (licenced by the Hazard analysis and critical control points) referred to as 'hard clam' (Meretrix lusoria) is eaten regularly by Asian populations, and has been reported to possess antileukemic activity.</plag_sens>
+    <tag_file_ids>gen_doc1407</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The high-quality seafood (licenced by the Hazard analysis and critical control points) referred to as 'hard clam' (Meretrix lusoria) is consumed regularly by Asian populations, and has been reported to possess antileukemic activity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2994</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Three QTL were colocalized with QTL for KW.</plag_sens>
+    <tag_file_ids>gen_doc3762</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Three QTL colocalized directly with QTL for KW, and two QTL colocalized with KGR for MWC.</tag_plag_sens>
+  </row>
+</data>

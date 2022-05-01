@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1973</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>A series of hydrogen bonds are responsible for stabilizing the nickel-chelating residues.</plag_sens>
+    <tag_file_ids>gen_doc1265</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The nickel-chelating residues are stable by a series of hydrogen bonds</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1973</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The mean lysosomal pH was shifted upward by more than one unit.</plag_sens>
+    <tag_file_ids>gen_doc3204</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The mean lysosomal pH was shifted upward by more than one unit.</tag_plag_sens>
+  </row>
+</data>

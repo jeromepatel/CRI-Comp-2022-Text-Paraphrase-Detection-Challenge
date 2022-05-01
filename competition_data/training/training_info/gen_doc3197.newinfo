@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3197</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Figure 4 depicts a game with parents.</plag_sens>
+    <tag_file_ids>gen_doc3280</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Figure 4 depicts a hypothetical dictator game with parents.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3197</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The highest fold change in mRNA level in response to acute exercise has previously been reported to be shown by NR4A3.</plag_sens>
+    <tag_file_ids>gen_doc2709</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The highest fold change in mRNA level in response to acute exercise has previously been reported by NR4A3.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3197</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The ratio of in-lever to out-lever length on the lower mandible26 was calculated to show the mechanical advantage of the three species.</plag_sens>
+    <tag_file_ids>gen_doc972</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The ratio of in-lever to out-lever length on the lower mandible26 was calculated to show the mechanical advantage of the three species' bills.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3197</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A novel regulatory mechanism for p38 is suggested by the study, which shows a link between PRMT1 and p38 in regulating the erythroid differentiation program.</plag_sens>
+    <tag_file_ids>gen_doc3136</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A novel regulatory mechanism for p38 is suggested by this study, which shows a link between PRMT1 and p38 in positively regulating the erythroid differentiation program.</tag_plag_sens>
+  </row>
+</data>

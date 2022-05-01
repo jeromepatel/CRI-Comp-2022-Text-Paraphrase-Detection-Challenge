@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3070</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The Brn3a transcription factor is a reliable and efficient marker for identification and quantification of RGCs in control.</plag_sens>
+    <tag_file_ids>gen_doc397</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The Brn3a transcription factor is a reliable and efficient marker for the identification and quantification of RGCs in control and injured retinas.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3070</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The brains of the embryos were analyzed at E13.5.</plag_sens>
+    <tag_file_ids>gen_doc2402</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The brains of the embryos were analyzed at E13.5.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3070</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Structurally similar PDBs were identified using the Dali server and alignments and normalized rmsd values were obtained using lsqman.</plag_sens>
+    <tag_file_ids>gen_doc3682</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Structurally similar PDBs were identified using the Dali server and alignments and normalized rmsd values were obtained using lsqman.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3070</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Below is a case study to show the current functions of RTCGAToolbox and how to integrate it with other R libraries.</plag_sens>
+    <tag_file_ids>gen_doc1428</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>To demonstrate how to integrate the outputs of RTCGAToolbox with other R libraries, we provide below a case study.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc419</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>This entire process is a critical means of energy production.</plag_sens>
+    <tag_file_ids>gen_doc102</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>This entire process, which is a critical means of energy production, produces ROS as a major byproduct.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc419</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The dog only has 25% of the snoRNA genes presented in humans.</plag_sens>
+    <tag_file_ids>gen_doc3363</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The dog only has 25% of the snoRNA genes presented in human.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc419</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Two bumpers, five IRs, and five Ultrasonic sensors can be used to identify obstacles and allow the user to cross through doors.</plag_sens>
+    <tag_file_ids>gen_doc3073</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The DSS can identify obstacles using two bumpers, five IRs, and five Ultrasonic sensors, and it allows the user to follow a wall and cross through doors inside a building.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc419</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Approximately 430 2 of the surface area is displaced by Residues V3, I6, L7 and L10.</plag_sens>
+    <tag_file_ids>gen_doc534</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Approximately 430 2 of the surface area is displaced by Residues V3 I6, L7 and L10 alone.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc419</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The LC/water interface is not perturbed by flatness because the surface tension dominates.</plag_sens>
+    <tag_file_ids>gen_doc476</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The LC/water interface is not perturbed by flatness because the surface tension dominates over liquid crystalline anchoring energies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc419</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>These stripes break into rows as the temperature falls.</plag_sens>
+    <tag_file_ids>gen_doc439</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The stripes break up into rows when the temperature falls below TNA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc419</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>During the surgery or dissection of the eyes, there was no damage to the lens.</plag_sens>
+    <tag_file_ids>gen_doc380</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>During the surgery or dissection of the eyes, no damage to the lens was observed.</tag_plag_sens>
+  </row>
+</data>

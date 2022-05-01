@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2622</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The pre- to post-surgery changes in HbA1c values were very variable.</plag_sens>
+    <tag_file_ids>gen_doc1093</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Pre- to post-surgery changes in HbA1c values differed significantly between the NDM and DMT2-NDM sub-populations, and to a lesser extent between the NDM and DMT2, although the values were highly variable.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2622</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There were no significant differences in mean fiber diameter between the two groups of mice.</plag_sens>
+    <tag_file_ids>gen_doc1894</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There were no significant differences in mean fiber diameter between control and IL-15 Tg mice in either muscle.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2622</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The p38 MAPK family has four different isoforms.</plag_sens>
+    <tag_file_ids>gen_doc2629</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The p38MAPK family has four different isoforms.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2622</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Four quadrant biopsies were taken for every 2 cm intervals from the BE segments in patients with known or suspected dysplasia as recommended in the Seattle protocol.</plag_sens>
+    <tag_file_ids>gen_doc3584</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Four quadrant biopsies were taken every 2 cm intervals from BE segments or every 1 cm in patients with known or suspected dysplasia as recommended in the Seattle protocol.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2622</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Significant restrictions are placed on surgeons in training by the European Working Time Directives, a position reflected in the rest of the developed world.</plag_sens>
+    <tag_file_ids>gen_doc1653</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Significant restrictions are placed on surgeons in training by the European Working Time Directives, a position that is reflected in the rest of the developed world.</tag_plag_sens>
+  </row>
+</data>

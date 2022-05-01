@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3165</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The items purchased and used in the study were commercially prepared.</plag_sens>
+    <tag_file_ids>gen_doc2435</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In this study, commercially prepared items were purchased and used on a regular basis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3165</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>It acted as a glue to fix fibroin fibers in the cocoon, and it was comprised of water-soluble glycoproteins.</plag_sens>
+    <tag_file_ids>gen_doc1128</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>It acted as a glue to fix fibroin fibers in the cocoon and was comprised of high-molecular, water-soluble glycoproteins.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3165</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>If the VLP neck closes before the PR is activated, the fragments will be trapped within the VLP and continue processing, which will result in the emergence of a new infectious disease.</plag_sens>
+    <tag_file_ids>gen_doc1398</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>If the VLP neck closes before the PR is activated, the fragments will be trapped within the VLP and continue processing which will result in the emergence of a new type of Viruses.</tag_plag_sens>
+  </row>
+</data>

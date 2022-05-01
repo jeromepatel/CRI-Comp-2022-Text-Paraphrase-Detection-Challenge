@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2381</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The measurement of intima media thickness is a surrogate marker.</plag_sens>
+    <tag_file_ids>gen_doc1115</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Measurement of intima media thickness is used as a surrogate marker for atherosclerosis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2381</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>To estimate error rates due to microsatellite allelic drop out, the Software GIMLET was used to assess the reliability of identifying individuals.</plag_sens>
+    <tag_file_ids>gen_doc3014</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The Software GIMLET was used to assess the reliability of identifying individuals from the feather samples and to estimate error rates due to microsatellite allelic drop out.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2381</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There was strong evidence that the minor G allele of rs57095329 was associated with a risk of SLE, when all the samples were included.</plag_sens>
+    <tag_file_ids>gen_doc207</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>There was strong evidence that the minor G allele of rs57095329 was associated with a risk of SLE.</tag_plag_sens>
+  </row>
+</data>

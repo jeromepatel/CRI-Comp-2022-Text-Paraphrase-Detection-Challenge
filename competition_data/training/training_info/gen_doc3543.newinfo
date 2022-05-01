@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3543</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The mean value of all children is aggregated into a ratio scale.</plag_sens>
+    <tag_file_ids>gen_doc3783</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>When calculating the mean value of all children, the data is aggregated on a ratio scale.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3543</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The process of revealing associations between genotype and phenotype is supported by this.</plag_sens>
+    <tag_file_ids>gen_doc2292</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The process of revealing associations between the two is supported by this.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3543</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Lifting the spin degeneracy is important for the formation of nodal lines.</plag_sens>
+    <tag_file_ids>gen_doc332</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Lifting the spin degeneracy is a necessary condition for the formation of topological nodal lines.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3543</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Children with a high degree of perceived behavior control for cycling to school were less likely to never go to school.</plag_sens>
+    <tag_file_ids>gen_doc3871</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Children who had a high degree of perceived behavior control for cycling to school had a reduced likelihood of never cycling to school.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3543</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Purkinje cells have been shown to be involved in the generation of DDI.</plag_sens>
+    <tag_file_ids>gen_doc1777</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Purkinje cells were previously shown to be involved in the generation of DDI.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3543</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In considering this possibility, it has been shown that a polysaccharide capsule can interfere with the bond between the host and the pathogen.</plag_sens>
+    <tag_file_ids>gen_doc2370</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In considering this possibility, it has been shown that a polysaccharide capsule can interfere with the interactions between the host and other pathogens.</tag_plag_sens>
+  </row>
+</data>

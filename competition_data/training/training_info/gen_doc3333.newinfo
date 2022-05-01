@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3333</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Two studies show that in utero alcohol exposure causes tumors to grow in rats.</plag_sens>
+    <tag_file_ids>gen_doc1296</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Two studies have shown that in utero alcohol exposure increases the number of tumors in rats.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3333</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The decrease in body fat mass and percent body fat in the Yerba mate group was significant.</plag_sens>
+    <tag_file_ids>gen_doc2491</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The decrease in body fat mass and percent body fat in the Yerba Mate group compared to the placebo group was significant.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3333</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Previous studies had PP totals of 41 and 57, but this study had a 34 PP total.</plag_sens>
+    <tag_file_ids>gen_doc3255</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Previous studies had PP totals of 41 and 57, but this study had 34 for chromosome 21.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3333</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>Environmental changes such as vitamins A deficiency allow one cell type to expand and invade into another cell lineage's domain.</plag_sens>
+    <tag_file_ids>gen_doc396</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Environmental changes such as vitamins A deficiency allow one cell type to expand and invade into another cell lineage's domain, which is known as the cell lineage heterogeneity and replacement model.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3333</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The Ct method was used to determine the relative expression level of the target genes.</plag_sens>
+    <tag_file_ids>gen_doc2176</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The Ct method quantified the relative expression level of each target gene.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3333</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The results show that the n-3 PUFA appears to be relevant in adult and wing development, however the exact mechanism and relationship of each individual n-3 PUFA to these processes is unknown.</plag_sens>
+    <tag_file_ids>gen_doc2248</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Our results show that the n-3 PUFA appears to be relevant in adult and wing development, however, the exact mechanism and relationship of each individual n-3 PUFA to these processes is not known.</tag_plag_sens>
+  </row>
+</data>

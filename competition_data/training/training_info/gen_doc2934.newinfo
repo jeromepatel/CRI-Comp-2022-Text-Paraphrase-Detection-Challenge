@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2934</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The entire study population was divided into two groups, one with the alleles of less than 25 and the other without it.</plag_sens>
+    <tag_file_ids>gen_doc904</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The entire study population was divided into two groups, one with the alleles of less than 25 and the other without the S25 allele.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2934</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>We looked at the signaling molecule of the two pathways in the cells because the HIF-1 mechanism for crosstalk between the PI3K and Ras pathways is unknown.</plag_sens>
+    <tag_file_ids>gen_doc2383</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>We looked at the signaling molecule of the two pathways in the cells, because the HIF-1 mechanism for crosstalk between the PI3K and Ras pathways is unknown.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2934</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There are multiple effects of Amifostine treatment on the protection of cells.</plag_sens>
+    <tag_file_ids>gen_doc2001</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The multiple effects of Amifostine treatment converge on the protection of cells against damage caused by ionizing radiation or DNA-damaging agents.</tag_plag_sens>
+  </row>
+</data>

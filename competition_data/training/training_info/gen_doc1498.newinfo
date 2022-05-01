@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1498</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The correlation between CL and ALB level is seen to be significant in univariate analysis</plag_sens>
+    <tag_file_ids>gen_doc2762</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The correlation between CL and ALB level is seen to be significant in univariate analysis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1498</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The influence of age on OS was being evaluated.</plag_sens>
+    <tag_file_ids>gen_doc333</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We wanted to see if the influence of age on OS is related to the HCT-CI score.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1498</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>McCartney's atmospheric scattering model does not consider the noise from environment and sensor.</plag_sens>
+    <tag_file_ids>gen_doc2029</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>McCartney's atmospheric scattering model does not consider noise from environment and sensor as a degradation factor.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1498</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>We manipulated branching to decouple T cell differentiation from the metabolic state of the cell.</plag_sens>
+    <tag_file_ids>gen_doc3242</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>By manipulating branching, we were able to decouple T cell differentiation from the metabolic state of the cell.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1498</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The table shows the OELs of interest to the study.</plag_sens>
+    <tag_file_ids>gen_doc841</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The table shows the differences between the U.S. and Zambian dust OELs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1498</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>To compare our data with the previous results, we used the same set of antibodies as in the previous results.</plag_sens>
+    <tag_file_ids>gen_doc2932</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>To compare our data with the previous results, we used the same set of antibodies, including against H3 and H2, to perform the experiments.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1498</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>While deviating from its more circular head and flat-topped tail tip, the outlyingStimulus retains its round leg shape.</plag_sens>
+    <tag_file_ids>gen_doc2783</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The round leg shape of the three in-cluster stimuli is retained by the outlying stimuli, despite deviating in its more circular head and flat-topped tail tip.</tag_plag_sens>
+  </row>
+</data>

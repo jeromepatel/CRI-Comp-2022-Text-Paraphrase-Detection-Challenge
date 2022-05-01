@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1647</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The increase in the low end suggests that the reads are spurious.</plag_sens>
+    <tag_file_ids>gen_doc724</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The increase in the low end shows that the reads may be spurious.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1647</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The pairs are co-evolving and listed in Figure 4.</plag_sens>
+    <tag_file_ids>gen_doc2128</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There are two co-evolving residues listed in Figure 4.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1647</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The correlation between length and %C, %M, %K, %F, %R, %W, and %Y was shown in Figure 9.</plag_sens>
+    <tag_file_ids>gen_doc1490</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The correlation between length and %C, %M, %K, %F, %R, %W, and %Y is shown in Figure 9.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1647</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Following a single outcross to a Hawaiian strain called CB4856, we used an approach that provided both genome-wide SNP mapping and genome sequence data.</plag_sens>
+    <tag_file_ids>gen_doc3740</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Following a single outcross to a polymorphic Hawaiian strain called CB4856, we used an approach that provides both genome-wide SNP mapping and genome sequence data.</tag_plag_sens>
+  </row>
+</data>

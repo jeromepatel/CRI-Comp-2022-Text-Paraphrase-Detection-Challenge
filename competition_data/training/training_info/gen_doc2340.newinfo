@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2340</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Remaining unmapped reads were assembled to find genetic elements that were not present in the reference sequence.</plag_sens>
+    <tag_file_ids>gen_doc1908</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Remaining unmapped reads were assembled to find genetic elements that were not present in the reference sequence.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2340</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Nahkuri and his associates.</plag_sens>
+    <tag_file_ids>gen_doc2466</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Nahkuri et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2340</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In most of the traditional key management schemes for wireless sensor network, the sink is fixed, which may cause a lot of data storage and forwarding among the sensor nodes, and the keys may have higher risks of being captured.</plag_sens>
+    <tag_file_ids>gen_doc978</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In most of the traditional key management schemes for wireless sensor network, the sink node is fixed, which may cause lots of data storage and forwarding among the sensor nodes, and the keys may have higher risks of being captured.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2340</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>VP treatment had the highestTAA.</plag_sens>
+    <tag_file_ids>gen_doc3279</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>VP treatment had the highest TAA during 14 d of storage.</tag_plag_sens>
+  </row>
+</data>

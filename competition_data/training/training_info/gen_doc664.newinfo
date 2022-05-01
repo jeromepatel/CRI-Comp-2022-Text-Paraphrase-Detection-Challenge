@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc664</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There are a lot of pathways related to apoptosis.</plag_sens>
+    <tag_file_ids>gen_doc523</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>There are many pathways related to apoptosis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc664</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The severity of the facial palsy was measured using a scale.</plag_sens>
+    <tag_file_ids>gen_doc220</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The severity of the facial palsy was assessed using a scale called the House- Brackman.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc664</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There are many factors that have been shown to affect hepatic induction, including the timing, concentration, and specific variety of growth factors.</plag_sens>
+    <tag_file_ids>gen_doc2990</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There are many factors that have been shown to affect hepatic induction, including the timing, concentration and specific variety of growth factors, as well as the methods of generating definitive endoderm.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc664</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The myogenin expression levels increased at the initial phase and then decreased at the end of the expansion phase figureB.</plag_sens>
+    <tag_file_ids>gen_doc1379</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The myogenin expression levels increased by approximately 3-fold of those at the initial phase during expansion and then decreased by approximately 30% at the end of the expansion phase figureB).</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc664</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The average magnitude is higher along the primary migration direction if the velocity is anisotropic.</plag_sens>
+    <tag_file_ids>gen_doc3235</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>If the velocity is anisotropic, the average magnitude along the primary migration direction is substantially higher than along other directions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc664</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>80% of the participants said they would use condoms frequently during one-night stands.</plag_sens>
+    <tag_file_ids>gen_doc1150</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>80% of participants said they would use condoms frequently during one-night stands.</tag_plag_sens>
+  </row>
+</data>

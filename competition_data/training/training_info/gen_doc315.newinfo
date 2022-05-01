@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc315</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>After staining, images were captured with a Coolpix 4500 digital camera.</plag_sens>
+    <tag_file_ids>gen_doc2191</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>After staining, images were captured with a Coolpix 4500 digital camera.</tag_plag_sens>
+  </row>
+</data>

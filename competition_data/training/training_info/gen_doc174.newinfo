@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc174</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In HCO C, the anesthetist who collected data on all 60 files decided to analyze the data himself, made a note of potential problems, and submitted his analysis to the other staff.</plag_sens>
+    <tag_file_ids>gen_doc2961</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In HCO C, the anesthetist who collected data on all 60 files decided to analyze the data himself, made a note of potential problems, and submitted his analysis for discussion with other staff.</tag_plag_sens>
+  </row>
+</data>

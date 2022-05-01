@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2127</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>According to the International Commission on Radiation Units and Measurements report number 50, no more than 2% of PTV volume should receive more than 10% of PD.</plag_sens>
+    <tag_file_ids>gen_doc2176</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The plan was to deliver 100%PD to 98% of PTV with no more than 2% of PTV volume receiving 10% ofPD as recommended in the International Commission on Radiation Units and Measurements report number 50 and ICRU 62.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2127</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The risk of a cigarette smoker being diagnosed with lung cancer after 10 years of follow-up is estimated to be 5%.</plag_sens>
+    <tag_file_ids>gen_doc172</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The risk of a cigarette smoker being diagnosed with lung cancer after 10 years of follow-up is estimated to be about 5%.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2127</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>331 volunteers were included in the study.</plag_sens>
+    <tag_file_ids>gen_doc1164</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There were 331 volunteers included in the study.</tag_plag_sens>
+  </row>
+</data>

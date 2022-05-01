@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2884</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The number was chosen as the sample size.</plag_sens>
+    <tag_file_ids>gen_doc1430</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The sample size was chosen ahead of print.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2884</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A broad term meant to capture all clinical interactions in health care that don't involve the patient and provider being in the same room at the same time.</plag_sens>
+    <tag_file_ids>gen_doc3579</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>"Virtual care" is a broad term meant to capture all clinical interactions in health care that do not involve the patient and provider being in the same room at the same time.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2884</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Our experimental approach can't provide any information on the role of Syk within nonhematopoietic origin cells.</plag_sens>
+    <tag_file_ids>gen_doc1091</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Our experimental approach can't provide any information on the role of Syk within cells of nonhematopoietic origin.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2884</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Women who received diet or exercise were more likely to experience low GWG than those who did not, and maternal hypertension was reduced in the intervention group compared with the control group.</plag_sens>
+    <tag_file_ids>gen_doc3949</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Women receiving diet or exercise were more likely to experience low GWG than those in the control group, and maternal hypertension was reduced in the intervention group compared with the control group.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2884</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In accordance with the ethical standards of the ethical committees of individual participating institutions, sample enrollment and DNA genotyping were performed.</plag_sens>
+    <tag_file_ids>gen_doc2275</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In accordance with the ethical standards of the ethical committees of individual participating institutions, sample enrollment and DNA genotyping were performed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2884</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>To provide high dependability for such applications, it is necessary to use all possible computing resources.</plag_sens>
+    <tag_file_ids>gen_doc2611</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In order to provide high dependability for such applications, it is necessary to utilize all possible computing resources, i.e., both theCPU andGPU at their best.</tag_plag_sens>
+  </row>
+</data>

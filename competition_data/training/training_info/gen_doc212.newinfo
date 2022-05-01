@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc212</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In order to estimate the generalization accuracy, 10-fold cross validation tests were conducted, where the majority of the training set was randomly used in the test.</plag_sens>
+    <tag_file_ids>gen_doc911</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In order to estimate the generalization accuracy, 10-fold cross validation tests were conducted, where most of the training sequence was randomly used in training and the other 10% was used in the test.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc212</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The benign tumors had a smaller size and weight.</plag_sens>
+    <tag_file_ids>gen_doc2709</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The benign tumors had a smaller size and weight than the malignant ones.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc212</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>955 patients with AKI stage III were identified by the criteria.</plag_sens>
+    <tag_file_ids>gen_doc2949</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>For comparison, we identified 935 patients with AKI stage III as defined by the criteria.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc212</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The model shows a positive relationship between mosquito abundance and temperature.</plag_sens>
+    <tag_file_ids>gen_doc950</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The model shows a positive relationship between mosquito abundance and minimum temperature.</tag_plag_sens>
+  </row>
+</data>

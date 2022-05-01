@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc374</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Sampling of pose conformations is done in Monte Carlo.</plag_sens>
+    <tag_file_ids>gen_doc3940</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Monte Carlo sampling of pose conformations is used to further refined the conformations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc374</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The cut-off frequencies were established by the clinicians.</plag_sens>
+    <tag_file_ids>gen_doc3834</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The cut-off frequencies were established based on the clinical criteria for ERPs.</tag_plag_sens>
+  </row>
+</data>

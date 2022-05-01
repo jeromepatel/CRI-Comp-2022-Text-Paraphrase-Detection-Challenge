@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2434</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Both are implicated in growth processes</plag_sens>
+    <tag_file_ids>gen_doc34</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Both are implicated in growth processes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2434</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The preparation of Cy3- and Cy5- fluorescently-labeled cDNA samples, as well as the subsequent hybridization to 13 K microarrays, were done previously.</plag_sens>
+    <tag_file_ids>gen_doc1783</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The preparation of Cy3- and Cy5- fluorescently-labeled cDNA samples, and subsequent hybridization to 13 K microarrays were done as described previously.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3086</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Positive sharp waves are useful in diagnosis.</plag_sens>
+    <tag_file_ids>gen_doc3342</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Positive waves are useful in the diagnosis of an acute infarction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3086</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Sequence based screening has benefited from the explosion in metagenomics projects and the availability of sequence data, but this approach may not deliver on the rare biocatalytic activities being sought from the marine environment.</plag_sens>
+    <tag_file_ids>gen_doc289</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Sequence based screening has benefited from the explosion in metagenomics projects and the availability of sequence data, but this approach is restricted to near neighbour sequences and may not deliver on the rare biocatalytic activities being sought from the marine environment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3086</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Many community health interventions, such as breastfeeding and oral rehydration, were seen as more valuable by residents because of participation.</plag_sens>
+    <tag_file_ids>gen_doc735</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The perceived value of community health interventions such as breastfeeding and oral rehydration were increased by participation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3086</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>There are chromosomal-structure variations in JR2.</plag_sens>
+    <tag_file_ids>gen_doc2096</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We wanted chromosomal-structure variations in strain JR2.</tag_plag_sens>
+  </row>
+</data>

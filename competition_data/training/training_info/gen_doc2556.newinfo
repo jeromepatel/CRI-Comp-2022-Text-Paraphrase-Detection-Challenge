@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2556</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Some of the genes having an altered expression were involved in cellular processes.</plag_sens>
+    <tag_file_ids>gen_doc3925</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Some of the genes that had an altered expression belonged to cellular processes such as cell cycle, inflammation, and metabolism.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2556</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>There is a logarithmic plot of a subset of species from thePDZome dataset.</plag_sens>
+    <tag_file_ids>gen_doc3531</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>There is a logarithmic plot of a subset of species from the PDZome dataset.</tag_plag_sens>
+  </row>
+</data>

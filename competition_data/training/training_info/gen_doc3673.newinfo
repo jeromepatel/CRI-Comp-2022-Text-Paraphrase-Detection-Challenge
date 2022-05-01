@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3673</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>We looked at the factors that predicted the use of antipsychotics.</plag_sens>
+    <tag_file_ids>gen_doc3234</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We explored the clinical factors that predicted the use of antipsychotics.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3673</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>To fully understand the cellular and molecular mechanisms that guide adult-born neuron formation and circuit integration, we need to be able to probe neuronal communication.</plag_sens>
+    <tag_file_ids>gen_doc1918</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>To fully understand the cellular and molecular mechanisms that guide adult-born neuron synapse formation and circuit integration, we must be able to probe the neuronal connections.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3673</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Radiation exposure and procedure time reduction were similar to 3DTEE but ICE was better in eliminating RF delivery.</plag_sens>
+    <tag_file_ids>gen_doc2674</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Radiation exposure and procedure time reduction were similar to 3DTEE, but ICE was better at eliminating needless RF delivery.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3673</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The activity of mTORC1 may be down regulated if mTORC2 is taken out.</plag_sens>
+    <tag_file_ids>gen_doc1774</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>mTORC1 activity may be down regulated if mTORC2 is not active.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3673</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The lack of mechanistic insight and the large differences in the HIIE dose, timing and composition of test meals mean that it is not possible to modify postprandial lipemia with HIIE.</plag_sens>
+    <tag_file_ids>gen_doc2014</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The lack of mechanistic insight and the large differences in the HIIE dose, timing and composition of test meals mean that it is not possible to identify how HIIE may be tailored to modify postprandial lipemia.</tag_plag_sens>
+  </row>
+</data>

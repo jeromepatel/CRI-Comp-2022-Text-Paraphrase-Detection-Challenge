@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc471</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Some neonatal caps are currently under trial.</plag_sens>
+    <tag_file_ids>gen_doc38</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Some neonatal caps are currently under trial.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc471</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Table 1 shows the characteristics of the items used as targets.</plag_sens>
+    <tag_file_ids>gen_doc1176</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Table 1 presents the characteristics of the items used as primes and targets.</tag_plag_sens>
+  </row>
+</data>

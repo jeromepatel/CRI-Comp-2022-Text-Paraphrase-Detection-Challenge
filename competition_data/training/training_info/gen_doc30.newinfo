@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc30</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In the adult-like stages, eg-braf was 1299 times higher than it was in the ex-vivo stage.</plag_sens>
+    <tag_file_ids>gen_doc896</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In the adult-like stages, eg-braf was 1279 times higher than in the ex-vivo stages.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc30</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>All patients who received at least one study dose were included in the analyses.</plag_sens>
+    <tag_file_ids>gen_doc2548</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>All patients who received at least one study dose were included in safety analyses.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc30</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>QD585-streptavidin conjugate and Cy3-streptavidin conjugate are used in successful FISH experiments.</plag_sens>
+    <tag_file_ids>gen_doc113</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>QD585-streptavidin conjugate and Cy3-streptavidin conjugate were used in successful FISH experiments on human chromosome 1.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3975</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Clinical assessments were done at each visit.</plag_sens>
+    <tag_file_ids>gen_doc1488</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Clinical assessments were done at each visit.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3975</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There was evidence of -synuclein accumulating in the iPSCs of the patient.</plag_sens>
+    <tag_file_ids>gen_doc1077</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There was evidence of -synuclein accumulation in the neurons derived from the patient.</tag_plag_sens>
+  </row>
+</data>

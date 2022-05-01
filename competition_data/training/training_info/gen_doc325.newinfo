@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc325</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The samples were resuspended in a mixture of anhydrous and dimethyl sulfinyl carbanion.</plag_sens>
+    <tag_file_ids>gen_doc761</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In this procedure, the samples were resuspended in a mixture of anhydrous and dimethyl sulfinyl carbanion.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc325</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The rest had less than 3 meals, 4-7 meals, and more than 7 meals with a percentage occurrence of 9.2, 28.9 and 9.1 % respectively.</plag_sens>
+    <tag_file_ids>gen_doc577</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The rest had less than 3 meals per day, 4-7 meals, and more than 7 meals with a percentage occurrence of 9.2 %, 28.9 % and 9.1 % respectively.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc325</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The combination of the 2 inhibitors suppressed tumor growth more efficiently than the injection of rapamycin did.</plag_sens>
+    <tag_file_ids>gen_doc587</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The combination of the 2 inhibitors suppressed tumor growth more efficiently than the injection of rapamycin orPD98059 did.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc325</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The process of processing Met to the feature in colibactin remains under investigation.</plag_sens>
+    <tag_file_ids>gen_doc3888</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The process of processing Met to the feature in colibactin remains a subject of investigation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc325</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>SM has been proven to change behavior for the sake of improving health.</plag_sens>
+    <tag_file_ids>gen_doc2512</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>SM has shown to change behavior for the sake of improving health.</tag_plag_sens>
+  </row>
+</data>

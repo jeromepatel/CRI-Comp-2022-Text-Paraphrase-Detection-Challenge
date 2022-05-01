@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3798</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The expression and purification of UspA1(  ) has been described before.</plag_sens>
+    <tag_file_ids>gen_doc3325</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The expression and purification of UspA1(527–665) has been described before.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc695</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Under certain conditions, initial rates were obtained if the applied enzyme had undergone at least three turnovers.</plag_sens>
+    <tag_file_ids>gen_doc1220</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Under certain conditions, initial rates were obtained.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc695</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A residual vasodilation in response to the reduction in cerebral perfusion pressure during phases II and III is one of the factors that may have contributed to this response.</plag_sens>
+    <tag_file_ids>gen_doc2713</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A residual vasodilation in response to the reduction in cerebral perfusion pressure during phases II and III is one of the factors that may have contributed to this response.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc695</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The vLPS of C. burnetii blurs its own recognition by the Tollygunge to interfere with the signal.</plag_sens>
+    <tag_file_ids>gen_doc1433</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The vLPS of C. burnetii blurs its own recognition by the Tollygunge signalling pathway in order to interfere with the signal.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc695</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>To avoid misdiagnosis, we excluded patients with tenderness within the muscle body itself and focused the treatment on the tendon origin.</plag_sens>
+    <tag_file_ids>gen_doc388</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>To avoid misdiagnosis, we excluded patients with tenderness within the muscle body itself (Cyriax type IV) and focused the treatment with manipulation and injection.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc695</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The Go/No-Go task was called hack-a-mole.</plag_sens>
+    <tag_file_ids>gen_doc3</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The Go/No-Go task is called whack-a-mole.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc695</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Temporal control of neuronal activity is gained by providing the target molecule's designer ligand.</plag_sens>
+    <tag_file_ids>gen_doc2879</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Temporal control of neuronal activity is gained by providing the target molecule's designer ligand, in several models mentioned above.</tag_plag_sens>
+  </row>
+</data>

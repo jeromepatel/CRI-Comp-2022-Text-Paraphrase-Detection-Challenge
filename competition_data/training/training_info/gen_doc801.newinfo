@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc801</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The analysis of biooil has a wide range of features, including solid-liquid phases distribution, acidity, stability, heating value, elemental contents, and molecular weight distribution.</plag_sens>
+    <tag_file_ids>gen_doc58</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The composition analysis of biooil covers a wide range of features, including solid-liquid phases distribution, acidity, stability, heating value, elemental contents, and molecular weight distribution and microscopical and specific features.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc801</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>InSupplemental Figure 5, A and B, we verified the weights and sizes of the commercial dextran preparations.</plag_sens>
+    <tag_file_ids>gen_doc1138</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>InSupplemental Figure 5, A and B, we verified the weights and diameters of the commercial dextran preparations using gel-filtration chromatography.</tag_plag_sens>
+  </row>
+</data>

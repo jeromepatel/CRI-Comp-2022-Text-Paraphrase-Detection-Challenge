@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc915</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The pair distances of Zr-Zr, Cu-Cu and Cu-Zr in CuZr2 are shown in the figure.</plag_sens>
+    <tag_file_ids>gen_doc2519</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The pair distances of Zr-Zr, Cu-Cu and Cu-Zr in CuZr2 and Cu10Zr7 are shown in figure(b) and are from ref.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc915</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The formation of biofilm was quantified by the addition of 100 l of 95% ethanol to each CV-stained microplate well.</plag_sens>
+    <tag_file_ids>gen_doc3440</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The formation of biofilm was quantified by the addition of 100 l of 95% ethanol to each CV-stained microplate well, and the absorbance was determined with a plate reader at 600 nm.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc915</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>This may have been enough to disrupt the cell cycle, resulting in the MP-HX effect on the cells.</plag_sens>
+    <tag_file_ids>gen_doc3749</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>This may have been sufficient to disrupt the cell cycle, resulting in the MP-HX cytotoxic effect on the cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc915</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>He asked, "Is there any sort of psychical state, however rudimentary, attending functioning of any lower nervous arrangements?".</plag_sens>
+    <tag_file_ids>gen_doc1696</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>He asked, "Is there any sort of psychical state, however rudimentary, attending the functioning of any lower nervous arrangement?"</tag_plag_sens>
+  </row>
+</data>

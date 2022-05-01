@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3734</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The expression levels of the FadA gene in colon tissue from patients have been shown to be 10 times higher than normal individuals.</plag_sens>
+    <tag_file_ids>gen_doc509</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The expression levels of the FadA gene in colon tissue from patients with CRC have been shown to be 10 times higher than those in normal individuals.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3734</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The combination of the N-cadherin blockade and YKL-40 shRNA slightly enhanced the inhibition on cell-cell adhesion, suggesting that neutralizing N-cadherin via an anti-N-cadherin antibody in control GSDCs resembled the inhibition of YKL-40 sh</plag_sens>
+    <tag_file_ids>gen_doc2208</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The combination of the N-cadherin blockade and YKL-40 shRNA slightly enhanced the inhibition on cell-cell adhesion, suggesting that neutralizing N-cadherin via an anti-N-cadherin antibody in control GSDCs resembled the inhibition of YKL-40 sh</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3734</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Wang and his colleagues studied Hong Kong adolescents.</plag_sens>
+    <tag_file_ids>gen_doc3336</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>In a recent study of Hong Kong adolescents, Wang et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3734</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The data does not show that fucoidan is more effective than heparin at preventing SMC migration.</plag_sens>
+    <tag_file_ids>gen_doc3479</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The data does not show that fucoidan is more effective than heparin at preventing SMC migration and SMC adhesion to the extracellular matrix.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3734</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The density of the spine was calculated for different types of spines.</plag_sens>
+    <tag_file_ids>gen_doc1988</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The spine density was calculated for the different types of spines that are believed to have different roles.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3734</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Most players see giving to parents and strangers as separate goods and have different preferences for each one.</plag_sens>
+    <tag_file_ids>gen_doc2912</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>This shows that most players view giving to parents and strangers as separate goods, and they have different preferences for each one.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3958</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The prevalence of the isolates detected off the eastern coast of China was reported to be higher than that observed in the study.</plag_sens>
+    <tag_file_ids>gen_doc72</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The prevalence of V. parahaemolyticus isolates detected off the eastern coast of China was reported to be higher than that observed in our study.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3958</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Monkey and human erythrocytes have membranous structures which are caused by P. knowlesi.</plag_sens>
+    <tag_file_ids>gen_doc2804</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Both monkey and human erythrocytes have membranous structures that are caused by P. knowlesi infection.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3958</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The study sheds light on the mechanism of KRAS transcription regulation and may be useful for the rationale design of drugs for oncogenic KRAS.</plag_sens>
+    <tag_file_ids>gen_doc400</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>This study sheds some light on the mechanism of KRAS transcription regulation and may be useful for the rationale design of drugs for oncogenic KRAS.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3958</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>It has been reported that arginine methylation was involved in a number of processes.</plag_sens>
+    <tag_file_ids>gen_doc2771</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>It has been reported that arginine methylation was involved in signal, transcriptional control, DNA repair, and nuclear transport.</tag_plag_sens>
+  </row>
+</data>

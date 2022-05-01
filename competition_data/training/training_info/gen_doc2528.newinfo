@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2528</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Previous studies show that the nuclear factor kappa B, IRF-1 and P53 are involved in the production of transcription.</plag_sens>
+    <tag_file_ids>gen_doc2938</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Previous studies show that nuclear factor kappa B, IRF-1 and P53 bind to IFN genes and induce transcription.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2528</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In order to achieve the optimization, water transport innanopores with specific sizes is enabled, which makes a transition to disordered flow in larger pores, where the effects of pore geometry and pore edge functionalization become insignificant.</plag_sens>
+    <tag_file_ids>gen_doc2649</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>It is possible to achieve the optimization by enabling ordered water transport in nanopores with specific sizes, which makes a transition to disordered flow in larger pores, where the effects of pore geometry and pore edge functionalization become insignificant.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2528</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>It is likely that only a specific anti-VEGF/ anti-EGFR/ Chemotherapy combination will be effective against a particular tumor type, given that administration of different agents targeting similar signaling pathways can result in different outcomes.</plag_sens>
+    <tag_file_ids>gen_doc1227</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>It is likely that only a specific anti-VEGF/anti-EGFR/ Chemotherapy combination will be effective against a particular tumor type, given that administration of different agents targeting similar signaling pathways can result in dissimilar outcomes.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2856</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The cells were selected with 300 g/ml zeocin, and a pool of approximately 100 clones of transgene-expressing cells was used for the experiments.</plag_sens>
+    <tag_file_ids>gen_doc865</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The cells were selected with 300 g/ml zeocin, and a pool of approximately 100 clones of transgene-expressing cells was used for the experiments.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2856</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>A better control of the tumor was associated with FoxP3+ T cell infiltration in head and neck cancer.</plag_sens>
+    <tag_file_ids>gen_doc3339</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>FoxP3+ T cell infiltration in head and neck cancer was associated with a better control of the tumor.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2856</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The crystals are blue.</plag_sens>
+    <tag_file_ids>gen_doc1917</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The indigo blue crystals are colored with hydrochloric acid.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2856</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>accession AKTT00000000 is the strain A1 sequence.</plag_sens>
+    <tag_file_ids>gen_doc1912</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>accession AKTT00000000 is the strain A1, sequence</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2856</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Two weeks after the treatment for physical and occupational therapy, patients were called to an occupational therapist for fitting of splints.</plag_sens>
+    <tag_file_ids>gen_doc2142</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Two weeks after treatment for physical and occupational therapy, patients were called to an occupational therapist for fitting of splints that were appropriate for the functional level.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2856</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>She suggests that someday patients could be incentivized through their insurance to be active outdoors, similar to small scale programs that offer financial benefits for exercise and other healthy activities.</plag_sens>
+    <tag_file_ids>gen_doc1706</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>She suggests that someday patients could be incentivized through their insurance to be active outdoors, similar to existing small-scale programs that offer financial benefits for exercise and other healthy activities.</tag_plag_sens>
+  </row>
+</data>

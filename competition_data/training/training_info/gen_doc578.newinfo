@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc578</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The position of the center of the particle was identified using a one-dimensional translation function.</plag_sens>
+    <tag_file_ids>gen_doc3937</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A one-dimensional translation function search using the program Phaser identified the center of the particle.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc578</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>After 30 min at room temperature, the free biotinylation reagent was removed by passage through a 2 liter desalt spin column.</plag_sens>
+    <tag_file_ids>gen_doc313</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>After 30 min at room temperature, the free biotinylation reagent was removed by passage through a 2 liter Zeba desalt spin column.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc578</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There are previous studies that show that ADAM9 and ADAM10 are involved in colorectal cancer.</plag_sens>
+    <tag_file_ids>gen_doc1628</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In previous studies, it was shown that ADAM9 was involved in colorectal cancer and that ADAM10 and ADAM17 were involved in gastric cancer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc578</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The PAA is ionized with enhanced electrostatic interaction when the pH increases.</plag_sens>
+    <tag_file_ids>gen_doc456</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The PAA is ionized with enhanced electrostatic interaction when the pH increases to 8.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc578</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Testis-sparing surgery is an alternative to radical orchiectomy, with the advantage that androgen production, body image, and fertility can be preserved.</plag_sens>
+    <tag_file_ids>gen_doc1710</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Testis-sparing surgery has been developed as an alternative to radical orchiectomy, with the advantage that androgen production, body image, and fertility can all be preserved.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc578</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>To achieve equal access to health care, UHC needs to strike a balance between the proportion of the population covered, the range of available services, and the proportion of direct costs covered by public funding according to the World Health Organization.</plag_sens>
+    <tag_file_ids>gen_doc1975</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>To achieve equal access to health care, UHC needs to strike a balance in the proportion of the population covered, the range of available services, and the proportion of direct costs covered by public funding, according to the World Health Organization.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc578</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In Figure 6C we show a speculative model anchored by the C7 end of ciprofloxacin, which is located near GyrA G 81C.</plag_sens>
+    <tag_file_ids>gen_doc3803</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In Figure 6C we show a speculative model anchored by the C7 end of ciprofloxacin, which is located near GyrA G 81C.</tag_plag_sens>
+  </row>
+</data>

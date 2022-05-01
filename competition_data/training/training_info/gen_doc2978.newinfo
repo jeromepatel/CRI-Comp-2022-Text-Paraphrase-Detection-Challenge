@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2978</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The radiation effect was estimated to have a median value of 0.16 for Gompertz repopulation and 0.17 for the kickoff-repopulation.</plag_sens>
+    <tag_file_ids>gen_doc666</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The radiation effect was estimated to have a median value of 0.16 for Gompertz repopulation and 0.17 for kickoff-repopulation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2978</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>To explore theRNA sequence which folds into the desired target structure and has the lowest possible free energy, we have to take into account two objective functions simultaneously: a measure for structure stability and a measure for structure similarity.</plag_sens>
+    <tag_file_ids>gen_doc1138</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>To explore the RNA sequence which folds into the desired target structure and has the lowest possible free energy, we have to take into account 2 objective functions simultaneously, a measure for structure stability and a measure for structure similarity.</tag_plag_sens>
+  </row>
+</data>

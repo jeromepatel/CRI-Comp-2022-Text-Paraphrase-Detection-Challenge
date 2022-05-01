@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3502</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The experience of other European countries shows the need to adapt self-assessment instruments to the specific health system context.</plag_sens>
+    <tag_file_ids>gen_doc3883</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The experience of other European countries shows the need to adapt self-assessment instruments to the specific health system context.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3502</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Sp15 is present in O157 Sakai, but it was not integrated into the yehV locus in K-12.</plag_sens>
+    <tag_file_ids>gen_doc3854</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Sp15 is present in O157 Sakai, but the Sp15 derivative was not integrated into the yehV locus in K-12.</tag_plag_sens>
+  </row>
+</data>

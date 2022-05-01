@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1558</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Automatic aggregation can be seen in Figure 3.</plag_sens>
+    <tag_file_ids>gen_doc424</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>For an example of automatic aggregation, see Figure 3.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1558</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>A number of studies show that targeting the interaction between 4-1BB/4-1BBL suppresses the development of inflammatory diseases.</plag_sens>
+    <tag_file_ids>gen_doc1728</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There are a number of studies showing that targeting the interaction between 4-1BB/4-1BBL suppresses mouse models of inflammatory diseases.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1558</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The population of MDSC in the spleen of control was evaluated since a variety of chemotherapeutics, including gemcitabine and doxorubicin, are reported to decrease MDSCs and therefore have favorable immune effects.</plag_sens>
+    <tag_file_ids>gen_doc3596</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Since a variety of chemotherapeutics, including gemcitabine and doxorubicin, are reported to decrease MDSCs and thereby have favorable immune effects, we evaluated the population of MDSC in the spleen of control.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1558</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The cyclooxygenase-2 inhibit (COX-2) could be used to treat colorectal cancer.</plag_sens>
+    <tag_file_ids>gen_doc3444</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The cyclooxygenase-2 inhibit (COX-2) could be used to prevent colorectal cancer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1558</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>To confirm that N-CEACAM1 forms a stable complex in solution with UspA1, we used gel permeation chromatography, analytical ultracentrifugation, and isothermal calorimetry.</plag_sens>
+    <tag_file_ids>gen_doc2112</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>To confirm that N-CEACAM1 forms a stable complex in solution with UspA, we used gel permeation chromatography, analytical ultracentrifugation, and isothermal calorimetry.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1558</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A total of 5 gRNA was added to the buffer to be removed.</plag_sens>
+    <tag_file_ids>gen_doc1317</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A total of 5 g RNA was further purified in a reaction buffer to remove the residual DNA.</tag_plag_sens>
+  </row>
+</data>

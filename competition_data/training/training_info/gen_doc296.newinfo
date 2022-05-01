@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc296</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>After 90 days, the animals were killed with 10% buffered formalin and the specimen remained in fixation for a week in 10% buffered formalin.</plag_sens>
+    <tag_file_ids>gen_doc745</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>After 90 days, the animals were killed by perfusion with 10% buffered formalin, and the specimen remained in fixation for one week in 10% buffered formalin, without temperature control or shaking.</tag_plag_sens>
+  </row>
+</data>

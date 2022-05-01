@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3005</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Other options, like a continuous adaptation of the bias throughout the feedback run, require at least a partial knowledge of all the labels of this run, which can not be granted in all feedback applications.</plag_sens>
+    <tag_file_ids>gen_doc543</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Other options, like a continuous adaptation of the bias throughout the feedback run, require at least a posteriori knowledge of all the labels of this run, which can not be granted in all feedback applications.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3005</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The means of triplicates are represented by column.</plag_sens>
+    <tag_file_ids>gen_doc3072</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Columns are the means of triplicates.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3005</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The history shows that the representation of the SI unit of mass is stable over the last 40 years.</plag_sens>
+    <tag_file_ids>gen_doc3024</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Based on the history of the last 40 years, it appears that the representation of the SI unit of mass is stable to within a small amount.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3005</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>steroid receptor coactivator 1 is a steroid-related signalling molecule that is involved in the regulation of GR action.</plag_sens>
+    <tag_file_ids>gen_doc485</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>steroid receptor coactivator 1 is a steroid-related signalling molecule that is involved in the regulation of GR action.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3005</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The classical behavioral techniques are based on suppression.</plag_sens>
+    <tag_file_ids>gen_doc3167</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The classical behavioral techniques are based on suppression of response.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3005</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Tabcharani et al. state that multiple anion occupancy of CFTR is a thing.</plag_sens>
+    <tag_file_ids>gen_doc3950</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Tabcharani et al. state that multiple anion occupancy of CFTR.</tag_plag_sens>
+  </row>
+</data>

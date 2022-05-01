@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc383</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>: tRNAGlu (5′-CCCGCTGCTTYTCTCCAAGGTC-3) and AH530.</plag_sens>
+    <tag_file_ids>gen_doc1495</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>: tRNAGlu (5′-CCCGCTTGGCTTYTCTCCAAGGTC-3) and AH530.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc383</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>MUSCLE v3.6 was used to align the top 20 subjects from each search.</plag_sens>
+    <tag_file_ids>gen_doc481</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The top 20 subjects from each search were retrieved, compiled and aligned using MUSCLE v3.6.</tag_plag_sens>
+  </row>
+</data>

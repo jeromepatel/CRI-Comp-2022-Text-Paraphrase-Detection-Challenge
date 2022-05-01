@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3243</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The data from the census shows that less than half of households in the WFS andCDS neighborhoods have a car.</plag_sens>
+    <tag_file_ids>gen_doc3309</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The data from the census shows that less than 10% of households in the WFS andCDS neighborhoods have a vehicle.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3243</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The activity of Cp was unaffected by the three cycles of freezing and thawing.</plag_sens>
+    <tag_file_ids>gen_doc2376</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Three cycles of freezing and thawing had no effect on the activity of Cp.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3243</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Social media has been used to study a number of diseases, including dental pain, cardiac arrest, and drug use.</plag_sens>
+    <tag_file_ids>gen_doc3002</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Researchers have used social media to study a number of diseases, including dental pain, and cardiac arrest, as well as population behavior, such as physical activities, mood and mental health, and alcohol, tobacco, and drug use.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3243</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The models M1a, M2a, M7 and M8 can be compared.</plag_sens>
+    <tag_file_ids>gen_doc684</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The models M1a, M2a, and M7 can be compared with this program.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3243</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>A cardiac phenotype resembling diabetic cardiomyopathy can be achieved by stimulating PPAR expression or long chain CoA synthase.</plag_sens>
+    <tag_file_ids>gen_doc2993</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>A cardiac phenotype resembling diabetic cardiomyopathy can be achieved by stimulating PPAR expression or long-chain CoA synthase, either through overexpression or stimulation.</tag_plag_sens>
+  </row>
+</data>

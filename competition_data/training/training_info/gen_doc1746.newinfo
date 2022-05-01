@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1746</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The study shows that the two kohlrabi cultivars are an alternate source of anti-diabetic agents.</plag_sens>
+    <tag_file_ids>gen_doc2854</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The study shows that the two kohlrabi cultivars have potent activity and are an alternate source of anti-diabetic agents.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1746</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Lack of UNG activity may lead to an increased mutagenic rate in this challenging microorganism.</plag_sens>
+    <tag_file_ids>gen_doc1259</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Lack of UNG activity may lead to the formation of uracil in genomic DNA and an increased mutagenic rate in this challenging pathogenic microorganism.</tag_plag_sens>
+  </row>
+</data>

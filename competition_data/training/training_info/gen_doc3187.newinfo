@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3187</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The hypothesis may be supported by some findings.</plag_sens>
+    <tag_file_ids>gen_doc1667</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Some findings may support this hypothesis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3187</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>PE5 slows aging independently of Rim15, SNF1 and ATG.</plag_sens>
+    <tag_file_ids>gen_doc2809</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>PE5 slows aging independently of Rim15, SNF1 and ATG.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3187</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The analysis of Rhynie chert suggests that the fluid was deposited at temperatures of less than 50.</plag_sens>
+    <tag_file_ids>gen_doc3110</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The analysis of Rhynie chert suggests that the fluid was deposited in temperatures of less than 50 and was often saline.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3187</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Blood components should be maintained in the cold chain at the point of traning.</plag_sens>
+    <tag_file_ids>gen_doc662</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The maintenance of the cold chain should be extended to the point of transfusion.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3187</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>For similar results with adults, see Langus et al..</plag_sens>
+    <tag_file_ids>gen_doc1031</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>For similar results with adults, see Langus et al.</tag_plag_sens>
+  </row>
+</data>

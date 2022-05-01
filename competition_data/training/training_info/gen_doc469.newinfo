@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc469</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The management of this acquired bleeding disorder depends on the prompt diagnosis.</plag_sens>
+    <tag_file_ids>gen_doc1357</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Immediate diagnosis of this acquired bleeding disorder is essential for management.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc469</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Patients who had been investigated for cough but whose lung function, high resolution computed tomography (HRCT) and BAL cell profiles were normal and who recovered spontaneously with no specific diagnosis for lung disease were represented.</plag_sens>
+    <tag_file_ids>gen_doc2779</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Patients who had been investigated for cough, but whose lung function, high resolution computed tomography (HRCT) and BAL cell profiles were normal, and who recovered spontaneously with no specific diagnosis for any lung disease were represented by the subjects.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc469</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The only GSP which had an enhanced expression in all strains was the one with the Gsp62 gene.</plag_sens>
+    <tag_file_ids>gen_doc2163</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The only GSP which showed an enhanced expression at both time points was the one that contained the Gsp62 gene.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc469</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There is Chen et al.</plag_sens>
+    <tag_file_ids>gen_doc2004</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Chen et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc469</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The step-up approach was used in the PANTER study, which resulted in other minimally-invasive technique studies.</plag_sens>
+    <tag_file_ids>gen_doc3040</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A lot of centres are using the step-up approach based on the PANTER study, which resulted in other minimally invasive technique studies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc469</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Important progress has been made to understand the genetic diversity among Vigna species, mainly by using traditional markers, thanks to the Cowpea Genomics Initiative.</plag_sens>
+    <tag_file_ids>gen_doc3187</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Important progress has been achieved to understand the genetic diversity of Vigna species, mainly by using traditional markers, thanks to the Cowpea Genomics Initiative.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc469</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Why did our experiments yield less power on performance than Burgmer &amp;Englich?</plag_sens>
+    <tag_file_ids>gen_doc846</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Why did our experiments yield less power on performance than Burgmer and Englich?</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc469</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The model we have proposed does not cover all aspects of language.</plag_sens>
+    <tag_file_ids>gen_doc1463</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The model we have proposed does not cover all aspects of language.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc469</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The second T3SS is on a second pathogenicity island, which is caused by the invasion of host cells by theSalmonella.</plag_sens>
+    <tag_file_ids>gen_doc339</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The second T3SS is on a second pathogenicity island called SPI-2 which is caused by the invasion of host cells by the Salmonella pathogen.</tag_plag_sens>
+  </row>
+  <row>
+    <index>9</index>
+    <file_ids>gen_doc469</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>After accounting for SES, Newman concluded that African American ethnicity is a significant and independent predictor of poor outcome from breast cancer.</plag_sens>
+    <tag_file_ids>gen_doc584</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In a meta-analysis of 20 studies, Newman concluded that African American ethnicity is a significant and independent predictor of poor outcome from breast cancer even after accounting for SES.</tag_plag_sens>
+  </row>
+  <row>
+    <index>10</index>
+    <file_ids>gen_doc469</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The bench press, chest fly, shoulder press, shoulder abduction, close grip bench press and lying triceps extension were used in the experiment.</plag_sens>
+    <tag_file_ids>gen_doc2555</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The bench press, chest fly, shoulder press, shoulder abduction, close grip bench press, and lying triceps extension were some of the exercises used in the experimental sessions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>11</index>
+    <file_ids>gen_doc469</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Both conditions have the same symptoms, but have different pathsophysiological background.</plag_sens>
+    <tag_file_ids>gen_doc1013</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Both conditions have similar symptoms, but have different pathophysiological background.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc207</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The effect of sorafenib on patients with thrombocytopenia is not known because more than half of them received it within a year.</plag_sens>
+    <tag_file_ids>gen_doc1680</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The effect of sorafenib on patients with thrombocytopenia is not known because more than half of them received it within a year.</tag_plag_sens>
+  </row>
+</data>

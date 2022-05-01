@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1439</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The PE control sample had a temperature range of 50 to 50 C, while the PE-POSS sample had a temperature range of 50 to 50 C.</plag_sens>
+    <tag_file_ids>gen_doc1457</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>When compared with the PE control sample in a temperature range of 50 to 50 C, the storage modulus of the PE- POSS sample was the same.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1439</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>BLASTP  7e 72 is related to LUCA15, a tumor suppressor gene.</plag_sens>
+    <tag_file_ids>gen_doc1642</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>BLASTP  7e-72 is related to LUCA15, which is a tumor suppressor gene in humans.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1439</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Home telemonitoring of trial patients led to changes in how care was delivered by the participating primary health centres.</plag_sens>
+    <tag_file_ids>gen_doc2703</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Home telemonitoring of the trial patients led to changes in how care was delivered by the participating primary health centres.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1439</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>He is unable to comprehend and experience the dimensions of elevation because of the worldview of "A Square" which is based on a two-dimensional plane.</plag_sens>
+    <tag_file_ids>gen_doc1066</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>He is unable to understand and experience the dimensions of elevation because of the worldview of "A Square", which is based on a two-dimensional plane.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1439</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The greater variation within the NMR spectrum is shown in the PLS score plots of the pair-wise compared groups.</plag_sens>
+    <tag_file_ids>gen_doc825</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The greater variation within the NMR spectrum is shown in the PLS score plots of the pair-wise compared groups.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1439</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>MMP-8 and MMP-9 are atherosclerotic plaque stabilizing agents.</plag_sens>
+    <tag_file_ids>gen_doc665</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>MMP-9 and MMP-8 are emerging mediators of atherosclerotic plaque stability.</tag_plag_sens>
+  </row>
+</data>

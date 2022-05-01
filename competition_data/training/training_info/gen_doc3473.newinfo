@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3473</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>According to the evaluation of both neurologists, at least one of the 31 patients they detected had a CMB site.</plag_sens>
+    <tag_file_ids>gen_doc2246</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>According to the evaluation of both neurologists, at least one of the 31 patients that they detected had at least one CMB site.</tag_plag_sens>
+  </row>
+</data>

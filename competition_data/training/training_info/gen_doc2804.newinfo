@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2804</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The weighted clustering coefficient is a measure of local cohesiveness of neighbors of an airport that takes into account the intensity of connections between airports i and j.</plag_sens>
+    <tag_file_ids>gen_doc498</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The weighted clustering coefficient, C(i) is a measure of local cohesiveness of neighbors of an airport that takes into account the intensity of the connections between airports i and j.</tag_plag_sens>
+  </row>
+</data>

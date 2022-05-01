@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1645</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>33 patients were identified.</plag_sens>
+    <tag_file_ids>gen_doc768</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>We identified 33 patients with the same genetic abnormality.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1645</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>According to the profiling studies done by The Cancer Genome Atlas, there are different types of GBM, such as proneural, neural, classical, and mesenchymal.</plag_sens>
+    <tag_file_ids>gen_doc3319</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>According to the profiling studies done by The Cancer Genome Atlas project, there are different types of GBM, such as proneural, neural, classical, and mesenchymal, and proliferative.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1645</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Patients may reference a particular course of action to influence the treatment trajectory prior to the start of the therapy.</plag_sens>
+    <tag_file_ids>gen_doc3350</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Patients may reference a particular course of action in order to influence the treatment trajectory prior to the HCPs referring to it.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1645</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Borradaile et al. were published in 2000.</plag_sens>
+    <tag_file_ids>gen_doc3111</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Borradaile et al. were published in 2000.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1645</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Metformin, a drug used to treat diabetes, improves the resistance of the body to the disease by increasing the production of blood sugar and decreasing the production of fat.</plag_sens>
+    <tag_file_ids>gen_doc3479</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Metformin, a drug used to treat diabetes, improves the resistance of the body to the disease by increasing the production of leptin in the body.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1645</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>This shows that the time for a complete oscillation increases when the diameter decreases.</plag_sens>
+    <tag_file_ids>gen_doc2357</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>This shows that the time for a complete oscillation increases as diameter decreases, but only for very narrow branches.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1645</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The schematic of the Goldmann applanation principle shows a half slice of the central cornea.</plag_sens>
+    <tag_file_ids>gen_doc3670</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The schematic of the Goldmann applanation principle shows a half slice of the central cornea.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1645</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Of the two studies with the most extensive sampling, one had 538 sequence from two Arizona samples, and the other had  496 sequence from several pooled samples.</plag_sens>
+    <tag_file_ids>gen_doc2390</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Of the two studies with the most extensive sampling, one included 538 sequence from two Arizona samples, and the other included 496 sequence from several pooled samples representing healthy and diseased colonies.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc515</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We wanted to find out what the underlying mechanisms are for the worsened lipid metabolism in the knockout mice.</plag_sens>
+    <tag_file_ids>gen_doc19</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We wanted to find out what the underlying mechanisms are for the lipid metabolism in the knockout mice that were treated with STZ.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc515</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The problem is to account for some waiting mechanism in the cells that regulates their responses to two or more attributes in time, to ensure that the final signal from the cell.</plag_sens>
+    <tag_file_ids>gen_doc1528</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The problem is to account for some waiting mechanism in multiplex cells that regulates their responses to two or more attributes in time, to ensure that the final signal from the cell, is colour and form.</tag_plag_sens>
+  </row>
+</data>

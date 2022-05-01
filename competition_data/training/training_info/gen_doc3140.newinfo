@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3140</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Only honey bees and bumble bees have the Glliamella and Snodgrassella phylotypes, which are highly distinctive and so far only found in honey bees.</plag_sens>
+    <tag_file_ids>gen_doc3312</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Only honey bees and bumble bees have the Glliamella and Snodgrassella phylotypes, but they are the most consistently present.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3140</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The ORFs sars 7b to sars 8b were clustered within a short 200 bp region in the 3' end of the viral genome.</plag_sens>
+    <tag_file_ids>gen_doc3653</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The ORFs sars 7b to sars 8b all clustered within a short 200 bp region in the 3' end of the viral genome.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3140</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The average inter-particle distance in a well-dispersed system was an order of magnitude larger than the typical enzymes.</plag_sens>
+    <tag_file_ids>gen_doc2171</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The estimate showed that the average inter-particle distance in a well-dispersed system was an order of magnitude larger than the typical enzyme molecules.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3140</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The results of a model show that foliar concentrations accounted for most of the observed patterns in the level of response.</plag_sens>
+    <tag_file_ids>gen_doc865</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The results of a mixed model indicated that foliar nutrient concentrations accounted for the majority of observed patterns in the level of response.</tag_plag_sens>
+  </row>
+</data>

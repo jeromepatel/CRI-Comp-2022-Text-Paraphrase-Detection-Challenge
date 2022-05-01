@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1518</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>This evaluation relied more on quantitative data for the evaluation.</plag_sens>
+    <tag_file_ids>gen_doc138</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>This evaluation relied more on quantitative data for the evaluation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1518</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The demographic estimates of population at risk as alternatives were computed, and the median differences between crude prevalence estimates of risk per 1,000 person-years were calculated.</plag_sens>
+    <tag_file_ids>gen_doc3598</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The demographic estimates of population at risk as alternatives were computed and the median differences between crude prevalence estimates of risk per 1,000 person-years calculated using 2010 Census counts.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1518</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The time from liquid entry to liquid clearance is the time when the impedance increases to a value that is denoting liquid reflux entry.</plag_sens>
+    <tag_file_ids>gen_doc2012</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The time when the impedance increases to a value denoting liquid reflux entry for &gt; 5 seconds is known as the bolus duration.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1518</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The reduction in Mcp1 secretion is necessary for the switch from M1 to M2.</plag_sens>
+    <tag_file_ids>gen_doc1514</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The reduction in Mcp1 secretion is necessary for the switch from M1 to M2 because of the upregulation of Irak3 in macrophages.</tag_plag_sens>
+  </row>
+</data>

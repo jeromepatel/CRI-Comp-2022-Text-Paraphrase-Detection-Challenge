@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3325</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Increasing globalization and exposure to a Western ideal of thinness through the media creates more conflict within the adolescent.</plag_sens>
+    <tag_file_ids>gen_doc2838</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Increasing globalisation and exposure to a Western ideal of thinness through the media, which often differs from traditional beliefs, creates even greater conflict within the adolescent.</tag_plag_sens>
+  </row>
+</data>

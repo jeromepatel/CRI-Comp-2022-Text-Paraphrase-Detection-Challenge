@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3207</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The bias is the mean value of the annual cost of the validation sample minus the mean prediction.</plag_sens>
+    <tag_file_ids>gen_doc1146</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The bias is the mean value of the annual cost of the validation sample minus the mean prediction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3207</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The difference in tumor size between vaccine and mock-vaccinated mice was significant for both challenges.</plag_sens>
+    <tag_file_ids>gen_doc45</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>For the 2  104 and the 3  104 EL-4 lymphoma cells challenges, the differences in tumor size between vaccine and mock-vaccinated mice were statistically significant.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3207</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The data on ants, N, and Dll were obtained from a reference.</plag_sens>
+    <tag_file_ids>gen_doc529</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The data on ants, N, and Dll was obtained from the reference for details of origin and maintenance.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3207</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Patients with diabetes have reduced levels of miRNAs.</plag_sens>
+    <tag_file_ids>gen_doc2064</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Patients with diabetes have reduced levels of miRNAs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3207</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Pain Intensity Scale (NRS) and Pain Assessment in Advanced Dementia Scale (PAINAD) are two of the measures.</plag_sens>
+    <tag_file_ids>gen_doc2466</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Pain Intensity Scale (NRS) and Pain Assessment in Advanced Dementia Scale (PAINAD) are two of the measures.</tag_plag_sens>
+  </row>
+</data>

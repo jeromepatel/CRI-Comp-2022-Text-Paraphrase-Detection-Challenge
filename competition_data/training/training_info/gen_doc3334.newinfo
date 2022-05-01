@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3334</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>As many as 56 million people worldwide are estimated to be users of amphetamine-type substances, ranking this group of drugs as second in the world in terms of illegal drug use.</plag_sens>
+    <tag_file_ids>gen_doc2247</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>As many as 56 million individuals worldwide are estimated to be users of amphetamine-type substances, ranking this group of drugs as second in the world in terms of illegal drug use.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3334</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Cells were stained with secondary anti-rabbit, anti-mouse, and anti-HA and anti-SAMHD1 primary anti-rabbit, anti-mouse, and anti-HA primary anti-SAMHD1 primary anti-mouse, and anti-HA and anti-SAMHD1 primary</plag_sens>
+    <tag_file_ids>gen_doc1584</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Cells were stained with secondary anti-rabbit, anti-mouse, and anti-HA and anti-SAMHD1 secondary anti-mouse, and anti-HA and anti-SAMHD1 primary anti-rabbit.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3334</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The basis for the calculation of the classes for each variable was provided by the consistency of the weight in humans and bovines.</plag_sens>
+    <tag_file_ids>gen_doc715</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The basis for the calculation of the classes for each variable was provided by the relatively consistent weight of 0.064 in humans and 0.072 in bovines, with values ranging from 0 to 1 in Table 3.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3334</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In principle, the hypoxia could be corrected in the body by increasing the amount of oxygen in the blood.</plag_sens>
+    <tag_file_ids>gen_doc3946</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In principle, the resulting hypoxia could be corrected by increasing the amount of oxygen in the blood, but this doesn't happen.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3334</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The data was collected at the third stage.</plag_sens>
+    <tag_file_ids>gen_doc2143</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The data was collected at stage 2.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3334</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We found that the structures we and others have observed in liposomes with activated Bax were very similar to those we found here.</plag_sens>
+    <tag_file_ids>gen_doc2930</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We found that the structures we and others have observed in liposomes with activated Bax were very similar to those we found here.</tag_plag_sens>
+  </row>
+</data>

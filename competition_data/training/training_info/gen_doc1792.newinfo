@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1792</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>No oral malignancies were found when Kennedy and colleagues examined the oral cavity of 706 khat users in North Yemen.</plag_sens>
+    <tag_file_ids>gen_doc3077</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Kennedy and colleagues found no oral malignancies when they examined the oral cavity of 706 khat users in North Yemen.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1792</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>None of the reported low CV of telomere length measurement has been verified.</plag_sens>
+    <tag_file_ids>gen_doc1818</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>None of the reported low CV of telomere length measurements has been verified.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1792</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The correlation between SOC and subjective health, which has been documented in many populations, was compared to global assessment of current health, incidence of subjective complaints, and necessity of an acute injury lay- off.</plag_sens>
+    <tag_file_ids>gen_doc2074</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The correlations between SOC scores and global assessment of current health, incidence of subjective complaints, and necessity of an acute injury lay-off were calculated in order to test the correlation between SOC and subjective health.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1792</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Microfluidic chips were designed to be compatible with the MOFs.</plag_sens>
+    <tag_file_ids>gen_doc1404</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Microfluidic chips were designed to interface the MOFs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1792</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Co confirmatory laboratory tests are needed when suspicion is aroused.</plag_sens>
+    <tag_file_ids>gen_doc3638</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Co confirmatory laboratory tests are needed when suspicion is made of CS.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2733</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The medial terminal nucleus of the accessory optical tract was used as a border for the SNpc.</plag_sens>
+    <tag_file_ids>gen_doc1659</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The medial terminal nucleus of the accessory optical tract was used as the border of the SNPC, as described by Sauer et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2733</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Estimating factors that affect household and population-level coverage is important to evaluating the effectiveness of distribution mechanisms.</plag_sens>
+    <tag_file_ids>gen_doc770</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Estimating factors affecting household and population-level coverage is critical to evaluating the effectiveness of distribution mechanisms.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2733</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A larger number of defect clusters were observed near-surface compared to those in materials interior.</plag_sens>
+    <tag_file_ids>gen_doc2881</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A larger number of defect clusters were observed near-surface compared to those in materials interior.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2733</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The majority of 5-HT-LIR can be found in the dorsal and ventral root of the circumesophageal connective tissue.</plag_sens>
+    <tag_file_ids>gen_doc961</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The majority of 5-HT-LIR can be found in the dorsal and ventral root of the circumesophageal connective.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2733</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Drug development and other practical applications could be improved by better understanding of the factors that affect CPD I reactivity.</plag_sens>
+    <tag_file_ids>gen_doc2206</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Drug development and other practical applications could be helped by better understanding of the factors that influence Cpd I reactivity.</tag_plag_sens>
+  </row>
+</data>

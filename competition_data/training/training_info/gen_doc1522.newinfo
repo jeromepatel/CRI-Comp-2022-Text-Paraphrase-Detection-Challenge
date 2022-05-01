@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1522</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The approach reported here gives more access to the changes than traditional methods.</plag_sens>
+    <tag_file_ids>gen_doc1975</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The approach reported here provides more direct access to the changes than traditional methods.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1522</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The structure and large buried surface area were consistent with the fact that the obligate dimer in solution by the analytical ultracentrifugation is CelTOS.</plag_sens>
+    <tag_file_ids>gen_doc728</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Consistent with the structure and large buried surface area, we established that the obligate dimer in solution by analytical ultracentrifugation is CelTOS</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1522</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The transitional zone was free to recompensate due to the fact thatTPPRI was occurring below the instrumented spine.</plag_sens>
+    <tag_file_ids>gen_doc2202</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The transitional zone was free to recompensate due to the fact that the TPPRI was occurring below the instrumented spine.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1522</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>STIL knockout mice (Sil-/-) exhibit a lot of developmental abnormality at the beginning of their lives, but they die after E10.5.</plag_sens>
+    <tag_file_ids>gen_doc797</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>STIL knockout mice (Sil-/-) exhibit numerous developmental defects at the beginning of their lives, but die after E10.5.</tag_plag_sens>
+  </row>
+</data>

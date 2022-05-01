@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2998</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>For low-selection coefficients, many simulations contain at least one tested common variant that is very highly correlated with at least one causal variant, whereas for high-selection coefficients, the correlations are low.</plag_sens>
+    <tag_file_ids>gen_doc1300</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Table 1 shows that for low-selection coefficients, many simulations contain at least one tested common variant that is very highly correlated with at least one causal variant, whereas for high-selection coefficients, the correlations tend to be low.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2998</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>To examine the antimicrobial properties of the argentiferous surfaces, two strains ofbacteria were chosen.</plag_sens>
+    <tag_file_ids>gen_doc3241</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>To examine the antimicrobial properties of the argentiferous surfaces, two bacterial strains were chosen.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2998</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>They can cause swelling in the mitochondria through the formation of pores, or they can cause apoptotic effectors to leak out by increasing the permeability of the mitochondria.</plag_sens>
+    <tag_file_ids>gen_doc630</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>They can cause swelling of the mitochondria through the formation of pores, or they can increase the permeability of the mitochondria and cause apoptotic effectors to leak out.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2998</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The synthetic association study can fill the gap in the assessment of genes in non-model genomes by identifying problematic genes.</plag_sens>
+    <tag_file_ids>gen_doc1881</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The synthetic association study can fill a gap in the assessment of gene predictions in non-model genomes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2998</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>For 24 hours, HaCaT keratinocytes were treated with a number of flavonoids.</plag_sens>
+    <tag_file_ids>gen_doc1916</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>For 24 hours, HaCaT keratinocytes were treated with several flavonoids.</tag_plag_sens>
+  </row>
+</data>

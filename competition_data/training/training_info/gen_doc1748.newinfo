@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1748</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The benefits of Histamine H2 antagonist therapy have been shown in a recent randomized clinical trial.</plag_sens>
+    <tag_file_ids>gen_doc1050</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In a recent randomized clinical trial, Histamine H2 antagonist therapy has shown benefits for patients without significant adverse effects.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1748</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There is strong evidence that CTCs may use similar signals to that of leukocytes, such as the SDF1/CXCL12 and C-X-C motifs.</plag_sens>
+    <tag_file_ids>gen_doc2778</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There is strong evidence that CTCs may use similar signals to that of leukocytes, such as the SDF1/CXCL12 and C-X-C motifs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1748</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The hopes were related to an individual's identity.</plag_sens>
+    <tag_file_ids>gen_doc2538</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>These hopes were related to an individual's identity as well as meaningful activities and interactions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1748</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The AIMS disease observations were compared with the SST data for the period 1998–2005.</plag_sens>
+    <tag_file_ids>gen_doc1162</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The AIMS disease observations for the period 1998–2005 were compared with the SST dataset.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1748</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>It can lead to grave consequences.</plag_sens>
+    <tag_file_ids>gen_doc2018</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>It can lead to grave problems.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1748</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Multiple maize traits have been improved by MAS, such as head smut resistance.</plag_sens>
+    <tag_file_ids>gen_doc275</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Multiple maize traits have been improved by MAS, such as head smut resistance, provitamin A content, kernel oil content and haploid induction rate.</tag_plag_sens>
+  </row>
+</data>

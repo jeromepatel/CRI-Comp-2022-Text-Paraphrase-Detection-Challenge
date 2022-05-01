@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2298</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There are a number of reasons why patients with CVID might have HHV8 in their system.</plag_sens>
+    <tag_file_ids>gen_doc1473</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There are a number of possible reasons why patients with CVID may have HHV8 in them.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2298</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Thomas and his associates.</plag_sens>
+    <tag_file_ids>gen_doc3294</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Thomas and his associates.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2298</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>When the formation of the intermolecular H-bond(s) starts between the solutes, the geometry and charge parameters should be gradually transformed into the values that were obtained for the dimer.</plag_sens>
+    <tag_file_ids>gen_doc2204</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>When the formation of the intermolecular H-bond(s) may start between the solutes, the geometry and charge parameters should be gradually transformed into the values that were obtained for the dimer optimal.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2298</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A new project submission process as well as a consultative submission process can be found in InSPIRE.</plag_sens>
+    <tag_file_ids>gen_doc2060</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>To obtain consultation to inform a submission, INSPIRE has a new project submission process.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2298</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The standard errors are clustered by someone else.</plag_sens>
+    <tag_file_ids>gen_doc2528</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Standard errors are clustered by other people.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2298</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The National Animal Health Monitoring Systems evaluated dairies that provided a single sample of bulk milk tank for testing for C. burnetii DNA.</plag_sens>
+    <tag_file_ids>gen_doc825</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The National Animal Health Monitoring Systems evaluated 528 dairies that provided a single sample of bulk milk tank for testing for C. burnetii DNA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2298</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Multiple genetic alterations are associated with colorectal cancer.</plag_sens>
+    <tag_file_ids>gen_doc123</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Multiple genetic alterations are associated with colorectal carcinogenesis.</tag_plag_sens>
+  </row>
+</data>

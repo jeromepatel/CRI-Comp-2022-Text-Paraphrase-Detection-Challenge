@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1143</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The spatial tuning curves are not normally measured using the CI user's personal speech processor, but with a research interface which allows controlled stimulation of single or multiple electrodes.</plag_sens>
+    <tag_file_ids>gen_doc2545</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>These spatial tuning curves are not normally measured using the CI user's personal speech processor, but with a research interface, which allows controlled stimulation of single or multiple electrodes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1143</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>This results in less efficient circuits because of weaker sphinxes.</plag_sens>
+    <tag_file_ids>gen_doc2797</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>This results in less efficient circuits because of weaker synapses.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1143</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There is a second PTENmutation that leads to a threonine replacing the alanine at the adjacent position 126, which is likely to distort the active site.</plag_sens>
+    <tag_file_ids>gen_doc1811</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There is a second PTENmutation that leads to a threonine replacing the alanine at the adjacent position 126 of the protein, which is likely to distort the tertiary structure of the active site.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1143</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Kumar and his associates.</plag_sens>
+    <tag_file_ids>gen_doc795</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>Kumar et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1143</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>A physical exam showed a soft tissue problem in the oropharynx.</plag_sens>
+    <tag_file_ids>gen_doc957</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A physical exam showed a white exudate covering the entire oropharynx.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1143</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Computational fluid dynamics (CFD) has become a powerful tool for studying the distribution of airflow fields with the rapid development of computer technologies.</plag_sens>
+    <tag_file_ids>gen_doc1689</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Computational fluid dynamics (CFD) has become a powerful tool for studying the distribution of airflow fields associated with UAVs, thanks to the rapid development of computer technologies and fluid turbulence models.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1143</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>Although linkage disequilibrium was observed between the other three SNPs in NOD2, only P268S of the four variant was significant in our study, which was consistent with the recent study suggesting that P268S instead of 1007fs, G908R, R702W.</plag_sens>
+    <tag_file_ids>gen_doc2521</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Although linkage disequilibrium was observed between the other three SNPs in NOD2, only P268S of the four variant was significant in our study, which was consistent with recent study suggesting that P268S instead of 1007fs, G908R, R702W.</tag_plag_sens>
+  </row>
+</data>

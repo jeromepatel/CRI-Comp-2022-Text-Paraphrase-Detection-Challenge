@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc96</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In most cases the male genitalia needs to be studied for reliable species identification if the species is similar in point of external morphology.</plag_sens>
+    <tag_file_ids>gen_doc2035</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In most cases the male genitalia needs to be studied for reliable species identification, because some species are quite similar in point of external morphology.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc96</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Loss or reduction of sel-9 activity increases the amount of lin-12 or glp-1 activity, enhances the weak gain-of-function activity associated with overexpression, and increases the amount of a Mutant GLP-1Protein.</plag_sens>
+    <tag_file_ids>gen_doc38</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Loss or reduction of sel-9 activity increases the amount of lin-12 or glp-1 activity, enhances the weak gain-of-function activity associated with overexpression of an essentially wild-type LIN-12 protein, and increases the amount of a Mutant GLP-1 protein.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc96</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The cholesterol and triglyceride content in VLDL were elevated in the Adn/ mice that were treated with STZ.</plag_sens>
+    <tag_file_ids>gen_doc1183</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The elevated cholesterol and triglyceride content in the VLDL of the Adn/ mice was shown in the plasma lipoprotein fractionation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc96</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We first looked at whether TGF-2 was expressed in or around the hair bud.</plag_sens>
+    <tag_file_ids>gen_doc224</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We first analyzed whether TGF-2 was expressed in or around the hair bud, to see if it was required for Snail induction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc96</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The organic fraction of a biooil produced from wheat and wood sawdust was isolated and enriched with furanoids and pyranoids.</plag_sens>
+    <tag_file_ids>gen_doc2409</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The organic fraction of a biooil produced from wheat and wood sawdust was enriched with furanoids and pyranoids, and the first fraction of SC-CO2 was collected at 25 MPa.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc96</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Only one standard value was used for the energy contents of the grasses.</plag_sens>
+    <tag_file_ids>gen_doc170</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Only one standard value for energy contents of grasses was used.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc96</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Two major downstream signaling cascades are triggered by the activation of TLR4.</plag_sens>
+    <tag_file_ids>gen_doc193</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Two major downstream signaling cascades are triggered by the activation of TLR4.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc96</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Only one standard value was used for the energy contents of the grasses.</plag_sens>
+    <tag_file_ids>gen_doc170</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Only one standard value for energy contents of grasses was used.</tag_plag_sens>
+  </row>
+</data>

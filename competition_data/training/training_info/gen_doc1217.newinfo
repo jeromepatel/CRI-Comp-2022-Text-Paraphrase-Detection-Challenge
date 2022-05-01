@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1217</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The first definition of what should be considered as HE was provided by the International Cooperative Working Group.</plag_sens>
+    <tag_file_ids>gen_doc71</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>Basic definitions of what should be considered as HE were first provided by the International Cooperative Working Group on Eosinophil Disorders.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1217</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There is a big discrepancy between what Americans say they want at the end-of-life and what they actually receive.</plag_sens>
+    <tag_file_ids>gen_doc2040</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There is a big discrepancy between what Americans say they want at the end-of-life and the care they actually receive.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1217</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The importance of caspase 3 in both tumors and stroma was confirmed by our results.</plag_sens>
+    <tag_file_ids>gen_doc359</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The importance of caspase 3 in both tumor cells and tumor stroma was confirmed by our results.</tag_plag_sens>
+  </row>
+</data>

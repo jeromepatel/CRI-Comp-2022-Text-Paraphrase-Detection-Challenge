@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3213</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>pk paralog has been retrieved in Placozoa, which suggests that tes may have been lost in this line.</plag_sens>
+    <tag_file_ids>gen_doc1166</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Only pk paralog has been retrieved in Placozoa, which implies that tes may have been lost in this lineage.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3213</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The three annexins interacted with smooth muscle microsomes with a very high Ca2+ sensitivity.</plag_sens>
+    <tag_file_ids>gen_doc3417</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In the present study, each of the three annexins interacted with smooth muscle microsomes with a very high, yet clearly distinct, Ca2+ sensitivity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3213</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>It was reduced greatly.</plag_sens>
+    <tag_file_ids>gen_doc197</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>It was significantly reduced.</tag_plag_sens>
+  </row>
+</data>

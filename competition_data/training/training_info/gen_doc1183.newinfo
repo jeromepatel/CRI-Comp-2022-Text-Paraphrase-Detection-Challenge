@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1183</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Both pathologist 1 and pathologist 2 were examined separately.</plag_sens>
+    <tag_file_ids>gen_doc708</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>We looked at tumor grade separately for pathologist 1 and pathologist 2.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1183</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The crystals obtained from the three groups were thought to be calcite with absorption peaks at 281, 712 and 1086 cm–1, figureF, 5K and 5P.</plag_sens>
+    <tag_file_ids>gen_doc3111</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The crystals obtained from the three groups were thought to be calcite with absorption peaks at 281, 712 and 1086 cm–1, respectively figureF, 5K and 5P</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1183</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>To realize the benefits of self-administration, women need to ensure they have the medicine accessible at the time of delivery and they need to swallow it at the right time.</plag_sens>
+    <tag_file_ids>gen_doc1524</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>To realize the benefits of self-administration, women need to ensure they have the medicine accessible at the time of delivery, and they need to swallow the medicine at the appropriate time.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1183</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The treatments included the application ofPAR or PAR+UVA+ UVB.</plag_sens>
+    <tag_file_ids>gen_doc3560</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The treatments included the application ofPAR or PAR+UVA+ UVB.</tag_plag_sens>
+  </row>
+</data>

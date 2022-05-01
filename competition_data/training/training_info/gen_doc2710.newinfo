@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2710</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The baseline demographic data of age, gender, body mass index, and ethnicity were collected at the time of surgery.</plag_sens>
+    <tag_file_ids>gen_doc587</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The baseline demographic data of age, gender, body mass index, and ethnicity were collected by the patient at the time of surgery.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2710</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The atrophy of the hippocampus CA1 subfield leads to more adduction of the hippocampus on MR images, and the angle between the hippocampus and subiculum increases, as shown by Hayashi et al.</plag_sens>
+    <tag_file_ids>gen_doc10</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Hayashi et al. showed that atrophy of the hippocampus CA1 subfield leads to more adduction of the hippocampus on MR images, and that the angle between the hippocampus and subiculum increases.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2710</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Increased cardiovascular events, premature mortality, decreased quality of life, and increased health-care expenditures are all associated with chronic Kidney disease.</plag_sens>
+    <tag_file_ids>gen_doc3359</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Increased cardiovascular events, premature mortality, decreased quality of life, and increased health-care expenditures are associated with chronic kidney disease.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2710</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The subscale of emotional exhaustion provides a measure of exhaustion.</plag_sens>
+    <tag_file_ids>gen_doc2246</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The subscale of emotional exhaustion provides a measure of burnout.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2710</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Extreme heat tolerance 39 makes this strain potentially more valuable for the biorefining industry.</plag_sens>
+    <tag_file_ids>gen_doc1951</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Due to extreme heat tolerance, this strain offers a potentially more valuable thermostableidase for the biorefining industry.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2710</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The geographical distribution is influenced by gender imbalances because women avoid rural and remote areas.</plag_sens>
+    <tag_file_ids>gen_doc354</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The geographical distribution is affected by gender imbalances because women tend to avoid rural and remote areas.</tag_plag_sens>
+  </row>
+</data>

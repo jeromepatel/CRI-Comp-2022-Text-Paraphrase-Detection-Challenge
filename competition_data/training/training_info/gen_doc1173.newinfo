@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1173</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Mutant HAP1 cells were created by co-transfectioning cells with a sgRNA expression and a GFP.</plag_sens>
+    <tag_file_ids>gen_doc3568</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Mutant HAP1 cells were created by co-transfecting cells with a Cas9 expression vector, an sgRNA expression vector, and a GFP.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1173</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The factors in the first episode of demyelination have been stated to favor recurrence and their distribution in the current cohort have been listed in Table 5.</plag_sens>
+    <tag_file_ids>gen_doc1116</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The factors in the first episode of demyelination which have been stated to favor recurrence and their distribution in the current cohort have been listed in Table 5.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1173</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Liposomes, polymersomes, dendrimers, micelles, carbon nanotubes, nanoconjugates and (protein-based) nanospheres are currently investigated for cancer therapeutic applications.</plag_sens>
+    <tag_file_ids>gen_doc2131</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Liposomes, polymersomes, dendrimers, micelles, carbon nanotubes, nanoconjugates, and (protein-based) nanoparticles are currently investigated for cancer therapeutic applications.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1173</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The formation of adherens and tight junctions in epithelia, fibroblasts, and ECs is dependent on the result of cell-cell assembly.</plag_sens>
+    <tag_file_ids>gen_doc246</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The formation of adherens and tight junctions in Epithelia, fibroblasts, and ECs is dependent on the result of cell-cell adhesion assembly.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1173</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Various A peptide species have been identified in cell supernatants and cell lysates.</plag_sens>
+    <tag_file_ids>gen_doc1185</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Various A peptide species have been identified in cell supernatants and cell lysates.</tag_plag_sens>
+  </row>
+</data>

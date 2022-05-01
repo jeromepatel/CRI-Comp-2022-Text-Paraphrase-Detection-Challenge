@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1633</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The FFP method can provide useful information for comparing the whole-genome of E. coli.</plag_sens>
+    <tag_file_ids>gen_doc3987</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The FFP method can provide useful information for comparing the whole-genome sequence of E. coli.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1633</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Sase et al. were written in 1995.</plag_sens>
+    <tag_file_ids>gen_doc2099</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>In 1995; Sase et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1633</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Between passages 33 to 36 were used for the experiments.</plag_sens>
+    <tag_file_ids>gen_doc704</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The experiments were done using cells from passages 33 to 36.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1633</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Our results show that the landscape surrounding the apiaries has an influence on the quality of the pollen.</plag_sens>
+    <tag_file_ids>gen_doc2975</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Our results showed that the landscape surrounding the apiaries has an influence on the quality of pollen.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1633</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A general overview of the involvement of key pathways in heart disease will be presented.</plag_sens>
+    <tag_file_ids>gen_doc3128</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A general overview on the involvement of key pathways in heart disease will be presented in this section.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1633</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Moreover, Machado and his associates.</plag_sens>
+    <tag_file_ids>gen_doc1676</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Moreover, Machado et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1633</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Mentoring for clinical scientists in low-resource settings is insufficient, and many African researchers have not benefited from the widely recognized benefits of mentoring.</plag_sens>
+    <tag_file_ids>gen_doc928</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Mentoring for clinical scientists in low-resource settings is insufficient, and many African researchers have not benefited from the widely recognized benefits of mentoring.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1633</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Hospitals may be able to inform them of the medical treatments given to the casualties on-site.</plag_sens>
+    <tag_file_ids>gen_doc2415</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The ability to inform hospitals of the medical treatments given to the casualties on-site may be made possible by social media.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc1633</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Traditional system of medicine uses the plant to control diseases.</plag_sens>
+    <tag_file_ids>gen_doc1772</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The plant is used in traditional system of medicine for controlling diseases.</tag_plag_sens>
+  </row>
+</data>

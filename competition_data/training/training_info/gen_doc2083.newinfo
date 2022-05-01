@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2083</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>It has been reported that the MCM-BP may function as an unloader of the MCM2-7 complex.</plag_sens>
+    <tag_file_ids>gen_doc1894</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>It has been reported that the MCM-BP may function as an unloader of the MCM2-7 complex form replicated chromatin, although the mechanism of this reaction remains unknown.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2083</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A form made popular in China as specific for cancer care is called Guolin Qigong, and it has a stylized walk and trunk rotation.</plag_sens>
+    <tag_file_ids>gen_doc1719</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>A form made popular in China as specific for cancer care, Guolin Qigong has a stylized walk, coordinated arm swing, trunk rotation, and breath regulation.</tag_plag_sens>
+  </row>
+</data>

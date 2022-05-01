@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc92</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The tumor of the maternal grandmother of the proband, who was diagnosed with ductal breast cancer at the age of 70 years, was analyzed for loss of Heterozygosity (LOH) at PALB2.</plag_sens>
+    <tag_file_ids>gen_doc3755</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The tumor of the maternal grandmother of the proband, who was diagnosed with ductal breast cancer at the age of 70 years, was analyzed for loss of Heterozygosity (LOH) at PALB2 to determine whether it had undergone a transplant.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc92</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The idea that the rotation of the SRMs may control not only the quaternary structures of the RecA family, but also regulate their enzymatic functions, is something we favor.</plag_sens>
+    <tag_file_ids>gen_doc231</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The idea that the rotation of the SRMs may control not only the quaternary structures of RecA family proteins, but also regulate their enzymatic functions is something we favor.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc92</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The correlation reported here is a genome-wide property and therefore is considered to be a cause.</plag_sens>
+    <tag_file_ids>gen_doc1287</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The correlation reported here is a genome-wide property and therefore is deemed to be causative.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc92</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Data was imputed from the FDA database in the few cases where the data was not available in the journal article.</plag_sens>
+    <tag_file_ids>gen_doc2007</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Data was imputed from the FDA database in the few cases where none of these data were available in the journal article.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc92</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>S1B for human fluids.</plag_sens>
+    <tag_file_ids>gen_doc934</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>S1B is for human sera and ascites fluid.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc92</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In addition, retinoic acid has been found to regulate a number of bodily functions.</plag_sens>
+    <tag_file_ids>gen_doc2873</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In addition, retinoic acid has been found to regulate a number of different things.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc92</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Bland-Altman plots show that the mean difference between two measurements with this device was 0.31 2.03 cycles/degree.</plag_sens>
+    <tag_file_ids>gen_doc3682</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Bland-Altman plots show that the mean difference between two measurements with this device was 0.31 2.03 cycles/ degree.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc92</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The anti-CD25 was used to deplete the Tregs in this study.</plag_sens>
+    <tag_file_ids>gen_doc2538</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We used the anti-CD25 to deplete the Tregs in this study.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc92</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Each genotype was grown in a single-row plot with rows between rows.</plag_sens>
+    <tag_file_ids>gen_doc1675</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Each genotype was grown in a single-row plot with rows between rows.</tag_plag_sens>
+  </row>
+  <row>
+    <index>9</index>
+    <file_ids>gen_doc92</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>A link to the pre-publication history will be provided in the published article.</plag_sens>
+    <tag_file_ids>gen_doc479</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The link to this 'pre-publication history' will be provided by the published article.</tag_plag_sens>
+  </row>
+  <row>
+    <index>10</index>
+    <file_ids>gen_doc92</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Since the actual cluster numbers of different parcellation methods are not the same, it is not appropriate to compare these methods.</plag_sens>
+    <tag_file_ids>gen_doc338</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Since the actual cluster numbers of different parcellation methods are not the same, it is not appropriate to compare these methods by the overall results.</tag_plag_sens>
+  </row>
+</data>

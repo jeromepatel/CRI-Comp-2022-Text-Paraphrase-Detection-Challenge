@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2332</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>For non-target stimuli, this can be calculated.</plag_sens>
+    <tag_file_ids>gen_doc354</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>This can be calculated for non-target stimuli, in which no response is made.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2332</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The area of the most important bird area has a higher diversity of migratory bird species.</plag_sens>
+    <tag_file_ids>gen_doc2469</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The area among the most important bird area has a higher diversity of migratory bird species.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2332</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>There was little or no response to the therapy for depression in older women.</plag_sens>
+    <tag_file_ids>gen_doc1352</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Older women showed little or no response to estrogen therapy for the treatment of depression.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2332</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>A detailed densitometric analysis of primary findings and bar graphs showing comparative levels of full-length proteins can be found as supplemental material in the fourth figure.</plag_sens>
+    <tag_file_ids>gen_doc861</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We performed a detailed densitometric analysis of primary findings and bar graphs showing comparative levels of full-length proteins as supplemental material.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2332</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Major losses are caused by PCV infections in the pig industry.</plag_sens>
+    <tag_file_ids>gen_doc1509</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Major losses are caused in the pig industry by PCV infections.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc403</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>A reasonable target for public health intervention is the sale of ready-to- eat meals.</plag_sens>
+    <tag_file_ids>gen_doc1747</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A reasonable target for public health intervention is the ready-to- eat meals sold by food outlets in deprived areas.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc403</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There are different ways to develop acute renal failure in BL patients.</plag_sens>
+    <tag_file_ids>gen_doc1537</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>There are different mechanisms for the development of acute renal failure in BL patients.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc403</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The proliferation of Th1 and Th2 polarized CD4+ T cells was stopped in the presence of 4H3MC, suggesting that 4H3MC does not cause cell death during differentiation into effector cells.</plag_sens>
+    <tag_file_ids>gen_doc1115</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>As shown in figureB, the proliferation of both Th1 and Th2 polarized CD4+ T cells was inhibited in the presence of 4H3MC, suggesting that 4H3MC does not induce cell death during differentiation into effector cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc403</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Increasing patients compliance with recommended treatment and health promotion strategies may be helped by high consumer satisfaction with PNs.</plag_sens>
+    <tag_file_ids>gen_doc1196</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Increasing patients' compliance with recommended treatment and health promotion strategies may be aided by high consumer satisfaction with PNs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc403</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>It has little effect on cerebral blood flow.</plag_sens>
+    <tag_file_ids>gen_doc499</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>It has no effect on cerebral blood flow or angiographic vasospasm.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc403</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The percentage of short implants that replaced the second molars was higher than the rest.</plag_sens>
+    <tag_file_ids>gen_doc1880</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The percentage of short implants that replaced the second molars was higher than all other short implants.</tag_plag_sens>
+  </row>
+</data>

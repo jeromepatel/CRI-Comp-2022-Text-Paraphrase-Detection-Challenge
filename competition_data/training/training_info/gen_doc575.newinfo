@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc575</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>During the trial period, the number of animal deaths was recorded each week and the control group was able to determine the survival rate.</plag_sens>
+    <tag_file_ids>gen_doc2951</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>During the trial period, the number of animal deaths was recorded each week, and one rat died due to drug intoxication at the 5th week.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc575</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>At the end of the summer wet season in February, we applied fertilization to the two heterogeneous plots and evenly across the two homogeneity plots.</plag_sens>
+    <tag_file_ids>gen_doc1435</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>At the end of the summer wet season in February, we applied fertilization to the two heterogeneous plots and evenly across the two homogeneous plots.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc575</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There was a significant improvement in TTS and the global score from YGTSS.</plag_sens>
+    <tag_file_ids>gen_doc2919</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A significant improvement was observed in TTS and the global score from YGTSS.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc575</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>21st Century Biochemicals generated the H4pY51 antibodies.</plag_sens>
+    <tag_file_ids>gen_doc3933</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>21st Century Biochemicals generated the H4pY51 antibodies according to their standard protocols.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc575</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The images show the inferior vena cava and the pelvis.</plag_sens>
+    <tag_file_ids>gen_doc3052</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The images show the inferior vena cava and the pelvis.</tag_plag_sens>
+  </row>
+</data>

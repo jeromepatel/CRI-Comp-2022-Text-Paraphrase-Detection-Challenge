@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc973</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>When the Recurrence Score was added to the models, it gave information on risk that was not related to the size of the tumors.</plag_sens>
+    <tag_file_ids>gen_doc2559</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>When the Recurrence Score was added to these models, it gave information on risk that was unrelated to tumor size and grade.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc973</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The cerebral cortex, caudate-putamen, and hippocampus are reported to be presynaptic autoreceptors where they are inhibited by CHRM2 and CHRM4.</plag_sens>
+    <tag_file_ids>gen_doc506</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The cerebral cortex, caudate-putamen, and hippocampus are reported to be presynaptic autoreceptors where they are inhibited by CHRM2 and CHRM4.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc973</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Each individual's observed response rate data was randomized 100 times and produced a range of PCC value outcomes.</plag_sens>
+    <tag_file_ids>gen_doc967</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Each individual's observed response rate data underwent 100 randomizations and produced a range ofPCC value outcomes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc973</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>We looked at the altered signals of the MAP kinase to see if they were related to the effects of BPA.</plag_sens>
+    <tag_file_ids>gen_doc1802</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We looked at the altered signals of the MAP kinase to see if they were related to the effects of BPA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc973</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We made a number of options to determine the statistical significance of the clusters, as described in the next subsection.</plag_sens>
+    <tag_file_ids>gen_doc1069</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Only clusters with statistical significance are suggested as focal regions, and we made several options to determine the statistical significance of the clusters, as described in the next subsection.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc973</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>In another case, a 6-year-old girl was admitted to the hospital with a disease, and was given a vaccine.</plag_sens>
+    <tag_file_ids>gen_doc2427</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In another case, a 6-year-old girl was admitted to the hospital with a disease, and was given a vaccine.</tag_plag_sens>
+  </row>
+</data>

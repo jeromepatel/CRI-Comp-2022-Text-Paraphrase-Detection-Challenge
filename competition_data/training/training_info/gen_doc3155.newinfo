@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3155</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>It can't be ruled out that the aggregate-associated S. marinoi remained viable under dark and anoxic conditions.</plag_sens>
+    <tag_file_ids>gen_doc3084</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>It can't be ruled out that the aggregate-associated S. marinoi remained viable during the 72h incubation under dark and anoxic conditions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3155</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The calcium-bicarbonate magnesium water is the most indicated for AD treatment.</plag_sens>
+    <tag_file_ids>gen_doc3065</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The calcium-bicarbonate magnesium water is most indicated for AD treatment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3155</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Population based screening programs all over the world have the opportunity to speed up the disease detection process from image acquisition to diagnosis and reporting back to the outcome for timely treatment to be given.</plag_sens>
+    <tag_file_ids>gen_doc588</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>Population based screening programs all over the world have the opportunity to speed up the disease detection process from image acquisition to diagnosis and potentially reporting back to the outcome for timely treatment to be given.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3155</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The most widespread and abundant species, Melampodium divaricatum, accounted for 51 percent of the herbarium specimen, but 86 percent of the populations found in the field.</plag_sens>
+    <tag_file_ids>gen_doc1350</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The most widespread and abundant species, Melampodium divaricatum, represented 51 % of the herbarium specimen, but 86 % of the populations found in the field.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3155</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The High Pure RNA isolation kit was used to further purify the totalRNAs after the manufacturer's instructions.</plag_sens>
+    <tag_file_ids>gen_doc2611</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The High Pure RNA isolation kit was used to further purify totalRNAs for analysis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3155</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Lower income urban populations are more conservative in their consumption of Western-style foods and may be more faithful in traditional foods.</plag_sens>
+    <tag_file_ids>gen_doc1414</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Lower income urban populations are more conservative in their consumption of Western-style foods and may be more faithful to traditional foods, which contributes to very low consumption proportions of the Western-style foods.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3155</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The model yields three individual results that describe the findings.</plag_sens>
+    <tag_file_ids>gen_doc1195</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The model yields three individual results that describe the findings very well.</tag_plag_sens>
+  </row>
+</data>

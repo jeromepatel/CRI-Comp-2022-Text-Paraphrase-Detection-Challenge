@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3421</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Some of the missing patients could have returned to their local clinics and remained on first-line treatment, while others could have been switched from second- to first-line treatment on the basis of follow-on culture.</plag_sens>
+    <tag_file_ids>gen_doc2029</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Some of the missing patients could have returned to local clinics and remained on first-line treatment, while others could have been switched from second- to first-line treatment on the basis of follow-on culture and DST results.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3421</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>We screened a high-density array for the SH2 domain proteins that may act as readers of the H4Y51 phosphorylation.</plag_sens>
+    <tag_file_ids>gen_doc2529</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We screened a high-density microarray for the SH2 domain proteins that may act as readers of the H4Y51 phosphorylation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3421</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The shelf life of the magnetized water was stated to be 1 day by the producer.</plag_sens>
+    <tag_file_ids>gen_doc2450</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The shelf life of the magnetized water was changed every day according to the instructions of the producer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3421</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Wii Fit Plus is being used in clinical applications for subjects who need feedback and motor learning.</plag_sens>
+    <tag_file_ids>gen_doc1684</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Wii Fit Plus is being used in clinical applications for subjects who need feedback and motor learning.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3421</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Their small size and multiple occurrences in the genome made it difficult to do this.</plag_sens>
+    <tag_file_ids>gen_doc2290</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Due to their small size and multiple occurrences in the genome, this was an uphill task.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3421</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>LKB1, a serine/threonine kinase, has been shown to regulate cancer cell growth, metabolism, survival and polarity in humans.</plag_sens>
+    <tag_file_ids>gen_doc516</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>LKB1, a serine/threonine kinase, has been shown to regulate cancer cell growth, metabolism, survival and polarity in various human cancers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3421</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Further investigation is required to test this hypothesis.</plag_sens>
+    <tag_file_ids>gen_doc3108</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Further investigation will be needed in order to test this hypothesis.</tag_plag_sens>
+  </row>
+</data>

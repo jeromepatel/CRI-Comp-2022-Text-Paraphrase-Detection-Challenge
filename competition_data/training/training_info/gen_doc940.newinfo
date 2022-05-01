@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc940</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Experiments were performed by Exiqon as a commercial service using their seventh generation miRCURY platform, which has 1,937 locked nucleic acid-based DNA probes that target 20 human non-microRNA small RNAs.</plag_sens>
+    <tag_file_ids>gen_doc1740</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Experiments were performed by Exiqon® as a commercial service using their seventh generation miRCURY platform, which has 1,937 locked nucleic acid-based DNA oligonucleotide probes that target 20 human non-microRNA small RNAs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc940</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The suppression of HIF-1 is thought to have increased the proliferation of RMG-1 cells.</plag_sens>
+    <tag_file_ids>gen_doc1437</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The suppression of HIF-1 upregulated the proliferation of RMG-1 cells through PP2A inhibition, according to these results.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc940</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Recent research in animal models investigating effects of environmental teratogens on development shows that administration of a solution injected in a wafer cookie may be as effective as injecting a solution into the animal.</plag_sens>
+    <tag_file_ids>gen_doc3015</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Recent research in animal models investigating effects of environmental teratogens on development has shown that administration of a solution injected in a wafer cookie may be as effective as injecting a solution into the animal, and thus would reduce the stress of the animal, particularly for long-term daily treatment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc940</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>There was a decline in CMAP amplitudes in both muscles as the disease progressed in SOD1G93A mice.</plag_sens>
+    <tag_file_ids>gen_doc1101</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>There was a decline in CMAP amplitudes in both muscles along disease progression in SOD1G93A mice.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc940</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The MMPIP-mGlu7 polar interactions include a hydrogen bond from isoxazole nitrogen.</plag_sens>
+    <tag_file_ids>gen_doc2682</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The MMPIP-mGlu7 polar interactions include a hydrogen bond from the isoxazole nitrogen to Ser828736 figuree.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc940</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Patients with nuclear -catenin translocation showed a worse overall survival when they were divided into a group.</plag_sens>
+    <tag_file_ids>gen_doc2538</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The patients with nuclear -catenin translocation showed a worse overall survival when they were divided into a group.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc940</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Classical principles don't apply to quantum mechanics.</plag_sens>
+    <tag_file_ids>gen_doc3633</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Classical principles don't always apply in the realm of quantum mechanics.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc940</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The second step includes the recent allohexaploidy events involving DC-genome tetraploids and A-genome diploid progenitors.</plag_sens>
+    <tag_file_ids>gen_doc1878</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The second step includes recent allohexaploidy events involving DC-genome tetraploids and the more recent A-genome diploid progenitors to form the extant ACD-genome hexaploids18.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc940</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The differentially expressed genes were identified in two varieties of bermudagrass.</plag_sens>
+    <tag_file_ids>gen_doc2971</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The differentially expressed genes were identified in two varieties of bermudagrass.</tag_plag_sens>
+  </row>
+  <row>
+    <index>9</index>
+    <file_ids>gen_doc940</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Another antibiotic, like rifampicin, could also be used to fight the insect.</plag_sens>
+    <tag_file_ids>gen_doc2823</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Another antibiotic, like rifampicin, could also be used to fight Wolbachia.</tag_plag_sens>
+  </row>
+  <row>
+    <index>10</index>
+    <file_ids>gen_doc940</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>When using the EE-TP approach, there is a high chance that an immunological reaction will be triggered against the TP if it is repeated several times.</plag_sens>
+    <tag_file_ids>gen_doc2279</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>When using the EE-TP approach, there is a high risk that an immunological reaction will be triggered against the TP if it is repeated several times, although this has not been observed.</tag_plag_sens>
+  </row>
+</data>

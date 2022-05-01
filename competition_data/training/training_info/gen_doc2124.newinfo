@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2124</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The effects of senolytic agents on the heart.</plag_sens>
+    <tag_file_ids>gen_doc2296</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The effects of senolytic agents on cardiac function.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2124</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Although the underlying mechanism for the relatively low fucosylation is unclear, these findings suggested that gCTB was efficiently excrete through the endomembrane system, since there were few high-mannose-type glycans in the ER.</plag_sens>
+    <tag_file_ids>gen_doc2648</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Although the underlying mechanism for the relatively low fucosylation is unclear, these findings suggested that gCTB was efficiently excreted through the endomembrane system with little to noprotein retained in the ER, since there were few high-mannose-type glycans.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2124</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The Hill coefficients for the fenamates were 1.9.</plag_sens>
+    <tag_file_ids>gen_doc2537</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The Hill coefficients for both fenamates were 1.9, indicating a positive cooperative binding reaction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2124</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The number of allogeneic transplantations declined for patients in their first chronic phase after the introduction of TKIs.</plag_sens>
+    <tag_file_ids>gen_doc3002</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The number of allogeneic transplantations has declined for patients in their first chronic phase since the availability of TKIs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2124</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The gauge and shape of the needle tip are important in determining the degree and direction of the deflection.</plag_sens>
+    <tag_file_ids>gen_doc532</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Our findings show that the gauge and shape of the needle tip play a big part in determining the degree and direction of deflection.</tag_plag_sens>
+  </row>
+</data>

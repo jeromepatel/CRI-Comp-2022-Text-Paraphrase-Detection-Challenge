@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3172</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The invariant consensus of the exon 18 acceptor splice site was affected in the index patient and his sister, both of which were found to have the homozygousmutation c.2414-1G&gt;C.</plag_sens>
+    <tag_file_ids>gen_doc2755</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The invariant consensus of the exon 18 acceptor splice site was affected in the index patient and his sister, both of which were found to have the homozygous mutation c.2414-1G&gt;C in intron 17.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1025</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The quenching was caused by the charge transfer from the monolayer MoS2 to the gold.</plag_sens>
+    <tag_file_ids>gen_doc615</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>They attributed the quenching to the charge transfer from the monolayer MoS2 to the gold nanoantennas.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1025</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The effects of angiotensin-(1–7) and L-NAME on lung damage were shown in rodents.</plag_sens>
+    <tag_file_ids>gen_doc2385</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The effects of angiotensin-(1–7) and L-NAME on pulmonary damage in rodents were shown.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1025</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The belief in good luck and upward counterfactual thinking was shown in Figure 1.</plag_sens>
+    <tag_file_ids>gen_doc3884</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>There was an interaction between the belief in good luck and the belief in upward counterfactual thinking as shown in Figure 1.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1025</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Each group has a regression line that is reported.</plag_sens>
+    <tag_file_ids>gen_doc2945</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Each group has a regression line and its CI reported.</tag_plag_sens>
+  </row>
+</data>

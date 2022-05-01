@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc302</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The advantages of the Bayesian method are twofold: (i) it estimates the whole distribution of estimated effects, including breeding values, and (ii) it allows fitting non-normal distributions as needed for courtship display, number of sperm and eggs.</plag_sens>
+    <tag_file_ids>gen_doc1747</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The advantages of the Bayesian method are twofold: (i) it estimates the whole distribution of estimated effects, including breeding values; and (ii) it allows fitting non-normal distributions as required for courtship display, number of sperm and eggs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc302</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The ground state configurations only reduce the free energy below the critical temperature.</plag_sens>
+    <tag_file_ids>gen_doc2281</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The ground state configurations minimize the free energy only below the lowest critical temperature.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc302</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The first concern is not persuasive because empirical evidence shows that people in similar situations can experience some form of psychological suffering.</plag_sens>
+    <tag_file_ids>gen_doc3062</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The first concern is that MRT-conceived offspring could experience some form of psychological suffering, but this concern is not persuasive because existing empirical evidence suggests that people in similar situations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc302</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>(2005 ); Thiruvalluvar and his team.</plag_sens>
+    <tag_file_ids>gen_doc115</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>(2005 ); Thiruvalluvar et al.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc37</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The emotional and physical impact of PsA was asked of the respondents.</plag_sens>
+    <tag_file_ids>gen_doc61</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The respondents were asked about the emotional and physical impact of PsA in both their personal and work lives.</tag_plag_sens>
+  </row>
+</data>

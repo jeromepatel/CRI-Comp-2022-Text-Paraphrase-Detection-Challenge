@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3696</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Before starting the experiment, fully differentiated cells were preincubated with 1 mL nutrition medium without fetal calf Serum and Dexamethasone.</plag_sens>
+    <tag_file_ids>gen_doc150</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Before starting the experiment, fully differentiated cells were preincubated with 1 mL nutrition medium without fetal calf serum and Dexamethasone for 24 h.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3696</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>During hyperaemia, shear stress will increase, causing arteriosclerosis, mainly due to the release of nitric oxide.</plag_sens>
+    <tag_file_ids>gen_doc2491</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>During hyperaemia, shear stress will increase, causing arteriosclerosis, mainly due to the release of nitric oxide.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3696</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The TMS site for S1 was defined as 2 cm from the individual subject's motor hotspot for the right hand, a site where both behavioral and neural effects can be seen.</plag_sens>
+    <tag_file_ids>gen_doc3066</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The TMS site for S1 was defined as 2 cm from the individual subject's motor hotspot for the right hand, a site where both behavioral and neural effects have been shown.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3696</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Up to a read photon duration of 10 s, we observe a constant retrieval efficiency of about 20%.</plag_sens>
+    <tag_file_ids>gen_doc2584</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Up to a read photon duration of 10 s, we observe a constant retrieval efficiency of about 20%.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3696</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There are injuries of the primary organs and other clinical features of the disease.</plag_sens>
+    <tag_file_ids>gen_doc2554</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There are injuries of the primary organs, such as the colon and the exocrine pancreas, as well as secondary complications, such as malnutrition and diabetes.</tag_plag_sens>
+  </row>
+</data>

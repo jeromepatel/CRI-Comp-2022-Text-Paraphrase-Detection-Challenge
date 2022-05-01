@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1758</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The model subject is expected to be at the threshold of 10 if Figures 2A–2C use a 2-down, 1-up staircase.</plag_sens>
+    <tag_file_ids>gen_doc2239</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Figures 2A–2C used a 2-down, 1-up staircase which is expected to converge at 70.7% correct for this model subject.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1758</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Six additional T cell clones were isolated from patients with two different autoimmune diseases.</plag_sens>
+    <tag_file_ids>gen_doc3099</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Six more T cell clones were isolated from patients with two different autoimmune diseases and added to the study.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1758</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In Figure 2 and Supplementary Table I there is a comparison of generic genomic features.</plag_sens>
+    <tag_file_ids>gen_doc1663</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In Figure 2 and Supplementary Table I there is a comparison of generic genomic features of the six selected Vibrio species.</tag_plag_sens>
+  </row>
+</data>

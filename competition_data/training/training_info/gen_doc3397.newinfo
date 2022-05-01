@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3397</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>First, at the low [GABA]e, the current–voltage relationship of the transporter was marked outward.</plag_sens>
+    <tag_file_ids>gen_doc3704</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>First, at the low [GABA]e, the current–voltage relationship of the transporter displayed marked outward rectification.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3397</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>QIAshredder and Rneasy Mini Kit were used to isolated total RNA.</plag_sens>
+    <tag_file_ids>gen_doc2328</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>QIAshredder and Rneasy Mini Kit were used to isolated the total RNA from the cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3397</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Testing for linkage in the presence of heterogeneity did not change the result, Statistically significant or suggestive linkage was not observed, no homogeneity LOD scores  1.0 were observed, and testing for linkage in the presence of heterogeneity did not alter the result.</plag_sens>
+    <tag_file_ids>gen_doc3018</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Testing for linkage in the presence of heterogeneity did not change the result, Statistically significant or suggestive linkage was not observed on either chromosome, no homogeneity LOD scores  1.0 were observed, and testing for linkage in the presence of heterogeneity did not alter this result.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3397</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A large positive feedback loop that threads through dTTP and dGTP is closed by this statement because it is based on the fact that ATP is too broadly used in cells for it to be manipulated to control dNTP supply.</plag_sens>
+    <tag_file_ids>gen_doc1965</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A large positive feedback loop that threads through dTTP and dGTP is closed by this statement because it is based on the fact that ATP is too broadly used in cells to be manipulated to control dNTP supply and dTTP and dGTP being only selectivity controllers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3397</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The population-based study by Adlaf and colleagues found that the prevalence of smoking, cannabis, and drug use was similar to that of the population.</plag_sens>
+    <tag_file_ids>gen_doc2213</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The population-based study by Adlaf and colleagues found that the prevalence of smoking, cannabis use, and drug use was similar to that of the population.</tag_plag_sens>
+  </row>
+</data>

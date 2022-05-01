@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc192</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The earliest recurrence has been reported 9 months after surgery, which is 14 years after the last surgery.</plag_sens>
+    <tag_file_ids>gen_doc2174</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The earliest recurrence has been reported 9 months after surgery while the latest, 14 years later, it reappeared.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc192</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The main and secondary diagnoses were in the hospital discharge register.</plag_sens>
+    <tag_file_ids>gen_doc1338</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Main and secondary diagnoses were included in the hospital discharge register.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc192</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>At the start of the acute phase of HFRS, elevated levels of IL-8, CCL5 and IL6 were detected, as well as higher concentrations of more severe disease types.</plag_sens>
+    <tag_file_ids>gen_doc1207</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>At the start of the acute phase of HFRS, elevated levels of IL-8, CCL5 and IL6 were detected, as well as higher concentrations in more severe disease types.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1509</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The transmission-based rare variant analyses were done using the family-based association test.</plag_sens>
+    <tag_file_ids>gen_doc129</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The transmission-based rare variant analyses were conducted using a family-based association test.</tag_plag_sens>
+  </row>
+</data>

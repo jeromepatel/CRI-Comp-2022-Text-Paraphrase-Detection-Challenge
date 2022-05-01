@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3560</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>It has a huge impact on their lives, either physically or emotionally.</plag_sens>
+    <tag_file_ids>gen_doc2396</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>It has a huge effect on their lives either physically, emotionally, or both.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3560</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>All patients were female and were defined as never-smokers.</plag_sens>
+    <tag_file_ids>gen_doc143</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>All patients were female and were defined as never-smokers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3560</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>We show that infecting resting and activated CD4+ T cells with our HIV Duo-Fluo I virus causes both productive and latent infections in two different populations.</plag_sens>
+    <tag_file_ids>gen_doc3690</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We show that infecting resting and activated CD4+ T cells with our HIV Duo-Fluo I virus causes both productive and latent infections in the two populations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3560</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The module assignment of the previous dataset was used for this dataset.</plag_sens>
+    <tag_file_ids>gen_doc1296</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The module assignment of the previous dataset was used to perform the WGCNA for this dataset.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3560</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The elevated CYFRA 21-1 level was not related to bone invasion, skin invasion, or tumor depth.</plag_sens>
+    <tag_file_ids>gen_doc2624</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The elevated CYFRA 21-1 level was unrelated to bone invasion, skin invasion, and tumor depth.</tag_plag_sens>
+  </row>
+</data>

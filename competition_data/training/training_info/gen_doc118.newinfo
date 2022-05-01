@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc118</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The function of SLC39A11 is not well described but it was found to be associated with survival of amyotrophic lateralsclerosis in previous GWAS.</plag_sens>
+    <tag_file_ids>gen_doc2857</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The function of SLC39A11 is not well described but it was found to be associated with survival of amyotrophic lateralsclerosis in previous GWAS.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc118</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The article was written by Zhang et al.</plag_sens>
+    <tag_file_ids>gen_doc2922</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The article was written byZhang et al.</tag_plag_sens>
+  </row>
+</data>

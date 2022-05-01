@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc459</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There are three influential areas of community health psychology.</plag_sens>
+    <tag_file_ids>gen_doc879</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The work is related to three influential areas of community health psychology.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc459</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>A four-inputting-four-outputting model can be used because the mirror is actuated by four input voltage signals and the position of the mirror is determined by the height of four actuators.</plag_sens>
+    <tag_file_ids>gen_doc1126</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>It can be simplified to a four-inputting-four-outputting model because this mirror is actuated by four input voltage signals and the mirror position is determined by the height of four actuators.</tag_plag_sens>
+  </row>
+</data>

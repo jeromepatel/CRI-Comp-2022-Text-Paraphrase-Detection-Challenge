@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3373</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The method uses all available methods to modify processes such as cell growth, expansion, and division.</plag_sens>
+    <tag_file_ids>gen_doc3404</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The method uses all available methods to modify processes such as cell growth, expansion, or division.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3373</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The low-dimensional spaces allow visualization of search activity over each scanning session and visualization of general response intensities across the continuum of visual properties represented by a given space.</plag_sens>
+    <tag_file_ids>gen_doc3774</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The low-dimensional spaces allow visualization of search activity over each scanning session and visualization of general ROI response intensities across the continuum of visual properties represented by a given space.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3373</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The total suspended particulate concentrations were measured in real time by the HAZ-DUST EPAM-5000 environmental particulate air monitor.</plag_sens>
+    <tag_file_ids>gen_doc547</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The total suspended particulate concentrations were measured in real time by the HAZ-DUST EPAM-5000 environmental particulate air monitor, which uses aerodynamic particle sizing and an in-line filter cassette for gravimetric sampling.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3373</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The results show that Nrp1 is important formammary development.</plag_sens>
+    <tag_file_ids>gen_doc1451</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The results suggest that Nrp1 is important for mammary development.</tag_plag_sens>
+  </row>
+</data>

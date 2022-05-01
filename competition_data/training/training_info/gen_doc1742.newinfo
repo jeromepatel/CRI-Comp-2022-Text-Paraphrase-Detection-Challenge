@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1742</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The human ribosomal proteins were retrieved from the Ribosomal Protein Gene Database and searched against the O. fusiformisEST library.</plag_sens>
+    <tag_file_ids>gen_doc3131</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The human ribosomal proteins were retrieved from the RibosomalProteinGene Database and BLAST searches were conducted against the O. fusiformisEST library.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1742</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The quantum chemical investigation was carried out by Quesada- Moreno at a range of pHs from 1.00 to 5.70 and 13 to 14.</plag_sens>
+    <tag_file_ids>gen_doc1234</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>A quantum chemical investigation was carried out by Quesada- Moreno at a range of pHs from 1.00 to 5.70 and a range of 13 to 22.00 in a solution.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1742</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The criteria for selection for ischemic stroke cases were sudden onset of a focal neurological event with symptoms lasting for more than 24 hours, followed by confirmation of infarction in the brain by magnetic resonance scans, and no history of stroke.</plag_sens>
+    <tag_file_ids>gen_doc2670</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The criteria for selection for ischemic stroke cases were sudden onset of a focal neurological event with symptoms lasting for more than 24 hours, followed by confirmation of infarction in the brain by computed tomography or magnetic resonance scans, and no history of stroke.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1742</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Non-irradiated or irradiated cultures (5 kGy) ofbacteria that produce the DdrC-HAProtein wereDiluted in 120 ml TGY2X broth to an A650nm value of 0.2 and incubated at 30C with shaking.</plag_sens>
+    <tag_file_ids>gen_doc1170</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Non-irradiated or irradiated cultures (5 kGy) ofbacteria producing the DdrC-HA Protein wereDiluted in 120 ml TGY2X broth to an A 650nm value of 0.2 and then incubated at 30C with shaking.</tag_plag_sens>
+  </row>
+</data>

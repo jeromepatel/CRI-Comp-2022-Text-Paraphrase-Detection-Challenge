@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc651</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>All but B2 had an IRR over 11 %.</plag_sens>
+    <tag_file_ids>gen_doc2676</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>All cases except B2 had an IRR above 11 %.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc651</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>If or  0 is the definition.</plag_sens>
+    <tag_file_ids>gen_doc3139</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>If or  0, we define.</tag_plag_sens>
+  </row>
+</data>

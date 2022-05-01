@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3748</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>One of the most radio-resistant tumors, human GBM, is routinely treated with radiotherapy.</plag_sens>
+    <tag_file_ids>gen_doc1401</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>One of the most radio-resistant tumors, human GBM, is still routinely treated with radiotherapy.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3748</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The expression of von Willebrand factor, acetylated low-density lipoprotein, and enhanced nitric oxide synthase expression can also be demonstrated.</plag_sens>
+    <tag_file_ids>gen_doc2433</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The expression of von Willebrand factor, acetylated low-density lipoprotein, and enhanced nitric oxide synthase expression after shear-stress exposure can also be demonstrated.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3748</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>We used the whole network from the HPRD database to evaluate its performance.</plag_sens>
+    <tag_file_ids>gen_doc3150</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In this study, we used the whole network from the HPRD database to evaluate the performance.</tag_plag_sens>
+  </row>
+</data>

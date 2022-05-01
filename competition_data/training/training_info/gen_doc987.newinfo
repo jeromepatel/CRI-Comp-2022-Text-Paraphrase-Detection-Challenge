@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc987</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Male and female germ cells enter meiotic prophase I with a meiosis-specificprotein called PRDM9.</plag_sens>
+    <tag_file_ids>gen_doc1602</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>PRDM9 is only expressed in male and female germ cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc987</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>After co-transfection, the expression of theBBS4 was saved.</plag_sens>
+    <tag_file_ids>gen_doc2268</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>After co-transfection, the expression ofBBS4 was rescued.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc987</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Two of 205 contacts were positive for IGRA.</plag_sens>
+    <tag_file_ids>gen_doc216</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Two of 205 contacts were positive for IGRA.</tag_plag_sens>
+  </row>
+</data>

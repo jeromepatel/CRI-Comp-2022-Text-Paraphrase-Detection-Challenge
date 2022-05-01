@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1904</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The capacity of phosphorylated HprK/P to phosphorylate its HPr was compared in order to test the assumption.</plag_sens>
+    <tag_file_ids>gen_doc2715</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In order to test this assumption, we phosphorylated HprK/P with PrkD and compared its capacity to non-phosphorylated HprK/P.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1904</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The adiponectin gene, an adipocyte-secreted hormone, has been proposed to be a biological link between obese people and increased risk of cancer.</plag_sens>
+    <tag_file_ids>gen_doc2218</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The adiponectin gene, an adipocyte-secreted hormone that has been proposed to be a biological link between Obesity and Increased Risk of Pancreatic Cancer, plays an important role in NR5A2.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1904</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There is a correlation between the increased risk of prone sleep position and the increased risk of putting infants down to sleep.</plag_sens>
+    <tag_file_ids>gen_doc2569</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Congruence between the increased risk of prone sleep position and infection is supported by the increased risk of putting down infants to sleep on contaminated surfaces.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1904</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Drug shortages are a multi-faceted issue according to the interviews.</plag_sens>
+    <tag_file_ids>gen_doc2243</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Drug shortages are a multi-faceted issue according to the interviewees.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1904</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The current study is the first to quantify PNNs in rodents.</plag_sens>
+    <tag_file_ids>gen_doc2563</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The current study is the first to quantify the PNNs in mEC of rodents.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1904</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The number of PyMT by Epistasis interactions on the traits measured at sacrifice may indicate that factors in the tumors themselves, rather than PyMT expression, are responsible for altering Epistatic effects on these traits.</plag_sens>
+    <tag_file_ids>gen_doc87</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The number of PyMT by epistasis interactions on the traits measured at sacrifice may indicate that factors in the tumors themselves, rather than PyMT expression, are responsible for altering epistatic effects on these traits.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1904</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>For Alzheimer's disease, we focused on changes in the brain's structure and function, as well as changes in the brain's function.</plag_sens>
+    <tag_file_ids>gen_doc66</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>For Alzheimer's disease, we focused on changes in the brain's structure and function, as well as changes in the brain's function, for diseases such as small vessel diseases and frontotemporal lobar degeneration.</tag_plag_sens>
+  </row>
+</data>

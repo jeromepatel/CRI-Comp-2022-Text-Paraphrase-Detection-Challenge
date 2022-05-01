@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc281</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Surface chemistry and functionalization of the IONs are the main causes of cellular damage or impairment.</plag_sens>
+    <tag_file_ids>gen_doc2790</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Surface chemistry and functionalization of the IONs are the main mechanisms leading to cellular damage or impairment.</tag_plag_sens>
+  </row>
+</data>

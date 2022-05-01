@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc758</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Hypothyrodism is associated with clinical features of myopathy.</plag_sens>
+    <tag_file_ids>gen_doc2572</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Hypothyrodism is associated with clinical features of myopathy with the weakness of the muscles.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc758</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The authors reported that the inhibition of photochemistry by DCMU did not affect the expression of the CBF genes.</plag_sens>
+    <tag_file_ids>gen_doc3857</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The authors reported that the inhibition of photochemistry by DCMU did not affect the expression of CBF genes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc758</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The HTS analysis of salt stressed sRNAome identified a number of conserved and novel miRs in the Populus trichocarpa and P. euphratica families.</plag_sens>
+    <tag_file_ids>gen_doc2954</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The HTS analysis of salt stressed sRNAome identified over 200 conserved and novel miRs, belonging to 93 families between Populus trichocarpa and P. euphratica (Li et al., 2013).</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc758</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There was a stillbirth in the arm.</plag_sens>
+    <tag_file_ids>gen_doc980</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>There was one stillbirth in the AQ+AS arm.</tag_plag_sens>
+  </row>
+</data>

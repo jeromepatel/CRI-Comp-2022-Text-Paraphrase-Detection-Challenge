@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc175</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The models used for the analysis of the P53 sequence of 65 mammals were implemented by the PAML.</plag_sens>
+    <tag_file_ids>gen_doc2649</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The models used to analyze the P53 sequence of 65 mammals were implemented by PAML, Selecton, and hy phy tools.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc175</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are important differences between strains of E. coli that can cause infections.</plag_sens>
+    <tag_file_ids>gen_doc1369</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There are important differences between strains of E. coli that cause persistent infections.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc175</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Treatment noncompleters were more depressed, had a higher rate of suicide attempts, and had more suicide attempts than completers, but there were no differences in these characteristics among outpatients.</plag_sens>
+    <tag_file_ids>gen_doc2990</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Compared to completers, treatment noncompleters were more depressed, had a higher rate of suicide attempts, and there were no differences in these characteristics among outpatients.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc175</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The visual inspection of the log-cumulative hazard plot showed relatively straight but not parallel plots.</plag_sens>
+    <tag_file_ids>gen_doc1197</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The visual inspection of the log-cumulative hazard plot showed relatively straight but not parallel plots.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc175</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>A possible explanation for the phenomenon is that in deep-red tumors more cells contribute to the total signal since deeper located cells are detected making the measured total signal more robust and less dependent on structural rearrangements.</plag_sens>
+    <tag_file_ids>gen_doc1874</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A possible explanation for the phenomenon is that in deep-red tumors more cells contribute to the total signal since also deeper located cells are detected making the measured total signal more robust and less dependent of structural rearrangements.</tag_plag_sens>
+  </row>
+</data>

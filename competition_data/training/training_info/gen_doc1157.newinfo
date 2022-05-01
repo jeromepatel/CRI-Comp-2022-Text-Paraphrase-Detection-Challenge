@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1157</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The lack of physicians has been compensated by the training of nurse practitioners and pharmacists.</plag_sens>
+    <tag_file_ids>gen_doc888</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Training more nurse practitioners and pharmacists has compensated for the lack of physicians in some areas.</tag_plag_sens>
+  </row>
+</data>

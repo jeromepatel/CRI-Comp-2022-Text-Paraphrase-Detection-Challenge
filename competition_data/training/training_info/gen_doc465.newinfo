@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc465</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The plants had been grown in pots, styroblocks or bare root beds.</plag_sens>
+    <tag_file_ids>gen_doc777</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The seeds were grown in pots, styroblocks or bare root nursery beds.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc465</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The plants had been grown in pots, styroblocks or bare root beds.</plag_sens>
+    <tag_file_ids>gen_doc777</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The seeds were grown in pots, styroblocks or bare root nursery beds.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc465</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Sperm viability is related to the integrity of the sperm.</plag_sens>
+    <tag_file_ids>gen_doc2025</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Sperm viability is related to sperm integrity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc465</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>If you want to wipe a baby's gums, you should use a clean cloth or a clean gauze pad.</plag_sens>
+    <tag_file_ids>gen_doc586</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>If you want to wipe a baby's gums, use a clean damp cloth or a clean gauze pad.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc465</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Fetal infections in BALB/c mice did not affect the degree of placental IL-6 gene expression.</plag_sens>
+    <tag_file_ids>gen_doc778</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Fetal infections in BALB/c mice did not affect the degree of placental IL-6 gene expression.</tag_plag_sens>
+  </row>
+</data>

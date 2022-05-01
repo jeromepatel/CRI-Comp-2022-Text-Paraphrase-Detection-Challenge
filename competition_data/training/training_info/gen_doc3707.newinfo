@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3707</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The failure load was calculated from the slope of the linear part of the load-deformation curve figureb.</plag_sens>
+    <tag_file_ids>gen_doc1607</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The failure load was recorded by the load-deformation curve, and stiffness was calculated from the slope of the linear part of the load-deformation curve figureb.</tag_plag_sens>
+  </row>
+</data>

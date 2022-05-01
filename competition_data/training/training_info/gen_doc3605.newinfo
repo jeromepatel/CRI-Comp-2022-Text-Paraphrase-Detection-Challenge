@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3605</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The model uses costs of interventions after initial discharge only, costs of usual care and repeat hospitalisation.</plag_sens>
+    <tag_file_ids>gen_doc2083</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The model uses costs of interventions after initial discharge only, costs of usual care, and repeat hospitalisation costs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3605</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In the same samples, NOX-mediated hydrogen peroxide production was 38.85%  13 of NOX-dependent oxygen consumption.</plag_sens>
+    <tag_file_ids>gen_doc786</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In the same samples, NOX-mediated hydrogen peroxide production was found to be 38.85%  13 of NOX- dependent oxygen consumption.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3605</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Increased production of pro inflammatory cytokines, such as IL-12 and IFN-, was caused by the suppression of the CCR5 gene.</plag_sens>
+    <tag_file_ids>gen_doc1320</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Increased production of pro inflammatory cytokines, such as IL-12 and IFN-, as a result of CCR5 silencing.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3605</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Between 2004 and 2012 there was an increase in food insufficiency and this was associated with both job loss and income reduction.</plag_sens>
+    <tag_file_ids>gen_doc1722</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Between 2004 and 2012 there was an increase in food insecurity and this was associated with job loss and income reduction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3605</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The resulting black particles were separated using a grade N 48 neodymium magnet after 16.6 mL of 1.5 M sodium hydroxide solution was added.</plag_sens>
+    <tag_file_ids>gen_doc2097</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The resulting black nanoparticles were separated using a grade N48 neodymium magnet after 16.6 mL of 1.5 M sodium hydroxide solution was added.</tag_plag_sens>
+  </row>
+</data>

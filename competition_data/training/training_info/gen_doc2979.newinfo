@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2979</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The automatic source locations can be adjusted later by manual review of arrival times and by using three-dimensional velocity models.</plag_sens>
+    <tag_file_ids>gen_doc3087</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The automatic source locations can be fine tune later by manual review of arrival times and by using three-dimensional velocity models or relative event location methods.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2979</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>TcsC is a histidine kinase.</plag_sens>
+    <tag_file_ids>gen_doc3153</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>TcsC, a group III histidine kinase, was recently characterized.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2979</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Primer and minor grove binder probes have a sequence.</plag_sens>
+    <tag_file_ids>gen_doc2635</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Sequence information for minor grove binder probes is as follows:</tag_plag_sens>
+  </row>
+</data>

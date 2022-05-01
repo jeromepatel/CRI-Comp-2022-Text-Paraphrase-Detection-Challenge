@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc214</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The first thing to do is to segment the text document.</plag_sens>
+    <tag_file_ids>gen_doc130</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The first thing to do is sentence segment each text document.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc214</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Leisch et al. are in this situation.</plag_sens>
+    <tag_file_ids>gen_doc2181</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Leisch et al. are in this context.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc214</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It's not clear what role it plays in the process of type 2 diabetes.</plag_sens>
+    <tag_file_ids>gen_doc3523</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Its role in the process to type 2 diabetes is still unknown.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc214</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>3D body scans, 3DOCT of the retina, and a recording of vigilance regulation are some of the things that can be done with an optical coherence tomography.</plag_sens>
+    <tag_file_ids>gen_doc549</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>3D body scans, 3DOCT of the retina, and a recording of vigilance regulation are some of the things that can be done with an optical coherence tomography.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc214</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>East Germany has experienced profound social and lifestyle changes since the reunification of Germany.</plag_sens>
+    <tag_file_ids>gen_doc490</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>East Germany has experienced profound social and lifestyle changes since the German reunification in 1990.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc214</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The German health care system needs disease prevention programmes and predictions of disease developments quickly.</plag_sens>
+    <tag_file_ids>gen_doc394</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Various stakeholders in the German health care system need disease prevention programmes and predictions of disease developments.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc214</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The error could serve as an image feature.</plag_sens>
+    <tag_file_ids>gen_doc3350</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The segment fit coefficients could potentially serve as image features.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc214</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>CNN says there is a lack of proper maturation of the tyrosinase.</plag_sens>
+    <tag_file_ids>gen_doc2151</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>CNN has an explanation for the mechanism of hypopigmentation, it is a lack of proper maturation of tyrosinase.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc214</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>If a match is identified with a query structure that has a matching full EC number, the average percentage of true positives for all templates of the P set is 63%.</plag_sens>
+    <tag_file_ids>gen_doc1282</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>If a match is identified with a query structure that has a matching full EC number, the average percentage of true positives for all motif templates of the P set is 63%.</tag_plag_sens>
+  </row>
+  <row>
+    <index>9</index>
+    <file_ids>gen_doc214</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Honesty-Humility, Emotionality, Extraversion, Agreeableness, Conscientiousness, and Openness to Experience are the six dimensions of the HEXACO dimensions.</plag_sens>
+    <tag_file_ids>gen_doc99</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Honesty-Humility, Emotionality, Extraversion, Agreeableness, Conscientiousness, and Openness to Experience are some of the items tapped on this instrument.</tag_plag_sens>
+  </row>
+</data>

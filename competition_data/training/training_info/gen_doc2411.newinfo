@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2411</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Although a small amount can sometimes be detected in culture supernatants of WT cells, the majority of the forms released from the bacterial surface are dependent on SphB1, and only a small amount can be found in strains lacking SphB1.</plag_sens>
+    <tag_file_ids>gen_doc2227</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Although a small amount can sometimes be detected in culture supernatants of WT cells, the majority of the forms released from the bacterial surface are dependent on SphB1, while the other forms are only released in strains lacking SphB1.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2411</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There is a link between inflammation and cancer development.</plag_sens>
+    <tag_file_ids>gen_doc659</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Cancer development and progression is linked with persistent inflammation.</tag_plag_sens>
+  </row>
+</data>

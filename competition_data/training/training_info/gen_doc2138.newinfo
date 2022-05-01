@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2138</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The control beliefs did not correlate with the measure of perceived control.</plag_sens>
+    <tag_file_ids>gen_doc3845</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The control beliefs did not correlate as strongly with the measure of perceived behavioural control.</tag_plag_sens>
+  </row>
+</data>

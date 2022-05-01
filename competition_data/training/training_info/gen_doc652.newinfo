@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc652</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The interplay between  T cells and high-grade gliomas can be described in similar ways.</plag_sens>
+    <tag_file_ids>gen_doc1412</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The interplay between  T cells and high-grade gliomas is similar to what we describe in human GBM.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc652</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Part of the reason for the reduction of phase separation when an acute exit was used is due to the reduction in the pressure on the extrusion.</plag_sens>
+    <tag_file_ids>gen_doc2784</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>When an acute exit was used, it was suggested that the reduction of phase separation could be explained by the reduction of extrusion pressure with the use of tapered barrels.</tag_plag_sens>
+  </row>
+</data>

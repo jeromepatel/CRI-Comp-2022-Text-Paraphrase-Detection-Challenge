@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc103</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In order to determine if a high turnover in bitter receptors is observed in species with host plant specializations or in species which are endemic and thus smaller in effective population size, we investigated.</plag_sens>
+    <tag_file_ids>gen_doc371</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We want to know if a high turnover in bitter receptors is observed in species with host plant specializations or in species which are endemic and thus smaller in effective population size.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc103</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>When parents are not available, the information content drops to 70% even with a high density map, which is roughly the same level as a sparse map of microsatellites.</plag_sens>
+    <tag_file_ids>gen_doc2409</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>When parents are not available, the information content drops to 70% even with a high density map, which is roughly the same level as a sparse map of microsatellites.</tag_plag_sens>
+  </row>
+</data>

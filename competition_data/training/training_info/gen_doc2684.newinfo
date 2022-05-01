@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2684</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>As the furan ring forms weaker stacking interactions than the benzene rings of balsalazide, the furan ring bound at an angle to the plane of the FMN.</plag_sens>
+    <tag_file_ids>gen_doc2299</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>As the furan ring forms weaker stacking interactions than the benzene rings of balsalazide, the furan ring bind at an angle to the plane of the FMN.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2684</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In a real-life setting, only one of the intervention conditions is implemented to get the most realistic estimates.</plag_sens>
+    <tag_file_ids>gen_doc1585</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In a real-life setting only one of the intervention conditions is implemented, so the most realistic estimates are obtained per region.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2684</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The colonies were screened with broad range primers for several pathogens.</plag_sens>
+    <tag_file_ids>gen_doc1384</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The colonies were screened with broad range primers for Leishmaniinae, Nosematidae, and Neogregarinorida enabling detection of all described pathogens.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2684</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>In 37 subjects with focal tonic dystonia, BTX-A alleviated their pain.</plag_sens>
+    <tag_file_ids>gen_doc458</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The efficacy of BTX-A in providing pain relief in 37 subjects was investigated.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2684</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The number of falls increases as you get older.</plag_sens>
+    <tag_file_ids>gen_doc3111</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The number of falls increases with age and frailness.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2684</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Even though there have been continual improvements in diagnosis and treatment, metastasis is still the main cause of mortality in the disease.</plag_sens>
+    <tag_file_ids>gen_doc3911</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Even though there have been continual improving techniques and methods in diagnosis and treatment, metastasis is always a primary cause of mortality in prostate cancer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2684</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>It is possible to identify genes that are expressed in the lung.</plag_sens>
+    <tag_file_ids>gen_doc2813</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The identification of genes expressed exclusively in the lung can provide insight into key processes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc2684</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>To quantitate proliferation, viable single mESCs were plated at 5000 cells per well in triplicate.</plag_sens>
+    <tag_file_ids>gen_doc1913</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>To quantitate proliferation, viable single mESCs were plated at 5000 cells per well in 96-well plates.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc2684</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>We are not aware of any corroborating studies that looked at the effects of cancer on weight and adiposity.</plag_sens>
+    <tag_file_ids>gen_doc3922</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>We are not aware of any corroborating studies that have assessed the effects of cancer on weight and adiposity, so we are not sure if this is the case.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2364</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Communication, decision making andInterpersonal style are addressed in the 3 subscales.</plag_sens>
+    <tag_file_ids>gen_doc434</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Communication, decision making and Interpersonal style are addressed in the 3 subscales of 30 items.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2364</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The simulation allowed the disease to spread between the two species with a local density dependent symmetrical transmission process.</plag_sens>
+    <tag_file_ids>gen_doc1322</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Simulation of the spread of the disease between two populations was done by allowing the disease to spread between the two species.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2364</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The lack of drainage for long-cycle crops such as bell pepper is a factor that should be monitored and managed throughout the crop cycle in order to ensure the success of this system.</plag_sens>
+    <tag_file_ids>gen_doc2169</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The lack of drainage for long-cycle crops such as bell pepper is a factor that should be monitored and managed throughout the crop cycle in order to ensure the success of this system.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2364</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The mean readmission rate for the whole group was eight per patient, but in seven cases a salvage cystectomy was necessary due to uncontrollable bleeding from the primary tumor.</plag_sens>
+    <tag_file_ids>gen_doc1770</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The mean readmission rate for the whole group was eight per patient, but in seven cases a salvage cystectomy became necessary due to uncontrollable bleeding from the primary tumor.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2364</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>A variety of cell types have been characterized based on their location and other factors.</plag_sens>
+    <tag_file_ids>gen_doc732</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A variety of cell types in the cochlear wall have been characterized based on their location, as well as their immunological characteristics.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2364</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The blue light was delivered for 2s at the start of X to cause VTA dopamine neurons to fire.</plag_sens>
+    <tag_file_ids>gen_doc693</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The blue light was delivered for 2s at the start of X to cause VTA dopamine neurons.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2339</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>To find a set of candidates for each entity, we need a good and representative knowledge base for that entity.</plag_sens>
+    <tag_file_ids>gen_doc732</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>To find a set of candidates for each entity, we need a good and representative knowledge base for each entity, in order to link each phrase.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2339</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There was a recent comparison of Nosema spp.</plag_sens>
+    <tag_file_ids>gen_doc2050</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>A recent comparison of Nosema spp.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2339</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>This argument is supported by the finding of an intermediateTE for ribosomal proteins in cBF, which does not differentiate into stumpy forms, but are still highly sensitive to cell density.</plag_sens>
+    <tag_file_ids>gen_doc1680</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>This argument is supported by the finding of an intermediateTE for ribosomal proteins in cBF derived from a monomorphic strain, which does not differentiate into stumpy forms, but are nonetheless highly sensitive to cell density.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1689</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>An additional perspective on the relationship between access and use focuses on the individual contraceptive methods figure.</plag_sens>
+    <tag_file_ids>gen_doc3875</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>An additional perspective on the relationship between access and use focuses on the individual contraceptive methods figure from 2004.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1689</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The locations of 304 weather stations in western Washington and Oregon were used to calculate the average budburst date under the current climate and predicted climate in 2080.</plag_sens>
+    <tag_file_ids>gen_doc1901</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The average date of budburst under the current climate and predicted climate in 2080 was calculated at 304 weather stations in western Washington and Oregon.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1689</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The main role of these enzymes in basidiomycetes is lignin utilization, but reports show a wide range of functions, including defence against stress.</plag_sens>
+    <tag_file_ids>gen_doc248</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The main role of these enzymes in basidiomycetes is lignin utilization, but reports show a wide range of other functions, including defence against stress.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1689</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There is a showing of the mitochondrial potential of Chlamydiainfecting cells.</plag_sens>
+    <tag_file_ids>gen_doc1655</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There is a showing of the mitochondrial potential of Chlamydia-infecting cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1689</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The small arteries were estimated from a pulse analysis.</plag_sens>
+    <tag_file_ids>gen_doc3517</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The small arteries' elasticity was estimated from a computerized pulse analysis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1689</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In the same samples, NOX-mediated hydrogen peroxide production was 38.85%  13 of NOX-dependent oxygen consumption.</plag_sens>
+    <tag_file_ids>gen_doc786</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In the same samples, NOX-mediated hydrogen peroxide production was found to be 38.85%  13 of NOX- dependent oxygen consumption.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1689</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>An estimate based on the body surface area may be reliable.</plag_sens>
+    <tag_file_ids>gen_doc506</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>An estimate based on body surface area may be reliable.</tag_plag_sens>
+  </row>
+</data>

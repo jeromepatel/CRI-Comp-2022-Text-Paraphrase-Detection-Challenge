@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3036</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Similar results were obtained in the tobacco overexpressing Solanum lycopersicum, which showed a better performance in terms of photosynthetic efficiency, root lengths and fresh and dry weights.</plag_sens>
+    <tag_file_ids>gen_doc3749</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Similar results were obtained in the tobacco overexpressing Solanum lycopersicum thylakoid-bound APX and showed a better performance in terms of photosynthetic efficiency, root lengths and fresh and dry weights of the plants, with enhanced tolerance to salt and os.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3036</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There is still much to learn about the interaction of different ligands with the gp130 receptor, even though it has been recognized that it is a keyreceptor for multiple cytokines.</plag_sens>
+    <tag_file_ids>gen_doc1360</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There is still much to learn about the interaction of different ligands with the gp130 receptor, even though it has been recognized that it is a key receptor for multiple cytokines.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3036</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>In the previous section, we talked about the correlation between the upstream genes and the local recombination activity.</plag_sens>
+    <tag_file_ids>gen_doc224</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In the previous section, we talked about the correlation between the local recombination activity of genes and the location of CGIs.</tag_plag_sens>
+  </row>
+</data>

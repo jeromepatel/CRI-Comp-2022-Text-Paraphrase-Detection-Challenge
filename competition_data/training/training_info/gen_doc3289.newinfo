@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3289</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>On the basis of these equilibrium constants, the rutile TiO2(110) is positively charged because it is extensively protonated.</plag_sens>
+    <tag_file_ids>gen_doc297</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>On the basis of these equilibrium constants, the rutile TiO2(110) is positively charged and extensively protonated.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3289</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It is not currently known how exhaustive exercise affects NVC.</plag_sens>
+    <tag_file_ids>gen_doc1234</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>While it has been shown that the NVC is maintained during submaximal exercise, it is not known how exhaustive exercise affects it.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1986</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The N-terminally 6x His-tagged polypeptides were produced in E. coli and then purified using a HisTrap HP column.</plag_sens>
+    <tag_file_ids>gen_doc1903</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>According to manufacturer instructions, N-terminally 6x His-tagged polypeptides were produced in E.coli and purified using a HisTrap HP column.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1986</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The severity of the complaints varied depending on the symptom.</plag_sens>
+    <tag_file_ids>gen_doc579</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The severity of the recorded complaints varied from mild symptoms to strong discomfort.</tag_plag_sens>
+  </row>
+</data>

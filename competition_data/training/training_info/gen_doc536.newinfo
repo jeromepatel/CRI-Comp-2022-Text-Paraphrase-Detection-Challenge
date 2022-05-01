@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc536</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We used area of residence as a measure of socioeconomic position and traumatic dental injuries as a measure of clinical injury.</plag_sens>
+    <tag_file_ids>gen_doc3345</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We used area of residence as a measure of socioeconomic position and traumatic dental injuries as a measure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc536</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The impact of the rs500151 and rs11591147 variant on the cardiovascular system has been investigated, but the findings to date are not conclusive.</plag_sens>
+    <tag_file_ids>gen_doc3869</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The impact of the rs500151 and rs11591147 variant on the cardiovascular system has been investigated in a number of studies, but the findings to date are not consistent.</tag_plag_sens>
+  </row>
+</data>

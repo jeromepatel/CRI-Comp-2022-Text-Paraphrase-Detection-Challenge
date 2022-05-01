@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2544</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The multi-target quantitative structure-activity relationship method can be used to predict activities against different targets, using large and heterogeneous chemical datasets.</plag_sens>
+    <tag_file_ids>gen_doc570</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The multi-target quantitative structure-activity relationship (mt-QSAR) method can be used to predict activities against different targets by using large and heterogeneous chemical datasets.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2544</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There is a comparison and visualization of arsenite sensitivity data.</plag_sens>
+    <tag_file_ids>gen_doc1861</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The data from this work is compared and visualized.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2544</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We screened our P-driven OE strain collection on YPD solid medium supplemented with 3 g.</plag_sens>
+    <tag_file_ids>gen_doc1290</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We performed a screen of our P-driven OE strain collection on YPD solid medium supplemented with 3 g.mL 1ATc and identified 17 genes whose OE triggered filamentation figureB.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2544</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The veins of serpentinite rocks outcropping in the Western Alps have been studied using a number of different techniques.</plag_sens>
+    <tag_file_ids>gen_doc3390</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The veins of serpentinite rocks outcropping in the Western Alps have been systematically studied by using optical, X-ray,SEM-EDS and TEM-EDS techniques.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2544</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The treatment improved the quality of life for the subjects, with an increase of 22.1% and 24.3% in the 10 and 5 groups, respectively.</plag_sens>
+    <tag_file_ids>gen_doc1008</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The treatment improved the quality of life for the subjects, with an increase of 22.1% and 24.3% in the 10 and 5 groups, respectively, in the total score obtained from the UFS-QOL questionnaire.</tag_plag_sens>
+  </row>
+</data>

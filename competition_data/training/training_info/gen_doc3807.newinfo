@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3807</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The test sensitivity is defined as the proportion of cases with third-order selection bias in relation to the total number of cases that show positive test results, and the test specificity is defined as the proportion of cases without third-order selection bias.</plag_sens>
+    <tag_file_ids>gen_doc1991</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The test sensitivity is defined as the proportion of cases with third-order selection bias in relation to the total number of cases that show positive test results, and the test specificity is defined as the proportion of cases without third-order selection bias in relation to the total number of negative test cases.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3807</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The first case of human disease caused by H5N1 was reported in Hong Kong.</plag_sens>
+    <tag_file_ids>gen_doc2786</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The first case of human disease caused by the H5N1 bird flu was reported in Hong Kong in 1997.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3807</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>We know that our experiences will relate to the cameras we used and the environments we worked in, and that may be different from other contexts.</plag_sens>
+    <tag_file_ids>gen_doc2332</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We understand that our experiences will relate to the cameras we used and the environments we worked in, and that they may not be representative of other contexts.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3807</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Each experiment had an equal number of one-cell stage mouse embryos transferred into the uterus of a plugged embryo recipient.</plag_sens>
+    <tag_file_ids>gen_doc320</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In each experiment, an equal number of one-cell stage mouse embryos were transferred into the oviduct of a recently plugged embryo recipients.</tag_plag_sens>
+  </row>
+</data>

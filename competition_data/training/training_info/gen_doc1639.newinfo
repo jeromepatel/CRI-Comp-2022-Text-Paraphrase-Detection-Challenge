@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1639</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Each of the MCF-7 gene fusions was expressed in UHR with a ten-fold less expression.</plag_sens>
+    <tag_file_ids>gen_doc2931</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Each of the MCF-7 gene fusions was expressed in UHR with around ten-fold less expression according to the real-time PCR Cycle Threshold values.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1639</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The spatial distance between sister chromatids in yeast is smaller than in mammals.</plag_sens>
+    <tag_file_ids>gen_doc566</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The spatial distance between two sister chromatids is larger in mammals than in yeast.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1639</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>We show that altering branching with GlcNAc and kifunensine causes a mild change in the amount of sugar in T cells, but this is not enough to significantly alter the amount of sugar in T cells.</plag_sens>
+    <tag_file_ids>gen_doc1818</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We show that altering branching with GlcNAc and kifunensine causes a mild change in sugar levels in T cells, but this isn't enough to significantly alter aerobic glycolysis/oxidative phosphorylation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1639</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The obtained results suggest that the degree of polymerization of the cements is related to the hardness of the cement.</plag_sens>
+    <tag_file_ids>gen_doc278</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The obtained results show that the degree of polymerization of the cements correlate with the degree of hardness.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1639</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>By downregulating the product of the MET proto-oncogene, miR-206 could promote myogenic differentiation and block tumor growth.</plag_sens>
+    <tag_file_ids>gen_doc2320</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>By downregulating the product of the MET proto-oncogene, miR-206 could promote myogenic differentiation and block tumor growth in mice.</tag_plag_sens>
+  </row>
+</data>

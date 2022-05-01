@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3959</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>3D7 trophozoites treated with 3 M of CQ for 4 h re-localized from the DV to the parasites' cytoplasm.</plag_sens>
+    <tag_file_ids>gen_doc3828</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In 3D7 trophozoites treated with 3 M of CQ for 4 h, Plm-IV re-localized from the DV to the parasite cytoplasm.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3959</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>enterica serovar Choleraesuis str</plag_sens>
+    <tag_file_ids>gen_doc3433</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>enterica serovar Choleraesuis str.</tag_plag_sens>
+  </row>
+</data>

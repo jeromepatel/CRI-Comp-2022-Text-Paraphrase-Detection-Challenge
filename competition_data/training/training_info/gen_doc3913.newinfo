@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3913</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The maximum height was achieved from the ground to the ear tip, on five main culms per plot.</plag_sens>
+    <tag_file_ids>gen_doc3063</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>When the maximum height was achieved, from the ground to the ear tip, on five main culms per plot, the PH was measured.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3913</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There was no evidence of an association between CD and attention deficit disorder.</plag_sens>
+    <tag_file_ids>gen_doc2854</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There was no evidence of an association between CD and ADHD.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3913</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>IFG+IGT group and NDDM group are isolated IFG group.</plag_sens>
+    <tag_file_ids>gen_doc1758</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>IFG+IGT group and NDDM group are isolated IFG group and isolated NGT group.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3913</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>More than 700 articles were retained after the screening.</plag_sens>
+    <tag_file_ids>gen_doc3024</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>A total of 719 articles were retained after this screening.</tag_plag_sens>
+  </row>
+</data>

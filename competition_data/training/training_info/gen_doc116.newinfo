@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc116</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The first purpose of the biomarkers is to give account about the effects of chemical exposure.</plag_sens>
+    <tag_file_ids>gen_doc107</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The first purpose of the biomarkers is to give account about chemical exposure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc116</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>Idelalisib was described as the cause of the inhibition of the proliferation of WM cells.</plag_sens>
+    <tag_file_ids>gen_doc2923</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Idelalisib was described as the inhibition of the proliferation of WM cells.</tag_plag_sens>
+  </row>
+</data>

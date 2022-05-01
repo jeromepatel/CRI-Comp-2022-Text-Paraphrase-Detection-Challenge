@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3738</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The first case of a repair-competentRNA end-healing enzyme being shown by a bacterium is one of the aspects of the present study.</plag_sens>
+    <tag_file_ids>gen_doc1257</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The first case of a repair-competent RNA end-healing enzyme being shown by a bacterium is one of several aspects of the present study.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3738</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>It was expected that exposure to high levels of Cr for 3 h would affect the subsequent absorption figure and that this was the case.</plag_sens>
+    <tag_file_ids>gen_doc3422</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>It was expected that exposure to high levels of Cr for 3 h would affect subsequent CrT expression figure.</tag_plag_sens>
+  </row>
+</data>

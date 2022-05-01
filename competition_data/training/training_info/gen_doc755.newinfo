@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc755</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The association of the genes with theRCC recurrence and/or survival was analyzed in the second step.</plag_sens>
+    <tag_file_ids>gen_doc3630</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The association of the genes with theRCC recurrence and/or survival was analyzed in the second step.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc755</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The findings were obtained in a forward-masking paradigm and their transfer to simultaneous masking techniques is still being tested.</plag_sens>
+    <tag_file_ids>gen_doc3165</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The findings here were obtained in a forward-masking paradigm and their transfer to simultaneous masking techniques remains to be tested.</tag_plag_sens>
+  </row>
+</data>

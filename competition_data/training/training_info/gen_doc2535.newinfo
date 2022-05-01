@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2535</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The relations from the OBO relation ontology are not as problematic as the relations that are not well-founded.</plag_sens>
+    <tag_file_ids>gen_doc917</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The relations from the OBO relation ontology are less problematic than relations that are not well-founded.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2535</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Similar results could be reproduced using another data.</plag_sens>
+    <tag_file_ids>gen_doc604</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Similar results could be reproduced using another data.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2535</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>We hypothesised that the genotypically distinct global and African clades could have different infections in the challenge model.</plag_sens>
+    <tag_file_ids>gen_doc1439</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>We hypothesised that the genotypically distinct global and African clades could have different infection phenotypes in an in situ challenge model.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2535</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>When the number of MM cells was greater than the number of MSCs, the effect of MSCs on MM cell increase was apparent.</plag_sens>
+    <tag_file_ids>gen_doc342</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>When the initial number of MM cells was equal to or five times greater than that of MSCs, the effect of MSCs on MM cell increase was apparent.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2535</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Simulation helps students practice real-time clinical judgement, communication, and hands-on skills.</plag_sens>
+    <tag_file_ids>gen_doc848</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Simulation gives a realistic and interactive learning environment that promotes practicing real-time clinical judgment, communication, and hands-on skills.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc506</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Participants were required to silently read part of the novel on one of the randomly assigned supports.</plag_sens>
+    <tag_file_ids>gen_doc3527</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Participants were required to silently read part of the novel on one of the randomly assigned supports, while their eye data was recorded.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc506</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The changes in eye size, eye position, jaw bone thickness and skull height that are associated with this axis are likely to be currently diverging in the two youngest lakes.</plag_sens>
+    <tag_file_ids>gen_doc1792</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The changes in eye size, eye position, jaw bone thickness, and skull height that are associated with this axis are likely to be currently undergoing divergence in the two youngest lakes.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1137</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are many compound schedules that can affect responding and stifle behaviors.</plag_sens>
+    <tag_file_ids>gen_doc173</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There are many compound schedules that may interfere with responding and stifle behaviors coming under temporal control.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1137</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Nerve conduction studies were done.</plag_sens>
+    <tag_file_ids>gen_doc3351</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Nerve conduction studies were normal.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1137</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The mODC coding sequence was used to transform a plant into a mODC transgenic line.</plag_sens>
+    <tag_file_ids>gen_doc1514</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The mODC coding sequence was used to transform a plant into a inducible mODC transgenic line.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1137</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The ability to predict embryo viability at such an early stage suggests that much of human embryo development is determined before fertilization by the contents of the oocyte.</plag_sens>
+    <tag_file_ids>gen_doc247</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The ability to predict embryo viability at such an early stage suggests that much of human embryo potential is determined before fertilization by the contents of the oocyte.</tag_plag_sens>
+  </row>
+</data>

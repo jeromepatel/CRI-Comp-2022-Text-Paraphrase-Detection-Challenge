@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1966</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>School dental screenings for 3- to 6-year olds were part of the program.</plag_sens>
+    <tag_file_ids>gen_doc2079</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>School dental screenings for 3- to 6-year olds are associated with the program.</tag_plag_sens>
+  </row>
+</data>

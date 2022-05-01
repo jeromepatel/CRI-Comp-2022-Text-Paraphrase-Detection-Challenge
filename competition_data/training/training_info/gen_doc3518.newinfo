@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3518</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The role of MMPs in brain injury is well-known.</plag_sens>
+    <tag_file_ids>gen_doc331</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>MMPs are well-known inflammatory mediators and play an important role in brain injury.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3518</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It is possible to develop a positive allosteric modulator that can be used to treat mood disorders.</plag_sens>
+    <tag_file_ids>gen_doc2847</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>It may be possible to develop a positive allosteric modulator that targets CHRM2 to treat patients with mood disorders.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3518</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There are two major variant isoforms of BCCIP in humans.</plag_sens>
+    <tag_file_ids>gen_doc1693</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There are two major splice variant isoforms in humans, and BCCIP is an essential gene.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3518</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The sensitivity of HEp2 and 7T cells was determined using the MTT test.</plag_sens>
+    <tag_file_ids>gen_doc3818</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The sensitivity of HEp2 and 7T cells was determined using the MTT assays after successful CHOP silencing.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3518</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The quantum yield of the electron injection, light absorption efficiency of the dye molecule, and efficiency of collecting the injected electrons at the conducting glass Substrate are some of the factors that determine the intellectual property center of excellence.</plag_sens>
+    <tag_file_ids>gen_doc1005</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The quantum yield of the electron injection, light absorption efficiency of the dye molecule, and efficiency of collecting the injected electrons at the conducting glass substrate are some of the factors that determine the IPCE.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3518</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>For the rhombohedral polymorph of the title compound, see: Hnle et al.</plag_sens>
+    <tag_file_ids>gen_doc3476</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>For the rhombohedral polymorph of the title compound and its benzene analog, see: Hnle et al.</tag_plag_sens>
+  </row>
+</data>

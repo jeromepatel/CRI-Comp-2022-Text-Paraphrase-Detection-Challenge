@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2213</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The risk score was weighted using COPD logOR in studies that did not have winner's curse bias.</plag_sens>
+    <tag_file_ids>gen_doc205</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The risk score was weighted using COPD logOR in studies that did not have winner's curse bias.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2213</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The presence of true allergen-mannan glyconjugates in a stable supramolecular structure has been confirmed by this fact.</plag_sens>
+    <tag_file_ids>gen_doc3642</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>This fact confirmed the existence of allergen-mannan complexes and the presence of true allergen-mannan glyconjugates in a stable supramolecular structure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2213</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The efficacy of the recommended treatment regimen for LTBI has not been evaluated in this setting.</plag_sens>
+    <tag_file_ids>gen_doc283</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The efficacy of the recommended treatment regimen for LTBI has not been evaluated in this setting, as summarized in the consensus statement.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2213</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Women who did not provide valid height and weight data were not included in the analysis.</plag_sens>
+    <tag_file_ids>gen_doc1508</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Women that did not provide valid height and weight data were excluded from the analysis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2213</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There are humps in both hot-pressed and recrystallized ceramics and in unpoled and poled samples.</plag_sens>
+    <tag_file_ids>gen_doc2970</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In our studies, humps can be found in both hot-pressed and recrystallized ceramics as well as in unpoled and poled samples (Figure 21).</tag_plag_sens>
+  </row>
+</data>

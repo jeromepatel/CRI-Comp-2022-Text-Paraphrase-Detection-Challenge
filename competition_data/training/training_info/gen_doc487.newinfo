@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc487</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>It was thought that the activation was due to the increase in the number of oxygen free radicals after Mycoplasma, since it has been shown that this causes an increase in the HIV  LTR region.</plag_sens>
+    <tag_file_ids>gen_doc3362</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>It was thought that the activation was due to the increase in the number of oxygen free radicals after Mycoplasma, since it has been shown that this causes an increase in the HIV LTR region.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc487</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The bands the size of full-length Htt are shown by the arrow.</plag_sens>
+    <tag_file_ids>gen_doc2208</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The bands the size of full-length Htt are shown by an arrow on the left.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc487</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>If the baseline sum is the smallest, then the sum of the target lesions should be increased by 20%.</plag_sens>
+    <tag_file_ids>gen_doc901</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>If the baseline sum is the smallest, then the sum of the target lesions should be increased by 20%.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc487</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Upamostat has been further investigated in phase II clinical trials since it is possible to administer it orally.</plag_sens>
+    <tag_file_ids>gen_doc2129</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Upamostat has been further investigated in phase II clinical trials since it has the advantage that it can be administered orally.</tag_plag_sens>
+  </row>
+</data>

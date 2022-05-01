@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1467</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The window showed enlarged hilar lymph nodes on the right side.</plag_sens>
+    <tag_file_ids>gen_doc3329</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The window showed enlarged hilar lymph nodes on the right side.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1467</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>When gestures were learned without synchrony in AD, more correct gestures were recalled, while more correct gestures were recalled when controls were used.</plag_sens>
+    <tag_file_ids>gen_doc1506</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>When gestures were learned without synchrony in AD, more correct gestures were recalled, while more correct gestures were recalled with the synchrony conditions for controls.</tag_plag_sens>
+  </row>
+</data>

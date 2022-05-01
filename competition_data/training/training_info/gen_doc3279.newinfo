@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3279</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There was no upregulation of pSTAT5 in the other subsets.</plag_sens>
+    <tag_file_ids>gen_doc2004</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There was no upregulation of pSTAT5 in other subsets, but 25% of Treg showed measurable pSTAT5 expression.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3279</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>It was hard to take samples on a regular basis because of the sealed system.</plag_sens>
+    <tag_file_ids>gen_doc3581</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The sealed system of the autoclave made it difficult to take samples on a regular basis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3279</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>One of the pathways is evolutionary conserved down to yeast.</plag_sens>
+    <tag_file_ids>gen_doc3566</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>One of the pathways is evolutionary conserved down to yeast.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3279</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Knowledge of predictors of patient satisfaction, such as expectations or comorbidity, would be valuable for physicians and patients in order to improve surgical outcomes.</plag_sens>
+    <tag_file_ids>gen_doc731</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Knowledge of predictors of patient satisfaction, such as expectations or comorbidity, would be valuable for physicians and patients in order to improve surgical outcomes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3279</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Three of the QTLs had unique SNVs.</plag_sens>
+    <tag_file_ids>gen_doc1985</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Three QTLs had unique SNVs and one had E3/PVG unique SNVs.</tag_plag_sens>
+  </row>
+</data>

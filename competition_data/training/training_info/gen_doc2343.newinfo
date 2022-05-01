@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2343</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Changes in the predictability of rainfall might have been caused by the correlation between leaf trait and biome of occurrence.</plag_sens>
+    <tag_file_ids>gen_doc319</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The correlation between leaf traits and biome of occurrence shows that there might have been changes in the predictability of rainfall.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2343</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Spironolactone treatment has been shown to improve cardiovascular health in patients with heart failure.</plag_sens>
+    <tag_file_ids>gen_doc2281</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In patients with heart failure, spironolactone treatment has been shown to improve endothelial function and increase NO bioavailability.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2343</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The images of photon emission from positive tumor cells are shown in Figure 5d, which supports reduced tumor growth in the presence of MPL-pSi and shows complete loss of tumor cells in most animals treated with DOX-NPs.</plag_sens>
+    <tag_file_ids>gen_doc3805</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Images of photon emission from positive tumor cells are shown in Figure 5d, which supports reduced tumor growth in the presence of MPL-pSi and shows complete loss of detectable tumor cells in most animals treated with DOX-NPs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2343</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There was improvement in temporal control in responding across sessions.</plag_sens>
+    <tag_file_ids>gen_doc1875</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>We observed temporal control improvement in responding across sessions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2343</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Increased resistance to doxorubicin has been shown to be consistent with increased resistance to the cell line.</plag_sens>
+    <tag_file_ids>gen_doc2408</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We have shown that the tumors derived from this cell line are more resistant to the anti-tumor effect of doxorubicin.</tag_plag_sens>
+  </row>
+</data>

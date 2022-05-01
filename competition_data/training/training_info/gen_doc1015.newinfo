@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1015</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>They were asked to think aloud if they were silent for more than 20 seconds.</plag_sens>
+    <tag_file_ids>gen_doc2173</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>If they were silent for more than 20 s, they were asked to think again.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1015</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In decades of studies, the low systemic bioavailability of curcumin has been consistent.</plag_sens>
+    <tag_file_ids>gen_doc3704</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In decades of studies, low systemic bioavailability of curcumin has been consistent.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1015</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The data obtained by Sasaki et al. shows that the lack of cross protection may be due to the loss of affinity of the antibodies.</plag_sens>
+    <tag_file_ids>gen_doc1764</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The data obtained by Sasaki et al. shows that the lack of cross protection may be explained by the loss of affinity of the chicken's immune system to the first virus.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1015</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In the present manuscript, we describe some historical data and new epidemiological data obtained from the population of the most populated city in the country and where the venom of this species of scorpion showed low toxicity.</plag_sens>
+    <tag_file_ids>gen_doc3420</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In the present manuscript, we describe some historical data and new epidemiological data obtained from the population of the most populated city in the country and where the venom of this species of scorpion has up to date showed low toxicity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1015</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>It's hard to say how drift and balancing selection will affect genetic variation at neutral and MHC genes at any given point in the history of a population.</plag_sens>
+    <tag_file_ids>gen_doc3327</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>It's hard to say how drift and balancing selection will affect genetic variation at neutral and MHC loci at any given point in the history of a population.</tag_plag_sens>
+  </row>
+</data>

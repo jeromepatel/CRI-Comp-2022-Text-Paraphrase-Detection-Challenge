@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2401</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>O. nubilalis did not find any of the native parasites in other host species.</plag_sens>
+    <tag_file_ids>gen_doc2071</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>O. nubilalis didn't pick up any of the native parasites in other host species in western and northern France.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2401</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>For several DExH-box helicases experimental evidence indicates a function in DNA, rather than, or in addition to,RNA binding, and these structural motifs are not absolutely predictive for that.</plag_sens>
+    <tag_file_ids>gen_doc70</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>For several DExH-box helicases experimental evidence indicates a function in DNA, rather than, or in addition to, RNA binding, and these structural motifs are not absolutely predictive for that.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2401</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The effect of the TF derivatives on the viral particle's virulence was evaluated with a neuraminidase activity, hemagglutination inhibition, real-time quantitative PCR, and cytopathic effect reduction assays.</plag_sens>
+    <tag_file_ids>gen_doc223</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The effect of the TF derivatives on the viral particle's virulence was evaluated with a neuraminidase activity, hemagglutination inhibition, real-time quantitative PCR, and cytopathic effect reduction assays.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2401</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>We investigated if 2-AR-mediated effects could be potentiated by increasing the amount of specific G protein subunits that are signalling for the 2-AR.</plag_sens>
+    <tag_file_ids>gen_doc1084</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>We investigated whether 2-AR-mediated effects could be potentiated by increasing the amount of specific G protein subunits that are signalling the 2-AR.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2401</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A flat surface was exposed after grinding.</plag_sens>
+    <tag_file_ids>gen_doc2500</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A flat dentin surface was exposed after grinding.</tag_plag_sens>
+  </row>
+</data>

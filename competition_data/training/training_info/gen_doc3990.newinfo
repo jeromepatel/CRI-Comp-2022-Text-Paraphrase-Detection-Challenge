@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3990</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Our results show that an in-degree distribution with high variance for the E  FS connections leads to a network with high similarity to experimental measures</plag_sens>
+    <tag_file_ids>gen_doc2783</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Our results show that an in-degree distribution with high variance for the E  FS connections leads to a network with high similarity to experimental measures.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3990</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The resistance genes in these isolates were established before.</plag_sens>
+    <tag_file_ids>gen_doc1227</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The tetracycline resistance genes in these isolates were established before.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3990</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The figure is S5.</plag_sens>
+    <tag_file_ids>gen_doc2999</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Figure S5.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3990</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We don't have complete information for the regions surrounding the DNA methylation sits.</plag_sens>
+    <tag_file_ids>gen_doc966</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We don't have complete information for the regions surrounding the DNA methylation sits.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3990</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>In both young and adult Lurcher mice, 50 % of the graft survived.</plag_sens>
+    <tag_file_ids>gen_doc3675</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In both young and adult Lurcher mice, 50 % of the cerebellar cell suspension was reported to have survived.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3990</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The 2 year survival duration has been increased by 10 to 26% because of the addition of TMZ.</plag_sens>
+    <tag_file_ids>gen_doc2654</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The 2 year survival duration has increased by 10 to 26% because of the addition of TMZ to radiation therapy.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3990</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Each patient's blood was collected and taken to the vacutinized tube.</plag_sens>
+    <tag_file_ids>gen_doc3780</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Each patient's blood was collected and put into a vacutinized tube.</tag_plag_sens>
+  </row>
+</data>

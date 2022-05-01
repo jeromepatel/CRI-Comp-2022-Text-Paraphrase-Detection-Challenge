@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3318</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Adult humans are more likely to have a glioma.</plag_sens>
+    <tag_file_ids>gen_doc789</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Adult humans have the most frequent intracranial tumors.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3318</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The mirror neural system was more active in guitar players when their hands were visually presented.</plag_sens>
+    <tag_file_ids>gen_doc2923</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The mirror neural system was more active in guitar players than in musically untrained subjects when their hands were visually presented performing guitar chords.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3318</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Lin et al.</plag_sens>
+    <tag_file_ids>gen_doc2540</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>2015; Lin et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3318</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>We demonstrated that NEB can affect many systems in the body when we developed an energy balance model for two groups of cows with mild or severe NEB.</plag_sens>
+    <tag_file_ids>gen_doc620</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We demonstrated that NEB can affect many systems in the body that contribute to successful pregnancies by developing an energy balance model to give two groups of cows with mild or severe NEB status.</tag_plag_sens>
+  </row>
+</data>

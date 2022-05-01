@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc452</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>After 16 days of C. trachomatis infection, we observed the appearance of full-length extra chromosomal HHV6 DNA in fresh PBMCs from a CiHHV6 individual.</plag_sens>
+    <tag_file_ids>gen_doc126</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>We repeated this experiment in fresh PBMCs from one of the CiHHV6 individuals and observed the appearance of full-length extra chromosomal HHV6 DNA after 16 days.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc452</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The noise of the examination will be increased because of the weakness of the method, but the results and conclusions of the study will not be affected.</plag_sens>
+    <tag_file_ids>gen_doc1359</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The weakness of the method will have increased the noise of the examination, but may not have influenced the results or conclusions of the study.</tag_plag_sens>
+  </row>
+</data>

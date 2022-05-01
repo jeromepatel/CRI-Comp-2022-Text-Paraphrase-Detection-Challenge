@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1474</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There were similarities in the appearance and levels of GFAP in astrocytes from both Lcn2KO and WT mice.</plag_sens>
+    <tag_file_ids>gen_doc754</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>There were similarities in the appearance and levels of GFAP in astrocytes from both Lcn2 and WT mice.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1474</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Leem et al.</plag_sens>
+    <tag_file_ids>gen_doc1384</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In 1992; Leem et al.</tag_plag_sens>
+  </row>
+</data>

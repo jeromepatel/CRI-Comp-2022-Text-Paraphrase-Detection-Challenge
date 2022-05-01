@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1360</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>We looked at the relationship between the identified SNPs of the first stage and the levels of nearest genes expressed in the fat of 776 European women.</plag_sens>
+    <tag_file_ids>gen_doc3686</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We looked at the relationship between the identified SNPs of the first stage and the levels of nearest genes expressed in the adipose tissue of 776 European women.</tag_plag_sens>
+  </row>
+</data>

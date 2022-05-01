@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1659</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The association of rafts with Ca2+ and annexin II was confirmed incentrifugation experiments.</plag_sens>
+    <tag_file_ids>gen_doc668</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The association of rafts is dependent on Ca2+ and annexin II.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1659</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Quality control metrics were applied prior to the analysis.</plag_sens>
+    <tag_file_ids>gen_doc483</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Quality control metrics were applied before meta-analysis for each cohort.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1659</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Section 1 explains that small changes in coefficients may be associated with cancer.</plag_sens>
+    <tag_file_ids>gen_doc1630</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Section 1 explains that small changes in these coefficients may be associated with cancer progression.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1659</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Ab initio calculations of the Dy-I molecule with two Dy centres and an unpaired spin are not feasible.</plag_sens>
+    <tag_file_ids>gen_doc918</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Ab initio calculations of the Dy-I molecule with two Dy centres and an unpaired spin are not feasible.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1659</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The local fishermen can better understand the importance of the closed seasons and catch limits established by the European Government in order to improve their commitment to the preservation of the resource.</plag_sens>
+    <tag_file_ids>gen_doc1038</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The local fishermen can better understand the importance of the catch limits and closed seasons established by the European Government and thus improve their commitment to conserve this resource.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1659</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The main therapeutic potential is to enhance the effects of DNA damaging therapies on cancer cells.</plag_sens>
+    <tag_file_ids>gen_doc1628</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The main therapeutic potential is to enhance the effects of DNA damaging therapies on cancer cells, since these compounds are non-toxic.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1659</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The derivatization was described by Lisec et al.</plag_sens>
+    <tag_file_ids>gen_doc3875</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Lisec et al. described the derivatization of the metabolites.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1659</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The live fetuses of each group were looked at.</plag_sens>
+    <tag_file_ids>gen_doc1661</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The live fetuses of each group were examined after the Cesarean sections.</tag_plag_sens>
+  </row>
+</data>

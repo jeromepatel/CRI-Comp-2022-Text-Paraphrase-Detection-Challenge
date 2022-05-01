@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3302</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The link between heritability and segregation has been examined using several characteristics of the telosome.</plag_sens>
+    <tag_file_ids>gen_doc70</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We have used several characteristics of the telosome to look at the linkage between heritability and segregation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3302</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>A mouse model of type-1 diabetes was studied and it was shown that agonism made the injury to the kidneys worse.</plag_sens>
+    <tag_file_ids>gen_doc3988</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In a mouse model of type-1 diabetes, a study showed that agonism worsened the injury of the kidneys.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3302</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In the patients' proteome map, the intensities of AAG and ZAG were 10 times and 10 times higher, respectively.</plag_sens>
+    <tag_file_ids>gen_doc134</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The intensities of AAG and ZAG were more than 10-fold higher in the patients' proteome map than in the 2-DE profiles of the patients' urine samples.</tag_plag_sens>
+  </row>
+</data>

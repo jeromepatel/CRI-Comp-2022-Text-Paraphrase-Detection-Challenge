@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1952</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A scoring function is used to evaluate the fitness between the docked compound and target.</plag_sens>
+    <tag_file_ids>gen_doc3284</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A scoring function is used to evaluate the fitness of the docked compound and the target.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1952</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The field lowers the potential energy barrier between the source and the channel.</plag_sens>
+    <tag_file_ids>gen_doc3520</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The field lowers the potential energy barrier between the source and the channel, increasing the number of carriers traversing the channel.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1952</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>ABCC4 can limit the penetration and accumulate of drugs and toxicants in the blood-brain barrier, blood-cerebrospinal fluid barrier, and stomach.</plag_sens>
+    <tag_file_ids>gen_doc1437</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In the blood-brain barrier, blood-cerebrospinal fluid barrier and stomach, ABCC4 can limit the penetration and accumulation of drugs and toxicants and thus has exhibited functions in tissue defense.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1952</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>All cats received treatment for 60 consecutive days with placebo and later 5 grams of PO q12h in capsule.</plag_sens>
+    <tag_file_ids>gen_doc1386</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>All cats received treatment for 60 consecutive days with placebo and later 5 grams of PO q12h in a capsule.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1952</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There are a few cases of hamartomas in the literature, but they are rarely reported.</plag_sens>
+    <tag_file_ids>gen_doc3075</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Only a few cases of hamartomas of the pancreas have been described in the literature.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1952</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>D3 positivity was not associated with the patient's CYP3A4*1B status, which can be explained by the fact that the main artemether CYP3A4 metabolite is also highly active against P. falciparum parasites.</plag_sens>
+    <tag_file_ids>gen_doc3216</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>D3 positivity was not associated with the patient's CYP3A4*1B status, which can be explained by the fact that the main artemether CYP3A4 metabolite is also highly active against P. falciparum parasites.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2451</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>It has been proposed that the increase in cell survival is due to the increase in the number of Mitochondrial fusion Events.</plag_sens>
+    <tag_file_ids>gen_doc1616</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>It has been proposed that the increase in cell survival is due to the increase in the number of Mitochondrial fusion events.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2451</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Alzheimer's disease was also observed with higher levels of LINE-1.</plag_sens>
+    <tag_file_ids>gen_doc2865</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Alzheimer's disease was also observed with higher levels of LINE-1.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2451</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The total mass of taurine was up to 60.7% of the total mass of FAAs.</plag_sens>
+    <tag_file_ids>gen_doc3999</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The total mass of taurine, which accounted for up to 60.7% of the total mass of FAAs, was the greatest proportion of FAAs in the HC extracts.</tag_plag_sens>
+  </row>
+</data>

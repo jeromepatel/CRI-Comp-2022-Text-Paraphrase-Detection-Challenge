@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3596</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>UspA1 interacts with laminin and fibronectin in the extracellular matrix.</plag_sens>
+    <tag_file_ids>gen_doc2645</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>It is known that UspA1 interacts with laminin, a component of the basement, and with fibronectin, which is found in the extracellular matrix.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3596</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The promoter regions were amplified using a pair of primers.</plag_sens>
+    <tag_file_ids>gen_doc2757</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The promoter regions were amplified using a pair of primers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3596</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>After analyzing the expression of TIE2 by confocal microscopy, we found that it was located in the nucleus rather than in the cytoplasmic figure.</plag_sens>
+    <tag_file_ids>gen_doc1576</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>After analyzing the expression of TIE2 by confocal microscopy, we found that it was located in the nucleus rather than in the cytoplasmic figureE.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3596</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The drugs were prepared by personnel who weren't involved in the resuscitated person.</plag_sens>
+    <tag_file_ids>gen_doc3976</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The drugs were prepared by personnel who weren't involved in the resuscitation.</tag_plag_sens>
+  </row>
+</data>

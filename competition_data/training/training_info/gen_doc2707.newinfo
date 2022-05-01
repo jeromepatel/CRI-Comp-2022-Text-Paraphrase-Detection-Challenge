@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2707</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The exact FoxE1-mediated repression mechanism of Duox2 expression remains to be untangled.</plag_sens>
+    <tag_file_ids>gen_doc3753</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The exact FoxE1-mediated repression mechanism of Duox2 expression remains to be understood.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2707</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>There is an opportunity for guiding deployment of the pilot IRS in at least three state capitals in South Sudan.</plag_sens>
+    <tag_file_ids>gen_doc3086</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There is an opportunity for guiding the deployment of the pilot IRS in at least three state capitals in South Sudan because of the establishment of monitoring of sentinel sites for tracking vector bionomics.</tag_plag_sens>
+  </row>
+</data>

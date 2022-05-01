@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2247</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Pat1 and Pat2 of extracellular R. typhi can only be activated by host factors before they can engage eukaryotic host factors.</plag_sens>
+    <tag_file_ids>gen_doc2505</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Pat1 and Pat2 of extracellular R. typhi can only be activated by host factors before they can engage eukaryotic host factors for their biological activity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2247</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The results of the study showed that the peptide used in the study dramatically reduced the viability of cells in the biofilm.</plag_sens>
+    <tag_file_ids>gen_doc463</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The results showed that the peptide used in the study (Bac8c) remarkably reduced the viability of cells in the biofilm.</tag_plag_sens>
+  </row>
+</data>

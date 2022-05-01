@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc834</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>A percentage of non-processed pseudogenes is consistent with the overall proportion of non-processed pseudogenes found in the original dataset.</plag_sens>
+    <tag_file_ids>gen_doc794</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>85% of the genes confirmed as pseudogenes are non-processed, which is consistent with the overall proportion of non-processed pseudogenes in the original dataset.</tag_plag_sens>
+  </row>
+</data>

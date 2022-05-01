@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc577</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The effect of natural selection will likely eliminate some of the interest in certain aspects of biology, but it may be more clinically relevant due to their high fitness.</plag_sens>
+    <tag_file_ids>gen_doc1288</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The effect of natural selection will likely eliminate some of the interest in certain genes, but they may be more clinically relevant due to their relatively high fitness.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc577</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In 180 healthy young men or women, the upper 95% confidence interval limits of CPTs were identified at temperatures of 27.21 or 29.62C, which is indicative of the observation.</plag_sens>
+    <tag_file_ids>gen_doc2262</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In 180 healthy young men or women, the upper 95% confidence interval limits of CPTs were identified at temperatures of 27.21 or 29.62C, which implies the observation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc577</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>It is assumed that retrograde communication between the nucleus and the chloroplasts is what regulates the expression of the proteins.</plag_sens>
+    <tag_file_ids>gen_doc189</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>It is assumed that retrograde communication between the nucleus and the chloroplasts regulates the expression of the proteins that are destined for the chloroplasts.</tag_plag_sens>
+  </row>
+</data>

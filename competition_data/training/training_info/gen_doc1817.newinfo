@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1817</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A conceptual map detailing what is known about conceptualisations of success and failure in the absence of cure and the influence this has on concurrent education and health service delivery now as well as the identified 'black holes' of unknowns</plag_sens>
+    <tag_file_ids>gen_doc2125</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>First, a conceptual map detailing what is known about conceptualisations of success and failure in the absence of cure and the influence this has on concurrent education and health service delivery now, as well as the identified 'black holes' of unknowns.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1817</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In transfected COS-7 fibroblast-like cells and 293T epithelial cells, the nucleus figure A and 2 were the primary places where the TSAd was found.</plag_sens>
+    <tag_file_ids>gen_doc1992</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In transfected COS-7 fibroblast-like cells and 293T epithelial cells, TSAd was found mostly in the nucleus figure A and 2, where nuclear and cytoplasmic compartments can be more easily discerned.</tag_plag_sens>
+  </row>
+</data>

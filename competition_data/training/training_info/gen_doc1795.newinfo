@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1795</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In the first episode of demyelination, patient 7 who was finally diagnosed as seropositive NMO, had a few things.</plag_sens>
+    <tag_file_ids>gen_doc2578</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In the first episode of demyelination, patient 7 who was finally diagnosed as seropositive NMO had PVPOLs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1795</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The blood was collected from the siblings and their parents.</plag_sens>
+    <tag_file_ids>gen_doc3086</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The blood was collected from the siblings and their parents.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1795</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There is a chance that circRNAs act as microRNA sponges.</plag_sens>
+    <tag_file_ids>gen_doc2037</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>There is a possibility that circRNAs act as microRNA sponges.</tag_plag_sens>
+  </row>
+</data>

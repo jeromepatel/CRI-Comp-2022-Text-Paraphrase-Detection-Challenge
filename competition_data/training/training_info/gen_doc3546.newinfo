@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3546</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The barcode fragment and the primers LCO1490 and HCO2198 were the two fragments that were sequenced.</plag_sens>
+    <tag_file_ids>gen_doc422</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The barcode fragment and the primers LCO1490 and HCO2198 were the two fragments that were sequenced.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3546</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>dominance might be amplified by the allele with the higher binding affinity driving the binding within the multimer to its recognition motifs, and supressing at the same time the activity of the weaker allele trapped in thepolymer.</plag_sens>
+    <tag_file_ids>gen_doc2737</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>dominance might be amplified by the allele with the higher binding affinity driving the binding within the multimer to its recognition motif, and supressing at the same time the activity of the weaker allele trapped in the polymer</tag_plag_sens>
+  </row>
+</data>

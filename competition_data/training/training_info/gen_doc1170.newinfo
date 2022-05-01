@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1170</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The results of our experiment show that there are only weak differences in internode dimensions and resistance to fragmentation between the different strains of T. fragiferum.</plag_sens>
+    <tag_file_ids>gen_doc173</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The results of our experiment showed that there were only weak differences in internode dimensions and general resistance to fragmentation between the different strains of T. fragiferum, with the exception of the slower regrowth of coastal populations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1170</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The pooled data is compared with the similarly calculated R2 for the models with payer-specific effects.</plag_sens>
+    <tag_file_ids>gen_doc2808</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Table 9 compares the Efron R2 for the pooled data with the similarly calculated R2 for the models with payer-specific effects.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1170</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>We considered a more stringent definition of HGT, which required genes to be absent from three consecutive out groups.</plag_sens>
+    <tag_file_ids>gen_doc346</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We considered a more stringent definition of HGT, which required genes to be absent from three consecutive out groups.</tag_plag_sens>
+  </row>
+</data>

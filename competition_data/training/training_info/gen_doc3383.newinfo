@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3383</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>It shows that input from V1 and feedback to it are not required for activity in V5 to lead to a conscious experience of fast visual motion.</plag_sens>
+    <tag_file_ids>gen_doc384</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>It shows that input from V1 and feedback to it are not essential for activity in V5 to lead to a conscious experience of fast visual motion.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3383</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The weight loss rate for the period up to 1 week of incubation was 3% and 8%.</plag_sens>
+    <tag_file_ids>gen_doc24</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>For the period up to 1 week of incubation, the weight loss rate for E-PLGA was 3% and 8%, respectively.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3383</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Increased concern was caused by the presence of the mercury in the preservative.</plag_sens>
+    <tag_file_ids>gen_doc3411</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Increased concern was caused by the preservative containing mercury at higher dosages.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3383</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The AAs of reference standards are used to determine the major contributors to the EAE.</plag_sens>
+    <tag_file_ids>gen_doc3921</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The AAs of reference standards are used to determine the major contributors to the EAE.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3383</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There are 17 isolates of Klebsiella pneumoniae that have been classified as KPC-, VIM-1 or NDM-1-positive.</plag_sens>
+    <tag_file_ids>gen_doc2071</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There are 17 clinical isolates of Klebsiella pneumoniae that have been classified as KPC, VIM-1 or NDM-1 positive.</tag_plag_sens>
+  </row>
+</data>

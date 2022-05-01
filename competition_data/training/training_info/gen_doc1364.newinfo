@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1364</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>It is in agreement with our previous findings that SWCNTs are water-soluble and have similar effects on the properties of astrocytes and neurons in culture.</plag_sens>
+    <tag_file_ids>gen_doc332</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Our previous findings show that SWCNTs have the same effects on the properties of neurons and astrocytes when they are linked to two different functional groups.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1364</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The data was normalized to actin and the method used for quantification was the absolute method.</plag_sens>
+    <tag_file_ids>gen_doc605</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The data was normalized to actin and the method used for quantification was the absolute method, which used standard curves from pooled cDNA representative of each sample to be analyzed.</tag_plag_sens>
+  </row>
+</data>

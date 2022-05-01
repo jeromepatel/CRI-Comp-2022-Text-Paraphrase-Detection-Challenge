@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1406</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There was no difference in histologic patterns between the two types of cancer.</plag_sens>
+    <tag_file_ids>gen_doc2877</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>There was no difference in histologic patterns between mucosal and submucosal cancers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1406</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are two consequences related to the structure.</plag_sens>
+    <tag_file_ids>gen_doc2246</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>This could have consequences related to the structure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1406</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The inclusion of co-expressed genes in FFL analysis would have more power to detect disease-specific regulatory modules since they may have similar regulation patterns.</plag_sens>
+    <tag_file_ids>gen_doc2827</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The inclusion of co-expressed genes in FFL analysis would have more power to detect disease-specific regulatory modules because they may have similar regulation patterns.</tag_plag_sens>
+  </row>
+</data>

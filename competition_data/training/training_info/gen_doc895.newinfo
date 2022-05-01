@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc895</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There have been reports of decreased spine density in cortical and Hippocampal neurons.</plag_sens>
+    <tag_file_ids>gen_doc3387</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There have been reports of decreased spine density in cortical and hippocampal neurons with Tsc loss.</tag_plag_sens>
+  </row>
+</data>

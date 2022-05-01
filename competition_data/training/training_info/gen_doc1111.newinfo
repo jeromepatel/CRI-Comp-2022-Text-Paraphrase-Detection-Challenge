@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1111</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It's possible that Ca2+ is required for the mechanism by which stress-inducing drugs can be recruited.</plag_sens>
+    <tag_file_ids>gen_doc952</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>It's possible that Ca2+ is required for the stress-inducing mechanism in which glucocorticoids recruit CP-AMPARs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1111</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>If we estimate every voxel model in 3D space, it would be a heavy burden.</plag_sens>
+    <tag_file_ids>gen_doc1861</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>If we estimate every voxel model in 3D space, it is a very heavy burden.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1111</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Variable results can be found depending on the methods used.</plag_sens>
+    <tag_file_ids>gen_doc1931</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Variable results are found depending on the methods used to define turning strategies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1111</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The level of the shoulder blades was reached by tunneling the free end of the catheter.</plag_sens>
+    <tag_file_ids>gen_doc2800</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The level of the shoulder blades was tunneled under the back skin of the free end of the catheter.</tag_plag_sens>
+  </row>
+</data>

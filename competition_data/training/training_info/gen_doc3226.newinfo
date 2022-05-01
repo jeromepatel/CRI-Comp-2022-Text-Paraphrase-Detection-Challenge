@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3226</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The expression profile associated with endocapillary proliferation includes transcripts that are involved in the innate immune response, such as toll-like receptors.</plag_sens>
+    <tag_file_ids>gen_doc1982</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The expression profile associated with endocapillary proliferation includes transcripts that are involved in the innate immune response, such as several toll-like receptors.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3226</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Studies on TREM2 have focused on the inflammation pathway and how it contributes to the aging of the central nervous system.</plag_sens>
+    <tag_file_ids>gen_doc3928</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Studies on TREM2 have focused attention on the inflammation pathway, implicating microglial activation in general and phagocytosis in particular as critical for healthy CNS aging.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3226</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The main peak was shifted at 60 s, as a peak corresponding to PS was clearly seen.</plag_sens>
+    <tag_file_ids>gen_doc2625</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The main peak was shifted at 60 s, as a peak corresponding to PS′ homopolymer was clearly seen.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3226</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The penile horn is being treated.</plag_sens>
+    <tag_file_ids>gen_doc875</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There are two stages to the treatment of the penile horn.</tag_plag_sens>
+  </row>
+</data>

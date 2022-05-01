@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3039</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The goal of the Pre-Boarding internship boot camp was to contribute to the effective training of a new cohort of safe, competent, and committed medical doctors.</plag_sens>
+    <tag_file_ids>gen_doc1324</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The goal of the Pre-Boarding internship boot camp was to contribute to the effective training of a new cohort of safe, competent, and committed medical doctors in Botswana.</tag_plag_sens>
+  </row>
+</data>

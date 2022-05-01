@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc423</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The scale formation is different at 11 C (run 4) and 37 C (run 3) than it is at 11 C.</plag_sens>
+    <tag_file_ids>gen_doc3475</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The scale formation is different at 11 C (run 4) and 37 C (run 3) as shown in Figure 8a,b.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc423</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There is insufficient data to suggest a direct relation between clozapine levels and seizures, though there are three case reports that suggest a very substantial risk of seizures with clozapine levels over 1,300 g/L.</plag_sens>
+    <tag_file_ids>gen_doc674</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There is insufficient data to suggest a direct relation between clozapine levels and seizures, though there are three case reports that suggest a very substantial risk of seizures with clozapine levels over 1,300 g/L.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc423</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The occurrence of full-blown diabetes in C3/ mice was caused by neutralization of TGF-.</plag_sens>
+    <tag_file_ids>gen_doc3760</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In C3/ mice, neutralization of TGF- led to the occurrence of full-blown diabetes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc423</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The most potent of the 3 siRNAs was TLR4-siRNA2, which was shown to be effective in inhibition of GFP.</plag_sens>
+    <tag_file_ids>gen_doc3158</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The most potent of the 3 siRNAs was TLR4-siRNA2 and it demonstrated effective inhibition of GFP.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3267</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The less steep fitting function is related to an impaired psychoacoustic temporal resolution.</plag_sens>
+    <tag_file_ids>gen_doc390</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The less steep fitting function could be a neural correlate of an impaired psychoacoustic temporal resolution.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3267</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Our results show that the protective role of TEVAR in improving the long-term survival of type B AAD is confirmed.</plag_sens>
+    <tag_file_ids>gen_doc1082</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Our results show that the protective role of TEVAR in improving the long-term survival in type B AAD is confirmed by our results.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3267</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>ORC4-Y174 is found in three MGS patients and is also found in yeast and mammals.</plag_sens>
+    <tag_file_ids>gen_doc3283</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>ORC4-Y174 is found in three MGS patients and is also found in all ORC4 genes.</tag_plag_sens>
+  </row>
+</data>

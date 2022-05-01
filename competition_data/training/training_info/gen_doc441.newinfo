@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc441</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The list of 47 avian-human signatures in Table 1 was updated with the adoption of this threshold.</plag_sens>
+    <tag_file_ids>gen_doc3387</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>This threshold was used to update the list of 47 avian-human signatures in Table 1.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc441</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Permutation testing for similarity matrix produced statistically significant results, see Supplementary materials.</plag_sens>
+    <tag_file_ids>gen_doc792</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Permutation testing for similarity matrix produced statistically significant results, see Supplementary materials.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc441</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are black and red diamonds in the plots that show the data taken at the park at 27 km away from the town.</plag_sens>
+    <tag_file_ids>gen_doc2323</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There are black and red diamonds in the plots that show the data taken at the park at 27 km away from Balaguer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc441</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There were 19 crows trapped in our dry-forest study area in Gouaro-Déva, New Caledonia, between December 12 and January 18.</plag_sens>
+    <tag_file_ids>gen_doc1368</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There were 19 crows trapped in our dry-forest study area in Gouaro-Déva, New Caledonia, between December 12 and January 18.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc441</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>This result supports the findings that the behavior of Pancreatic mucinous cystic tumors is related to the behavior of MUC1.</plag_sens>
+    <tag_file_ids>gen_doc2069</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>This result supports the findings that the behavior of Pancreatic mucinous cystic tumors is related to the behavior of MUC1.</tag_plag_sens>
+  </row>
+</data>

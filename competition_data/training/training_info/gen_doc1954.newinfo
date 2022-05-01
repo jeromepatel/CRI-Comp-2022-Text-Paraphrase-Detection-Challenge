@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1954</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Motivation to pursue self-control resources can be determined by the level of resources.</plag_sens>
+    <tag_file_ids>gen_doc2109</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The motivation to pursue self-control resources should be determined by the overall level of resources.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1954</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The tumors that are associated with a change in metabolism of hormones are not related to a specific mechanism of action.</plag_sens>
+    <tag_file_ids>gen_doc0</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We took into account the specificity of the tumors, which are likely to be associated with a change in metabolism of hormones, for the remaining individual compounds.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1954</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A previous study suggested an optimal concentration of 15 g/ml for ConA and only 5 g/ml for PWM.</plag_sens>
+    <tag_file_ids>gen_doc2751</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The previous veterinary clinical immunology study suggested an optimal concentration of 15 g/ml for ConA and only 5 g/ml for PWM.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1954</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The Vaginal swab material was collected at the indicated days after the challenge.</plag_sens>
+    <tag_file_ids>gen_doc2751</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The Vaginal swab material was collected at the indicated days after the challenge and chlamydial enumeration.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1954</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The influence of the Moslems in the South of Thailand is not apparent in our research.</plag_sens>
+    <tag_file_ids>gen_doc3830</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The influence of the small proportion of Moslems in the South of Thailand isn't apparent in our research.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1954</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The locations of 304 weather stations in western Washington and Oregon were used to calculate the average budburst date under the current climate and predicted climate in 2080.</plag_sens>
+    <tag_file_ids>gen_doc1901</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The average date of budburst under the current climate and predicted climate in 2080 was calculated at 304 weather stations in western Washington and Oregon.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1954</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Cells transfected with Egr1 siRNAs were used in the study.</plag_sens>
+    <tag_file_ids>gen_doc2980</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Cells transfected with Egr1 siRNAs were used to assess the role of Egr1 in Ang1induced DUSP expression.</tag_plag_sens>
+  </row>
+</data>

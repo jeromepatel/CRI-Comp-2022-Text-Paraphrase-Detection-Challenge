@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc892</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The lung disease caused by the pseudomonas aeruginosa is implicated in experimental reports.</plag_sens>
+    <tag_file_ids>gen_doc2452</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The lung disease caused by the pseudomonas aeruginosa has been implicated in experimental reports.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc892</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The terminologies and folding/unfolding are used in the context of non-covalent polymer chains to show the similarity between them.</plag_sens>
+    <tag_file_ids>gen_doc589</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We are using the terminologies and folding/unfolding in the context of non-covalent polymer chains to demonstrate the similarity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc892</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Baluka et al. wrote about plasmodesmata.</plag_sens>
+    <tag_file_ids>gen_doc874</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Baluka et al. wrote about plasmodesmata.</tag_plag_sens>
+  </row>
+</data>

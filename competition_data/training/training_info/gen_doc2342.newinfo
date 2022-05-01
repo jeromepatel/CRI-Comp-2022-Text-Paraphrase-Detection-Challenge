@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2342</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A modified procedure was used to extract the DNA from each dried blood spot sample.</plag_sens>
+    <tag_file_ids>gen_doc2975</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The DNA was taken from each dried blood spot sample using a commercially procured kit.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2342</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>33.3% of the people at the entry level were suffering from Tuberculosis, 32% were affected with Candidiasis and 8.7% were affected with pneumocystis carnie pneumonia.</plag_sens>
+    <tag_file_ids>gen_doc3280</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>At the entry level, 33.3% were suffering from Tuberculosis, 32% were affected with Candidiasis and 8.7% had pneumocystis carnie pneumonia.</tag_plag_sens>
+  </row>
+</data>

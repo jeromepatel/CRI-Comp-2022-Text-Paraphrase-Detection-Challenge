@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1955</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The uncertainty in C 1,  1,  2 and  3 can be caused by variations of C 2 and C 3 away from the value of C.</plag_sens>
+    <tag_file_ids>gen_doc1281</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Uncertainties in C 1,  1,  2 and  3 can also occur due to variations of C 2 and C 3 away from the value of 140 mM, which was assumed constant in CSF and extracellular space in our model.</tag_plag_sens>
+  </row>
+</data>

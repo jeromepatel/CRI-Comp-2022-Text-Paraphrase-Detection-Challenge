@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3914</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The source for detecting outcomes in the Arnheim-Dahlstrom et al may be a factor.</plag_sens>
+    <tag_file_ids>gen_doc3091</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The source for detecting outcomes in the Arnheim-Dahlstrom et al. may be the reason for this.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3914</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The promoter regions were amplified using a pair of primers.</plag_sens>
+    <tag_file_ids>gen_doc2757</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The promoter regions were amplified using a pair of primers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3914</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Parasitoid communities have been compared between habitats differing in their levels of urbanization, landscape structuring and soil fertility.</plag_sens>
+    <tag_file_ids>gen_doc274</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Parasitoid communities have been compared between habitats with different levels of urbanization, landscape structuring, and soil fertility.</tag_plag_sens>
+  </row>
+</data>

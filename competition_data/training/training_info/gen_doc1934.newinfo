@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1934</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There was a decrease in primary myotubes relative to myoblasts figurec.</plag_sens>
+    <tag_file_ids>gen_doc2075</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There was a decrease in primary myotubes relative to myoblasts figurec in the examination of the mRNA levels.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1934</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Chemically defended organisms may have an adjustment of toxin dosage to be vulnerable to predator.</plag_sens>
+    <tag_file_ids>gen_doc94</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>It is possible that such an adjustment of toxin dosage to vulnerability to predators is common in chemically defended organisms.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1934</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The model with four basic ROIs is shown in Figure.</plag_sens>
+    <tag_file_ids>gen_doc2000</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The model with four basic ROIs is shown in Figure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1934</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The severity of BEB on a scale from 0 to 4 was determined with the help of the SRS.</plag_sens>
+    <tag_file_ids>gen_doc2141</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The severity of BEB on a scale from 0 to 4 was determined with the use of the SRS.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1934</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The formula P  ln(P) was used to calculate the entropy value for the aligned sequence of the H1N1 2009.</plag_sens>
+    <tag_file_ids>gen_doc2243</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The formula P  ln(P) was used to calculate the entropy value for the aligned sequence of the H1N1 2009, i.e., avian, human, swine, or pandemic.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1934</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The measurement of long-term PPI kinetics is not possible using such substrates.</plag_sens>
+    <tag_file_ids>gen_doc2632</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The measurement of long-term PPI kinetics is not possible using such substrates.</tag_plag_sens>
+  </row>
+</data>

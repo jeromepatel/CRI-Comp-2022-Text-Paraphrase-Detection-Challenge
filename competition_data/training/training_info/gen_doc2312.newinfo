@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2312</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The 40 l Fractions were analyzed by the SDS-PAGE.</plag_sens>
+    <tag_file_ids>gen_doc2262</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The 40 l Fractions were analyzed by SDS-PAGE.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2312</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The adaptation of these approaches to different delivery methods can change the face of treatment for AUDs.</plag_sens>
+    <tag_file_ids>gen_doc1688</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The adaptation of these approaches to different delivery methods has promise to change the face of treatment for AUDs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2312</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The cells were disrupted by ice.</plag_sens>
+    <tag_file_ids>gen_doc398</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The cells were disrupted by sonication on ice.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2312</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There are certain solutes that have a relatively high size.</plag_sens>
+    <tag_file_ids>gen_doc1569</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There are certain solutes that have a relatively high molecular size.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2312</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Some studies have shown that reprocessed tissues can be seen with electron microscopes.</plag_sens>
+    <tag_file_ids>gen_doc3896</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Some studies have shown that reprocessed tissues can be seen with electron microscopes, but not the other organelles.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2312</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Stakeholders tend to prefer just-in-time inventory management, which increases susceptibility to shortages when a change in demand or supply should unexpectedly occur.</plag_sens>
+    <tag_file_ids>gen_doc1251</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Stakeholders tend to opt for just-in-time inventory management, which increases susceptibility to shortages when a change in demand or supply should unexpectedly occur, in order to reduce the cost of inventories and improve cash flows.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2312</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The second exception is the specific alleles of the H cms8a20 and the CAVR.</plag_sens>
+    <tag_file_ids>gen_doc3875</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The second exception is the specific alleles of the H cms8a20 and the CAVR.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc2312</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There are concerns about the de novo aneurysm following the ICA.</plag_sens>
+    <tag_file_ids>gen_doc2469</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There are concerns about the de novo aneurysm following the ICA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc2312</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Two MAGs have been modeled.</plag_sens>
+    <tag_file_ids>gen_doc536</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Two MAGs have been modeled.</tag_plag_sens>
+  </row>
+</data>

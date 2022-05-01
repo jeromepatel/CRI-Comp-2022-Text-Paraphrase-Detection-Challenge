@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3867</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The server is said to be protected by the Unprotected Ethernet Interface System when it is connected to the client.</plag_sens>
+    <tag_file_ids>gen_doc1801</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The server is said to be protected when this Unprotected Ethernet Interface System is connected between the client and the server as shown in Figure 4(b).</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3867</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>An extensive L. major genes catalogue would be obtained by further investigating these tags.</plag_sens>
+    <tag_file_ids>gen_doc1068</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>These tags would be further investigated to obtain an extensive L. major genes catalogue.</tag_plag_sens>
+  </row>
+</data>

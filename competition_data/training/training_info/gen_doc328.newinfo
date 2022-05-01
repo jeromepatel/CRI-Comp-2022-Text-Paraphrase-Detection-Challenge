@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc328</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The model was determined to be y and R2 to be 0.991.</plag_sens>
+    <tag_file_ids>gen_doc2521</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The regression model was determined to be -0.4858x + 4.467 with R2 being 0.991.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc328</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Noma's method was used to measure free Fatty Acid.</plag_sens>
+    <tag_file_ids>gen_doc2778</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Noma's method was used to measure the free fatty acid.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc328</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The 30-day mortality data was retrieved from the database of the ministry of health.</plag_sens>
+    <tag_file_ids>gen_doc40</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The 30-day mortality data was retrieved from the database of our hospital.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc328</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>We assumed conditionally conjugate priors where * stands for the coefficients.</plag_sens>
+    <tag_file_ids>gen_doc691</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>We assume conditionally conjugate priors where * stands for coefficients in (3).</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc328</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Participants could be coerced into participating in research.</plag_sens>
+    <tag_file_ids>gen_doc23</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Uninformed participants could easily be coerced into participating in research.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3804</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There is Xylosyltransferase activity.</plag_sens>
+    <tag_file_ids>gen_doc1284</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The Xylosyltransferase activity is related to GAGT.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3804</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The position was described by the authors.</plag_sens>
+    <tag_file_ids>gen_doc3130</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The position was described by the authors.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3804</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>As a percentage of the local population, the number of operations for PC differed between hospitals.</plag_sens>
+    <tag_file_ids>gen_doc112</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>As a proportion of the local population, the number of operations for PC varied between referring hospitals.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3804</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>As citizens engage in the generation of new knowledge, the separation of scientist and layperson is obscured.</plag_sens>
+    <tag_file_ids>gen_doc501</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The separation of scientist and layperson, expert and novice is obscured as citizens engage in the generation of new knowledge according to Neogeography.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3804</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The stem cell population which is thought to be the progenitors of hepatoblasts express epithelial cell adhesion molecule (EpCAM), neural cell adhesion molecule (NCAM), as well as  albumin, and are also negative for AFP, are negative for this.</plag_sens>
+    <tag_file_ids>gen_doc3265</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The hepatic stem cell population which is thought to be the progenitors of hepatoblasts express epithelial cell adhesion molecule (EpCAM), neural cell adhesion molecule (NCAM), as well as  albumin, and are also negative for AFP.</tag_plag_sens>
+  </row>
+</data>

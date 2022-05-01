@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc368</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Oral et al.</plag_sens>
+    <tag_file_ids>gen_doc380</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Oral et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc368</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The Viscosity of -glucan from waxy barley was higher than that from non-waxy barley.</plag_sens>
+    <tag_file_ids>gen_doc3369</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The Viscosity of -glucan from waxy barley was higher than that of non-waxy barley and Saechal was higher than that of Hinchal.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc368</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The three true fir species burst bud at low levels of chilling, indicating they all had obligate chilling requirements.</plag_sens>
+    <tag_file_ids>gen_doc2546</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>None of the three true fir species burst bud at low levels of chilling, thus indicating that they all had obligate chilling requirements.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc368</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We compared the neutral trial to see if the difference in positioning of the human and robot face stimuli on the computer screen affected the P1 component.</plag_sens>
+    <tag_file_ids>gen_doc1440</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We compared the neutral trial to see if the difference in positioning of the human and robot face stimuli on the computer screen has an influence on the P1 component.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc368</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The number and length of exons in SaSTT3A and SaSTT3B were similar to their counterparts in rice.</plag_sens>
+    <tag_file_ids>gen_doc1465</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>We found that the number and length of exons in SaSTT3A and SaSTT3B were very similar to those in rice and Arabidopsis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc368</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Rats with extracellular dopamine levels in their nucleus acumbens are less likely to be treated with ethanol.</plag_sens>
+    <tag_file_ids>gen_doc1351</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Extracellular dopamine levels in the nucleus acumbens are lower in rats that have been exposed to alcohol.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc368</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The effects of NSAIDs delivered systemically or locally have been assessed in several clinical trials.</plag_sens>
+    <tag_file_ids>gen_doc108</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The effects of NSAIDs delivered systemically or locally have been assessed in several clinical trials.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc368</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The High Pure PCR template preparation kit was used to prepare the blood.</plag_sens>
+    <tag_file_ids>gen_doc1143</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The High Pure PCR template preparation kit was used to extract the blood's DNA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc368</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The highest exclusion was clearly shown by the aromatic allele group.</plag_sens>
+    <tag_file_ids>gen_doc280</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The highest exclusion was clearly shown by the Aromatic allele group.</tag_plag_sens>
+  </row>
+</data>

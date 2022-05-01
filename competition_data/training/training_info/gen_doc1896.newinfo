@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1896</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The first step in this process is inner-membrane docking and the transfer of pIII via the Sec pathway.</plag_sens>
+    <tag_file_ids>gen_doc3755</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The first step in this process is inner-membrane docking and translocation of pIII via the Sec pathway.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1896</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Cowering did not differ between baseline and bicuculline- infused sessions.</plag_sens>
+    <tag_file_ids>gen_doc1829</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The occurrence of cowering did not differ between baseline and bicuculline- infused sessions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1896</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A recent study showed that LtR signaling is involved in the development of mature mTECs.</plag_sens>
+    <tag_file_ids>gen_doc3028</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A recent study showed that LtR signaling is involved in the development of mature mTECs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1896</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Jung et al.5) compared the number of colony-forming units between MMD patients and healthy controls, and they found that the number of colonies decreased.</plag_sens>
+    <tag_file_ids>gen_doc204</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Jung et al.5) compared the numbers of colony-forming units between MMD patients and healthy controls and found that the number of CFU decreased.</tag_plag_sens>
+  </row>
+</data>

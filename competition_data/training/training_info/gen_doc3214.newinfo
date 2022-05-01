@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3214</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Some argue that MCS may act through activation of the cingulate and PAG to alter the emotional appraisal of pain.</plag_sens>
+    <tag_file_ids>gen_doc451</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Some argue that MCS may act through activation of the cingulate and PAG areas to alter the emotional appraisal of pain or the brain's response to it.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3214</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The children exposed to the campaign were more active and had more positive attitudes towards physical activity after two years.</plag_sens>
+    <tag_file_ids>gen_doc103</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Children exposed and aware of the campaign were more active and had more positive attitudes towards physical activity after two years.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3214</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The Bruker D8 Advance diffractometer was used to collect the powder XRD patterns.</plag_sens>
+    <tag_file_ids>gen_doc772</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The Bruker D8 Advance diffractometer was used to collect the Powder XRD patterns.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3214</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The central auditory system is associated with speech detection and discrimination training with millisecond resolution and speech processing deficits in impaired population.</plag_sens>
+    <tag_file_ids>gen_doc3504</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The central auditory system is associated with speech detection and discrimination training with millisecond resolution and speech processing deficits in people with hearing loss.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3214</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A sheet-like structure is indicated by their linear cross-section.</plag_sens>
+    <tag_file_ids>gen_doc3208</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Their linear cross-section shows a sheet-like structure.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3017</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Improved tracking has been developed with the use of local deformation models.</plag_sens>
+    <tag_file_ids>gen_doc2795</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Improved tracking has been developed with the use of local deformation models.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3017</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The efficacy of continuous administration of epoprostenol on survival has been proven in two other studies.</plag_sens>
+    <tag_file_ids>gen_doc2241</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The efficacy of continuous administration of epoprostenol on survival has been proven in two studies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3017</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A number of other studies have shown that insufficient ventilation system contributes to the high microbial loads of the wards, and this might be the reason why thebacterial load was higher in different wards.</plag_sens>
+    <tag_file_ids>gen_doc950</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>A number of other studies have shown that insufficient ventilation system contributes to the high microbial loads of the wards and this might be the reason why the bacterial load was higher in different wards.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3017</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Individuals with more than one condition that required medical follow-up or hospitalizations, such as chronic heart or lung conditions, metabolic disorders, or chronic kidney disease, were included in the exclusion criteria.</plag_sens>
+    <tag_file_ids>gen_doc3051</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Individuals with more than one condition that required medical follow-up or hospitalizations, such as chronic heart or lung conditions, metabolic disorders, chronic kidney disease, and anaphylactic reaction to a previous dose of influenza vaccine were included in the exclusion criteria.</tag_plag_sens>
+  </row>
+</data>

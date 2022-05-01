@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2165</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Rats with Gd-PCL implanted show a high level of inflammation with few blood vessels.</plag_sens>
+    <tag_file_ids>gen_doc1881</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Rats with Gd-PCL implanted show a high level of inflammation and few blood vessels.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2165</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>136 British controls were selected from people recruited in two cohorts in the ongoing prospective cohort in ten European countries.</plag_sens>
+    <tag_file_ids>gen_doc415</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>136 British controls were selected from people recruited in two cohorts in the ongoing prospective cohort being carried out in ten European countries.</tag_plag_sens>
+  </row>
+</data>

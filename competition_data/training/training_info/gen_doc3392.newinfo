@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3392</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The result shows that the effect of hypertonic saline on chemical adhesiolysis comes from the agent itself rather than the effect on the body.</plag_sens>
+    <tag_file_ids>gen_doc1889</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The result shows that the effect of hypertonic saline on chemical adhesiolysis arises from the agent itself rather than from the effect on the skin.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3392</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There are two reasons why the difference is different among trimesters.</plag_sens>
+    <tag_file_ids>gen_doc184</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>There are two reasons why the difference is different among trimesters.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3392</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The term "stair step active information" was proposed by Dembski and Marks.</plag_sens>
+    <tag_file_ids>gen_doc2703</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The term "stair step active information" has been suggested by Dembski and Marks to describe this type of reward scheme.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3392</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>We used an in-vivo ELISA-based test to evaluate the interaction between the surface and crude proteins.</plag_sens>
+    <tag_file_ids>gen_doc2305</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We used an in-vivo ELISA-based test to evaluate the interaction between the B. malayi crude protein extract and the Wolbachia surface proteins.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3392</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>They applied the method to the ovarian cancer dataset and found that the expression of important oncogenes and tumor suppressor genes can be affected by the presence of DNA CN, DNA ME, and miRNA.</plag_sens>
+    <tag_file_ids>gen_doc2351</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>They applied the method to the ovarian cancer datasets and found that the expression of important oncogenes and tumor suppressor genes can be affected by the expression of DNA CN, DNA ME, and miRNA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3392</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The results regarding Al were unexpected because of the non-toxic concentrations used.</plag_sens>
+    <tag_file_ids>gen_doc3157</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The results regarding Al were unexpected due to the fact that the non-toxic concentrations used (10 M) decreased the negativity of 00 by c. 10 mV.</tag_plag_sens>
+  </row>
+</data>

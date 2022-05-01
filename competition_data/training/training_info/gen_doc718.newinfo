@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc718</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The 1999-2004 National Health and Nutrition Examination Survey (NHANES) shows that the prevalence of Cerebral palsy was lower in a representative US population sample with high intakes of both EPA and DHA.</plag_sens>
+    <tag_file_ids>gen_doc2158</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The 1999-2004 National Health and Nutrition Examination Survey (NHANES) shows that the prevalence of Cerebral palsy was lower in a representative US population sample with a high intake of EPA and a low intake of DHA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc718</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The time course of the responses of both PL and IL was different.</plag_sens>
+    <tag_file_ids>gen_doc725</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The time course of the responses of both PL and IL was different.</tag_plag_sens>
+  </row>
+</data>

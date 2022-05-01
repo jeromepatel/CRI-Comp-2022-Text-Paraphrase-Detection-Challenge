@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc269</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>For the first week of this period, only 10 M of cytosine arabinosin was present in new adherent culture dishes.</plag_sens>
+    <tag_file_ids>gen_doc844</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Only the first week of this period, 10 M of cytosine arabinosin was present in the new adherent culture dishes, which resulted in the dissociation of the resulting compact epithelial cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc269</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>This case shows a rare presentation of multiple myeloma in the form of extraosseous, solitary plasmacytoma and malignant pericardial effusion, which have not been previously reported in the literature.</plag_sens>
+    <tag_file_ids>gen_doc3280</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>This case shows a rare presentation of very rapidly relapsing multiple myeloma in the form of extraosseous, solitary plasmacytoma and malignant pericardial effusion, which has not been previously reported in the literature.</tag_plag_sens>
+  </row>
+</data>

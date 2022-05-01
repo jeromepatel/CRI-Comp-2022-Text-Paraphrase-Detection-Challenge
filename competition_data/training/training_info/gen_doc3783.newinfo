@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3783</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The land is undulating with mounds and depressions.</plag_sens>
+    <tag_file_ids>gen_doc935</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The land surface in the area is undulating with mounds and depressions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3783</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The values of 40-80 mol/mol heme are indicative of iron deficiency.</plag_sens>
+    <tag_file_ids>gen_doc1518</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The values of 40-80 mol/mol heme are associated with iron deficiency.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3783</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The effect of 81.39a on the HA2Asp19Gly A(H7N9) virus was seen in the lungs of mice.</plag_sens>
+    <tag_file_ids>gen_doc3774</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In the lungs of mice that were inoculated with the HA2Asp19Gly A(H7N9) virus, the effect of 81.39a on virus replication was observed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3783</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There is an ongoing concern regarding the use of a confederate.</plag_sens>
+    <tag_file_ids>gen_doc606</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There is an ongoing concern regarding the use of a confederate in our experiment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3783</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The scope of the problem of low oral health literacy levels among parents of children is introduced by Jackson, who suggests several methods of improving the provider-patient communication, including the use of grade level analyses as a means for pediatric dentists to assess their educational materials.</plag_sens>
+    <tag_file_ids>gen_doc948</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The scope of the problem of low oral health literacy levels among parents of children is introduced by Jackson, who suggests several methods of improving the provider-patient communication, including the use of grade level analyses as a means for pediatric dentists to assess their educational materials.</tag_plag_sens>
+  </row>
+</data>

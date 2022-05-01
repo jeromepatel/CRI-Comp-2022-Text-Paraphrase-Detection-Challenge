@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2428</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>We stained the cells on the figure A and B with F-actin and focal adhesion.</plag_sens>
+    <tag_file_ids>gen_doc733</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We stained the cells on the figure A and B with F-actin and focal adhesion.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2428</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The Polyphasic Taxonomy approach, first proposed by Rita Colwell, is the most appropriate one right now.</plag_sens>
+    <tag_file_ids>gen_doc1478</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The polyphasic taxonomy approach, first proposed by Rita Colwell, is the most appropriate one at the moment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2428</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The prediction of a consistent affinity in the absence or presence of ASD-1 is one of the consequences of binding independence.</plag_sens>
+    <tag_file_ids>gen_doc1880</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>One consequence of binding independence is the prediction that SUP-12 constructs will show a consistent affinity in the absence or presence of ASD-1.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2428</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Fructose-6-phosphate is derived from the action of hexokinase/glucokinase and is the key entry step into glycolysis.</plag_sens>
+    <tag_file_ids>gen_doc434</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Fructose-6-phosphate is derived from the action of hexokinase/glucokinase and is the critical entry step into glycolysis via the key regulatory enzyme.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2428</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>A function of the interface size has been plotted in Additional file 1 and Figure S4.</plag_sens>
+    <tag_file_ids>gen_doc1822</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>A function of the interface size has been plotted in Additional file 1 and Figure S4.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2428</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The ORR in a group of patients with limited treatment options was respectable.</plag_sens>
+    <tag_file_ids>gen_doc2344</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>In a group of patients with very limited treatment options, the ORR was respectable at 25% in those with platinum-sensitive disease.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2428</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There was a correlation between the values of urine samples over the course of a day.</plag_sens>
+    <tag_file_ids>gen_doc1821</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There was a correlation between the values of 4-hour urine samples and those of 24-hour urine samples.</tag_plag_sens>
+  </row>
+</data>

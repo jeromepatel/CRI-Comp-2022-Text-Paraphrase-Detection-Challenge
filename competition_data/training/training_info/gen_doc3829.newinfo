@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3829</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The spread of poor-quality drugs may be an obstacle to effective control of the disease.</plag_sens>
+    <tag_file_ids>gen_doc2589</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The spread of poor-quality anti-malarial drugs may pose an obstacle to effective malaria control.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3829</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>51.6% of the sample experienced weight loss with 14.2 lbs.</plag_sens>
+    <tag_file_ids>gen_doc1726</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>51.6% of the sample experienced weight loss with 14.2 lbs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3829</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>One of our failures in predicting the location of the focal CHI lesion was in one of our first patients, in which diagnosticCT as an exception was not performed.</plag_sens>
+    <tag_file_ids>gen_doc486</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>One of our failures in predicting the location of the focal CHI lesion was in one of our first patients, in which diagnosticCT as an exception was not performed, which is why a tail focus was not possible to discern.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3829</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The red zone shows that the system dynamics evolve to an all-D state when b&gt; 2.5 is reached.</plag_sens>
+    <tag_file_ids>gen_doc2164</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The red zone shows that for b&gt; 2.5, cooperative behavior does not survive and the system dynamics evolve to an all-D state.</tag_plag_sens>
+  </row>
+</data>

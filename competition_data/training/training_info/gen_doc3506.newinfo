@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3506</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The prevalence of methamphetamine use in the Western Cape Province is higher than in the Cape Flats over the past fifteen years.</plag_sens>
+    <tag_file_ids>gen_doc1801</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The Western Cape Province has the highest prevalence of methamphetamine use, and its impact has been felt within the Cape Flats over the past fifteen years.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3506</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In addition to the requirement for a DRB-sensitive kinase early in the transcription cycle, there is also a requirement for a KM and DRB-sensitive kinase.</plag_sens>
+    <tag_file_ids>gen_doc65</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In addition to the requirement for a KM/DRB-sensitive kinase early in the transcription cycle, a KM and DRB-sensitive kinase is also required for the elongation of transcription past the poly(A) site.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3506</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Two pairs of inversion clusters were identified in the patient.</plag_sens>
+    <tag_file_ids>gen_doc2004</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Two pairs of inversion clusters were identified by the sequencing analysis in patient 4.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3506</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The construction of a low-density GBS linkage map using the reduced-representation sequence-based marker discovery technique has been reported.</plag_sens>
+    <tag_file_ids>gen_doc1429</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The construction of a low-density GBS linkage map using the reduced-representation sequence-based marker discovery technique known as restriction site associated DNA sequencing (RAD) has been reported in a variety of crops.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3506</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>nanowires and nanotubes are being used for cost-effective, sequence-selective and label-free electrical detection without the use of the PCR.</plag_sens>
+    <tag_file_ids>gen_doc3056</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The use of nanowires and nanotubes for cost-effective, sequence-selective and label-free electrical detection without the use of the PCR for rapid measurement has shifted attention towards.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3506</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are two people: O. carmela and T. adharens.</plag_sens>
+    <tag_file_ids>gen_doc2933</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>O. carmela and T. adharens.</tag_plag_sens>
+  </row>
+</data>

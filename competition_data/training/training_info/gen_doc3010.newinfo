@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3010</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The body weight of interacting species may be affected by aggressive selection.</plag_sens>
+    <tag_file_ids>gen_doc1624</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>If there was a trans-species effect from aggressive selection, it might be detected in the body weight of interacting species.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3010</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>We used a gene ranking tool, ToppGene, to prioritize the tumors and found 24 miRNAs that were associated with the 13TS.</plag_sens>
+    <tag_file_ids>gen_doc2213</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We used a gene ranking tool, ToppGene, to prioritize the tumor suppressor miRNAs and found 24 that were associated with the 13 TSGs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3010</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>According to our data, the nemamides are negative regulators of the expression of specificinsulins, such that when nemamide levels decrease, the expression of specificinsulins increases.</plag_sens>
+    <tag_file_ids>gen_doc1315</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Our data suggests that the nemamides are negative regulators of the expression of specificinsulins, such that when nemamide levels decrease during L1 recovery, the expression of theseinsulins increases.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3010</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The inflammatory phenotype of tumors is marked by increased expression of the chemokines Cxcl-1,-2,-5,-9,-14 and Ccl-2.</plag_sens>
+    <tag_file_ids>gen_doc3045</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The inflammatory phenotype of tumors is marked by increased expression of chemokines Cxcl-1,-2,-5,-9,-14 and Ccl-2, 3,-8, S 100a8, S 100a9, and S 100a3 and interleukins IL-1, IL6 and IL-24.</tag_plag_sens>
+  </row>
+</data>

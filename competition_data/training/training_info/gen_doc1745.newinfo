@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1745</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Experiments show that each A TG8/LC3 family member regulates a different step of autophagosome formation.</plag_sens>
+    <tag_file_ids>gen_doc1987</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Experiments show that each ATG8/LC3 family member regulates a different step of autophagosome formation after being knocked down.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1745</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>As the synapse moves along the vertical axis, it becomes more resistant to change.</plag_sens>
+    <tag_file_ids>gen_doc2510</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>As the synapse moves along the vertical axis through a cascade of states, it becomes more resistant to plasticity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1745</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Screening for impairments in HRQOL can be used to detect those in need of special medical attention and rehabilitation interventions.</plag_sens>
+    <tag_file_ids>gen_doc338</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Screening for impairments in HRQOL might be a useful tool for detecting those in need of special medical attention and complex rehabilitation interventions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1745</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The precipitation was assumed to surpass the rate of infiltration.</plag_sens>
+    <tag_file_ids>gen_doc674</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The accumulative precipitation was assumed to surpass the infiltration rate, which resulted in the generation of more precipitation.</tag_plag_sens>
+  </row>
+</data>

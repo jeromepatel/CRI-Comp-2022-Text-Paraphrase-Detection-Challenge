@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1675</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>We focused on global self-esteem, which refers to a person's overall cognitive and emotional evaluation of his or her own worth.</plag_sens>
+    <tag_file_ids>gen_doc73</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>We focused on global self-esteem, which refers to a person's overall cognitive and emotional evaluation of his or her own worth across various domains.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1675</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>It allows transfer of fat and skin.</plag_sens>
+    <tag_file_ids>gen_doc2294</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Transfer of skin and fat is possible without sacrificing the gluteus maximus.</tag_plag_sens>
+  </row>
+</data>

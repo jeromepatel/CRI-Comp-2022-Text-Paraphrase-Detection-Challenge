@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1735</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Climate change refers to decadeslong and scientifically established changes in regional patterns of wind and precipitation.</plag_sens>
+    <tag_file_ids>gen_doc618</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Climate change refers to decades long and scientifically established changes in regional patterns of wind and precipitation, seasonal weather and average annual temperatures.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1735</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The cultures were stained with 2% Alizarin Red S.</plag_sens>
+    <tag_file_ids>gen_doc142</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The cultures were stained with 2% Alizarin Red S for 10 minutes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1735</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The cells were encased inLUMINAL SPACE and produced stable structures.</plag_sens>
+    <tag_file_ids>gen_doc3187</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>CELLS in altered condition produced stable, cystic structures enclosing LUMINAL SPACE.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1735</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The tumeurs de la glande parotide were rare.</plag_sens>
+    <tag_file_ids>gen_doc1722</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Les tumeurs de la glande parotide are rare.</tag_plag_sens>
+  </row>
+</data>

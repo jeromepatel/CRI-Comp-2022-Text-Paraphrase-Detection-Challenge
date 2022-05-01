@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc779</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>3T3-L1 cells were used for active site labeling</plag_sens>
+    <tag_file_ids>gen_doc2667</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>3T3-L1 cells were then used for active site labeling.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc779</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>It was necessary to test for each factor separately because of the clustering between closely related species.</plag_sens>
+    <tag_file_ids>gen_doc2067</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>It was necessary to test for each factor separately because of the clusters between closely related species.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc779</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>A serious outbreak of human sickness can be caused by the zoonotically transmitted avian A viruses.</plag_sens>
+    <tag_file_ids>gen_doc1831</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>A serious outbreak of human sickness caused by avian flu can be caused by zoonotically transmitted avian A viruses.</tag_plag_sens>
+  </row>
+</data>

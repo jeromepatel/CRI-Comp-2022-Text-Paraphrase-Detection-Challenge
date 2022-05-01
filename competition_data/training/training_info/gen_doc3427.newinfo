@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3427</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Men initiated risky labor migration to foreign countries and pioneered rural-to-urban movements in an uncertain political context.</plag_sens>
+    <tag_file_ids>gen_doc2198</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Men initiated risky labor migration to foreign countries and also pioneered rural-to-urban movements in an uncertain political context.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3427</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The differences in Reco could be influenced by differences in productivity.</plag_sens>
+    <tag_file_ids>gen_doc980</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The differences in Reco were likely influenced by the differences in productivity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3427</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The need for new measures to organize and consolidate correlation measures for better interpretability is highlighted by the difficultly of interpreting these results.</plag_sens>
+    <tag_file_ids>gen_doc2260</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The need for new measures which can organize and consolidate correlation measures for better interpretability is highlighted by the difficultly of interpreting these results.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3427</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In cancer, the basement is missing.</plag_sens>
+    <tag_file_ids>gen_doc386</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In cancer, the basement membranes that are normally found are missing.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3427</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Families are likely to assume the major caring function for most impaired and disabled individuals who require no regular medical attention, and who are living in home settings.</plag_sens>
+    <tag_file_ids>gen_doc426</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Recent national estimates suggest that families are likely to assume the major caring function for most impaired and disabled individuals who require no regular medical attention, and who are living in home settings.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3427</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>These problems are worsened by the number of patents.</plag_sens>
+    <tag_file_ids>gen_doc2663</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>These problems are worsened by the number of patents for chemistry.</tag_plag_sens>
+  </row>
+</data>

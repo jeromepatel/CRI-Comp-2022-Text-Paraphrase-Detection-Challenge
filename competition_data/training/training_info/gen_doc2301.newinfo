@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2301</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>What are the costs of simulation for the development of psychomotor skills?</plag_sens>
+    <tag_file_ids>gen_doc1980</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>What are the costs of simulation in the development of psychomotor skills?</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2301</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>We used probable AD patients with minimal WMH only and excluded those with moderate or severe WMH as well as patients with a past history that may contribute to cognitive deficit in order to minimize the contribution of factors related to cortical atrophy.</plag_sens>
+    <tag_file_ids>gen_doc811</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In order to minimize the contribution of factors related to cortical atrophy other than AD, we used probable AD patients with minimal WMH only and excluded patients with moderate or severe WMH as well as patients with a past history that may contribute to cognitive deficit.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2301</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>We could show that less cells are less harmful.</plag_sens>
+    <tag_file_ids>gen_doc2430</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We could show that less cells are less harmful.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2301</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>They experience a lot of risk factors, such as high stress, sedentary behaviors and unhealthy eating habits.</plag_sens>
+    <tag_file_ids>gen_doc1137</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>They also experience many risk factors, such as high stress, sedentary behaviors, and unhealthy eating habits.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2301</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>There is a persisting access gap to high-quality medical care, such as cardiac interventions, which suggests the need for further action to achieve access equity.</plag_sens>
+    <tag_file_ids>gen_doc2053</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>According to investigations in Canada, Australia, and Taiwan, there is a persisting access gap to high-quality medical care, such as cardiac interventions, which suggests the need for further action to achieve access equity under UHC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2301</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>According to the locations reported by Arons, Lawrence, and Novick, the average distribution of Marjolin is 40% in the lower limb, 30% in the head and face, 20% in the upper limb, and 10% in the trunk area.</plag_sens>
+    <tag_file_ids>gen_doc1783</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>According to the locations reported by Arons, Lawrence, and Novick, the average distribution of Marjolin ulcers is 40% in the lower extremity, 30% in the head and face, 20% in the upper extremity, and 10% in the trunk area.</tag_plag_sens>
+  </row>
+</data>

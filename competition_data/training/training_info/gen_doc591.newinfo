@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc591</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The mortality risk for tetanus patients will be reduced by upgrading the type of hospital.</plag_sens>
+    <tag_file_ids>gen_doc3088</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The mortality risk for tetanus patients will be decreased by upgrading the type of hospital.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc591</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The generation of DNA-double strand break (DSB) is the main cause of the cytotoxicity of ionizing radiation.</plag_sens>
+    <tag_file_ids>gen_doc2248</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The generation of DNA-double strand break (DSB) is the main cause of the cytotoxicity of ionizing radiation as shown by the radiosensitivity of cells and organisms.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc591</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Table 1 shows the performance of each model.</plag_sens>
+    <tag_file_ids>gen_doc2563</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Table 1 showed the performance of each model.</tag_plag_sens>
+  </row>
+</data>

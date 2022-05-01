@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3960</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>R2 calculates the optimal cut-off in the expression level to divide the patients into good and bad patients.</plag_sens>
+    <tag_file_ids>gen_doc2615</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>For each gene, R2 calculates the optimal cut-off in the expression level to divide the patients into good and bad patients.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3960</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A preferred approach is to impose a pattern at a certain scale and see if the process responds.</plag_sens>
+    <tag_file_ids>gen_doc1266</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>A preferred approach is to impose a pattern at a certain set of scales and see if that process responds at that scale.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3960</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The DFA scaling exponents were different over the conditions for ST, and for SL.</plag_sens>
+    <tag_file_ids>gen_doc32</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The DFA scaling exponents were different over the conditions for ST, and for SL.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3960</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The primers designed in this manner would be more sensitive in detecting functional genes of low relative abundance compared to probe-capture techniques.</plag_sens>
+    <tag_file_ids>gen_doc2199</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The primers designed in this manner would be more sensitive in detecting functional genes of low relative abundance compared to probe-capture techniques, and the primers could also be used for quantitative analyses.</tag_plag_sens>
+  </row>
+</data>

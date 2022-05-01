@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3859</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>After 30 seconds of thrombin stimulation, our FFP-18 measurement of [Ca2+]peri increases from a basal level of 91 nmol L1 to 141 nmol L1</plag_sens>
+    <tag_file_ids>gen_doc2907</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>After 30 seconds of thrombin stimulation, our FFP-18 measurement of [Ca2+]peri increases from a basal level of 91 nmol L1 to 141 nmol L1</tag_plag_sens>
+  </row>
+</data>

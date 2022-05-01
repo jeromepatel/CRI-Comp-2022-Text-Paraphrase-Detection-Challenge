@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2484</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Salmon, a food that increases reproductive success but that can be difficult to obtain because of intense competition with other bears, is a food that elevated testosterone might be beneficial in obtaining.</plag_sens>
+    <tag_file_ids>gen_doc2302</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Salmon, a food that increases reproductive success but that can be difficult to obtain because of intense competition with other bears, is a food that elevated testosterone might be beneficial in obtaining in female bears.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2484</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Alpha fetoprotein (AP) and Dickkopf-related protein 1 (DKK1) were found in the cell adhesion cluster, which are well-known for the above three biological processes.</plag_sens>
+    <tag_file_ids>gen_doc3354</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Alpha fetoprotein (AP) and Dickkopf-related protein 1 (DKK1) were found in the cell adhesion cluster, which are well-known for the above three biological process.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2484</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The number of -H2AX foci in the CHO-K1 and xrs-5 cells were estimated using the BNCR-RBE.</plag_sens>
+    <tag_file_ids>gen_doc998</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The number of -H2AX foci in the CHO-K1 and xrs-5 cells were estimated using the BNCR-RBEs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2484</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The reduction of complement was also found in clinically inactive SLE patients.</plag_sens>
+    <tag_file_ids>gen_doc3467</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>SLE patients with a high percentage of antibodies to dsDNA and the reduction of complement were also found in non-LN patients.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2484</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The majority of Monogenea have only one host with high host specificity during their life cycle, not involving intermediate hosts.</plag_sens>
+    <tag_file_ids>gen_doc3366</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The majority of Monogenea have only one host with high host specificity during their life cycle, not including intermediate hosts, and they are on a broad range of aquatic vertebrates.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2484</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The estimation of object size by humans is more variable for far-away objects than it is for those near to the observer, according to a study.</plag_sens>
+    <tag_file_ids>gen_doc327</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The estimation of object size by humans is more variable for far-away objects than it is for those near to the observer.</tag_plag_sens>
+  </row>
+</data>

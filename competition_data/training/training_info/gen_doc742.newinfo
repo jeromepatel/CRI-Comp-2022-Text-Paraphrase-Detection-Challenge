@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc742</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It is possible to apply double-layer cell transfer to this novel method by making cementoblast and periodontal ligament cell layers, employing the controllable cell topology and physical stability of transferred cells in our method; however, further study is needed.</plag_sens>
+    <tag_file_ids>gen_doc273</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>It is possible to apply double-layer cell transfer to this novel method by making cementoblast and periodontal ligament cell layers, employing the controllable cell topology and physical stability of transferred cells in our method; however, further study is needed for this application.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc742</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The strategy to target metabolism in the fungus has been advocated before, and the combination of different omics strategies for antimycotic pathways can provide efficient targets.</plag_sens>
+    <tag_file_ids>gen_doc3659</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The strategy to target metabolism in the fungus has been advocated before, and the combination of different omics strategies for antimycotic pathways can provide efficient targets.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc742</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>We have been able to identify more than 15,000 immature virus buds, which are associated with all parts of the structure.</plag_sens>
+    <tag_file_ids>gen_doc2316</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We have been able to identify more than 15,000 immature virus buds in this IPMC, associated with all parts of the structure, although the densities of the buds varied in different parts of the IPMC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc742</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The deletion of SKN7 was dispensable for both cell fusion figureb,c and the expression of the pheromone genes.</plag_sens>
+    <tag_file_ids>gen_doc521</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The deletion of SKN7 was dispensable for both cell fusion figureb,c and pheromone gene expression, indicating that it is involved in a later stage of mating.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc742</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The three types of ceramic mentioned in the review are similar.</plag_sens>
+    <tag_file_ids>gen_doc1312</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The three varieties mentioned in the review are similar.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc742</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Multiple relevant results have been provided in our studies.</plag_sens>
+    <tag_file_ids>gen_doc1312</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Multiple relevant results supporting this mechanism have been provided by our current studies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc742</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Stone martens, a mammal that was reported to play a small role in the outbreak of the disease in Europe, is one of the mammals that are reported to play a small role.</plag_sens>
+    <tag_file_ids>gen_doc2155</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Stone martens, a mammal that was reported to play a small role in the outbreak of the disease in Europe, is one of the mammals that are reported to play a small role.</tag_plag_sens>
+  </row>
+</data>

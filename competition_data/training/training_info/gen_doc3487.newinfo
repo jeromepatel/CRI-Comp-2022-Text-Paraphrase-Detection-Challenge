@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3487</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The genes with detected FC between 1.0 and 2.0 will be mistaken for up-regulated genes.</plag_sens>
+    <tag_file_ids>gen_doc3184</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>This will cause genes with detected FC between 1.0 to 2.0 to be mistaken for up-regulated genes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3487</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The data was reduced with xia2</plag_sens>
+    <tag_file_ids>gen_doc1506</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The data from synchrotron was reduced with xia2.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3487</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>We calculated the correlation between the zinc soil concentration and the different traits reported by the miners.</plag_sens>
+    <tag_file_ids>gen_doc2509</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>We calculated the correlation between zinc soil concentration and different traits reported in a mine boundary.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3989</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>It is possible to identify the poor risk category among the node- negative patients.</plag_sens>
+    <tag_file_ids>gen_doc1707</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The identification of the poor risk category among the patients may help in planning the therapy.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3989</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In a study of a Mexican Hispanic cohort, we found that 60 percent of them have at least one EDA or EDAR abnormality.</plag_sens>
+    <tag_file_ids>gen_doc491</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In a study of a Mexican Hispanic cohort, we found that 60 percent of them have at least one EDA or EDAR abnormality, but not EDARDD.</tag_plag_sens>
+  </row>
+</data>

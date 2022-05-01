@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3390</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Neco et al.50 reported that sinoatrial node cells isolated from ryanodine receptor 2 Mutant mice had slower pacemaker activity than those from wild type mice.</plag_sens>
+    <tag_file_ids>gen_doc2306</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Neco et al.50 reported that sinoatrial node cells isolated from ryanodine receptor 2 Mutant mice had slower pacemaker activity than those from wild type mice, although they had increased Ca2+ sparks.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3390</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The ROC analysis was used.</plag_sens>
+    <tag_file_ids>gen_doc2152</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The ROC analysis was applied to the case of MacIsaac et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3390</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>MSP was able to distinguish between the two types of DNA.</plag_sens>
+    <tag_file_ids>gen_doc1972</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>It was possible to distinguish between the methylated and unmethylated DNA sequences.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2000</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Second, the samples were taken and eaten.</plag_sens>
+    <tag_file_ids>gen_doc249</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Second, the samples were taken and eaten.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2000</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The smallest population was taken into account to calculate allelic richness.</plag_sens>
+    <tag_file_ids>gen_doc2971</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The smallest sample population was taken into account when calculating allelic richness.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2000</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The only functional EGFR and STAT3 activators were found to be EREG and OSM, according to experiments.</plag_sens>
+    <tag_file_ids>gen_doc271</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Experiments with neutralising antibodies confirmed that the only functional EGFR and STAT3 activators were EREG and OSM.</tag_plag_sens>
+  </row>
+</data>

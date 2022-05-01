@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3856</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There was co-localization between Pdx1 and Insulin1/2 at the E15.5 stage of development.</plag_sens>
+    <tag_file_ids>gen_doc2674</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There was extensive co-localization between the levels of Pdx1 and Insulin1/2 at the E15.5 stage of pancreatic development.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3856</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The advantage of introducing perfluoroalkyl groups to prevent water penetration into the films was affirmed by this result.</plag_sens>
+    <tag_file_ids>gen_doc1259</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>As a result of the enhanced hydrophobicity introduced by FC60, this result confirms the advantage of introducing hydrophobic perfluoroalkyl groups to effectively prevent water penetration into the perovskite films.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3856</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>People in the lowest education category were more likely to have higher cholesterol levels.</plag_sens>
+    <tag_file_ids>gen_doc3137</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Those in the lowest education category were more likely to have higher cholesterol levels.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3856</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The main advantage of this method is that it doesn't limit the detection of dynamic objects to a plane, so it may provide more accurate information about the environment.</plag_sens>
+    <tag_file_ids>gen_doc3524</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The main advantage of this method is that it does not limit the detection of dynamic objects to a plane, and therefore, it may provide much more accurate information about the environment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3856</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The axons did not form L-shaped branches within the horn figurel.</plag_sens>
+    <tag_file_ids>gen_doc64</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The axons of strip DL1 PNs did not form L-shaped branches within the horn figurel.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3856</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>An AD c.5570+5G&gt;C carrier with one of the lowest brain ABCA7 proteins had 4 missense mutations, 1 of which had predicted damaging effects, as well as an AD c.5560+5G&gt;C carrier with one of the lowest brain ABCA7</plag_sens>
+    <tag_file_ids>gen_doc2038</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>An AD c.5570+5G&gt;C carrier with one of the lowest brain ABCA7 proteins had 4 missense mutations, 1 of which had predicted damaging effects.</tag_plag_sens>
+  </row>
+</data>

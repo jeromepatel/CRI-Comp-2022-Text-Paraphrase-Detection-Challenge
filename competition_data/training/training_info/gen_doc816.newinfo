@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc816</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There are three mechanisms that can cause respiratory disorders.</plag_sens>
+    <tag_file_ids>gen_doc2462</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Hypothyroidism can cause respiratory disorders via three mechanisms.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc816</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Estimation methods underestimated the effects of the independent variables when there was more than 2% missing data.</plag_sens>
+    <tag_file_ids>gen_doc2625</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Estimation methods resulted in a slight overestimation of the effects of the independent variables when there were more than 2% missing data.</tag_plag_sens>
+  </row>
+</data>

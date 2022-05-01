@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3058</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Several reasons may explain the support of species in the differing species delimitation scenarios assessed here.</plag_sens>
+    <tag_file_ids>gen_doc1655</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Several reasons may explain the overall support of species in the differing species delimitation scenarios assessed here, particularly inclade E.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3058</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>A methodological guideline was provided by Dr. Dan Green.</plag_sens>
+    <tag_file_ids>gen_doc819</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The group of Dr. Dan Green gave a methodological guideline.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3058</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The attention and executive function of the P subtype was severely impaired as a result of the scores in digit-span backward, COWAT, and the Stroop.</plag_sens>
+    <tag_file_ids>gen_doc3923</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The attention and executive function of the P subtype was severely impaired as a result of the worst scores in digit-span backward, COWAT semantic fluency, and the Stroop.</tag_plag_sens>
+  </row>
+</data>

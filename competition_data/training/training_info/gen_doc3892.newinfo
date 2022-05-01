@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3892</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The experts who led the consultation calls were present at the workshop.</plag_sens>
+    <tag_file_ids>gen_doc3240</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Six experts were present at the workshop and led the consultation calls.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3892</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>ABC transporters play a variety of roles.</plag_sens>
+    <tag_file_ids>gen_doc3673</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Under various environments, ABC transporters play roles in cell growth and development.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3892</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Normal fibroblast function is important to maintain the periodontal tissue function for optimal healing.</plag_sens>
+    <tag_file_ids>gen_doc3358</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Normal fibroblast function is critical to maintain the periodontal tissue function for optimal healing.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3892</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>To investigate this, only sites with a total coverage of 50  20 were kept.</plag_sens>
+    <tag_file_ids>gen_doc3340</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>To investigate this, only sites with a total coverage of 50  20 were retained, which corresponds to roughly three standard deviations of a Poisson distribution.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3892</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>It's important for all unique clusters of low immunization to be investigated to identify specific factors.</plag_sens>
+    <tag_file_ids>gen_doc1492</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>It's important for all unique clusters of low immunization to be investigated to identify modifiable factors.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3892</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>It is important to point out that the size of the ESEquant Tube Scanner, the reaction signal recording device, is just 17.4 by 18.6 cm and has a weight of about 1 kilogram.</plag_sens>
+    <tag_file_ids>gen_doc3948</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>It is important to point out that the size of the ESEquant Tube Scanner, the reaction signal recording device, is just 17.4 by 18.8 cm with a weight of about 1 kilogram, including the laptop.</tag_plag_sens>
+  </row>
+</data>

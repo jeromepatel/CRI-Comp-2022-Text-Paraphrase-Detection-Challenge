@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1716</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The shelf life of the magnetized water was stated to be 1 day by the producer.</plag_sens>
+    <tag_file_ids>gen_doc2450</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The shelf life of the magnetized water was changed every day according to the instructions of the producer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1716</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>CaM to NADK2 may be increased if Ca2+ is applied.</plag_sens>
+    <tag_file_ids>gen_doc821</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The binding of CaM to NADK2 is known to affect the balance of the NAD/NADP.</tag_plag_sens>
+  </row>
+</data>

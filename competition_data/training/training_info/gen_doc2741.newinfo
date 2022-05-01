@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2741</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The differences of the actuators are compensated for by a change in the fast Scan signal.</plag_sens>
+    <tag_file_ids>gen_doc2239</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The differences of the actuators are compensated by a change in the fast Scan signal.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2741</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There is an open question about the mechanisms underlying these features.</plag_sens>
+    <tag_file_ids>gen_doc707</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The precise understanding of the mechanisms underlying these features is an open question.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2741</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Pin1 was overexpressed in breast cancer cells figureb.</plag_sens>
+    <tag_file_ids>gen_doc3379</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Pin1 was overexpressed in all breast cancer cells figureb.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2741</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Masson and Sirius Red staining were used to estimate the extent of tubular-Interstitial Fibrosis, which was evaluated with the help of PAS staining.</plag_sens>
+    <tag_file_ids>gen_doc2986</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Masson and Sirius Red staining were used to estimate the extent of tubular-Interstitial fibrosis, which was evaluated with the use of PAS staining.</tag_plag_sens>
+  </row>
+</data>

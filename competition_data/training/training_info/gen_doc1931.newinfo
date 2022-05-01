@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1931</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Three studies used the same scores and methods and were conducted among patients who were not used for the development of the Recurrence Score.</plag_sens>
+    <tag_file_ids>gen_doc730</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The three studies used the same scores and methods and were conducted among patients who were not used for Recurrence Score development.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1931</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The majority of the patients had discrepancies in their drug history when they were admitted to the hospital.</plag_sens>
+    <tag_file_ids>gen_doc1448</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The majority of patients in the present study had discrepancies in their drug history at the hospital.</tag_plag_sens>
+  </row>
+</data>

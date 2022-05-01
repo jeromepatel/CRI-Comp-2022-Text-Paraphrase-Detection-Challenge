@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2375</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The fish do not survive to reproduce once the upper thermal limits are exceeded, so upstream relocation won't have an impact.</plag_sens>
+    <tag_file_ids>gen_doc1480</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The fish do not survive to reproduce once the upper thermal limits are exceeded, so upstream relocation won't have an impact.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2375</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The article was written by Kho et al.</plag_sens>
+    <tag_file_ids>gen_doc2027</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>A group of people named Kho et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2375</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The average birth weight of normal newborn rats was 6.80 g  0.044 g, while the diet restricted group had 5.10 g  0.037 g.</plag_sens>
+    <tag_file_ids>gen_doc1486</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The average birth weight of normal newborn rats was 6.80 g  0.044 g, while the diet restricted group had 5.10 g  0.037 g.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2375</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The PANIC-ATTAC model shows that adiponectin null mice have significantly lower adipose tissue mass than WT mice.</plag_sens>
+    <tag_file_ids>gen_doc2167</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In line with the observations in the PANIC-ATTAC model, STZ-treated adiponectin null mice had significantly lower adipose tissue mass than the WT mice.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2375</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There is evidence that supports the promotion of the OA process by TGF- 1.28–30.</plag_sens>
+    <tag_file_ids>gen_doc576</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>A lot of evidence has been published on the promotion of the OA process by TGF-1.28–30</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2375</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The purpose of the pretest-posttest is to determine the effect of spine stabilization exercise on patients with disc disease.</plag_sens>
+    <tag_file_ids>gen_doc2986</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A pretest-posttest design was chosen to determine the effects of spine stabilization exercise on patients with disc disease.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2375</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Islam is also present as are traditional African religions.</plag_sens>
+    <tag_file_ids>gen_doc1661</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Islam is also present as are traditional African religions, though Christianity is the main religion.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc2375</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Researchers need to show that the benefit to these populations outweighs the risk of doing research with them.</plag_sens>
+    <tag_file_ids>gen_doc2498</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Researchers need to show that the benefit to these populations outweighs the risk of conducting research with them.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc2375</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>One method is based on folding flat surfaces against one another by stacking the helices in separate domains of a flat multi domain origami.</plag_sens>
+    <tag_file_ids>gen_doc2955</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>One method is based on folding flat surfaces against one another by stacking the helices in separate domains of a flat multi domain origami.</tag_plag_sens>
+  </row>
+</data>

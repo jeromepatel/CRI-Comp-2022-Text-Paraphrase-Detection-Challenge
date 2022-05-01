@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2851</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There was no difference in the average level of the two groups, but there was a statistically significant difference for the difference in the BALF.</plag_sens>
+    <tag_file_ids>gen_doc3888</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>There was no difference in the average levels of the two groups, but there was a statistically significant difference in the BALF for TNF-.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2851</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The treatments fail to repair the damaged brain region, and the oral drugs are not effective past 5 years.</plag_sens>
+    <tag_file_ids>gen_doc3413</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The treatments fail to repair the damaged brain region and the oral drugs are not effective beyond 5 years.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2851</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A part of the translation plan was to create and integrate a centralized system to offer education and training to the profession of physical therapists.</plag_sens>
+    <tag_file_ids>gen_doc3407</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The American team that translated the OEP wanted to create and integrate a centralized system to offer education and training to PTs.</tag_plag_sens>
+  </row>
+</data>

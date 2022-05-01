@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3262</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>At this stage of development, we did not observe any changes in the size of the Pancreatic.</plag_sens>
+    <tag_file_ids>gen_doc530</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>At this stage of development, we did not observe any changes in the size of the Pancreatic.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3262</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Intriguingly, the proportion of TNBC patients who have germline mutations in these two groups suggests that this is a key driver of the development of the disease.</plag_sens>
+    <tag_file_ids>gen_doc2046</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Intriguingly, the proportion of TNBC patients who have germline mutations in these two groups suggests that this is a key driver of the development of TNBC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3262</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>20 years of experience is how long it has been.</plag_sens>
+    <tag_file_ids>gen_doc275</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>20 (H.L) years of experience.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3262</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Our experimental approach can't provide any information on the role of Syk within nonhematopoietic origin cells.</plag_sens>
+    <tag_file_ids>gen_doc1091</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Our experimental approach can't provide any information on the role of Syk within cells of nonhematopoietic origin.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3262</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The medium must be carefully chosen, as the high concentration of HBEGF used by Puschmann et al.</plag_sens>
+    <tag_file_ids>gen_doc272</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The medium must be carefully chosen, as the high concentration of HBEGF used by Puschmann et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3262</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The number of genes found in the various genomes has been depicted in a graph.</plag_sens>
+    <tag_file_ids>gen_doc3387</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The number ofPDZ domains andPDZ genes found in the various genomes were depicted in the graph.</tag_plag_sens>
+  </row>
+</data>

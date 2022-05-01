@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1026</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The patterns suggest that the whole-brain inter-relationship of GM density is unique to each chronic pain patient.</plag_sens>
+    <tag_file_ids>gen_doc2431</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The patterns suggest that the whole-brain inter-relationship of GM density is unique to each chronic pain patient group.</tag_plag_sens>
+  </row>
+</data>

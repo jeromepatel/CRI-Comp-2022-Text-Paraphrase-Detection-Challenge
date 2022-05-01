@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2854</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The current review's specific contribution is to summarize behavioral findings and their theoretical explanations regarding cognitive control processing in ASD.</plag_sens>
+    <tag_file_ids>gen_doc829</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The current review's specific contribution is to summarize behavioral findings and their theoretical explanations regarding cognitive control processing in ASD and to critically reflect on both.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3182</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The concept of graph-based structural signatures is used to study and predict the impact of single-point mutations.</plag_sens>
+    <tag_file_ids>gen_doc707</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The concept of graph-based structural signatures is used to study and predict the impact of single-point mutations on the stability and affinity of the genes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3182</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The number of points in the time series and the translations/rotations at the time point in the x,y, and Z directions are what's known as the x,y, and Z directions.</plag_sens>
+    <tag_file_ids>gen_doc1117</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The number of points in the time series and the translations/rotations at the time point in the x,y, and Z directions are what's known as the x,y, and Z directions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3182</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The CDC and IOTF had high levels of agreement, but the level of agreement between them and the WHO was poor.</plag_sens>
+    <tag_file_ids>gen_doc3177</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The CDC and IOTF had high levels of agreement, but the level of agreement between them and the WHO was poor.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3182</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The surface that was irreversibly scratched by participant 11 was not impervious to hard handling.</plag_sens>
+    <tag_file_ids>gen_doc3226</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>One surface was irreversibly scratched by the fingernail of participant 11, showing that they are not completely impervious to hard handling.</tag_plag_sens>
+  </row>
+</data>

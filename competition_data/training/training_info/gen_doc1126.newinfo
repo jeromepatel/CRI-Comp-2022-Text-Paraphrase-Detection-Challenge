@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1126</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The expansion can be one side or the other.</plag_sens>
+    <tag_file_ids>gen_doc2621</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The expansion can be side to side or one side against a fixed point.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1126</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The role and function of idioblasts and secretory glands in the group gives some support to the idea that these structures are an alternative plant defense strategy.</plag_sens>
+    <tag_file_ids>gen_doc3692</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The role and function of idioblasts and secretory glands in the group give some support to the idea that these structures constitute alternative plant defense strategies against herbivory.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1126</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The problem of template-independent amplification needs to be solved in order to make single cell genomics feasible and practical.</plag_sens>
+    <tag_file_ids>gen_doc2684</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The problem of template-independent amplification remains a serious problem which must be solved in order to make single cell genomics feasible and practical.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1126</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The same trophozoite surface contacts and disc perimeter seal are visible despite a diminished flagellar amplitude and asynchrony.</plag_sens>
+    <tag_file_ids>gen_doc724</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The same trophozoite surface contacts and disc perimeter seal are visible despite a diminished flagellar amplitude and asynchrony between the flagella.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1126</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The final compound concentration was 0.6%.</plag_sens>
+    <tag_file_ids>gen_doc1790</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The final compound concentration was 10M and DMSO.</tag_plag_sens>
+  </row>
+</data>

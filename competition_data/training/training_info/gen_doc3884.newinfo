@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3884</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Under the same conditions, we made multi-compartmental hydrogel particles with MNPs in the inner and GOX in the outer parts.</plag_sens>
+    <tag_file_ids>gen_doc3043</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Under the same conditions, we made multi-compartmental hydrogel particles with MNPs in the inner and GOX in the outer PEG compartments.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3884</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Supplementary Material online</plag_sens>
+    <tag_file_ids>gen_doc3112</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Supplementary Material online.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3884</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Our model shows that the mechanism 3 targets ELOVL6 or SCD is unlikely to cause the formation oflipidosis, as neither is predicted to interact with any of the positive compounds.</plag_sens>
+    <tag_file_ids>gen_doc2671</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Our model shows that the mechanism 3 targets ELOVL6 or SCD is unlikely to cause the formation oflipidosis, as neither is predicted to interact with any of the 100 positive compounds.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3884</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Individual polyamine treatment for 14 days in arthritic rats reduced the pain threshold perception and improved the joint movement and grip function during the 21 day observation period.</plag_sens>
+    <tag_file_ids>gen_doc3781</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Individual polyamine treatment daily for 14 days in arthritic rats reduced the pain threshold perception and improved the joint movement and grip function during the 21 days observation period.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3884</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are a few numerical results with different mAP.</plag_sens>
+    <tag_file_ids>gen_doc978</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There are a few numerical results with different mAP in Table 1.</tag_plag_sens>
+  </row>
+</data>

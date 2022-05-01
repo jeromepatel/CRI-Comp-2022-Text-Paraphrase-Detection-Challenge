@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2408</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The purpose of the study was to find out the prevalence of concha bullosa and to see if there was a relationship between the two.</plag_sens>
+    <tag_file_ids>gen_doc1606</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The purpose of the study was to determine the prevalence of concha bullosa and to look into the relationship between it and the disease.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2408</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>We used the SALSA MLPA Kit P050-B2 CAH for quantitative analysis to detect copy number alterations in the CYP21A2 gene.</plag_sens>
+    <tag_file_ids>gen_doc3827</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We used the SALSA MLPA Kit P050-B2 CAH for quantitative analysis to detect copy number alterations in the CYP21A2 gene.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2408</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Group A is composed of strains isolated from both patients and group B is composed of strains isolated from both patients and group C is composed of strains isolated from both patients and group</plag_sens>
+    <tag_file_ids>gen_doc1713</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Group A is composed of strains isolated from both patients and group B is composed of strains isolated from both patients and group C is composed of strains isolated from both patients.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2408</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The acidic pair 170/230 is insufficient for attaining a strong P2/P5 preference for ASK1 (MAP3K5).</plag_sens>
+    <tag_file_ids>gen_doc2129</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The existence of the acidic pair 170/230 is insufficient for attaining a strong P2/P5 Arg preference for ASK1 (MAP3K5).</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2408</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>At the end of the protocol, baseline levels were compared.</plag_sens>
+    <tag_file_ids>gen_doc1385</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>At the end of the protocol, baseline levels were compared to FPG and PPPG.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2408</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Even if astrocytes can be exposed to HIV-1 through the blood brain barrier, they will still be supported by the resident macrophages.</plag_sens>
+    <tag_file_ids>gen_doc2920</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Even if astrocytes can be exposed to HIV-1 through the blood brain barrier, they will still be supported by resident macrophages, which has been shown to be productive in the infection of HIV-1 in this site.</tag_plag_sens>
+  </row>
+</data>

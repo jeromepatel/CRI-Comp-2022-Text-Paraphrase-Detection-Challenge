@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3980</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The PRC yielded a four fold higher platelet concentration than the whole blood.</plag_sens>
+    <tag_file_ids>gen_doc2565</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The PRC preparation yielded a four fold higher concentration of platelets than the whole blood.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3980</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>From week 0 to week 7, the isoleucine, valine, and leucine concentrations increased.</plag_sens>
+    <tag_file_ids>gen_doc2091</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>From week 0 to week 7, the isoleucine, valine, and leucine in SFA increased and decreased.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3980</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Table 1 depicts a large number of patients with hypertensive and dyslipidemic conditions.</plag_sens>
+    <tag_file_ids>gen_doc2227</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>A large number of hypertensive and dyslipidemic patients are shown in Table 1 with their respective percentages.</tag_plag_sens>
+  </row>
+</data>

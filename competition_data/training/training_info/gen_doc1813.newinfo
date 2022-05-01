@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1813</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>coli O157 only make biofilm in low-nutrient conditions and some K12 strains require the use of amino acids.</plag_sens>
+    <tag_file_ids>gen_doc2367</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>coli O157 only make biofilm in low-nutrient conditions and some K12 strains require the use of amino acids to create it.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1813</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>If salt was used in moderation, it was not thought to be problematic.</plag_sens>
+    <tag_file_ids>gen_doc1193</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>If used in moderation, salt used in home cooking and at the table was not considered noteworthy or problematic.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1813</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Although the methods achieve high sensitivity and specificity, they are not field deployable or on-site applications.</plag_sens>
+    <tag_file_ids>gen_doc1254</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Although the methods achieve high sensitivity and specificity, all of the aforementioned limitations prevent field deployable and on-site applications.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3627</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The very large genome sizes should be used as a reduced-representation strategy.</plag_sens>
+    <tag_file_ids>gen_doc1107</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The very large genome sizes should be used as a reduced-representation strategy for sequencing.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3627</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Alterations in his lower lobes and an enlarged hilus were visible on the control X-ray.</plag_sens>
+    <tag_file_ids>gen_doc2916</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Alterations in his lower lobes and an enlarged hilus were still visible on a control X-ray of his chest before discharge.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3627</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Several computational workflows used comparative genomics techniques to reconstruct both previously characterized and novel TF regulons inbacteria.</plag_sens>
+    <tag_file_ids>gen_doc862</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Several computational workflows used these comparative genomics techniques to reconstruct both previously characterized and novel TF regulons inbacteria.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3627</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In the T1 generation, there were lost the T0 genes.</plag_sens>
+    <tag_file_ids>gen_doc2937</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>In the T1 generation, the T0 mutations were lost.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3627</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>As witnessing domestic violence has been associated with several negative outcomes in adults, research is needed to better understand its role.</plag_sens>
+    <tag_file_ids>gen_doc425</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>As witnessing domestic violence has been associated with several negative outcomes in adults, research to better understand its role and relationship to schizophrenia and suicide attempts is needed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3627</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Lower limits are represented by PREs at 400 s1</plag_sens>
+    <tag_file_ids>gen_doc1867</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>PREs at 400 s1 are lower limits.</tag_plag_sens>
+  </row>
+</data>

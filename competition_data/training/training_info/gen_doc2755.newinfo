@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2755</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The ability to form a left-handed filament is a general property of the RecA family.</plag_sens>
+    <tag_file_ids>gen_doc3646</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We conclude that the ability to form a left-handed filament is a general property of most, if not all, RecA family proteins.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2755</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The cells exposed to particles were stained differently than the cells that were not.</plag_sens>
+    <tag_file_ids>gen_doc1547</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In comparison to the cells exposed to particles, the control cells had the same appearance and staining.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2755</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In absence of Hfq, rpoS- AA and DsraiI do not form duplex.</plag_sens>
+    <tag_file_ids>gen_doc3673</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In absence of Hfq, rpoS-AA and DsrAII do not form duplex.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2755</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There are many reports that show the involvement of ion channels in the early defence signalling of plants.</plag_sens>
+    <tag_file_ids>gen_doc1034</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The involvement of ion channels, especially that of Ca+, in the early defence signalling in plants has been highlighted in many reports.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2755</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>We found that ILK regulates the expression of the CCL2 in both petri dishes and mice.</plag_sens>
+    <tag_file_ids>gen_doc2524</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We found that ILK regulates the expression of the CCL2 in both petri dishes and in colitic mice.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2755</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In low-income countries, supplementation is the most effective strategy to replenish VAD.</plag_sens>
+    <tag_file_ids>gen_doc1610</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>In low-income countries, supplementation is a widely practised strategy to replenish VAD.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3831</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The amplification of a single product was confirmed.</plag_sens>
+    <tag_file_ids>gen_doc1794</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>melting curve analysis confirmed amplification of a single product.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3831</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Every 5 m along the 25 m stretch, the width was measured.</plag_sens>
+    <tag_file_ids>gen_doc1560</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Every 5 m along the 25 m stretch, the Stream width was measured.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3831</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There were discrepancies ranging from 1% to almost 18% when compared to a gold standard.</plag_sens>
+    <tag_file_ids>gen_doc2221</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>A manual chart review found discrepancies ranging from 1% to almost 18% in a comparison of these computerized datasets to a gold standard.</tag_plag_sens>
+  </row>
+</data>

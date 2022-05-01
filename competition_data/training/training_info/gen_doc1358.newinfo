@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1358</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The cells were put in primary and secondary antibodies.</plag_sens>
+    <tag_file_ids>gen_doc3861</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Cells were put in primary and secondary antibodies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1358</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The trial showed that S-1 monotherapy was as effective as 5-FU monotherapy in terms of overall survival.</plag_sens>
+    <tag_file_ids>gen_doc619</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The JCOG9912 trial showed that S-1 monotherapy was as effective as 5-FU monotherapy in terms of overall survival.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1358</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The gDNA of all species targeted in the test was added in the mix, except for one, which changed for each mix.</plag_sens>
+    <tag_file_ids>gen_doc3593</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>For the mixes 2 to 9 gDNA of all species targeted in the test was added in the mix, except for one, where the missing species changed for each mix</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1358</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The toxR is involved in the regulation of many other genes.</plag_sens>
+    <tag_file_ids>gen_doc3280</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The toxR gene, which is involved in the regulation of many other genes, was ubiquitous in the isolates.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1358</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The quality of the storage depends on the AS.</plag_sens>
+    <tag_file_ids>gen_doc2255</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>It has been shown that the storage quality depends on the AS.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1358</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The fact that isoproterenol was unable to restore STDP and shortened AP rise times to the same extent as DA, suggests that our observation was correct.</plag_sens>
+    <tag_file_ids>gen_doc2363</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The fact that isoproterenol was unable to restore STDP, as well as the fact that spike latency remained in the range of the sucrose condition, led to our observation that isoproterenol shortened AP rise times to the same extent as DA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1358</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The proper objective function is needed to complete the formula.</plag_sens>
+    <tag_file_ids>gen_doc229</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The proper objective function must be introduced to complete it.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1358</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Research funding has been insufficient in the past.</plag_sens>
+    <tag_file_ids>gen_doc3316</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Research funding has tended to be erratic.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc1358</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The strategy is expected to improve the outcome for patients.</plag_sens>
+    <tag_file_ids>gen_doc2087</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>This strategy is expected to improve outcomes for patients.</tag_plag_sens>
+  </row>
+</data>

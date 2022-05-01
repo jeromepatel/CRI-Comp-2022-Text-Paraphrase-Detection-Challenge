@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3114</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Our results fit into the broader literature on conscientiousness.</plag_sens>
+    <tag_file_ids>gen_doc299</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Our results fit well into the broader literature on conscientiousness.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3114</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The large size of the aneurysm at the time of diagnosis is believed to be the cause of the high risk of rupture.</plag_sens>
+    <tag_file_ids>gen_doc1221</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The large size of the aneurysm at the time of diagnosis is what causes the high risk of rupture in PFAAs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3114</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Over the past four decades, the age-standardized incidence as well as mortality rates from gastric cancer have steadily declined in nearly all populations.</plag_sens>
+    <tag_file_ids>gen_doc1024</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Over the past four decades, the age-standardized incidence as well as mortality rates from gastric cancer have steadily declined in nearly all populations, independently of their background risk of gastric cancer or sex figure.</tag_plag_sens>
+  </row>
+</data>

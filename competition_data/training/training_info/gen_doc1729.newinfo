@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1729</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The recent finding of very low levels of genetic diversity among Lake Malawi cichlids suggests that this radiation has occurred in the context ofgenomic uniformity which makes it likely that selection has targeted alleles with major effects on functional modules.</plag_sens>
+    <tag_file_ids>gen_doc644</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The recent finding of very low levels of genetic diversity among Lake Malawi cichlids suggests that this radiation has occurred in the context of genomic uniformity, which makes it likely that selection has targeted alleles with major effects on functional modules.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1729</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A cycle of 8 S1 stimuli was followed by a single extrastimulus, S2, which was initially 125 ms after the eighth S1.</plag_sens>
+    <tag_file_ids>gen_doc2048</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The protocol consisted of a cycle of 8 S1 stimuli at a Frequency of 8 Hz, followed by a single extrastimulus, S2, initially 125 ms after the eighth S1.</tag_plag_sens>
+  </row>
+</data>

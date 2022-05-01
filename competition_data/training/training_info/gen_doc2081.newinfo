@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2081</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It is now possible to formulate liposomes that contain drugs within the liposomal membrane.</plag_sens>
+    <tag_file_ids>gen_doc3316</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Finally, liposomes can be formulated to contain drugs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2081</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Given that citizen science projects usually assume that volunteer contributors are trusted and that these volunteers are free to determine their participation levels, we can expect a crowding in effect, such that reputation motives would bolster intrinsic motivation.</plag_sens>
+    <tag_file_ids>gen_doc3180</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Given that citizen science projects usually assume that volunteer contributors are trusted and that these volunteers are free to determine their participation levels, we can expect a crowding in effect, such that reputation motives would bolster intrinsic motivation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2081</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The figure shows a detail of the whole network, which is displayed in miniature in the upper right corner with a highlight of the expanded region, as well as the central figure, which is displayed in normal mode.</plag_sens>
+    <tag_file_ids>gen_doc1433</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The figure shows a detail of the whole network, which is displayed in miniature in the upper right corner with a highlight of the expanded region, using the impact mode, while the central figure is displayed in normal mode.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2081</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>We detected farnesylation of the full-length prelamin A even though only a small amount is present in cells figureA.</plag_sens>
+    <tag_file_ids>gen_doc831</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The AG approach is quite sensitive, as we detected farnesylation of the full-length prelamin A, even though only small amounts of farnesyl-prelamin A are present in cells figureA).</tag_plag_sens>
+  </row>
+</data>

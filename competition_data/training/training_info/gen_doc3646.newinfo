@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3646</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The lack of a beneficial effect of PDE5i in the RELAX trial may be related to the relatively low pulmonary pressures and the small proportion of participants with CPC-PH.</plag_sens>
+    <tag_file_ids>gen_doc468</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The lack of a beneficial effect of PDE5i in the RELAX trial may be related to the relatively low pulmonary pressures and the small proportion of participants with CPC-PH.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3646</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The corresponding model, which involves two independent LHVs, is termed bilocal, and it was shown that it imposes constraints on the network.</plag_sens>
+    <tag_file_ids>gen_doc1102</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The corresponding model, which involves two independent LHVs, is termed bilocal and it was shown that it imposes constraints on Bell inequalities.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3646</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The K14-N87cat mice were crossed with either the K14-E7 or the K14-HPV16 mice.</plag_sens>
+    <tag_file_ids>gen_doc3857</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The K14-N87cat mice were crossed with either K14-E7 or K14-HPV16 mice to create double transgenic mice.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3646</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The number of links between people in the population is what determines the degree of a node.</plag_sens>
+    <tag_file_ids>gen_doc2827</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The number of links between people in the population is the degree of a node.</tag_plag_sens>
+  </row>
+</data>

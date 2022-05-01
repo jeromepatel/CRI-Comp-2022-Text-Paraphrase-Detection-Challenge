@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1588</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The N-terminal binding region of the pig strain was shown to have high sequence conserved.</plag_sens>
+    <tag_file_ids>gen_doc1720</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The N-terminal binding region of the pig strains was shown to have high sequence conservers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1588</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The 1H-NMR spectrum clearly showed a downfield Olefinic protons signal, which appeared at d 7.52, assigned for H 3, in addition to two Olefinic protons at d 6.48 and d 5.53 indicating the presence of another double bond.</plag_sens>
+    <tag_file_ids>gen_doc1828</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The 1H-NMR spectrum clearly showed a downfield Olefinic protons signal, which appeared at d 7.52, assigned for H-3, in addition to two olefinic protons at d 6.48 and d 5.53 indicating the presence of another double bond.</tag_plag_sens>
+  </row>
+</data>

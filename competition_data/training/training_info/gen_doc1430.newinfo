@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1430</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The amount of time spent in caring seems to affect the symptoms of depression.</plag_sens>
+    <tag_file_ids>gen_doc411</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The amount of time spent in caring seems to affect the symptoms of depression.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1430</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The main binding site can be found at the b' domain.</plag_sens>
+    <tag_file_ids>gen_doc3257</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The main peptide binding site is provided by the b' domain.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1430</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>There is a well-known apoptotic marker in various cell types, and it is called Caspase 3, a proenzyme that needs to undergo proteolytic cleavage to generate the activated caspase 3.</plag_sens>
+    <tag_file_ids>gen_doc3381</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>There is a well-known apoptotic marker in various cell types, and it is called Caspase-3, a proenzyme that needs to undergo proteolytic cleavage to generate the activated caspase 3.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2729</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>As shown in figureC, gingerol prevented the occurrence ofPrP (106–126)-induced neurotoxicity in the cells that were transfected with non-specific siRNA.</plag_sens>
+    <tag_file_ids>gen_doc143</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>As shown in figureC, gingerol prevented the occurrence of PrP (106–126)-induced neurotoxicity in the cells transfected with non-specific siRNA, whereas treatment with gingerol had no effect.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2729</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>OD values that are correct refer to background-subtracted data at 490 NM.</plag_sens>
+    <tag_file_ids>gen_doc652</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Corrected OD values refer to the background-subtracted data at 490 nm.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2729</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>If participants refrain from pressing box buttons during the delay periods, it is indicative of inhibitory control.</plag_sens>
+    <tag_file_ids>gen_doc1636</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>If participants refrain from pressing box buttons during the delay periods, it is indicative of inhibitory control.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2729</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The results suggest that there might be a correlation between Cd-induced neuronal apoptosis and elevation figureC.</plag_sens>
+    <tag_file_ids>gen_doc2249</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The results suggest that there might be an association between Cd-induced neuronal apoptosis and the elevation figureC.</tag_plag_sens>
+  </row>
+</data>

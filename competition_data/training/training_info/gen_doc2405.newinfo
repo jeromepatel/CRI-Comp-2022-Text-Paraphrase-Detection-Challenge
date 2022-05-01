@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2405</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In the case of local tumors, the neurological deficit is usually the first sign of the disease and can be used as a predictor.</plag_sens>
+    <tag_file_ids>gen_doc57</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In the case of local tumors, the neurological deficit is the first sign of the disease, and its rate, measured via the Karnofski neurological status score, can be used as a predictive factor.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2405</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The permeability of a pristine PVDF and Def-PVDF is 964 and 1474 L/m2hbar.</plag_sens>
+    <tag_file_ids>gen_doc3321</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>For comparison, the permeability of a pristine PVDF membrane is 962 and 1474 L/m2hbar, respectively.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2405</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The first H5N8 strain was reported in the fifth HPai outbreak.</plag_sens>
+    <tag_file_ids>gen_doc852</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The H5N8 strain was the first to be reported in the fifth HPAI outbreak.</tag_plag_sens>
+  </row>
+</data>

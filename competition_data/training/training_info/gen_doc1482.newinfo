@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1482</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Each study had its own quality control and imputation was done with reference to either the Phase II CEU, CEU+YRI, or CHB+JPT+CEU HapMap according to the origin of the population.</plag_sens>
+    <tag_file_ids>gen_doc623</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Each study had its own quality control and imputation was carried out using either the Phase II CEU, CEU+YRI, or CHB+JPT+CEU HapMap according to the origin of population.</tag_plag_sens>
+  </row>
+</data>

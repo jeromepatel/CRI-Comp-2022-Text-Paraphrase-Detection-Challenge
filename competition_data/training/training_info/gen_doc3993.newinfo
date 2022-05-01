@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3993</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>As income decreases, the odds of COPD increase, according to our study.</plag_sens>
+    <tag_file_ids>gen_doc3587</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Our study found that as income decreases, the odds of COPD increase.</tag_plag_sens>
+  </row>
+</data>

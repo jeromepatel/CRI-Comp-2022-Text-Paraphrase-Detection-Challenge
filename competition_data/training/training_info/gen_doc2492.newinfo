@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2492</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In addition, a study was conducted by the same team.</plag_sens>
+    <tag_file_ids>gen_doc2147</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In addition, there is a study conducted by the same people.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2492</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The benefits of insulin therapy have been questioned due to this threat.</plag_sens>
+    <tag_file_ids>gen_doc3897</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The benefits of insulin therapy have been questioned due to this threat.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2492</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The red palm weevil's natural habitat contained several agents that were isolated from them.</plag_sens>
+    <tag_file_ids>gen_doc13</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The red palm weevil's natural habitat contained several agents that were isolated from them.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2492</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The effects of serum depletion were first thought to be related to the MAPK signaling cascade which is known to play an important role in the proliferation of cancer.</plag_sens>
+    <tag_file_ids>gen_doc500</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The effects of serum depletion were first thought to be related to the MAPK signaling cascade which is also known to play an important role in the proliferation of cancer, because K-RAS and EGFR amplification were detected in A549 cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2492</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A right sub-phrenic sovra-fluid collection of intermediate T1 and elevated T2 signal, intermediate diffusivity, with thick enhancing walls and multiple T2 and T1 hypointense round bodies were consistent with dropped gallstones.</plag_sens>
+    <tag_file_ids>gen_doc1706</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A right sub-phrenic sovra-fluid collection of intermediate T1 and elevated T2 signal, intermediate diffusivity, with thick enhancing walls and multiple T2 and T1 hypointense round bodies were consistent with dropped gallstones, according to the MRI examination.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2492</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The Brunauer–Emmett–Teller method was used to determine the surface area.</plag_sens>
+    <tag_file_ids>gen_doc300</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The surface area was determined using the Brunauer–Emmett–Teller method.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2492</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A common pathological condition contributing to diverse diseases is the metabolism of energy during hypoxia.</plag_sens>
+    <tag_file_ids>gen_doc1273</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>A common pathological condition contributing to diverse diseases is the metabolism of energy during hypoxia.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc2492</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The efficacies of the AHH index are shown in Table 8.</plag_sens>
+    <tag_file_ids>gen_doc1054</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The efficacies of the AHH index for detecting F2 with various cutoff values are shown in Table 8.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc2492</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The oxide ratio was kept below 1% during the ablation of the glass slide, because of the high ion intensity and good signal stability.</plag_sens>
+    <tag_file_ids>gen_doc647</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The oxide ratio was kept below 1% during the ablation of the glass slide, as the ICP-MS was tuned daily for maximum ion intensity and good signal stability.</tag_plag_sens>
+  </row>
+</data>

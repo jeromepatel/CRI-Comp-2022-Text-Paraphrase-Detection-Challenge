@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc242</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In sharp contrast, at 107 CFU/mouse delayed resolution.</plag_sens>
+    <tag_file_ids>gen_doc1592</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In sharp contrast, at 107 CFU/mouse delayed resolution with PMN figureb.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc242</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>It has been suggested that only U. urealyticum has the potential to cause harm in NGU, while other studies have failed to show this.</plag_sens>
+    <tag_file_ids>gen_doc744</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>It has been suggested that only U. urealyticum has the potential to cause NGU, while other studies have failed to show this.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc242</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The study participants were from five countries, including Poland, Russia, Slovakia, and the Czech Republic.</plag_sens>
+    <tag_file_ids>gen_doc3368</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The participants of the study were from five countries, while other studies were from seven countries.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc242</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The Yin Chin (Artemisia capillaris) and three other herbs are used in Asia to prevent and treat jaundice.</plag_sens>
+    <tag_file_ids>gen_doc1900</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The Yin Chin (Artemisia capillaris) and three other herbs are widely used in Asia to prevent and treat jaundice.</tag_plag_sens>
+  </row>
+</data>

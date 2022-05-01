@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2362</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Swelling features include cyst size of &gt;3 cm, mainPD size of 5–9mm, thickened enhanced cyst walls, and non-enhancement mural nodules.</plag_sens>
+    <tag_file_ids>gen_doc3679</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Swelling features include cyst size of &gt;3 cm, mainPD size of 5–9mm, thickened enhanced cyst walls, non-enhancement mural nodules, and a change in caliber of the PD.</tag_plag_sens>
+  </row>
+</data>

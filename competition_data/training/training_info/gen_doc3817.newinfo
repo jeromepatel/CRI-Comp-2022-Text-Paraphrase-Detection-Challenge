@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3817</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Managers are able to balance families contributions to the next generation when the population is larger.</plag_sens>
+    <tag_file_ids>gen_doc1997</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The ability of managers to balance families contributions to the next generation when population size is larger is likely the reason for the relaxation of selection.</tag_plag_sens>
+  </row>
+</data>

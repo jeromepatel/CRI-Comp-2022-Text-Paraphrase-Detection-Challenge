@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3238</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>During the prophase I of the two species, the X chromosomes were positive until the diplotene came along.</plag_sens>
+    <tag_file_ids>gen_doc3971</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>During the prophase I of the two species, the X chromosome was positive until the diplotene, which was in the metaphase I figure, b-d.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3238</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The data on social media use by gender is reported by other sources.</plag_sens>
+    <tag_file_ids>gen_doc814</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>This is in line with the generic profile data on social media use by genders reported by other sources.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc719</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There are conditions that are not believed to have been associated with nerve injury that are referred to as type I.</plag_sens>
+    <tag_file_ids>gen_doc913</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>This condition was previously called reflex sympathetic dystrophy and was originally referred to as type I designation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc719</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The absence of ACoA, bilateral PCoA, fetal type arteries, and fused vessels are some of the examples of typical variations.</plag_sens>
+    <tag_file_ids>gen_doc1977</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The absence of ACoA, bilateral PCoA, fetal type arteries, and fused vessels are typical anatomical variations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc719</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The percentages of SKM-1 cells in the G0/G1 phase were 61.473.16% and 76.00 1.51%, respectively.</plag_sens>
+    <tag_file_ids>gen_doc1398</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The percentages of SKM-1 cells in the G0/G1 phase were 61.473.16% and 76.00 1.51%, respectively, when treated with 20 M DFX or 100 M DFX for 48 h.</tag_plag_sens>
+  </row>
+</data>

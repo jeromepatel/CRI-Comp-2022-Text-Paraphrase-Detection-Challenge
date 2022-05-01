@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc293</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>In our study, the differences between sexes are on average only 6 to 11 days, while in the wild it is about 3 weeks.</plag_sens>
+    <tag_file_ids>gen_doc2545</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In our study, the differences between sexes are average of 6 to 11 days, while in the wild, it is about 3 weeks.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc293</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The vesicular stomatitis virus G, a marker of the basolateral pathway of vesicle traffic in epithelial cells, was found within myelin-like Membrane extensions of cultured oligodendrocytes.</plag_sens>
+    <tag_file_ids>gen_doc3065</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The vesicular stomatitis virus G, a marker of the basolateral pathway of vesicle traffic in epithelial cells, was found within myelin-like membrane extensions of cultured oligodendrocytes.</tag_plag_sens>
+  </row>
+</data>

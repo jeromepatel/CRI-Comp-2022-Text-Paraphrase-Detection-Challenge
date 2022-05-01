@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3494</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There is no evidence that the status of the RAS will be a factor in the sensitivity of HDAC inhibitor.</plag_sens>
+    <tag_file_ids>gen_doc1495</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There is no evidence that the status of the RAS will be a factor in the sensitivity of HDAC inhibitor.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3494</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A reference to VARV major, strain Bangladesh-1975, led to the discovery of 124 ORFs that are shared between 8 different complete genomes from several orthopoxviruses.</plag_sens>
+    <tag_file_ids>gen_doc3124</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>A reference to VARV major, strain Bangladesh-1975, led to the identification of 124 ORFs that are shared between 8 different complete genomes from several orthopoxviruses.</tag_plag_sens>
+  </row>
+</data>

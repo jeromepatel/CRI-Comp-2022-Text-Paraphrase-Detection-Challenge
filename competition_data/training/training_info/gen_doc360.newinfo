@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc360</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The width of the connecting line illustrates the efficiency.</plag_sens>
+    <tag_file_ids>gen_doc906</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The width of the connecting line shows the efficiency of the phosphorylation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc360</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Our experiments show that the dsRNA activity of the UAP56 is dependent on the activity of the ATP.</plag_sens>
+    <tag_file_ids>gen_doc3360</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Our experiments show that Arabidopsis UAP56 has dsRNA activity, but it is unable to unwind dsDNA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc360</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>He was on enoxaparin for a possible embolic or thrombotic cause of vision loss.</plag_sens>
+    <tag_file_ids>gen_doc807</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>He was on enoxaparin for a possible embolic or thrombotic cause of visual loss.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc360</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The order in which the early amino acids are given in this paper is related to thermodynamics.</plag_sens>
+    <tag_file_ids>gen_doc2930</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The order in which the early amino acids are given in this paper is related to thermodynamics.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc360</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The use of TEE to guide the placement of holes in the heart is well known.</plag_sens>
+    <tag_file_ids>gen_doc3687</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The use of TEE to guide the placement of catheters to close holes in the heart has been well described.</tag_plag_sens>
+  </row>
+</data>

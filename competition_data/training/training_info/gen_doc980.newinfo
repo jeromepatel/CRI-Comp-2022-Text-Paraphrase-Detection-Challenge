@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc980</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The analysis of LIMK1 mice suggested a role for filin in the development of the spine.</plag_sens>
+    <tag_file_ids>gen_doc1218</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The analysis of LIMK1 mice suggested a role for filin in synaptic plasticity and the development of the spine.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc980</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The Western blot of DCs was created using the anti-cPLA2 and total cPLA2 antibodies.</plag_sens>
+    <tag_file_ids>gen_doc2402</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The Western blot of DCs was created using the anti-cPLA2 and total cPLA2 antibodies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc980</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The research team met the party that commissioned the evaluability assessment, SCDC/CHEX, and was given relevant reports such as an Evidence of Impact Report and a document giving background on the HIIC's underlying approach entitled Community Led Health for All as well as the HIIC.</plag_sens>
+    <tag_file_ids>gen_doc637</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>To start, the research team met the party that commissioned the evaluability assessment, SCDC/CHEX, and was given relevant reports such as an Evidence of Impact Report and a document giving background on the HIIC's underlying approach entitled Community Led Health for All as well as the</tag_plag_sens>
+  </row>
+</data>

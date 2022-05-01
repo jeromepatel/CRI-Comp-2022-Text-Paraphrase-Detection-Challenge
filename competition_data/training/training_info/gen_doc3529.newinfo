@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3529</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>While preserving their viability, the cells were released from the cytosol by the destabilization.</plag_sens>
+    <tag_file_ids>gen_doc3323</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The release of eGFP from the cells was very short, because of the destabilization.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3529</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We did not detect any significant change in their levels following litter size manipulation.</plag_sens>
+    <tag_file_ids>gen_doc1316</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We did not detect any significant change in their levels following litter size manipulation, but we did analyse them using proteomics.</tag_plag_sens>
+  </row>
+</data>

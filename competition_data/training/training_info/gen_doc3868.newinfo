@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3868</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>This is the first report that shows tumor cell-derived activities to induce OSM in humans.</plag_sens>
+    <tag_file_ids>gen_doc1311</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>This is the first report that shows tumor cell-derived activities to induce OSM secretion by primary human PBMC and M, supporting an interaction model.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3868</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>Patients in the NDN group may have a higher risk of CVD events than those in the DN group.</plag_sens>
+    <tag_file_ids>gen_doc2691</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Patients in the NDN group may have a higher risk of new CVD events than those in the DN group.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3868</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Ventricular assist devices and artificial hearts have been shown to prolong lives as compared to medical therapy alone.</plag_sens>
+    <tag_file_ids>gen_doc2566</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>As an alternative to heart transplantation, ventricular assist devices and artificial hearts are being used today as a definite therapeutic mode and have been shown to prolong lives as compared to medical therapy alone.</tag_plag_sens>
+  </row>
+</data>

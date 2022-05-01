@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc420</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The Hessian matrix and the Nelder-Mead method are both expensive for high-dimensional problems.</plag_sens>
+    <tag_file_ids>gen_doc2422</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The Nelder-Mead method is computationally expensive for high-dimensional problems, and the method requires construction of the Hessian matrix, the second derivative of the error surface.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3477</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>D. radiodurans sBCCD cells exhibit delayed repair of DSBs after ionizing Radiation.</plag_sens>
+    <tag_file_ids>gen_doc2890</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>D. radiodurans sBCCD cells exhibit delayed repair of DSBs when exposed to ionizing radiation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3477</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Fixed interval schedules are one of the most basic assessments of arbitrary interval timing and have traditionally been observed to produce qualitative "scalloped" or "break-and-run" cumulative response curves in organisms.</plag_sens>
+    <tag_file_ids>gen_doc2195</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Fixed interval (FI) schedules are one of the most basic assessments of arbitrary interval timing and have traditionally been observed to produce qualitative "scalloped" or "break-and-run" cumulative response curves in organisms, as well as lower session response rates compared to responding on continuous reinforcement</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3477</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>II-spectrin is abundant at the sarcomeres but also at the Z- and intercalated discs.</plag_sens>
+    <tag_file_ids>gen_doc90</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>II- Spectrin is abundant at the sarcomeres but also at the Z- and intercalated discs close to the edges.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3477</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The expression map of serovar Pullorum had a different expression pattern than the other ones.</plag_sens>
+    <tag_file_ids>gen_doc2411</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The expression map of serovar Pullorum had a different expression pattern than the other ones.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3477</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>History can be used to diagnose AC.</plag_sens>
+    <tag_file_ids>gen_doc2469</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>History and a detailed general/neurological examination can be used for the diagnosis of AC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3477</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The bladder is in the book, Kavia et al.</plag_sens>
+    <tag_file_ids>gen_doc3886</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The bladder is in the book, Kavia et al.</tag_plag_sens>
+  </row>
+</data>

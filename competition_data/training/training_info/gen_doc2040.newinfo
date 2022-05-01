@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2040</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The control mice were heavier than the IL-15 Tg mice after high-fat feeding.</plag_sens>
+    <tag_file_ids>gen_doc133</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Control mice weighed more than the IL-15 Tg mice after high-fat feeding.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2040</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The reverse transcription was performed using the Applied Biosystems 7900 HT instruments.</plag_sens>
+    <tag_file_ids>gen_doc3712</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The reverse transcription was performed using the Applied Biosystems 7900 HT instruments.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2040</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The interface in the p300 side of the interaction was not shown, however, we have found reduced interactions in Spalax compared to humans due to different interface-residues.</plag_sens>
+    <tag_file_ids>gen_doc1243</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The interface in the p300 side of the interaction was conserved, however, we have found reduced interactions in Spalax compared to humans due to different interface-residues in p53 figureb.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2040</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There is a capsule form of a fixed dose combination that is available in the market.</plag_sens>
+    <tag_file_ids>gen_doc407</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The capsule form of a fixed dose combination is available in the market and is indicated for acid related disorders.</tag_plag_sens>
+  </row>
+</data>

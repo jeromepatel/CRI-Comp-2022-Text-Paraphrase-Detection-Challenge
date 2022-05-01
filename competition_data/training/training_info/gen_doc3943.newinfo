@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3943</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In most cases the male genitalia needs to be studied for reliable species identification if the species is similar in point of external morphology.</plag_sens>
+    <tag_file_ids>gen_doc2035</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In most cases the male genitalia needs to be studied for reliable species identification, because some species are quite similar in point of external morphology.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3943</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The P. yoelii 17X(NL) erythrocytic infection was similar to the P. chabaudi.</plag_sens>
+    <tag_file_ids>gen_doc2524</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Both Il21 and Il21r mice failed to clear a P. yoelii 17X(NL) erythrocytic infection.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3943</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The A+T-richness of the whole sequence is similar to those in some cestodes.</plag_sens>
+    <tag_file_ids>gen_doc1299</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The A+T-richness of the entire sequence is similar to that in some cestodes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3943</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The model uses transformations of numerical sequences, continuous wavelet and histogram to extract the features.</plag_sens>
+    <tag_file_ids>gen_doc2479</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The proposed model uses the transformations of numerical sequences, continuous wavelet and Local Binary Pattern Histogram to extract theProtein features.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3943</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The two MAUFVs were able to differentiate between different levels of disability.</plag_sens>
+    <tag_file_ids>gen_doc3124</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Both the SG MAUFV and theRS MAUFV were able to differentiate between different levels of disability.</tag_plag_sens>
+  </row>
+</data>

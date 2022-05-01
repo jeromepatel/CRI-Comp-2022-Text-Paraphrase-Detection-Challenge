@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc247</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The detection was limited to solitary pulmonary nodules.</plag_sens>
+    <tag_file_ids>gen_doc3018</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The detection was restricted to solitary pulmonary nodules.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc247</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Interviewer skills can't be assumed to be of high-quality, and variability in interviewer skills poses a risk to data quality</plag_sens>
+    <tag_file_ids>gen_doc1464</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Interviewer skills can't be assumed to be of high-quality, and variability in interviewer skills presents a significant risk to data quality.</tag_plag_sens>
+  </row>
+</data>

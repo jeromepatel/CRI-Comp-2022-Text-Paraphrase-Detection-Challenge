@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3123</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In 2012 and 2013;</plag_sens>
+    <tag_file_ids>gen_doc2983</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In 2012 and 2013).</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3123</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The need for better and more cost-effective treatment strategies is related to the need for a deeper understanding of the disease.</plag_sens>
+    <tag_file_ids>gen_doc3953</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The need for better and more cost-effective treatment strategies points to the need for a deeper understanding of the disease's pathogenesis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3123</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Among a group of highly educated women, awareness of the availability of breast cancer preventive therapy is limited.</plag_sens>
+    <tag_file_ids>gen_doc1581</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Awareness of the availability of breast cancer preventive therapy is limited among a group of highly educated women.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3123</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The normal architecture, necrosis of the myeloid tissue, and medullary stroma were shown in a bone marrow biopsy.</plag_sens>
+    <tag_file_ids>gen_doc1807</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The normal architecture, necrosis of the myeloid tissue, and medullary stroma were disrupted by the bone marrow biopsy.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3123</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The MPO-induced vasoconstrictions were converted to robust vasodilations in the presence of L-Met.</plag_sens>
+    <tag_file_ids>gen_doc1334</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In the presence of L-Met, the MPO-induced vasoconstrictions were converted to robust vasodilations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3123</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Due to the complexity and diversity of the molecular events underlying cell–fluoride interactions, the mechanisms of fluoride-mediated apoptosis are not fully understood.</plag_sens>
+    <tag_file_ids>gen_doc492</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Due to the complexity and diversity of the molecular events underlying cell–fluoride interactions, the mechanisms of fluoride-mediated apoptosis are still not fully understood.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3123</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The Louvain method is used for clustering.</plag_sens>
+    <tag_file_ids>gen_doc1797</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We use the Louvain method for clustering, a tool that is accurate and efficient.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc3123</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>To calculate the position of principal point precisely to the subnet of photographs taken with the camera at 0, two more photos were added.</plag_sens>
+    <tag_file_ids>gen_doc3645</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Two more photos were added to the photographs taken with the camera at 0 and 90 to calculate the position of the principal point.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc3123</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Long noncodingRNAs are very diverse with respect to their origins and mechanisms of action, and may also be expressed in the sense or antisense orientation relative to their protein-coding gene counterparts.</plag_sens>
+    <tag_file_ids>gen_doc3166</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Long noncodingRNAs are very diverse with respect to their origins and mechanisms of action, and may also be expressed in the sense or antisense orientation relative to their protein-coding gene counterparts.</tag_plag_sens>
+  </row>
+  <row>
+    <index>9</index>
+    <file_ids>gen_doc3123</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The release of MMP-2 and MMP-9 from the neutrophils helps clear the path from the tissues.</plag_sens>
+    <tag_file_ids>gen_doc3642</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The release of MMP-2 and MMP-9) from the neutrophils helps clear the path from the tissues.</tag_plag_sens>
+  </row>
+</data>

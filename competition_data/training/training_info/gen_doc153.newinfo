@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc153</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The closest-neighbour effective exchange interaction for Pd/Fe/Ir is 70.2 meV per bond.</plag_sens>
+    <tag_file_ids>gen_doc1023</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The nearest-neighbour effective exchange interaction for Pd/Fe/Ir is 70.2 meV per bond, while the DM is 2.2 meV per bond.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc153</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The amplification conditions included a single cycle of 95 C for 10 minutes, followed by 40 cycles of 95 C for 15 seconds and 60 C for 1 minute.</plag_sens>
+    <tag_file_ids>gen_doc2009</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Amplification conditions were a single cycle of 95 C for 10 minutes, followed by 40 cycles of 95 C for 15 seconds and 60 C for 1 minute.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc153</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It was portrayed as a time consuming, laborious and expensive approach.</plag_sens>
+    <tag_file_ids>gen_doc597</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>It was portrayed as a time consuming, low throughput, laborious, and expensive approach.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc153</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>ROS can also disrupt the formation of PtdIns3K by binding to BECN1 and BCL2 which is a B-cell CLL/lymphoma 2 family.</plag_sens>
+    <tag_file_ids>gen_doc1364</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>ROS can also disrupt the formation of PtdIns3K by binding to BECN1 and BCL2 which is a B-cell CLL/lymphoma 2 family proteins.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc153</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The increased expression of hsa-miR-223 in ESCC might affect the expression of genes that affect the patients' progess.</plag_sens>
+    <tag_file_ids>gen_doc1879</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The increased expression of hsa-miR-223 in ESCC might affect the expression of genes that affect patients' prognoses.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc153</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Further studies are needed to confirm the findings.</plag_sens>
+    <tag_file_ids>gen_doc1697</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Further studies with larger patient populations are necessary to confirm our findings.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc153</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In cyberbullies try to cause harm or embarrassment to the victim by repeatedly sending electronic messages.</plag_sens>
+    <tag_file_ids>gen_doc3136</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>In cyberbullies try to cause harm or embarrassment to the victim by repeatedly sending electronic messages with cruel content.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc153</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The death of cells was caused by Mitochondrial calcium absorption.</plag_sens>
+    <tag_file_ids>gen_doc3651</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The death of cells was caused by Mitochondrial calcium absorption 1-dependent cell death.</tag_plag_sens>
+  </row>
+</data>

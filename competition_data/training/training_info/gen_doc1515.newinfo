@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1515</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The cells were stimulated for 9 hours at 37C and then Brefeldin A was added at a concentration of 10 g/ml.</plag_sens>
+    <tag_file_ids>gen_doc3156</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Cells were stimulated for 9 hours at 37C and Brefeldin A was added at a concentration of 10 g/ml.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1515</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The M-series codon models don't take into account the change in the chemistry of the substitution.</plag_sens>
+    <tag_file_ids>gen_doc2301</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The M-series codon models don't take into account the change in the chemistry of the amino acid substitution.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1515</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The knockout mutants Atnudt7 had increased expression of defense related genes and increased levels of salicylic acid.</plag_sens>
+    <tag_file_ids>gen_doc1584</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The knockout mutants Atnudt7 had increased expression of defense related genes and higher levels of salicylic acid, which resulted in enhanced defense againstbacteria.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1515</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Resting post-activated cells were washed and incubated overnight with HIV-CMV-EGFP after being treated with Vpx-VLPs.</plag_sens>
+    <tag_file_ids>gen_doc2840</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Resting post-activated cells were washed and incubated overnight with HIV-CMV-EGFP after being treated with Vpx-VLPs or Mock-VLPs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1515</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Patients who were least likely to be granted sick leave could not be compared with patients who were most likely to be granted sick leave.</plag_sens>
+    <tag_file_ids>gen_doc3327</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Patients who were least likely to be granted sick leave were not different from patients who were most likely to be granted sick leave based on a single question or factor.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1515</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The GO annotations were mapped using BLAST2 GO.</plag_sens>
+    <tag_file_ids>gen_doc2951</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We mapped the GO annotations to the Generic GO-Slim terms.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1515</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>We only show the theorem for the space since it can be shown in the same way for the other spaces.</plag_sens>
+    <tag_file_ids>gen_doc1624</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We only show the theorem for the space since it can be shown in the same way for other spaces.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1515</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>In contrast to sheep, ferrets have a short gestation time, and its third-trimester equivalent of human gestation occurs after the birth of the child.</plag_sens>
+    <tag_file_ids>gen_doc1799</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In contrast to sheep, ferrets have a short gestation time, and its third-trimester equivalent of human gestation occurs after birth.</tag_plag_sens>
+  </row>
+</data>

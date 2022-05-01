@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc188</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>This current is thought to be a flexoelectric current since it is the second term in the expression of the flexo electricity current.</plag_sens>
+    <tag_file_ids>gen_doc647</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>This current is thought to be a flexoelectric current since it is the second term in the expression of the flexoelectricity current, Eq.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc188</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Avena has other congeneric species in the figure.</plag_sens>
+    <tag_file_ids>gen_doc1835</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Avena contains other congeneric species in a figure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc188</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Before assessing willingness to participate, we explained the meaning of research to everyone.</plag_sens>
+    <tag_file_ids>gen_doc1376</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Before assessing willingness to participate, we explained the meaning of the research to all participants.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc188</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Long preincubation with -T increased its protective effect in rat brain cortical neurons and PC12 cells.</plag_sens>
+    <tag_file_ids>gen_doc78</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>It was shown that long preincubation (18– 24 h) with -T increased its protective effect in rat brain cortical neurons and PC12 cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc188</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The patient is in a supine position during the procedure.</plag_sens>
+    <tag_file_ids>gen_doc1259</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The patient is in a supine position and under general anesthesia.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc188</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The date is an important source of vitamins, minerals and fiber.</plag_sens>
+    <tag_file_ids>gen_doc3194</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The date is an important source of vitamins, minerals and fiber.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc188</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Mouse neuroblastoma cells are semi-adherent and fast growing.</plag_sens>
+    <tag_file_ids>gen_doc513</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>N2a cells are semi-adherent, fast growing, mouse neuroblastoma cell line.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc188</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The survival plot was divided into two parts, Kaplan–Meier.</plag_sens>
+    <tag_file_ids>gen_doc520</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The survival plot was P=0.51 and Kaplan–Meier.</tag_plag_sens>
+  </row>
+</data>

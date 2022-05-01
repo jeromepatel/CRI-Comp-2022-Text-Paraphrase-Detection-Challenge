@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc243</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The mean treatment and upper and lower 95% confidence intervals were calculated using bootstrap analysis and a resampling number of 2000</plag_sens>
+    <tag_file_ids>gen_doc2495</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The mean treatment and upper and lower 95% confidence intervals were calculated from the FEC data using bootstrap analysis and a resampling number of 2000.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc243</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>People with unipolar depression and controls also made positive appraisals of activated states, but they were distinguished by their negative appraisals of activated states.</plag_sens>
+    <tag_file_ids>gen_doc353</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Individuals with unipolar depression and controls also made positive appraisals of activated states, but they were distinguished by their negative appraisals of activated states.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc243</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The offspring of parents with any mood disorder differed from controls on appraisals of high mood as being necessary to avoid failure as well as appraisals of high mood as a sign of losing control.</plag_sens>
+    <tag_file_ids>gen_doc192</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Offspring of parents with any mood disorder differed from controls on appraisals of high mood as being necessary to avoid failure, as well as appraisals of high mood as a sign of losing control.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc243</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Internal standard of mRNA expression was served by the average Ct value of the housekeeping genes.</plag_sens>
+    <tag_file_ids>gen_doc105</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The internal standard of mRNA expression was served by the average Ct value of the following housekeeping genes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc243</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Anopheles rests by thrusting its abdomen upward, while Aedes rests parallel to its resting surface.</plag_sens>
+    <tag_file_ids>gen_doc3374</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Anopheles rests by thrusting its abdomen upward to align the proboscis and main body, whereas Aedes rests parallel to its resting surface.</tag_plag_sens>
+  </row>
+</data>

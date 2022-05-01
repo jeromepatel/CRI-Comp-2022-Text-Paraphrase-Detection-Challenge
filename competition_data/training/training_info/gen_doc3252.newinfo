@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3252</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>A burr hole was made and a 10 l Hamilton needle was used to deliver 2 l of S. aureus-laden beads into the brain parenchyma.</plag_sens>
+    <tag_file_ids>gen_doc1573</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A burr hole was made and a 10 l Hamilton syringe fitted with a 26 gauge needle was used to slowly deliver 2 l of S. aureus-laden beads into the brain parenchyma.</tag_plag_sens>
+  </row>
+</data>

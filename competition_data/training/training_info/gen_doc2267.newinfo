@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2267</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>According to the literature, patients with a score under 19 for ACT and above 1 forATAQ were considered to have asthma.</plag_sens>
+    <tag_file_ids>gen_doc407</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>According to the literature, patients with a score under 19 for ACT and above 1 for ATAQ were considered having asthma.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2267</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Table 2 contains the probabilities listed.</plag_sens>
+    <tag_file_ids>gen_doc1666</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The probabilities are listed in Table 2.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2267</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The overall reaction was improved about 5 times.</plag_sens>
+    <tag_file_ids>gen_doc3025</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The overall reaction's selectivity was improved by about 5-fold.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2267</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The Dodo and Kairei populations had a single peak in the size distribution pattern.</plag_sens>
+    <tag_file_ids>gen_doc3773</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The Dodo and Kairei populations had a single peak in the size distribution pattern, but the Solitaire population showed two peaks.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2267</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The tumors were Her-2/neu, ER and PR negative, and approximately 50%-60% of the cells were Ki-67 positive, according to the staining.</plag_sens>
+    <tag_file_ids>gen_doc1122</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The tumor cells were Her-2/neu, ER and PR negative, and approximately 50%-60% of the cells were Ki-67 positive.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2267</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Figure 2F is related.</plag_sens>
+    <tag_file_ids>gen_doc1248</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Figure 2F is related to this.</tag_plag_sens>
+  </row>
+</data>

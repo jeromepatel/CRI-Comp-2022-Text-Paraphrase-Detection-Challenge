@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc498</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There was no significant difference in the concentrations of the two genes in the plants grown on GM with 70 mM of additional sucrose.</plag_sens>
+    <tag_file_ids>gen_doc0</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>In the plants grown on GM with 70 mM additional sucrose, there was no significant difference in the cellular concentrations of Glu or Gln, with the exception of an increase in both of these amino acids.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc498</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The product specifications are not defined on the basis of biological effects.</plag_sens>
+    <tag_file_ids>gen_doc612</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Product specifications are not defined on the basis of biological effects and may still be relevant for PRCA induction.</tag_plag_sens>
+  </row>
+</data>

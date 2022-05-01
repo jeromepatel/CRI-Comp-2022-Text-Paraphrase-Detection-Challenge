@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1158</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The geminal or branched isomer is formed when a cationic intermediate forms that facilitates migration of the -Pd–C bond from the terminal alkenic 1-position to the 2-position.</plag_sens>
+    <tag_file_ids>gen_doc2502</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The geminal or branched (b) isomer is formed when a cationic intermediate forms that facilitates the migration of the -Pd–C bond from the terminal alkenic 1-position to the 2-position.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1158</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The nif cluster did not see a 54- dependent  24/-12 promoter sequence.</plag_sens>
+    <tag_file_ids>gen_doc769</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>A 54- dependent  24/-12 promoter sequence was not observed upstream of the nif cluster.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1158</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The ability to generate a high-throughput screening methodology to expedite a typical drug discovery process requires considerations.</plag_sens>
+    <tag_file_ids>gen_doc3391</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The ability to generate a high-throughput screening methodology to expedite a typical drug discovery process is a balance that needs to be addressed.</tag_plag_sens>
+  </row>
+</data>

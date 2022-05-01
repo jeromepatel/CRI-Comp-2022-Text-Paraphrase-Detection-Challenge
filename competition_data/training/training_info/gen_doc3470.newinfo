@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3470</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The actual cases have been a fraction of estimated cases.</plag_sens>
+    <tag_file_ids>gen_doc653</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The actual reported cases have been a fraction of estimated cases.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3470</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>It is not known how the pathogenic mutants contribute to the disease.</plag_sens>
+    <tag_file_ids>gen_doc1817</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>It is not known how the LRRK2 pathogenic mutants contribute to neurodegeneration.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3470</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The activity from the hippocampus jumped to the end of the mEC before jumping to the end of the lEC.</plag_sens>
+    <tag_file_ids>gen_doc3302</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The activity from the hippocampus jumped to the end of the mEC before jumping to the end of the lEC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3470</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>We studied the elasticity patterns of the age-based matrices into which each of the studied matrices were converted to overcome the effect of the transition from juvenile to adult stages.</plag_sens>
+    <tag_file_ids>gen_doc1920</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>To overcome the effect of the transition from juvenile to adult stages on the elasticity sums of S and S, we studied the elasticity patterns of the age-based matrices into which each of the studied matrices were converted.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3470</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Where the species has not been determined or where it is irrelevant will be where ureaplasmas will be used.</plag_sens>
+    <tag_file_ids>gen_doc2159</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The term ureaplasmas will be used where the species has not been determined, or where it is irrelevant.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3470</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The figure shows the voltage at the storageCapacitor for the three strategies.</plag_sens>
+    <tag_file_ids>gen_doc2319</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The figure shows the voltage at the storageCapacitor for the three strategies.</tag_plag_sens>
+  </row>
+</data>

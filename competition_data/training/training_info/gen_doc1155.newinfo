@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1155</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Sand dust blowing at wind speeds over 5 m s-1 occurs more than 300 times a year.</plag_sens>
+    <tag_file_ids>gen_doc1049</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>On average, sand dust blowing at wind speeds over 5.0 m s-1 occurs 323 times per year.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1155</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The goal of the development of balance reactions is to improve the balance of the trunk.</plag_sens>
+    <tag_file_ids>gen_doc1202</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The development of balance reactions is aimed at improving the balance of the trunk.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1155</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The Blimp1, VillinCre26 and Cyp1a1Cre50 mice have been described before.</plag_sens>
+    <tag_file_ids>gen_doc3445</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Blimp1, VillinCre26 and Cyp1a1Cre50 mice have previously been described.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1155</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The two sets of variables are not independent according to the analysis.</plag_sens>
+    <tag_file_ids>gen_doc1291</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The two sets of variables are not independent according to the analysis.</tag_plag_sens>
+  </row>
+</data>

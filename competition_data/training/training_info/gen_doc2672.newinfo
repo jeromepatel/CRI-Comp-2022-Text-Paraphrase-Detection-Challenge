@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2672</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Keeping a large number of genes is beneficial to the plant for defense against different pathogens, but also results in a fitness cost.</plag_sens>
+    <tag_file_ids>gen_doc1997</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Keeping a large number of genes is beneficial to the plant for defense against different pathogens, but it also results in a fitness cost if you don't have a pathogen environment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2672</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Folate and B12 deficiency were found to be very low in women by the SLMS.</plag_sens>
+    <tag_file_ids>gen_doc2289</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Folate and B12 deficiency were found to be very low in women by the SLMS.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2672</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>rosiglitazone and pioglitazone are PPAR- agonists that improve insulin resistance in the fat tissue, muscle, and liver, and reduce the amount of fat in the body.</plag_sens>
+    <tag_file_ids>gen_doc3207</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>rosiglitazone, pioglitazone, and other TZDs are PPAR- agonists that improve insulin resistance in the fat tissue, muscle, and liver, as well as reduce the amount of fat in the liver.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2672</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Increased N input may increase available N and increase organic matter by increasing plant productivity.</plag_sens>
+    <tag_file_ids>gen_doc3397</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Increased N input may directly increase available N and indirectly increase organic matter by increasing plant productivity, thus promoting the growth of microorganisms.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2672</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The sequence were submitted to Genbank and can be found under accession numbers HQ185258 to HQ185283.</plag_sens>
+    <tag_file_ids>gen_doc2022</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The sequence were submitted to Genbank and can be found under accession numbers HQ185258 to HQ185282.</tag_plag_sens>
+  </row>
+</data>

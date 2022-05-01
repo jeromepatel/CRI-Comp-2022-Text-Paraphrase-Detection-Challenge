@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc219</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Although the importance of oncofetal production byDD cells is not clear, the ability of these cells to actively modify the composition of the ECM appears to facilitate collagen contraction in a petri dish.</plag_sens>
+    <tag_file_ids>gen_doc1804</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Although the importance of oncofetal production by DD cells is not clear, the ability of these cells to actively modify the composition of the ECM appears to facilitate collagen contraction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc219</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>After stress in both tolerant and sensible accessions (Embrapa 48 and BR-16), the 3'UTRs of all three alternative transcripts of the Glyma06g19820 were mapped in.</plag_sens>
+    <tag_file_ids>gen_doc2239</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>After stress in both tolerant and sensible accessions (Embrapa 48 and BR-16), the 3'UTRs of all three alternative transcripts of the Glyma06g19820 were mapped in the GmDr_ 44 and 3640).</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc219</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The scaling factor can be changed.</plag_sens>
+    <tag_file_ids>gen_doc656</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Changing the scaling factor</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc219</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Many of the gray matter changes seen in pain patients are no longer seen.</plag_sens>
+    <tag_file_ids>gen_doc793</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Many of the gray matter changes seen in pain patients disappear with cessation of pain.</tag_plag_sens>
+  </row>
+</data>

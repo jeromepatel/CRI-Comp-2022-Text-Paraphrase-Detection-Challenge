@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1481</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Similar to the iron-soaked structures, this arrangement of solvent is coordinated.</plag_sens>
+    <tag_file_ids>gen_doc1800</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Similar to the iron-soaked structures, this arrangement of coordinated solvent is similar.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1481</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>If the trial was funded by a for-profit organisation, the trial's conclusions would recommend the experimental drug more often than if it was not.</plag_sens>
+    <tag_file_ids>gen_doc2269</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>If the trial was funded by a for-profit organisation, the trial's conclusions would recommend the experimental drug as the drug of choice more often, even after adjusting for the effect size.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1481</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The amount of wind-generated noise increases when driving on the motorway, probably due to the increased speed.</plag_sens>
+    <tag_file_ids>gen_doc1971</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The amount of wind-generated noise increases when driving on the motorway, probably because of the increased speed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1481</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The control group's HIF-1 was mostly found in the cytoplasm.</plag_sens>
+    <tag_file_ids>gen_doc3702</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The control group's HIF-1 was mostly found in the cytoplasm in the renal tissues.</tag_plag_sens>
+  </row>
+</data>

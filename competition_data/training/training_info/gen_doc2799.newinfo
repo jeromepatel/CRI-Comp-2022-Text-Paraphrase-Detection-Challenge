@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2799</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The dyed cell remained visible through a larger depth of focus than the un labeled cell, where the un labeled cell was visible through 10 focal planes in Z.</plag_sens>
+    <tag_file_ids>gen_doc2409</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The dyed cell remained visible through a larger depth of focus than the un labeled cell, where the un labeled cell was visible through 10 focal planes in z before its signal to noise became 1</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2799</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The decreases of curli variant in soil are shown in Figure S1.</plag_sens>
+    <tag_file_ids>gen_doc3155</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The decreases of curli variant in soil as compared to parental strains are shown in Figure S1.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2799</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The individual fibers were liberated by rigorous pipetting and were then centrifuged for 5 minutes.</plag_sens>
+    <tag_file_ids>gen_doc905</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The individual fibers were liberated by rigorous pipetting and were then centrifuged at 300  g for 5 min.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2799</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Despite the need for specific devices for each type of implant, the pullout test is established in this medical specialty.</plag_sens>
+    <tag_file_ids>gen_doc1995</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The pullout test is established in this medical specialty, despite the need for specific devices for each type of implant, because of the method proposed by medical orthopedics.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2799</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Compared with unexposed animals, the levels of prostaglandins in the mucosa decreased significantly.</plag_sens>
+    <tag_file_ids>gen_doc1212</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Compared with unexposed animals, the levels of prostaglandins and mucous in the mucosa decreased in Cd-exposed animals.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2799</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Each individual had between 5 and 14 alleles.</plag_sens>
+    <tag_file_ids>gen_doc964</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The number of alleles in each individual ranged from 5 to 14 within the species.</tag_plag_sens>
+  </row>
+</data>

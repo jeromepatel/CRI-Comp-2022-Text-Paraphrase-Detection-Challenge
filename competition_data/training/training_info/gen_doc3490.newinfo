@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3490</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>HepG2 cells showed the typical apoptotic nuclear morphology after exposure to 2.5M HCPT for 48h, and presented cell-to-cell contact loss, nuclear shrinkage, membrane blobbing, DNA condensation and fragmentation figureC).</plag_sens>
+    <tag_file_ids>gen_doc2980</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>HepG2 cells showed the typical apoptotic nuclear morphology after exposure to 2.5M HCPT for 48h, and presented cell-to-cell contact loss, nuclear shrinkage, membrane blobbing, DNA condensation and fragmentation figureC).</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3490</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The temperature dependence of the'value is not as strong as that of the - phase.</plag_sens>
+    <tag_file_ids>gen_doc708</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The temperature dependence of the'value for the -phase is less than that of the -phase.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3490</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The thermostat operating temperature was provided by the heater that was made of SUS304.</plag_sens>
+    <tag_file_ids>gen_doc489</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The thermostat operating temperature was provided by the heater that was made of SUS304.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3490</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The output shows a matrix comparing the predicted label with the true label.</plag_sens>
+    <tag_file_ids>gen_doc1694</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The output showed a confusion matrix comparing the predicted label with the true label.</tag_plag_sens>
+  </row>
+</data>

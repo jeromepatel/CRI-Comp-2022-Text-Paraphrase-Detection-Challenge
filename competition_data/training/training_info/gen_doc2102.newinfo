@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2102</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The power plant and vehicle exhaust are from the daytime.</plag_sens>
+    <tag_file_ids>gen_doc3962</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>daytime PM 2.5 from power plant to vehicle exhaust.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2102</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The Tukey-Kramer method was used to make a multiple comparison adjustment for the p values.</plag_sens>
+    <tag_file_ids>gen_doc3529</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The Tukey-Kramer method was used to make a multiple comparison adjustment for the p-values.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2102</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>A serving is based on the portion sizes of the food.</plag_sens>
+    <tag_file_ids>gen_doc2481</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The Tanzania Food Composition Tables are used to calculate a serving.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2102</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Patients whose mononuclear cells had CdA activity levels greater than 2 nmol min1mg1 had a shorter OS.</plag_sens>
+    <tag_file_ids>gen_doc2959</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Patients whose mononuclear cells had CdA activity levels over 2 nmol min1mg1 had a shorter OS.</tag_plag_sens>
+  </row>
+</data>

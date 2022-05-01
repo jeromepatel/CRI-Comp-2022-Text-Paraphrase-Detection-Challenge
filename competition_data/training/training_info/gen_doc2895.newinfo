@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2895</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The recurrent staphylococcal infections in patients with HIES might be due to the impaired IL 17A signaling.</plag_sens>
+    <tag_file_ids>gen_doc3292</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The recurrent staphylococcal infections in patients with HIES (1415) might be due to the impaired neutrophil responses caused by IL 17A signaling.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2895</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The fitness value of 26 was considered for further analysis.</plag_sens>
+    <tag_file_ids>gen_doc1840</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>For further analysis, patterns with fitness values of 26 or above were considered.</tag_plag_sens>
+  </row>
+</data>

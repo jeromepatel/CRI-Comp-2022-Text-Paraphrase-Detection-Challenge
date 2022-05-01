@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2958</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The TGF1/Smad pathway in cancer cells and the platelet–cancer cell interaction are both activated by the TGF1/Smad pathway.</plag_sens>
+    <tag_file_ids>gen_doc958</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The TGF1/Smad pathway in cancer cells and the platelet–cancer cell interaction are both activated by TGF1, which is produced by Platelets.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2958</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The power of the Bayes factor test in finding the correct model is very high and not affected by the model settings, according to our analyses.</plag_sens>
+    <tag_file_ids>gen_doc2947</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The power of the Bayes factor test in finding the correct model is very high and not affected by the model settings, according to our analyses on simulations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2958</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Depression is associated with greater occupational and psychosocial disruption than manic/hypomanic episodes.</plag_sens>
+    <tag_file_ids>gen_doc1318</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Depressive episodes are associated with greater occupational and psychosocial disruption than manic/hypomanic episodes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2958</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There is a precision factor that can be used when searching for motifs with the Motif Finder.</plag_sens>
+    <tag_file_ids>gen_doc1023</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There is a precision factor that can be used when searching for motifs, as well as the tolerance that becomes part of the actual code.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2958</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>Studies show that it is possible to evaluate the expression of cell-free miRNAs in different body fluids.</plag_sens>
+    <tag_file_ids>gen_doc1112</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Several studies have shown that it is possible to evaluate the expression of cell-free miRNAs in different body fluids.</tag_plag_sens>
+  </row>
+</data>

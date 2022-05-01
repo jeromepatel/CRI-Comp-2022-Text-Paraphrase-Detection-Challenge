@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1774</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>A typical example is to move the cluster centers to their optimal positions.</plag_sens>
+    <tag_file_ids>gen_doc2207</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The cluster centers should be moved to the optimal positions.</tag_plag_sens>
+  </row>
+</data>

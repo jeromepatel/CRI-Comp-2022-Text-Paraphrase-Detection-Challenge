@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2938</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The oxygen permeability of these bags is more than double that of the first-generation-Di ethyl hexyl phthalate plasticized PVC containers, and they also maintain a pH more than 6 for better platelet survival and function.</plag_sens>
+    <tag_file_ids>gen_doc1031</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The oxygen permeability of these bags is more than double that of the first-generation-Di ethyl hexyl phthalate plasticized PVC containers, and they also maintain a pH more than 6 for better platelet survival and function.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2938</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There were reported cases of severe CIAKI, but there were no reports of persistent allograft failure.</plag_sens>
+    <tag_file_ids>gen_doc2839</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There were reported cases of severe CIAKI, but there were no cases of persistent allograft failure requiring the use of the dialysis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2938</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>It would be helpful to understand the mechanisms that contribute to the changes.</plag_sens>
+    <tag_file_ids>gen_doc3858</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>It would be helpful to understand the mechanisms that are contributing to these changes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2938</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The current Wm82.a2.v1 annotations of the soybean genome sequence correspond to the FAD3A (FAD3-1b)gene.</plag_sens>
+    <tag_file_ids>gen_doc2466</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The current Wm82.a2.v1 annotations of the soybean genome sequence correspond to the FAD3A (FAD3-1b) Gene.</tag_plag_sens>
+  </row>
+</data>

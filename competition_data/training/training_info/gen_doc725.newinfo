@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc725</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Cancer samples did not have higher expression of CARM1FL or CARM1E15 when compared to benign fibroadenomas.</plag_sens>
+    <tag_file_ids>gen_doc778</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Cancer samples did not have higher expression of CARM1FL or CARM1E15 when compared to benign fibroadenomas, even if they had a hormonereceptor status.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc725</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>They have proposed that the in situ progenitor of serous adenocarcinomas is the uterus.</plag_sens>
+    <tag_file_ids>gen_doc293</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>They have proposed that there is a link between serous adenocarcinomas and the in situ progenitor of endometrial intraepithelial carcinoma.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc725</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>An avidin-biotin peroxidase system was used to detect the anti-insulin Receptor rabbit polyclonal antibody.</plag_sens>
+    <tag_file_ids>gen_doc39</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>An avidin-biotin peroxidase system was used to detect the anti-insulin receptor rabbit polyclonal antibody.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc725</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The restuans were determined from 2008 to 2011.</plag_sens>
+    <tag_file_ids>gen_doc2062</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Restuans were determined from 2008 to 2011.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc725</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The members of the LAB family are reported to produce bacteriocins without post-translational modifications that are classified under class II bacteriocins.</plag_sens>
+    <tag_file_ids>gen_doc3011</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Members of the LAB family are reported to produce bacteriocins without post-translational modifications that are classified under class II bacteriocins.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc725</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>We expect that this design can be used to apply to other dental appliances, such as night guards, and bleaching trays.</plag_sens>
+    <tag_file_ids>gen_doc2959</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We expect that this design can be applied to other dental appliances, such as night guards, and bleaching trays, as well as to orthodontists.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc725</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>This is the first report that shows tumor cell-derived activities to induce OSM, supporting an interaction model.</plag_sens>
+    <tag_file_ids>gen_doc3352</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>This is the first report that shows tumor cell-derived activities to induce OSM secretion by primary human PBMC and M, supporting an interaction model.</tag_plag_sens>
+  </row>
+</data>

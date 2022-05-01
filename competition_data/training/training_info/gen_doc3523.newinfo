@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3523</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The results showed that the activity was limited to the third circuit.</plag_sens>
+    <tag_file_ids>gen_doc2926</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The results showed that the activity was limited to the third circuit before and at 3 hours of treatment.</tag_plag_sens>
+  </row>
+</data>

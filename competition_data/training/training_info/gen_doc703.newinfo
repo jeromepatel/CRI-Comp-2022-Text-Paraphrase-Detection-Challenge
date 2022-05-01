@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc703</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Stage 44 is included in Table 2 in parentheses.</plag_sens>
+    <tag_file_ids>gen_doc445</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Stage 44 is included in Table 2 in parentheses, according to limb development.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc703</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The linker sequence at the 5′ and 3′ ends of the double stranded He185/333 cDNAs provided the necessary sites for the amplification of the cDNA.</plag_sens>
+    <tag_file_ids>gen_doc3196</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The linker sequence at the 5′ and 3′ ends of the double stranded He185/333 cDNAs provided the necessary sites for the amplification of the cDNA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc703</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Second, dC2C12 cells overexpressing Apaf-1 became sensitive to death.</plag_sens>
+    <tag_file_ids>gen_doc2508</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>DC2C12 cells overexpressing Apaf-1 became sensitive to cytochrome c-mediated death figured.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc703</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The single band at approximately 250 kDa showed an increase from the control retinas.</plag_sens>
+    <tag_file_ids>gen_doc60</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The single band at approximately 250 kDa showed an increase from the control retinas.</tag_plag_sens>
+  </row>
+</data>

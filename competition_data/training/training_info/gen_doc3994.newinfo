@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3994</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The rate constants were determined for the reactions of these cysteines with each of the four PEG reagents added on the cis side of the Membrane and separately with the reagents added on the trans side of the Membrane.</plag_sens>
+    <tag_file_ids>gen_doc196</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The rate constants were determined for the reactions of these cysteines with each of the four PEG reagents added on the cis side of the membrane and separately with the reagents added on the trans side of the membrane.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2704</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The drift of the isothermic saturation boundary is the most important of the multifactorial reasons that influence these demands.</plag_sens>
+    <tag_file_ids>gen_doc238</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The drift of the isothermic saturation boundary is the most important of the multifactorial reasons that influence the different demands.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2704</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Sexual harassment and assault were reported by some.</plag_sens>
+    <tag_file_ids>gen_doc2402</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Sexual harassment and assault were also reported by some.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2704</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The maps of the form are equivalent to the Hopf link textures.</plag_sens>
+    <tag_file_ids>gen_doc436</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The maps of the form are equivalent to the two Hopf link textures.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2704</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A review of dental studies shows that the approaches used for measuring intakes are not always accurate.</plag_sens>
+    <tag_file_ids>gen_doc220</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>A review of dental studies shows that the approaches used for measuring intakes and food habits are inconsistent.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2704</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The A particles contain pores at the icosahedral 2-fold symmetry axes that allow the release of the genome and VP4 subunits and the exposure of the N-terminal region of VP1 subunits.</plag_sens>
+    <tag_file_ids>gen_doc218</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The A particles contain pores at the icosahedral 2-fold symmetry axes that allow the release of the genome and VP4 subunits and the exposure of the N-terminal region of VP1 subunits.</tag_plag_sens>
+  </row>
+</data>

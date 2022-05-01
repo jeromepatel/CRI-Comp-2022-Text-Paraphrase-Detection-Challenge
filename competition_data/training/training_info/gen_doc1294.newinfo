@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1294</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Increasing age was associated with a lower functional outcome for amputees.</plag_sens>
+    <tag_file_ids>gen_doc3782</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Increasing age was associated with a lower functional outcome and decreasing number of patients fitted with prosthesis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1294</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>All lines used the same protocol.</plag_sens>
+    <tag_file_ids>gen_doc872</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The same protocol was used for all lines.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1294</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>All of the detected haplotypes were used for analyses in NJ.</plag_sens>
+    <tag_file_ids>gen_doc3888</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The detected haplotypes were used for analyses in NJ andML.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1294</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>We looked at the contribution of each individual factor to the relationship between education and T2DM.</plag_sens>
+    <tag_file_ids>gen_doc869</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Cox proportional hazard regression was used to investigate the contribution of each individual factor on the relationship between education and incident T2DM.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1294</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>We detected an increase in PTEN expression after we started blocking ERK, AKT and AKT for 3 days.</plag_sens>
+    <tag_file_ids>gen_doc1176</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>We detected an increase in PTEN expression after we started blocking ERK, AKT daily for 3 days after the UVB radiation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1294</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>L64 and K144 R2/R1rho ratios decreased and got closer to the average after sm 27 binding.</plag_sens>
+    <tag_file_ids>gen_doc1728</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>L64 and K144 R2/R1rho ratios decreased and got closer to the average, suggesting a quench of conformational exchange.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1294</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>We present our methods and findings from the assessment of the HIIC programme.</plag_sens>
+    <tag_file_ids>gen_doc4</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The model of evaluability assessment of the HIIC programme is presented in our findings.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1294</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The adapting exponential integrate-and-fire model is demonstrated in Figures 1A3 and B3.</plag_sens>
+    <tag_file_ids>gen_doc197</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Our theory works well for the adapting exponential integrate-and-fire model.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc1294</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The data for the WT strain is replicated in all the graphs.</plag_sens>
+    <tag_file_ids>gen_doc787</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Data for the WT strain cultured with PE4 is replicated in all graphs of the Figure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>9</index>
+    <file_ids>gen_doc1294</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The elevated liver enzymes wereAST 92 U/l, ALT 145 U/l, ALP 443 U/l, and total bilirubin 25.3 IU/dl.</plag_sens>
+    <tag_file_ids>gen_doc2004</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The elevated liver enzymes wereAST 92 U/l, ALT 145 U/l, ALP 443 U/l, and total bilirubin 25.3 IU/dl.</tag_plag_sens>
+  </row>
+</data>

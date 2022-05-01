@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2870</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The array CGH was performed using the SurePrint G3 Mouse CGH Microarry 4180 K.</plag_sens>
+    <tag_file_ids>gen_doc1835</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The array CGH was performed using the SurePrint G3 Mouse CGH Microarry 4180 K (G4839A, Agilent Technologies), which was used to extract the genes from the cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2870</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The expression of CD19, CD20, and CD23 is shown in major analyses of CLL.</plag_sens>
+    <tag_file_ids>gen_doc1264</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The expression of CD19, CD20, and CD23, with characteristic expression of CD5, is shown in major immunophenotypic analyses of CLL.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2870</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Substance abuse has crossed social, economic, and geographical borders, and is one of the major problems that modern society is facing.</plag_sens>
+    <tag_file_ids>gen_doc4</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Substance abuse has crossed social, economic, and geographical borders, and is one of the major problems that modern society is facing worldwide.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2870</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Between-registry variability was very high and the prediction interval was very high.</plag_sens>
+    <tag_file_ids>gen_doc1499</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Between-registry variability was considerable and the prediction interval was from 13% to 100%.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2870</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The use of the zebrafish is widespread due to its many advantages such as its short generation time and high fecundity resulting in 100–200 eggs per mating, which makes the use of zebrafish embryos less time-consuming in comparison with in-vivo studies.</plag_sens>
+    <tag_file_ids>gen_doc2648</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The use of the zebrafish is widespread due to its many advantages such as its short generation time and high fecundity resulting in 100–200 eggs per mating, which makes the use of zebrafish embryos less time-consuming in comparison with in vivo mammal toxicity studies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2870</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There was no statistical difference between the two groups ingestion to treatment interval and using one-way ANOVA.</plag_sens>
+    <tag_file_ids>gen_doc2459</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There was no statistical difference between the two groups whengestion to treatment interval was compared with one-way ANOVA.</tag_plag_sens>
+  </row>
+</data>

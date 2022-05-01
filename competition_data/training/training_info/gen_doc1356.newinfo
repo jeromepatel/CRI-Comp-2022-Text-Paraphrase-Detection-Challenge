@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1356</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We wanted to confirm previous reports that S1PR1 expression is reduced in CLL as compared with normal B cells, and also show that S1PR1 expression is regulated by BCR signaling.</plag_sens>
+    <tag_file_ids>gen_doc1538</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We wanted to confirm previous reports that S1PR1 expression is reduced in CLL as compared with normal B cells, and in addition show that S1PR1 expression is regulated by BCR signaling.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1356</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>In order to improve their stability, GLD2 polyadenylates the 3′-end of the mRNAs.</plag_sens>
+    <tag_file_ids>gen_doc2549</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In order to improve their stability, GLD2 polyadenylates the 3′-end of mRNAs and specifically shortens the 3′-UTRs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1356</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In the present study, the scatter fraction of the small animal PET scanner was 17.2% for a rat-sized phantom, which was the same as the clinicalPET scanner used in the 2D-mode.</plag_sens>
+    <tag_file_ids>gen_doc929</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In the present study, the scatter fraction of the small animal PET scanner was 17.2% for a rat-sized phantom, which was the same as the clinical PET scanner used in the 2D-mode.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1356</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The chordin gene is downregulated in the radial X. tropicalis.</plag_sens>
+    <tag_file_ids>gen_doc3076</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The chordin gene is downregulated in the radial X. tropicalis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1356</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The Kinase reactions were separated and quantified.</plag_sens>
+    <tag_file_ids>gen_doc604</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Kinase reactions were separated and quantified by Cherenkov counting.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1356</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The production of FhaB molecules without the C-terminal half of the MCD results in stable prodomain polypeptides, which supports the hypothesis of regulated degradation and indicates a role for the MCD in this regulation.</plag_sens>
+    <tag_file_ids>gen_doc2737</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The production of FhaB molecule without the C-terminal half of the MCD results in stable prodomain polypeptides, further supporting the hypothesis of regulated degradation and indicating a role for the extracellular MCD in this regulation.</tag_plag_sens>
+  </row>
+</data>

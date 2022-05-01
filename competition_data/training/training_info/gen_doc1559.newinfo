@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1559</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The influence scores among the top genes at a given time-point are statistically significantly higher than the influence scores at the other time-points.</plag_sens>
+    <tag_file_ids>gen_doc15</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In all cases, the influence scores among the top genes at a given time-point are statistically significantly higher than their influence scores at the other time-points.</tag_plag_sens>
+  </row>
+</data>

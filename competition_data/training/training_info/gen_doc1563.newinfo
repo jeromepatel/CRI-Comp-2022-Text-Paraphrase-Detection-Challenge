@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1563</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Megalomyrmex iheringi, Solenopsis sp. were the most common ant species to clean thepulp from synthetic fruits.</plag_sens>
+    <tag_file_ids>gen_doc1649</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Megalomyrmex iheringi, Solenopsis sp. were the most common ant species to clean thepulp from synthetic fruits.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1563</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The late stages of gonadal development were not studied due to the limited viability of the ex vivo preparations.</plag_sens>
+    <tag_file_ids>gen_doc1967</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The later stages of gonadal development were not studied due to the limited viability of ex vivo preparations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1563</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>; 22 k), monosynaptic excitatory postsynaptic currents (EPSCs) were evoked in CeLC neurons by electrical stimulation of two distinct lines of input, which contained afferents from the other side.</plag_sens>
+    <tag_file_ids>gen_doc2959</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>; 22 k), monosynaptic excitatory postsynaptic currents (EPSCs) were evoked in CeLC neurons by electrical stimulation of two distinct lines of input, which contained afferents from the other side of the brain.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1563</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The germline-competent ES cell lines with long-term self-renewal ability from KM inbred mice in the N2B 27 medium are very resistant to be isolated.</plag_sens>
+    <tag_file_ids>gen_doc2259</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The germline-competent ES cell lines with long-term self-renewal ability from KM inbred mice in the N2B27 medium are very resistant to be isolated from this mouse strain.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1563</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>According to their "dying stem cell hypothesis", therapeutic stem cells are already in the state of apoptosis while being processed for treatment, which causes immune suppression by scaling down the adaptive and innate immune system.</plag_sens>
+    <tag_file_ids>gen_doc1380</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Their "dying stem cell hypothesis" postulates that therapeutic stem cells are already in the state of apoptosis while being processed for treatment, thus causing immune suppression by scaling down the adaptive and innate immune system</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1563</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>senescent cells may be more dependent on pathways that protect against apoptosis than are nonsenescent cells.</plag_sens>
+    <tag_file_ids>gen_doc1431</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>senescent cells may be more dependent on pathways that protect against apoptosis than are nonsenescent cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1563</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>There is a local minimum for linear conversion at  7.5  at intermediate diameters.</plag_sens>
+    <tag_file_ids>gen_doc2089</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>At intermediate diameters, the materials favor branched isomers, and there is a local minimum in linear conversion.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1563</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The levels of expression of osteopontin and TGF2 were significantly higher in the tumors associated with the genes for BRCA1 and 2.</plag_sens>
+    <tag_file_ids>gen_doc1597</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Similar to the microarray data, the levels of expression of osteopontin and TGF2 were significantly higher in the tumors associated with the genes BRCA1 and 2.</tag_plag_sens>
+  </row>
+</data>

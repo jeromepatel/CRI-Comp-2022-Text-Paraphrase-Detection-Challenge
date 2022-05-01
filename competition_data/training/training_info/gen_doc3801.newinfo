@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3801</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There is a chance that ciliary malfunction could cause alterations in the ependymal layer.</plag_sens>
+    <tag_file_ids>gen_doc2791</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There is a chance that ciliary malfunction could cause alterations in the ependymal layer and changes to the CSF production.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3801</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Both Aldh1a2 expression and ALDH activity in MLN-DCs were higher than in the nave SPF mice.</plag_sens>
+    <tag_file_ids>gen_doc3784</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Both Aldh1a2 expression and ALDH activity in MLN-DCs were higher than those in LP-DCs in nave SPF mice, and were diminished in MLN-DCs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3801</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The expression of the genes HLP1, HLP2, and Hb-LP was quantified after isolating them.</plag_sens>
+    <tag_file_ids>gen_doc665</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We quantified the expression of the genes HLP1, HLP2, and Hb-LP after isolating them from the sea bass cDNAs.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3901</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Exposure of DgkA's five tryptophans to a more polar environment is expected upon denaturation.</plag_sens>
+    <tag_file_ids>gen_doc606</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>This is consistent with exposure of DgkA's five tryptophans to a more polar environment.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3096</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Sections 3–5 outline the details of this method.</plag_sens>
+    <tag_file_ids>gen_doc1394</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The method is outlined in Sections 3–5.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3096</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In a series of mouse FASD studies, researchers looked at the effect of acute ethanol insult on GD 7, 8, 9, and 10, a time range that corresponds to human GWs 3 to 4.</plag_sens>
+    <tag_file_ids>gen_doc631</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In a series of mouse FASD studies, researchers looked at the effect of acute ethanol insult on GD 7, 8, 9, and 10, a time range that corresponds to human GWs 3 to 4 (Godin et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3096</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The patients in the sub-cohort were defined as patients with laboratory data.</plag_sens>
+    <tag_file_ids>gen_doc2157</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Patients with laboratory data for risk factor analyses were defined as patients with RA and OA.</tag_plag_sens>
+  </row>
+</data>

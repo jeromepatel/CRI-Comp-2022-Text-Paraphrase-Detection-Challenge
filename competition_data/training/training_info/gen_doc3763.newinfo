@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3763</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Some patients do not practice outside of therapy at all and in these patients the advantage of teaching mental practice would most likely be lost because they do not practice outside of therapy.</plag_sens>
+    <tag_file_ids>gen_doc3928</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Some patients do not practice outside of therapy at all and in these patients the advantage of teaching mental practice would most likely be lost, so whether the additional effort would be compensated for later as the patient continues unguided mental practice is uncertain.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3763</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The mental practice intervention was tailored to the needs of the individual patient.</plag_sens>
+    <tag_file_ids>gen_doc2643</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>We allowed therapists to tailor the intervention to the needs and abilities of the individual patient when we developed the mental practice intervention.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3763</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are currently 44 linolenic acid QTL in SoyBase.</plag_sens>
+    <tag_file_ids>gen_doc3909</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There are 44 linolenic acid QTL that have been deposited in SoyBase.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3763</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In clinical trials, mesenchymal stem cells are used to test their safety in humans.</plag_sens>
+    <tag_file_ids>gen_doc3969</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Mesenchymal stem cells are used in clinical trials for a variety of diseases, including diabetes, myocardial infarction, Crohn's disease, osteogenesis imperfecta, multiple sclerosis, and COPD, attesting to their safety in humans.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3763</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Tumour volumes are higher than the data figurec, but within the same range.</plag_sens>
+    <tag_file_ids>gen_doc2301</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Tumour volumes calculated with the TSM are higher than the data figurec.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3763</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The proportion of the alternative polyA and alternatively spliced microexon was measured.</plag_sens>
+    <tag_file_ids>gen_doc18</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The proportion of the alternative polyadenylated transcript and alternatively spliced microexon was measured by us.</tag_plag_sens>
+  </row>
+</data>

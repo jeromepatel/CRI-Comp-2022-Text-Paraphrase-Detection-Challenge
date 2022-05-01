@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1032</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The sample of ZnO was obtained from the pre-production stage.</plag_sens>
+    <tag_file_ids>gen_doc1171</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The sample of ZnO that was obtained from the precursor was not added with Mn2+.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1032</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The water was deionized and the olive oil was continuous.</plag_sens>
+    <tag_file_ids>gen_doc3234</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The water was deionized and the olive oil was continuous.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1032</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Confirmation of the antimicrobial activities of heartwood extracts is needed.</plag_sens>
+    <tag_file_ids>gen_doc2842</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Confirmation of the antimicrobial activities of heartwood extracts need to be done against pathological microbes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1032</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>It is a minimally intrusive technique, it allows performing the analysis of multiple samples simultaneously, and it is an easily reproducible method, which are some of the advantages of the ELISA technique.</plag_sens>
+    <tag_file_ids>gen_doc3115</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>It is a minimally intrusive technique, it allows performing the analysis of multiple samples simultaneously, and it is an easily reproducible method, which are some of the advantages of the ELISA technique.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1032</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Wilkins and company.</plag_sens>
+    <tag_file_ids>gen_doc345</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Wilkins et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1032</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>All animal experiments were approved by local authorities.</plag_sens>
+    <tag_file_ids>gen_doc2667</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>All animal experiments were approved by local authorities in accordance with the German animal protection law.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1032</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The null hypothesis is that the distribution of y is equivalent to the distribution of y in the Wilcoxon rank sum test.</plag_sens>
+    <tag_file_ids>gen_doc892</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The null hypothesis is that the distribution of y is equivalent to the distribution of y in the Wilcoxon rank sum test.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1032</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The difference between presymptomatic carriers and controls did not reach statistical significance, but was consistent with the partial overlap between the metabolic profiles of plasma.</plag_sens>
+    <tag_file_ids>gen_doc2519</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The difference between presymptomatic carriers and controls did not reach statistical significance, but was consistent with the partial overlap between the metabolic profiles of plasma observed by 1H NMR spectroscopy.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc1032</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>19 nt upstream of the start codon of A2G07_003810 was an RDRM sequence.</plag_sens>
+    <tag_file_ids>gen_doc613</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The RDRM sequence was found 19 nt upstream of the start codon of A2G07_003810.</tag_plag_sens>
+  </row>
+</data>

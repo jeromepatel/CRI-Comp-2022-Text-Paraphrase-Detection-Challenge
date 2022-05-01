@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2035</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>They reported that running in a traditional running shoe resulted in less ankle pain and higher impact forces compared to barefoot running.</plag_sens>
+    <tag_file_ids>gen_doc3198</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>They reported that running in a traditional running shoe resulted in less pain at the ankle and higher impact forces compared to barefoot running.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2035</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The regions without predicted orthologies are as expected.</plag_sens>
+    <tag_file_ids>gen_doc772</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The regions without predicted orthologies are as expected.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2035</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The ABCB1 stabilization mechanisms are detailed.</plag_sens>
+    <tag_file_ids>gen_doc1271</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>It is important to understand the mechanisms of HDACIs-mediated ABCB1 stabilization.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2035</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>GO terms are assigned to each UniGene cluster involved in the pathway analysis to represent the functional categorization of the specific UniGene cluster and the corresponding sorghum genes.</plag_sens>
+    <tag_file_ids>gen_doc3432</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The functional categorization of the specific UniGene cluster and the corresponding sorghum genes is represented by the assignment of GO terms to each UniGene cluster involved in the pathway analysis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2035</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The treatment method for RICH is not well known.</plag_sens>
+    <tag_file_ids>gen_doc3137</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The treatment algorithm for RICH is not well established.</tag_plag_sens>
+  </row>
+</data>

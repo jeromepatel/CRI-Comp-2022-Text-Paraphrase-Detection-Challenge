@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc792</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The state of the spin-wave is to start with.</plag_sens>
+    <tag_file_ids>gen_doc311</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The first order of the state of the spin-wave is given by.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc792</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Our group of young patients had a low prevalence of strokes because of their age.</plag_sens>
+    <tag_file_ids>gen_doc1309</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Our group of young patients had a low prevalence of stroke because of the differences in the epidemiology of coronary arteries.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc792</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The individuals had no foot problems during the monitoring period.</plag_sens>
+    <tag_file_ids>gen_doc668</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>None of the individuals had any problems with their feet during the monitoring period.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc792</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>A linear relationship between the pressure and the output voltage can be observed.</plag_sens>
+    <tag_file_ids>gen_doc2298</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>A very linear relationship between the pressure and the output voltage can be observed for this pressure sensor.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc792</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Some of the literature does not allow these procedures.</plag_sens>
+    <tag_file_ids>gen_doc2850</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>An important proportion of the literature does not allow these procedures.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc792</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The B-I-O tagging scheme gives a tag to each token at the beginning of the phrase, inside the phrase, and outside of the phrase.</plag_sens>
+    <tag_file_ids>gen_doc1757</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The B-I-O tagging scheme gives a tag to each token at the beginning of the phrase, inside the phrase, and outside of any phrase that is tagged.</tag_plag_sens>
+  </row>
+</data>

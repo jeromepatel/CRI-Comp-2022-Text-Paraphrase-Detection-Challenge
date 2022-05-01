@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3705</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The most often prescribed antipsychotics were haloperidol, risperidone, clozapine and olanzapine.</plag_sens>
+    <tag_file_ids>gen_doc2603</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The most prescribed antipsychotics before sertindole were haloperidol, risperidone, clozapine, and olanzapine.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3705</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Our data does not indicate a shift in the production of offspring.</plag_sens>
+    <tag_file_ids>gen_doc3604</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Our data doesn't necessarily indicate a shift in the production of offspring.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3705</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Increased production of reactive oxygen species (ROS) and oxidative damage is one of the consequences of Mitochondrial functioning.</plag_sens>
+    <tag_file_ids>gen_doc3225</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Increased production of reactive oxygen species (ROS) and oxidative damage is one of the major consequences of Mitochondrial dysfunction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3705</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>6 codons/s in mouse cells are sensitive to a number of factors.</plag_sens>
+    <tag_file_ids>gen_doc3395</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>6 codons/s in mouse cells and ribosome is sensitive to a number of biochemical factors.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2496</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The three genes in common are MET16, MET17 and CYS3.</plag_sens>
+    <tag_file_ids>gen_doc1318</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The gene sets only had three genes in common.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2496</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Due to the fact that economic development is captured through GDP per capita in our analysis, further research is required to understand the specific mechanisms that generate the robust causality relationship between income and forest cover.</plag_sens>
+    <tag_file_ids>gen_doc2403</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Due to the fact that economic development is captured through GDP per capita in our analysis, further research is required to understand the particular mechanisms that generate the robust causal relationship between income and forest cover.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2496</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A rare portoazygos shunt was described by Gabrael and colleagues.</plag_sens>
+    <tag_file_ids>gen_doc1849</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A rare portoazygos shunt was described by Gabrael and colleagues in a patient.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2496</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>PSCVs can be divided into congenital or Spontaneous shunts, which can be separated into a pair of shunts.</plag_sens>
+    <tag_file_ids>gen_doc2747</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>PSCVs can be divided into congenital or Spontaneous shunts, which can be separated into a pair of shunts, the extra-hepatic and the portal vein.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2496</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Although it is the most widely used image method, it is limited by poor acoustic window and operator dependency.</plag_sens>
+    <tag_file_ids>gen_doc3042</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>Although it is the most widely-used image modality, it is limited by poor acoustic window and operator dependency</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2496</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The talin head has four FERM domains.</plag_sens>
+    <tag_file_ids>gen_doc1994</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The talin head contains four FERM domains.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2496</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The missing of key regions of ligase 10C such as the zinc and substrate binding sites made these peptides unlikely to have activity.</plag_sens>
+    <tag_file_ids>gen_doc1973</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The missing of key regions of ligase 10C such as the zinc and substrate binding sites made these peptides unlikely to possess activity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc2496</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>We performed H3K4me1, H3K4me3 and H3K 27me3 by using Hiseq or an Illumina Genome Analyzer.</plag_sens>
+    <tag_file_ids>gen_doc970</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We performed H3K4me1, H3K4me3 and H3K27me3 by using Hiseq or an Illumina Genome Analyzer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc2496</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>50% decrease in WT animals compared with 4C, 4D.</plag_sens>
+    <tag_file_ids>gen_doc103</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>50% decrease in WT animals compared with 4C, 4D.</tag_plag_sens>
+  </row>
+  <row>
+    <index>9</index>
+    <file_ids>gen_doc2496</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The increase in transcript levels under Pi deficiency can be controlled by the local level of Pi as opposed to a systemic response from the roots.</plag_sens>
+    <tag_file_ids>gen_doc1162</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The increase in transcript levels under Pi deficiency could be controlled by the local level of Pi as opposed to a systemic response from the roots.</tag_plag_sens>
+  </row>
+</data>

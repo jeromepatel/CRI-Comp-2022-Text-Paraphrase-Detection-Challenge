@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1374</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>E: exacerbation is defined by the doctor as an increase in the number of exacerbations or exacerbations with increased symptoms, not on antibiotics for 30 days or more.</plag_sens>
+    <tag_file_ids>gen_doc3521</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>E: exacerbation is defined by the doctor as an increase in the number of exacerbations or exacerbations with increased pulmonary symptoms, not on antibiotics for 30 days or more.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1374</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>To the best of our knowledge, we don't know if the success of the tournament depends on the format chosen, the objective function that defined overall success, and the values of the payoff matrix used in the tournaments.</plag_sens>
+    <tag_file_ids>gen_doc3133</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>To the best of our knowledge, we don't know if the success of TFT is dependent on a particular format chosen for the tournament, the objective function that defined overall success, and the values of the PD payoff matrix used in the tournaments.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1374</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>This response is thought to be an alarm signal for infections.</plag_sens>
+    <tag_file_ids>gen_doc548</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The response has been seen as a generic alarm signal for infections.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1374</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Different metallated forms of MT-2A have been used in the study.</plag_sens>
+    <tag_file_ids>gen_doc2589</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Different metallated forms of MT-2A, including Cu10MT-2A, have been used for this study.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1374</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The appropriateness of log sound level is suggested by the fact that the discharge rate is linear in nature and by the fact that the basilar membrane responds by compression.</plag_sens>
+    <tag_file_ids>gen_doc83</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The appropriateness of log sound level is suggested by the fact that the discharge rate is linear in nature, and by the fact that the basilar membrane responds by compression.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1374</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It's the significance number.</plag_sens>
+    <tag_file_ids>gen_doc2827</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>A significance number is p.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1374</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Patients received combination therapy with peginterferon--2b and ribavirin.</plag_sens>
+    <tag_file_ids>gen_doc3844</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Patients received combination therapy with peginterferon--2b and ribavirin between May 2004 and June 2011.</tag_plag_sens>
+  </row>
+</data>

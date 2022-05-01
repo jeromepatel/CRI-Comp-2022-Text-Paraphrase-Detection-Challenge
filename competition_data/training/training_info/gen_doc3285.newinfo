@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3285</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Tobacco plants with elevated levels of hydrogen peroxide by overexpression of a cell wall-localized cucumber AAO gave rise to increased drought tolerance.</plag_sens>
+    <tag_file_ids>gen_doc3410</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Tobacco plants with elevated levels of hydrogen peroxide by overexpression of a cell wall-localized cucumber AAO conferred increased drought tolerance due to reduced stomatal conductance.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3285</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Three breast cancer datasets and three gastric cancer datasets were analyzed to explore the expression of the THBS2 coexpressed gene.</plag_sens>
+    <tag_file_ids>gen_doc3973</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Three breast cancer datasets and three gastric cancer datasets were analyzed in order to explore the THBS2 coexpressed gene.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3285</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>For 1H and 13C data, see.</plag_sens>
+    <tag_file_ids>gen_doc3039</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>For 1H and 13C NMR data see.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3285</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Most patients didn't use IT before they were diagnosed with the disease.</plag_sens>
+    <tag_file_ids>gen_doc2413</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The majority of patients did not use IT before the diagnosis.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2353</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The hallmarks in the left and right hemispheres had the same trend.</plag_sens>
+    <tag_file_ids>gen_doc3160</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The hallmarks in the left and right hemispheres showed the same trend.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2353</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Athletes were members of sports clubs at the time of the exam.</plag_sens>
+    <tag_file_ids>gen_doc3479</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>All athletes were members of sports clubs at the time of the examination.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2353</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There are previous studies that show that SERPINE2 can form a complex with prostasin.</plag_sens>
+    <tag_file_ids>gen_doc3174</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There are previous studies that show that SERPINE2 can form a complex of about 75 kDa with PLAU or about 82 kDa with prostasin.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2353</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The reconstructed size was 28.6 m.</plag_sens>
+    <tag_file_ids>gen_doc3668</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The reconstructed size was 26.6 m.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2353</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>MCs were maintained in a 3:1 mixture of minimal essential medium/F12 modified with trace elements and supplemented with 1 mM glutamine, penicillin, and streptomycin.</plag_sens>
+    <tag_file_ids>gen_doc1694</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>MCs were maintained in a 3:1 mixture of minimal essential medium/F12 modified with trace elements, supplemented with 1 mM glutamine, penicillin, and streptomycin.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2353</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The Peninsula HPB unit had a series of patients having surgery between January 2006 and May 2014).</plag_sens>
+    <tag_file_ids>gen_doc622</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The Peninsula HPB unit had a series of patients having surgery between January 2006 and May 2014).</tag_plag_sens>
+  </row>
+</data>

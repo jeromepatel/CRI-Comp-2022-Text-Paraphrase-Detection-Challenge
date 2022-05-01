@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc211</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>There are discrepancies when comparing the drug information available at admission to different sources.</plag_sens>
+    <tag_file_ids>gen_doc3403</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The number of discrepancies when comparing the drug information available at admission to the different sources of information is presented in table 2.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc211</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>An anti-MYCN antibody was used to test for the presence of MYCN.</plag_sens>
+    <tag_file_ids>gen_doc2645</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The test to see if MYCN also binding to this motif was performed using an anti-MYCN antibodies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc211</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In cows with a negative energy balance, global gene expression and immune response were altered, and it was found that the involution of the uterus will be delayed.</plag_sens>
+    <tag_file_ids>gen_doc1604</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In cows with a negative energy balance, global gene expression and immune response were altered, and it was found that the elimination of contaminantbacteria will be delayed in cows with negative energy balance.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc211</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There is a simple theory that explains correlation patterns.</plag_sens>
+    <tag_file_ids>gen_doc1596</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A simple theory that predicts and explains correlation patterns is still lacking.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc211</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The mean diameter of the agglomerates was estimated in the emission rate models.</plag_sens>
+    <tag_file_ids>gen_doc2243</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The mean diameter of the agglomerates was estimated in the emission rate modelings.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc211</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The interactions between them are the main cause of the complexity.</plag_sens>
+    <tag_file_ids>gen_doc713</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The complexity arises from interactions between factors, not only from the heterogeneous nature.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc211</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>We don't know how to estimate the number of patterns that can be retrieved by a large network of connected neurons because we don't know the neural dynamics of the networks.</plag_sens>
+    <tag_file_ids>gen_doc3467</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We don't know how to estimate the number of patterns which can be retrieved by a large network of connected neurons because we don't know how to specify the neural dynamics of highly connected networks of neurons.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2066</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The images of the tunnel were reconstructed using high-resolution micro-CT.</plag_sens>
+    <tag_file_ids>gen_doc642</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The images of the tibial bone tunnel were reconstructed with high-resolution micro-CT.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2066</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The bars tell you the mean of the measurement.</plag_sens>
+    <tag_file_ids>gen_doc1136</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The bars represent the mean of the measurements.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2066</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Primers were used with a unique tag-sequence for B. cereus in the first amplification step.</plag_sens>
+    <tag_file_ids>gen_doc1179</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Primers were used with a unique tag-sequence for B. cereus in the first amplification step.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2066</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Hospital mortality increased after 1 hour with a delay in antibiotics.</plag_sens>
+    <tag_file_ids>gen_doc1</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Hospital mortality increased after 1 hour with a delay in antibiotic timing.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2066</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Since the vast majority ofHCCs occur on a background of liver disease with or without cirrhosis, it is clear that prognosis does not depend solely on tumour-related factors but also on liver function, general health, and other comorbidities of the patient and response to various medical treatments</plag_sens>
+    <tag_file_ids>gen_doc302</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Since the vast majority ofHCCs occur on a background of liver disease with or without cirrhosis, it is clear that prognosis does not depend exclusively on tumour-related factors but also on liver function, general health, and other comorbidities of the patient and response to various medical treatments.</tag_plag_sens>
+  </row>
+</data>

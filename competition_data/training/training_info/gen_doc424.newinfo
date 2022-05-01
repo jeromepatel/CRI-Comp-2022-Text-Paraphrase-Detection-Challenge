@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc424</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The signal transmission via PI3K is caused by the activation of IRS-1 and IRS-2.</plag_sens>
+    <tag_file_ids>gen_doc738</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The signal transmission via PI3K is caused by the activation of IRS-1 and IRS-2.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc424</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Covalent binding of biotin-D onto the primary amine of the PAH coated sphere was performed in solution using 1-ethyl-3-(3-dimethylaminopropyl) carbodiimide and N-Hydroxysuccinimide.</plag_sens>
+    <tag_file_ids>gen_doc1085</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Covalent binding of biotin-D onto the primary amine of the PAH coated sphere was performed in solution using 1-ethyl-3-(3-dimethylaminopropyl) carbodiimide and N-hydroxysuccinimide as coupling reagents.</tag_plag_sens>
+  </row>
+</data>

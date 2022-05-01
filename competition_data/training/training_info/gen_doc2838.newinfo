@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2838</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The inflammatory phenotype of tumors is marked by increased expression of the chemokines Cxcl-1,-2,-5,-9,-14 and Ccl-2.</plag_sens>
+    <tag_file_ids>gen_doc2080</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The inflammatory phenotype of tumors is marked by increased expression of chemokines Cxcl-1,-2,-5,-9,-14 and Ccl-2, 3,-8, S 100a8, S 100a9, and S 100a3 and interleukins IL-1, IL6 and IL-24.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2838</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Tumours are multicellular organs.</plag_sens>
+    <tag_file_ids>gen_doc847</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Tumours function as complex, interactive, multi-cellular organs.</tag_plag_sens>
+  </row>
+</data>

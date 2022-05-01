@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc482</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>We didn't identify the dog because it is stable and not modified at later stages.</plag_sens>
+    <tag_file_ids>gen_doc2312</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We didn't identify DOG1 because it is stable and not modified at later stages during dry storage.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc482</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The subjects gave written informed consent as part of IRB-approved protocols for their recruitment at each site.</plag_sens>
+    <tag_file_ids>gen_doc3701</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>All subjects gave written informed consent as part of the IRB approved protocols for their recruitment at each site.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc482</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The neocortical neurons are diverse.</plag_sens>
+    <tag_file_ids>gen_doc1615</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The neocortical neurons are very diverse.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc482</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>motoneuron health and motor performance can be improved by injecting TGF-2 in theperitoneal region.</plag_sens>
+    <tag_file_ids>gen_doc625</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>motoneuron health and motor performance can be improved by injecting TGF-2 but they do not prevent mouse health decline.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc482</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Studies have shown that S 100A8 can be used as a treatment for cancer.</plag_sens>
+    <tag_file_ids>gen_doc3761</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Numerous studies show that S 100A8 can be used as a treatment for leukemia.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc482</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>There was no correlation between TO and the severity of the problem.</plag_sens>
+    <tag_file_ids>gen_doc2999</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There was no correlation between TO and the severity of SDB.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc482</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Among the 61 GNF having a Wrong status, 33 have disappeared from thecurated databases, 22 correspond to genes whose function is either unknown or similar to that of hypothetical proteins in databanks, and 6 are genes which have been.</plag_sens>
+    <tag_file_ids>gen_doc3742</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Among the 61 GNF having a Wrong status, 33 have disappeared from thecurated databases, 22 correspond to genes whose function is either unknown or similar to that of hypothetical proteins in databanks, and 6 are genes which have not been found.</tag_plag_sens>
+  </row>
+</data>

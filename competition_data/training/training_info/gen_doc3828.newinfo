@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3828</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>They become transformed into epithelial cells and adhere to one another to form a tumor.</plag_sens>
+    <tag_file_ids>gen_doc2895</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>They become transformed into epithelial cells and adhere tightly to one another to form a tumors.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3828</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>La patiente a bénéficié d'une radiothérapie, s'est sur la loge parotidienne.</plag_sens>
+    <tag_file_ids>gen_doc3050</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>La patiente a bénéficié d'une radiothérapie,  la dose de 50 grays sur la loge parotidienne.</tag_plag_sens>
+  </row>
+</data>

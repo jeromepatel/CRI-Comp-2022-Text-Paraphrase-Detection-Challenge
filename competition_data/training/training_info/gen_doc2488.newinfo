@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2488</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Reliable evidence for long-persisting efficiency and safety of neurotransplantation therapy for hereditary ataxias is still missing, despite the fact that this approach is still in the stage of experiments in laboratory animals.</plag_sens>
+    <tag_file_ids>gen_doc2546</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Reliable evidence for long-persisting efficiency and safety of neurotransplantation therapy for hereditary ataxias is still missing despite the fact that this approach is still in the stage of experiments in laboratory animals.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2488</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Several studies have shown that some strains of V. cholerae do have a set of T3SS genes on their chromosome.</plag_sens>
+    <tag_file_ids>gen_doc613</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Several studies have shown that some strains of V. cholerae do have a set of T3SS genes on their chromosomes, even though they do not have the cholera toxin gene.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2488</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A web-based automatic program for organellar genomes was used to identify 12 genes and two ribosomal RNA genes of M. sebastis.</plag_sens>
+    <tag_file_ids>gen_doc2632</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A web-based automatic program for organellar genomes was used to identify twelve genes and two ribosomal RNA genes of M. sebastis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2488</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Drug resistance in the 3P system was not caused by a lack of drug use.</plag_sens>
+    <tag_file_ids>gen_doc3121</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Drug resistance of tumors in the 3P system was not due to a lack of drug use.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2488</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There was a correlation between the number of lobar and deep CMBs.</plag_sens>
+    <tag_file_ids>gen_doc1859</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There was a correlation between the number of lobar and deep CMBs.</tag_plag_sens>
+  </row>
+</data>

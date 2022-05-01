@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc745</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Because HIV replicates most efficiently in activated CD4+ T cells, and the largest in the body is within resting memory CD4+ T cells, we are going to investigate whether HIV is preferentially established in CD4+ T cells when they transition from an activated state to a resting state.</plag_sens>
+    <tag_file_ids>gen_doc2638</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Because HIV replicates most efficiently in activated CD4+ T cells, and the largest in-vivo latent reservoir is within resting memory CD4+ T cells, we next investigated whether HIV latency is preferentially established in CD4+ T cells that transition from an activated to a resting state.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc745</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There are no strategies that can be used to develop small molecule therapies against HER3 similar to the ones used to develop small molecule therapies against HER2 and EGFR.</plag_sens>
+    <tag_file_ids>gen_doc898</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Strategies for developing small molecule therapies against HER3 are not applicable because they are not similar to those used to develop small molecule therapies against HER2 and EGFR.</tag_plag_sens>
+  </row>
+</data>

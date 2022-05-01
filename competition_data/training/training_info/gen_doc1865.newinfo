@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1865</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The peptidase genes were found to be distributed across a number of different groups.</plag_sens>
+    <tag_file_ids>gen_doc892</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The GH and peptidase genes were found to be distributed across a variety of different types ofbacteria.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1865</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The mode of action involves the irreversible alkylation of lysine 802, which is an essential component of the phosphate transfer reaction.</plag_sens>
+    <tag_file_ids>gen_doc103</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>It has a mode of action that involves the irreversible alkylation of lysine 802, which is critical for the phosphate transfer reaction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1865</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The prevalence of continued breastfeeding dropped to less than 16 percent for all ethnic groups except the E De-Mnong.</plag_sens>
+    <tag_file_ids>gen_doc3894</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The prevalence of continued breastfeeding dropped to less than 16 % for all ethnic groups except the E De-Mnong which was essentially unchanged from 1 year to 2 years.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1865</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The literature describes the workforce and areas of work.</plag_sens>
+    <tag_file_ids>gen_doc2066</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There are areas of work and workforce stressors in rural physiotherapy literature.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1865</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There are over 80 PULs with the genes for polysaccharide utilization loci.</plag_sens>
+    <tag_file_ids>gen_doc2416</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There are over 80 PULs with the genes for polysaccharide utilization loci.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1865</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>We plotted ratios and links between orthologs.</plag_sens>
+    <tag_file_ids>gen_doc2040</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We plotted ratios and links between orthologs for F. graminearum.</tag_plag_sens>
+  </row>
+</data>

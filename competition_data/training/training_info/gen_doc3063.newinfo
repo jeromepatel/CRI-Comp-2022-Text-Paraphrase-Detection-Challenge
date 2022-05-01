@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3063</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The current mammographic breast cancer detection could be improved by the new technologies in the image sensor designs.</plag_sens>
+    <tag_file_ids>gen_doc3203</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The new technologies in image sensor designs have the potential to improve mammographic breast cancer detection, based on our experience and existing research works.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3063</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Normal-weight youth who were traditional victims didn't experience a lower quality of life than obese youth.</plag_sens>
+    <tag_file_ids>gen_doc3448</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Normal-weight youth who were traditional victims did not experience a lower quality of life and thus seem less affected by traditional aggression than obese youth.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3063</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The introduction of the CombiMatrix antibody microarray was made by Wojciechowski et al..</plag_sens>
+    <tag_file_ids>gen_doc3115</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The introduction of the CombiMatrix antibody microarray was made by Wojciechowski et al..</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3063</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The other vaccines did not cause a specific antibody response.</plag_sens>
+    <tag_file_ids>gen_doc3990</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The other vaccines did not induce a similar specific antibody response.</tag_plag_sens>
+  </row>
+</data>

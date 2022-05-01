@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1848</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>It may be difficult to discern the contribution of VTE to mortality over and above that of cancer in advanced disease.</plag_sens>
+    <tag_file_ids>gen_doc637</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>It may be difficult to discern the contribution of VTE to mortality over and above that of cancer in advanced disease.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1848</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Several anti-apoptotic agents have been used to improve testicular function.</plag_sens>
+    <tag_file_ids>gen_doc247</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Several anti-apoptotic agents have been used to improve testicular function in patients with thyroid disorder.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1848</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The specimen can be tested with no gold or carbon coating, as it is an analytical device that provides a unique depth of field.</plag_sens>
+    <tag_file_ids>gen_doc1470</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>As it allows the specimen to be tested without gold or carbon coating, the QESEM is an analytical device that provides a unique depth of field with minimum preparation of the specimen.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1848</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>quercetin, kaempferol, naringenin, and phloridzin were isolated from the extract of plants.</plag_sens>
+    <tag_file_ids>gen_doc674</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>quercetin, kaempferol, naringenin, and phloridzin were isolated in the chloroform extract of plants.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1848</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The studies show that CD4+ T cells that become productive can contribute to the pool when they return to a resting state.</plag_sens>
+    <tag_file_ids>gen_doc2347</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Our studies show that when activated CD4+ T cells return to a resting state, they can contribute to the latent pool.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1848</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The first step in the synthesis of important flavour or aroma compounds is called tranamination reactions.</plag_sens>
+    <tag_file_ids>gen_doc1757</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Transamination reactions are the first step in the synthesis of important flavour or aroma compounds in the catabolism pathways.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1848</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Similar studies use the same threshold level to determine the level of detection, even if it's high.</plag_sens>
+    <tag_file_ids>gen_doc56</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Similar studies use the same threshold level to determine the level of detection, even if it is high, as it is for the level of detection for transcripts.</tag_plag_sens>
+  </row>
+</data>

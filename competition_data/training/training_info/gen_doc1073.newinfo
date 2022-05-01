@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1073</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Patient and community factors that influence delay in diagnosis and initiation of treatment with little emphasis on the delay that occurs when a patient makes contact with the health care system have been the focus of previous studies.</plag_sens>
+    <tag_file_ids>gen_doc1331</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Previous studies focused on patient and community factors that influence delay in diagnosis and initiation of treatment with little emphasis on the delay that occurs once a patient makes contact with the health care system.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1073</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The treadmill walking was done while wearing each pair of rain boots to induce fatigue in the lower limbs.</plag_sens>
+    <tag_file_ids>gen_doc1332</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The treadmill walking was performed while wearing each pair of rain boots to induce fatigue in the lower limbs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1073</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The average magnetic moment at saturation is around 10 B per molecule.</plag_sens>
+    <tag_file_ids>gen_doc1545</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The average magnetic moment at saturation is ten B per molecule.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1073</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The aggregation by affected and unaffected patients showed significantly associated SNPs, even though statistical testing did not reveal all relevant SNPs.</plag_sens>
+    <tag_file_ids>gen_doc3462</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>As can be seen in Figure 6, statistical testing did not reveal all relevant SNPs, but the aggregation by affected and unaffected patients showed significantly associated SNPs for visual selection.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1073</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The discovery of the PRR has shed light on an alternate pathway for prorenin.</plag_sens>
+    <tag_file_ids>gen_doc2683</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The discovery of the PRR sheds light on an alternate pathway for prorenin nonproteolytic activation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1073</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The samples were collected every 6 or 12 hours, and the cells were suspended in the buffer to eliminate any error in the detection of -galactosidase activity due to the effects of different carbon sources.</plag_sens>
+    <tag_file_ids>gen_doc3965</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The samples were collected every 6 or 12 hours, and the cells were suspended in a buffer to eliminate any error in the detection of -galactosidase activity due to the effects of different carbon sources present in the growth medium.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1073</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The members of the ADAM family have emerged as important regulators of cell signaling through their shed activities.</plag_sens>
+    <tag_file_ids>gen_doc1995</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The ADAM family has emerged as important regulators of cell signaling through the activity of growth factors.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1371</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The data came from the Illumina Infinium 27k Human DNA methylation Beadchip v1.2 with 27578 CpGs from 540 whole blood samples, and 266 samples were taken from post-menopausal ovarian cancer patients.</plag_sens>
+    <tag_file_ids>gen_doc1868</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The data came from the Illumina Infinium 27k Human DNA methylation Beadchip v1.2 with 27578 CpGs from 540 whole blood samples, and 266 samples were taken from post-menopausal ovarian cancer patients.</tag_plag_sens>
+  </row>
+</data>

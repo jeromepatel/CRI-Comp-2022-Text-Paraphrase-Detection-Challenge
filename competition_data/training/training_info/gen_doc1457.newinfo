@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1457</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>For some combinations of fi and fj, the isolation of the double fault can't be achieved.</plag_sens>
+    <tag_file_ids>gen_doc2241</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>For some combinations of fi and fj, the isolation of the double fault cannot always be achieved.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1457</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The properties of TSP-1 and its FGF2binding sequence were maintained by sm 27.</plag_sens>
+    <tag_file_ids>gen_doc261</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The properties of TSP-1 and its FGF2binding sequence were maintained by sm27, originally designed to mimic them.</tag_plag_sens>
+  </row>
+</data>

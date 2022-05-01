@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1611</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The samples were put into a supernatant for 15 minutes at 3000 x g.</plag_sens>
+    <tag_file_ids>gen_doc2205</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The samples were put into a supernatant at 3000 x g for 15 minutes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1611</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>50 m thick sections of agarose- embedded tissue were used for the xylem tissue analyses.</plag_sens>
+    <tag_file_ids>gen_doc710</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>50 m thick sections of agarose-embedded tissue were used to carry out the analyses on xylem tissue.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1611</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>This is not true of animals whose drag is small relative to applied force.</plag_sens>
+    <tag_file_ids>gen_doc1817</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>This is not true of animals whose mass is small or drag is large relative to applied forces.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1611</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Many of these genes are involved in the main pathways of metabolism.</plag_sens>
+    <tag_file_ids>gen_doc961</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Many of these genes are involved in the main pathways of metabolism.</tag_plag_sens>
+  </row>
+</data>

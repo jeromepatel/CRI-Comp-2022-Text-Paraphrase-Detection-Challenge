@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1635</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Three methods were used to compare the missing data approaches.</plag_sens>
+    <tag_file_ids>gen_doc2203</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The methods that were used to compare the missing data approaches were 1) p-values, 2) effect sizes, and 3) Bayes factors.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1635</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>This unique optical property, together with the FL, provides two transducer figured channels which can be used to report the binding events of PIL with analytes.</plag_sens>
+    <tag_file_ids>gen_doc576</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>This unique optical property, together with the FL, provides two transducer figured channels which can directly and sensitively report the binding events of PIL with analytes.</tag_plag_sens>
+  </row>
+</data>

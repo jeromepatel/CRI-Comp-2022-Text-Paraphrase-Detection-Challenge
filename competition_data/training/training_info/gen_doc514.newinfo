@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc514</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Enhancements are not subject to diminishing marginal returns or diminishment at a much slower rate, because they are intrinsically valuable.</plag_sens>
+    <tag_file_ids>gen_doc1797</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Enhancements are not subject to diminishing marginal returns or diminishment at a much slower rate because they are intrinsically valuable.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc514</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The ERGs are part of the KCNH genes.</plag_sens>
+    <tag_file_ids>gen_doc1833</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The ERGs are part of theKCNH gene family.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc514</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Asymptomatic ascending aorta dilatation leads to an increased susceptibility to ascending aortic aneurysms and is associated with a peculiar valve morphology.</plag_sens>
+    <tag_file_ids>gen_doc2540</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Asymptomatic ascending aorta dilatation leads to an increased susceptibility to ascending aortic aneurysms and aortic dissection, which is caused by a peculiar valve morphology called BAV.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc514</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The lack of specific lipids in the rafts derived from BHK cells might be the reason.</plag_sens>
+    <tag_file_ids>gen_doc2328</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The lack of specific lipids in the rafts derived from BHK cells might be the reason.</tag_plag_sens>
+  </row>
+</data>

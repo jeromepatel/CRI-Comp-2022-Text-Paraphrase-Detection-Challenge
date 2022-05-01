@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc733</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>After 9 min the protocol was 94C followed by 35 cycles of 30s at 94C, 30s at 63C or 60C, and 1 min at 72C and a final extension of 72C.</plag_sens>
+    <tag_file_ids>gen_doc500</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>After 9 min the protocol was 94C followed by 35 cycles of 30 s at 94C, 30 s at 63C or 60C, and 1 min at 72C and a final extension of 72C for 5 min.</tag_plag_sens>
+  </row>
+</data>

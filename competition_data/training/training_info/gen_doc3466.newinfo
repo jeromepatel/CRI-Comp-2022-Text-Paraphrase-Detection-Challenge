@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3466</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>To speed convergence in the estimation of the parameters and reduce autocorrelation, each independent variable was centered by subtracting its average.</plag_sens>
+    <tag_file_ids>gen_doc262</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In order to speed convergence in the estimation of the parameters and reduce autocorrelation, each independent variable was centered by subtracting its average.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3466</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The result of the first post-hoc chunking is presented in a column with new chunks in bold.</plag_sens>
+    <tag_file_ids>gen_doc2962</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The result of the first post-hoc chunking is presented in the column Chunk1 token, where new chunks are presented in bold.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3466</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The number of ACH50 U mL1 was calculated for each group, based on the amount of serum that produces 50% haemolysis.</plag_sens>
+    <tag_file_ids>gen_doc1209</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The number of ACH50 U mL1 was calculated for each group, and the volume of serum that produces 50% haemolysis was determined.</tag_plag_sens>
+  </row>
+</data>

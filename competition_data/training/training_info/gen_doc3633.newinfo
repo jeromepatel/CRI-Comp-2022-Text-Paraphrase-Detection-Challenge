@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3633</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The decrease in microvessel formation is more significant in combined-treated samples than in individual drug-treated samples.</plag_sens>
+    <tag_file_ids>gen_doc3790</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The decrease in microvessel formation is more significant in combined-treated samples as compared with individual drug-treated samples.</tag_plag_sens>
+  </row>
+</data>

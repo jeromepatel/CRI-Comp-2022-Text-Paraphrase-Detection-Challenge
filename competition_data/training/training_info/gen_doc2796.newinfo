@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2796</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The occipital nerve is not known to have an effect on CM.</plag_sens>
+    <tag_file_ids>gen_doc1407</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The occipital nerve is not known to have an effect on CM.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2796</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The N15 Cro that shows 25% and 9% identity to the Cro proteins of P22 and lambda has been subjected to X-ray diffraction.</plag_sens>
+    <tag_file_ids>gen_doc1077</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>N15 Cro which shows 25% and 9% identity to the Cro proteins of P22 and lambda, has been subjected to X-ray diffraction.</tag_plag_sens>
+  </row>
+</data>

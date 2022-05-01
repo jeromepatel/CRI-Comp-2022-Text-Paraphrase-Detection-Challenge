@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3443</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Our research showed that the adult zebrafish liver has activity required to metabolize the non-specific CYP.</plag_sens>
+    <tag_file_ids>gen_doc891</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Our research showed that the adult zebrafish liver has activity required to metabolize the non-specific CYP.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3443</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Under hypoxic conditions, the H-Ras is activated by S-nitrosylation.</plag_sens>
+    <tag_file_ids>gen_doc2041</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Under hypoxic conditions, H-Ras is activated by S-nitrosylation, which causes H-Ras to move into the cytosol.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3443</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The effect of p is more consequential than that of p.</plag_sens>
+    <tag_file_ids>gen_doc469</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The effect of p is the most significant.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3443</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The cardioprotective effect of the activation of insulin signaling per se is mainly due to anti- inflammatory, anti-apoptotic, and provasodilatory properties.</plag_sens>
+    <tag_file_ids>gen_doc733</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The cardioprotective effect of the activation of insulin signaling per se is mainly due to anti- inflammatory, anti- apoptotic, and provasodilatory properties, as well as by increasing the use ofglucose in the heart, which becomes an important source of myocardium.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3443</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The divergence of the two chickpea types happened 8000 years ago.</plag_sens>
+    <tag_file_ids>gen_doc3233</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The divergence of the two chickpea types occurred about 8000 years ago, according to the hypothesis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3443</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>PBMCs were stimulated by the neutralization of IL10 and TNF-.</plag_sens>
+    <tag_file_ids>gen_doc725</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>PBMCs were stimulated by the neutralization of IL-10 and the repair of IFN- production.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3443</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The mean ratios were close to the ratios of the doses: 4 versus 2 doses/week averaged 1.76 (versus 2.0 ratio of doses); 7 versus 4 doses/week averaged  1.60 (versus 1.75 ratio of doses); and 7 versus 2 doses/week averaged 2.85 (versus 3.5</plag_sens>
+    <tag_file_ids>gen_doc918</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The geometric mean ratios were close to the ratios of the doses: 4 versus 2 doses/week averaged 1.76 (versus 2.0 ratio of doses); 7 versus 4 doses/week averaged 1.60 (versus 1.75 ratio of doses); 7 versus 2 doses/week averaged 2.85 (versus 3.5 ratio</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc3443</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Schwann cells and axons of peripheral nerves were found to be expression and activity of SVCT2.</plag_sens>
+    <tag_file_ids>gen_doc347</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Schwann cells and axons of peripheral nerves were found to be expression and activity of SVCT2 in previous studies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc3443</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Lakens recommends Hedges's average g as the reported effect-size measure.</plag_sens>
+    <tag_file_ids>gen_doc3666</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>As recommended by Lakens, Hedges's average g is the reported effect-size measure.</tag_plag_sens>
+  </row>
+</data>

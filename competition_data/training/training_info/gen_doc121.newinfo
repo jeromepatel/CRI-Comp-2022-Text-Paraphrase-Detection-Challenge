@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc121</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The properties were vastly improved when the gold film was laid down on the silver layer.</plag_sens>
+    <tag_file_ids>gen_doc2853</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The properties of the capillary wall were vastly improved when the gold film was laid down on a transparent silver layer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc121</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>We find that trypsin digestion is more suited to digestion of per-acylated genes.</plag_sens>
+    <tag_file_ids>gen_doc486</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We find that trypsin digestion is more suited to digestion of per-acylated proteins.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc121</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The backcross strains have a powerful genetic resource that can be used to determine if the genes identified from other studies contribute to the ivermectin resistance phenotype of the MHco4(WRS) or the MHco10(CAVR) strains.</plag_sens>
+    <tag_file_ids>gen_doc3050</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The backcross strains have a powerful genetic resource that can be used to determine if the genes identified from other studies contribute to the ivermectin resistance phenotype of the MHco4(WRS) or the MHco10(CAVR) strains.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc121</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There was a significant difference in percentage weight between the meal provision and the self-directed arms, which was supported by the two-way mixed model analysis of variance.</plag_sens>
+    <tag_file_ids>gen_doc1949</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A significant difference in percentage weight was seen at all time points between the meal provision and the self-directed arms, which is supported by the significant effect of intervention and time by the two-way mixed model analysis of variance.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc121</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Both IL-1alpha and IL1B are active in the cell.</plag_sens>
+    <tag_file_ids>gen_doc3915</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Both IL-1alpha and IL1B are active in the body as a secreted form.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc121</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Afetadas em 5 pacientes are regies periféricas.</plag_sens>
+    <tag_file_ids>gen_doc3689</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>As regies periféricas foram afetadas.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc121</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The symptoms of the allergic response can be determined by the types and concentrations of antigens in the ambient environment.</plag_sens>
+    <tag_file_ids>gen_doc134</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The symptoms of the allergic response are determined by the types and concentrations of antigens in the ambient environment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc121</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>It was found that certain strains ofNDV can induce the growth of tumors and that the pathway for the growth of tumors is p53 independent.</plag_sens>
+    <tag_file_ids>gen_doc3724</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>It was found that certain strains of NDV can induce apoptosis in tumor cells and that the pathway that stimulates it is p53-independent.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc121</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The statistical formula for sample size calculation was used to estimate the sample size.</plag_sens>
+    <tag_file_ids>gen_doc29</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The statistical formula for sample size calculation was considered as a basis in the estimation of the sample size.</tag_plag_sens>
+  </row>
+</data>

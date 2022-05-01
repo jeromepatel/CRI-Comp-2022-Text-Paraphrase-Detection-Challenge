@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2236</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In 22% of the cases, studies show that adult household members, including parents and grandparents, are the source of the microorganism transmission.</plag_sens>
+    <tag_file_ids>gen_doc1538</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In 22% of the cases, studies show that adult household members, including parents and grandparents, can be the source of the microorganism transmission to children.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2236</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Where the species has not been determined or where it is irrelevant will be where ureaplasmas will be used.</plag_sens>
+    <tag_file_ids>gen_doc2656</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The term ureaplasmas will be used where the species has not been determined, or where it is irrelevant.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2236</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In the MSNP-injected group, almost half of the embryos had pericardial edema and skeletal abnormality.</plag_sens>
+    <tag_file_ids>gen_doc2805</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In the MSNP-injected group, almost half of the embryos had pericardial edema and skeletal abnormality, compared with the other group.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2236</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>We reanalyzed the data after removing one study at a time.</plag_sens>
+    <tag_file_ids>gen_doc2081</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In a sensitivity analysis, we excluded one study at a time and reanalyzed the data.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2236</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The images were captured with a camera attached to a microscope.</plag_sens>
+    <tag_file_ids>gen_doc1861</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The images were captured with a camera attached to a microscope.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2236</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The ability of treated cells to re-generate tumorspheres was not hindered by treatment with Apoferritin alone, as shown by the decreased ability of treated cells to re-generate tumorspheres.</plag_sens>
+    <tag_file_ids>gen_doc831</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The ability of treated cells to re-generate tumorspheres was not hindered by treatment with Apoferritin alone, but was affected by the effects of Curcumin and APO-Curcumin.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3049</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>We looked at dissemination strategies used by researchers.</plag_sens>
+    <tag_file_ids>gen_doc1486</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We looked at the dissemination strategies used by researchers to influence decision makers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3049</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Fishermen's behavior can be changed by the government's rules for managing a biological resource.</plag_sens>
+    <tag_file_ids>gen_doc2070</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The fishermen behavior can be changed due to the possibility of punishment if the government imposes rules for managing a biological resource.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3049</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The length of the blastema was measured from the amputation plane to the tip at the spinal cord level after the amputation.</plag_sens>
+    <tag_file_ids>gen_doc745</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The length of the blastema was measured from the amputation plane to the tip at the spinal cord level on 4 days after amputation.</tag_plag_sens>
+  </row>
+</data>

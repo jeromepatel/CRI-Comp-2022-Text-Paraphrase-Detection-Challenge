@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3159</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Generic substrates have a role in the screening approach.</plag_sens>
+    <tag_file_ids>gen_doc2288</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Generic substrates have a role in the screening approach.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3159</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Control samples were changed from 33 to 54 m, while Wnt3a and LPS-treated samples increased from 43 to 54 m.</plag_sens>
+    <tag_file_ids>gen_doc1701</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Control samples were changed from 33 to 54 m (T14) and Wnt3a andLPS-treated samples increased from 43 to 54 m (T1).</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3159</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>An introduction and procedure of the transcriptome analysis is shown in Additional file 1.</plag_sens>
+    <tag_file_ids>gen_doc2668</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>An introduction and procedure of the transcriptome analysis of K. marxianus Y179 can be found in Additional file 1: Figure S1.</tag_plag_sens>
+  </row>
+</data>

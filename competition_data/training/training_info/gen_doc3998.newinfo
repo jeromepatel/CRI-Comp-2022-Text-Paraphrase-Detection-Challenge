@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3998</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The figure shows the association matrices for three groups.</plag_sens>
+    <tag_file_ids>gen_doc2514</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The 90  90 association matrices for the three groups are presented in figure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3998</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The majority of kinases target the ATP-binding site, but they usually have low levels of selectivity.</plag_sens>
+    <tag_file_ids>gen_doc962</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Most kinases target the ATP-binding site, but usually have low levels of kinase selectivity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3998</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Most previous studies have been done in highly developed countries and regions, but little research has been done on how many women in developing countries are screened for post-partum depression.</plag_sens>
+    <tag_file_ids>gen_doc1287</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Most previous studies have been done in highly developed countries such as the USA and Taiwan, but little research has been done on how many women in developing countries are screened for postpartum depression.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3998</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Cells can tolerate transfection with smaller amounts of PR, but cell death is only observed upon transfection of larger amounts of PR.</plag_sens>
+    <tag_file_ids>gen_doc4</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Cell death is only observed upon transfection of larger amounts of PR; cells can tolerate smaller amounts of PR.</tag_plag_sens>
+  </row>
+</data>

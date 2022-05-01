@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc994</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The Mgat1 and Mgat5 cells have more severe changes in them.</plag_sens>
+    <tag_file_ids>gen_doc2533</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The Mgat1 and Mgat5 cells have more severe changes in them.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc994</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>It was not associated with strong immunolabeling for LIF.</plag_sens>
+    <tag_file_ids>gen_doc3755</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Strong immunolabeling for LIF was not associated with strong immunolabeling for CLDN4.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc994</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The TGF- super family includes BMP.</plag_sens>
+    <tag_file_ids>gen_doc555</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The TGF- super family includes BMP.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc994</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Polypodium feullei, hymenophyllum spp., and hymenoglossum cruentum are some of the angiosperms.</plag_sens>
+    <tag_file_ids>gen_doc1886</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Polypodium feullei, hymenophyllum spp., and hymenoglossum cruentum are some of the angiosperms.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc994</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>It was the first time a relation between SRC and WNK2 was analyzed.</plag_sens>
+    <tag_file_ids>gen_doc1768</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>It was the first time that a relation between the SRC and WNK2 status was analyzed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc994</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Zelazo and Mller made a distinction between the cool and hot aspects of EF.</plag_sens>
+    <tag_file_ids>gen_doc1346</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Zelazo and Mller made a distinction between the cool and hot aspects of EF.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2956</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>ZmTPS was a strong candidate.</plag_sens>
+    <tag_file_ids>gen_doc2722</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The ZmTPS was a strong candidate for qSTA4-1.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2956</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The region grows from this seed by comparing the values of neighboring voxels.</plag_sens>
+    <tag_file_ids>gen_doc1910</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The region grows from this seed by comparing the values of neighboring voxels based on a user criterion.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2956</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There wasn't a relationship between RWC and malic acid.</plag_sens>
+    <tag_file_ids>gen_doc2655</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>There was no relationship between RWC and malic acid in either cultivar.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2956</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Culture conditions, tissue source, and donor characteristics may each have a significant impact on the characteristics of the MSC.</plag_sens>
+    <tag_file_ids>gen_doc1804</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Culture conditions, tissue source, and donor characteristics may each have a significant impact on MSC characteristics, according to basic research of the immunomodulatory potential of BMSCs and ASCs.</tag_plag_sens>
+  </row>
+</data>

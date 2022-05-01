@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc489</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>When compared to dichromats, trichromats had higher values of the JND figureA.</plag_sens>
+    <tag_file_ids>gen_doc3446</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We found that when compared to dichromats, trichromats had higher values of JND figureA.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc489</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Long-term follow-up studies of this cohort revealed high mortality from lung cancer and bronchiectasis in the population exposed in utero and early childhood decades after high exposure ended.</plag_sens>
+    <tag_file_ids>gen_doc46</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Long-term follow-up studies of this cohort revealed high mortality from lung cancer and bronchiectasis in the population exposed in utero and during early childhood decades after high exposure ended.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc489</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In an earlier report the prevalence of R. equi was much higher.</plag_sens>
+    <tag_file_ids>gen_doc2143</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In an earlier report, the prevalence of R. equi was greater.</tag_plag_sens>
+  </row>
+</data>

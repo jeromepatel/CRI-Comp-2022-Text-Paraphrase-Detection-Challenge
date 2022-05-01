@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3091</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The relationship between the patient mortality and admission, highest and mean SOFA, was significant.</plag_sens>
+    <tag_file_ids>gen_doc757</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The relationship between the patient mortality and admission, highest and mean SOFA was significant.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3091</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The smallest p value of 1.0  106 was found in the intronic region of the NEB genes.</plag_sens>
+    <tag_file_ids>gen_doc3856</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The smallest p value was 1.0  106 for the SNP rs119902616 located in the intronic region of the NEB gene.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3091</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The Atlantic Ocean is 15% of the worldwide freshwater run-off.</plag_sens>
+    <tag_file_ids>gen_doc2433</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>15– 20% of the worldwide continental freshwater run-off goes into the Atlantic Ocean.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3091</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Growers apply plant growth regulators to modify plant growth and development.</plag_sens>
+    <tag_file_ids>gen_doc1437</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Growers apply plant growth regulators, organic compounds used to modify plant growth and/or development, to alter plant architecture.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3091</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The families were interacting with the participants in the conversations.</plag_sens>
+    <tag_file_ids>gen_doc948</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In interaction between the participants in the conversations, the families' narrating, listening, and reconsidering were undertaken.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3091</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>40 minutes after the procedure, cells were taken to ensure an active Mu population and sufficient MuB levels.</plag_sens>
+    <tag_file_ids>gen_doc504</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>40 minutes after the procedure, cells were taken to ensure an active Mu population and sufficient MuB levels.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3091</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There were no truncated forms found in the 98% of theProtein that was monomeric with a intact disulfide bond.</plag_sens>
+    <tag_file_ids>gen_doc1362</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>There were no truncated forms found in the 98% of theprotein that was monomeric with an intact disulfide bond.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc3091</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>This could lead to the release of apoptogenic genes and cell death.</plag_sens>
+    <tag_file_ids>gen_doc2470</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>This could cause the opening of PTP and the release of apoptogenic proteins.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc3091</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Nine patients had some sort of medical condition.</plag_sens>
+    <tag_file_ids>gen_doc348</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Nine patients had some type of disease.</tag_plag_sens>
+  </row>
+</data>

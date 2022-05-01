@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3024</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Responses in the conditioned context were higher than those in the different context.</plag_sens>
+    <tag_file_ids>gen_doc2681</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>It was found that responding in the conditioned context was higher than responding in the different context.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3024</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The theoretical yield is between 0.19 and 0.21 Cmole Cmole.</plag_sens>
+    <tag_file_ids>gen_doc629</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Depending on the NADPH generation pathway figureA, the theoretical yield is between 0.19 and 0.21 Cmole Cmole1</tag_plag_sens>
+  </row>
+</data>

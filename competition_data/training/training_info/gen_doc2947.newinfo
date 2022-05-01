@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2947</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The rate of forward and backward mutations, the replication capacity of both drug-sensitive and drug-resistant viruses, and the efficacy of ENF against viral fusion are estimated by us.</plag_sens>
+    <tag_file_ids>gen_doc2692</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>We estimate the rate of forward and backward mutations, the replication capacity of both drug-sensitive and drug-resistant viruses, and the efficacy of ENF against viral fusion when it is re-administered after interruption.</tag_plag_sens>
+  </row>
+</data>

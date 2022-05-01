@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2942</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The matrix metalloproteinase MMP16 is located in rs10504861 on 8q21.</plag_sens>
+    <tag_file_ids>gen_doc2400</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>On 8q21, rs10504861 is located 200 kb telomeric from matrix metalloproteinase MMP16.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2942</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>A case of rapid enlargement of suprasellar prepontine arachnoid cyst resulted in hydrocephalus.</plag_sens>
+    <tag_file_ids>gen_doc548</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A case of rapid enlargement of suprasellar prepontine arachnoid cyst resulted in hydrocephalus in the perinatal period.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2942</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The latter are called secondary PA because of the fact that they arise from a healthy pituitary gland.</plag_sens>
+    <tag_file_ids>gen_doc3393</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The latter are called secondary PA, and they are the ones that arise in a healthy pituitary gland.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2942</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A patient is on antibiotic therapy for something other than a lung problem.</plag_sens>
+    <tag_file_ids>gen_doc756</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>A patient is on antibiotic therapy for something other than a pulmonary exacerbation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2942</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>ceiling effects are found at the opposite end of the scale while floor effects are found at the opposite end.</plag_sens>
+    <tag_file_ids>gen_doc947</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>ceiling effects are found at the opposite end of the scale, while floor effects are found at the opposite end.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2942</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Around 8% of the time, Pull Technique PEG has wound infections.</plag_sens>
+    <tag_file_ids>gen_doc2635</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Pull Technique PEG has a wound infection rate of 8%.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2942</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The integrin binding can be disrupted by the fourth 8-cysteine domain deletion.</plag_sens>
+    <tag_file_ids>gen_doc2976</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The integrin binding can be disrupted by the fourth 8-cysteine domainmutations.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3378</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The H2O2 treatment increased the number of spots and decreased the number of spots.</plag_sens>
+    <tag_file_ids>gen_doc1462</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The H2O2 treatment increased the abundances of 11 spots and decreased the number of spots among the 26 spots.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3378</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>When cyclin D/Cdk4/6 activity is low and ineffective in limiting the nuclear localization of Smad2/3, it only occurs in early G1, as shown by Pauklin and Vallier.</plag_sens>
+    <tag_file_ids>gen_doc1057</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>When cyclin D/Cdk4/6 activity is low and ineffective in limiting the nuclear localization of Smad2/3, it only occurs in early G1, as demonstrated by Pauklin and Vallier.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3378</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The silent polymorphism has the ability to change the specificity of the substrate.</plag_sens>
+    <tag_file_ids>gen_doc506</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Kimchi-Sarfaty and her colleagues found that the silent polymorphism could change the specificity of the substrates.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3378</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The application of phylogenetics in the examination of a genome has been dubbed "phylogenomics"</plag_sens>
+    <tag_file_ids>gen_doc159</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The application of phylogenetics in the examination of a genome has been dubbed "phylogenomics"</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3378</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The patient had a Sestamibi Scan.</plag_sens>
+    <tag_file_ids>gen_doc2748</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A Sestamibi scan was preformed in our patient.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3378</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There was no significant activation of Akt when HEK293 was stimulated with isoproterenol.</plag_sens>
+    <tag_file_ids>gen_doc1846</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There was no significant activation of Akt when untransfected HEK293 was stimulated with isoproterenol.</tag_plag_sens>
+  </row>
+</data>

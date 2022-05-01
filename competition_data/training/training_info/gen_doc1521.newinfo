@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1521</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The primary cultures of astrocytes were prepared from the brainstem and cerebellum of the newborn pups.</plag_sens>
+    <tag_file_ids>gen_doc110</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Primary cultures of astrocytes were prepared from the brainstem and cerebellum of newborn pups.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1521</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The factors considered to have significance include sheeting, hypercellularity, and the increased proliferative index of MIB-l.</plag_sens>
+    <tag_file_ids>gen_doc625</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The factors considered to have significance include sheeting, hypercellularity, cytologic atypia, increased mitotic index, necrosis, small cell change, brain invasion, and elevated proliferative index of MIB-l.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1521</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Leucaena36 shared the same diploidization and introgression processes.</plag_sens>
+    <tag_file_ids>gen_doc2959</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The two explanations are not exclusive.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1521</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The reduction of isoflurane requirement was observed in our patients who were premedicated with a drug.</plag_sens>
+    <tag_file_ids>gen_doc1484</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The reduction of isoflurane requirement was observed in our patients who were premedicated with a drug.</tag_plag_sens>
+  </row>
+</data>

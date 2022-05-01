@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2305</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The work-up for the management of IDA is summarized in this figure.</plag_sens>
+    <tag_file_ids>gen_doc3949</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Our current work-up for the management of IDA in patients with IBD is summarized in the figure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2305</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The initial rates were determined by linear fits to data points below 10% turnover.</plag_sens>
+    <tag_file_ids>gen_doc142</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Initial rates were determined by linear fits to data points below 10% turnover and plotted against GTP concentration.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2305</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The observations are consistent with the idea that cilia were lost independently in many species.</plag_sens>
+    <tag_file_ids>gen_doc900</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The observations are consistent with the idea that cilia were lost independently in many species in evolution.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2305</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Adh4p has no structural or functional homologies with the other three enzymes, and it has a small role in the metabolism of alcohol in the presence of non-respiratory carbon sources.</plag_sens>
+    <tag_file_ids>gen_doc3312</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In this study, Adh4p showed no structural or functional homologies with the other three enzymes, and its low RPKM value demonstrated a small role in ethanol metabolism in the presence of non-respiratory carbon sources.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2305</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Five sections taken from C5–C6 or L4–L5 segments, each separated by minimum of 300 m, were picked from each animal.</plag_sens>
+    <tag_file_ids>gen_doc1995</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Five sections taken from C5–C6 or L4–L5 segments, each separated by minimum of 300 m, were selected from each animal, i.e., the cell-grafted group and the media-injected group.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2305</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The spatial correlation can't be accounted for by the classical statist.</plag_sens>
+    <tag_file_ids>gen_doc1264</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The classical statistics assumes random variation and cannot account for spatial correlation.</tag_plag_sens>
+  </row>
+</data>

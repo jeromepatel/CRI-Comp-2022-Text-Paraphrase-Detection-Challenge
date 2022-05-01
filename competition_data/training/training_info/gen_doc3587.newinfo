@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3587</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The 19S toxin is said to be a dimer of the 16S toxin.</plag_sens>
+    <tag_file_ids>gen_doc1643</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A type A toxin is reported to form 19S toxin, which is considered to be a dimer of 16S toxin.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3587</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>It takes an average of 12 years to develop a new variety of sugarcane.</plag_sens>
+    <tag_file_ids>gen_doc1676</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>It takes on average 12 years to develop a new sugarcane variety.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3587</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>This transformation took us beyond history, to an end of history in which time was converted into a sort of infinite space, where one could just keep oneself busy, because nothing more can happen.</plag_sens>
+    <tag_file_ids>gen_doc2922</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>This transformation took us beyond history, to an end of history, in which time was converted into a sort of infinite space, where one just keeps oneself busy, because nothing more can happen.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3587</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>A lot of the GFP-ORP5 remained even after it was decimated.</plag_sens>
+    <tag_file_ids>gen_doc1285</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A significant amount of the GFP-ORP5 remained even after it was decimated.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3587</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The anti-CNBP antibody was used to incubated theFragmented chromatin.</plag_sens>
+    <tag_file_ids>gen_doc230</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The anti-CNBP antibody was used to incubated the Fragmented chromatin.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3587</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The network that controls the rate of aging is one of the aspects.</plag_sens>
+    <tag_file_ids>gen_doc590</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The network that controls the rate of aging is one of the aspects that is convergence of certain signaling pathways.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3587</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Highly addictive psychostimulant drug, meth, is widely abused and abused.</plag_sens>
+    <tag_file_ids>gen_doc1631</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>meth is a highly addictive psychostimulant drug.</tag_plag_sens>
+  </row>
+</data>

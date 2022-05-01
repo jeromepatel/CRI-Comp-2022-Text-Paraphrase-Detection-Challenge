@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc773</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The model includes costs associated with drug acquisition and administration, pharmacy handling, infusor pumps, examinations and tests, as well as hospitalisation resource use for the management of treatment-related toxicities.</plag_sens>
+    <tag_file_ids>gen_doc1979</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The model includes costs associated with drug acquisition and administration, pharmacy handling and dispensers, infusor pumps, examinations and tests, as well as hospitalisation resource use for the management of treatment-related toxicities.</tag_plag_sens>
+  </row>
+</data>

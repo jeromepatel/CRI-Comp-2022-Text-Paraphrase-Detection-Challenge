@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2989</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Initially, we were only able to get poorly diffracted F-A-PCP.</plag_sens>
+    <tag_file_ids>gen_doc2624</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Initially, we were only able to obtain poorly diffracted F-A-PCP crystals.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2989</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The left middle cerebral arteries were impregnated with a nylon and coated with aSilicon resin.</plag_sens>
+    <tag_file_ids>gen_doc2344</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The left middle cerebral arteries were impregnated with a nylon and coated with aSilicon resin.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2989</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>A reduction in allele burden from baseline remained for 24 months.</plag_sens>
+    <tag_file_ids>gen_doc3153</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A reduction in allele burden from baseline remained at 24 months of treatment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2989</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>There is a possibility that NOX4 could be useful as an independent risk factor for poor progess in some cases.</plag_sens>
+    <tag_file_ids>gen_doc1454</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There is a possibility that NOX4 could be used as an independent risk factor for poor prognoses in the 82 cases of CRC.</tag_plag_sens>
+  </row>
+</data>

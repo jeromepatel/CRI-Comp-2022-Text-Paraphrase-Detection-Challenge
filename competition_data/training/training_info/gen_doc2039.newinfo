@@ -1,0 +1,113 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2039</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The sub family classification of the TMC family is based on two major observations.</plag_sens>
+    <tag_file_ids>gen_doc2894</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The sub family classification of the TMC family is based on two major observations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2039</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Faculty members from different disciplines help with small group sessions.</plag_sens>
+    <tag_file_ids>gen_doc2142</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Faculty members from different disciplines facilitate small group sessions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2039</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>immunodeficiency-associated, endemic and sporadic are the three variant of BL.</plag_sens>
+    <tag_file_ids>gen_doc842</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There are three different types of BL: endemic, sporadic and immunodeficiency-associated.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2039</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Stem length and days to heading appeared to be different depending on the environment.</plag_sens>
+    <tag_file_ids>gen_doc3577</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The associations between stem length and days to heading appeared to be different depending on environments.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2039</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There are reports showing that azoxymethane-induced colon carcinogenesis is increased in PPAR nullizygous mice.</plag_sens>
+    <tag_file_ids>gen_doc3577</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>There are several reports that show that azoxymethane-induced colon carcinogenesis is increased in PPAR nullizygous mice.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2039</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The elimination of asymmetric brain activity was reported in another study.</plag_sens>
+    <tag_file_ids>gen_doc1028</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The elimination of asymmetric brain activity was reported by another study.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2039</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Although we have described several possible avenues by which pesticide exposure may influenceautism, the lack of studies on large occupational and pregnancy cohort with adequate exposure assessment impedes our understanding.</plag_sens>
+    <tag_file_ids>gen_doc435</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Although we have described several possible avenues by which pesticide exposure may influence autism, the dearth of studies on large occupational and pregnancy cohort with adequate exposure assessment impedes our understanding of a) whether pesticides are consistently associated with autism risk, and b) if so, which pesticide compounds and which components of</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc2039</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>It was thought that having two supervisors who supplemented each other was an advantage.</plag_sens>
+    <tag_file_ids>gen_doc2348</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>It was an advantage to have two supervisors who supplemented each other.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc2039</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The high-dose NaF-induced cell viability decrease in hESCs was not mitigated by PD 9809.</plag_sens>
+    <tag_file_ids>gen_doc1117</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In contrast, the high-dose NaF-induced cell viability decrease in hESCs was not mitigated by PD98059.</tag_plag_sens>
+  </row>
+  <row>
+    <index>9</index>
+    <file_ids>gen_doc2039</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Smith and Chapman found that a lower binding affinity of AChRs leads to poor cholinergic transmission in rats.</plag_sens>
+    <tag_file_ids>gen_doc3367</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Smith and Chapman found that a lower binding affinity of AChRs leads to poor cholinergic transmission at the neuromuscular junction in aged rats.</tag_plag_sens>
+  </row>
+</data>

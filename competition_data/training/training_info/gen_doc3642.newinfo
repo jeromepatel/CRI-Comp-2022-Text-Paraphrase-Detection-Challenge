@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3642</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Only primer pairs that showed an amplification efficiency between 1.90 and 2.10 were used for quantification.</plag_sens>
+    <tag_file_ids>gen_doc3643</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Only primer pairs that showed an amplification efficiency between 1.90 and 2.05 were used for quantification.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3642</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>After adjusting for age, gender, body mass index, smoking history, status of a current smoker and FEV1% predicted, olive tail moment, head length, tail length and tail migration increased significantly</plag_sens>
+    <tag_file_ids>gen_doc3434</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>After adjusting for age, gender, body mass index, smoking history, status of a current smoker and FEV1% predicted, olive tail moment, tail length, and tail migration increased significantly.</tag_plag_sens>
+  </row>
+</data>

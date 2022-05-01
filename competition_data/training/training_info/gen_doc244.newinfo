@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc244</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>It is believed that binding of ouabain to Na,K-ATPase releases the kinase domain of Src, which is thought to cause the activation of the MAPK pathway.</plag_sens>
+    <tag_file_ids>gen_doc2109</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>It is believed that binding of ouabain to Na,K-ATPase releases the kinase domain of Src, which transactivates the EGFR and in turn stimulates the MAPK pathway.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc244</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The model must be checked after it has been identified.</plag_sens>
+    <tag_file_ids>gen_doc1510</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The model's validity must be checked after it's been identified.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc244</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The already deposited automatically generated multiple alignments were used for families that were represented in Pfam-B.</plag_sens>
+    <tag_file_ids>gen_doc980</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We used the already deposited automatically generated multiple alignments for families that were represented in Pfam-B subset.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc244</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>VDAC appears to be dispensable for cell death caused by HK II, while resistance to cell death in tumors appears to be dependent on preventing the opening of the mitochondrial PTP.</plag_sens>
+    <tag_file_ids>gen_doc387</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>VDAC appears to be dispensable for cell death caused by HK II, while resistance to cell death in tumors appears to be dependent on preventing the opening of the mitochondria PTP.</tag_plag_sens>
+  </row>
+</data>

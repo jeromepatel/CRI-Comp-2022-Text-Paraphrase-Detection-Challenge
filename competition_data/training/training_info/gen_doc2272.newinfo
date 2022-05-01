@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2272</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The test compound 2c had good activity against all the Gram-positivebacteria with MIC values in the range of 2–4 g/mL.</plag_sens>
+    <tag_file_ids>gen_doc1459</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The test compound 2c showed good activity against all these Gram-positivebacteria with MIC values in the range of 2–4 g/mL.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2272</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The bands of 1300 and 321 bp were linked to blast resistance.</plag_sens>
+    <tag_file_ids>gen_doc1959</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>According to Arajo et al., OPA-02 is characteristic with bands of 1300 and 321 bp, which were linked to blast resistance.</tag_plag_sens>
+  </row>
+</data>

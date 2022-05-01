@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1909</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The difference between the highest and lowest scores of the HIRLAM-COMB setup is not significant.</plag_sens>
+    <tag_file_ids>gen_doc2142</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The difference between the highest and lowest scores of the HIRLAM-COMB setup is not significant.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1909</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Participants accessed the study after clicking on a link.</plag_sens>
+    <tag_file_ids>gen_doc313</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Participants accessed the study in Qualtrics after clicking a link to the study.</tag_plag_sens>
+  </row>
+</data>

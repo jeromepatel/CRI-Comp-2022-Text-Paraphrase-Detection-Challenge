@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3019</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The study found that 83% of participants felt simulation gave them a realistic experience.</plag_sens>
+    <tag_file_ids>gen_doc1166</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The study found that 83% of participants felt that simulation gave them a realistic clinic experience.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3019</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The survival curves were used to derive transitions between health states.</plag_sens>
+    <tag_file_ids>gen_doc2970</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Transitions between health states were derived from published survival curves.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3019</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The two domain architecture 'DEADHelicase_C' is an order of Pfam domains.</plag_sens>
+    <tag_file_ids>gen_doc242</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The two domain architecture 'DEADHelicase_C' is an order of Pfam domains present in a given protein.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3019</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There were a number of critical questions left unaddressed by Gayarre et al before the field could make a shift away from the importance of glycogenphosphate in LB formation.</plag_sens>
+    <tag_file_ids>gen_doc3259</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Gayarre et al. left a number of critical questions unaddressed before the field could make a shift away from the importance of glycogenphosphate in LB formation and LD towards exploring alternative disease mechanisms.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3772</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The age, tumor location, histologic type, pT stage, pN stage and pTNM stage were differences between the LA TG group and the OTG group.</plag_sens>
+    <tag_file_ids>gen_doc760</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The age, tumor location, histologic type, pT stage, pN stage and pTNM stage of all patients significantly differed between the LATG group and the OTG group.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3772</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Understanding of interdisciplinary processes, interprofessional cooperation, and the application of individual cases with reference to the system as a whole are included in the MCV.</plag_sens>
+    <tag_file_ids>gen_doc2156</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Understanding of interdisciplinary processes, interprofessional cooperation, and the application of individual cases with reference to the system as a whole are three occupational and future oriented aspects of optimal medical care that are included in the MCV.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2523</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There were always two threshold crossing for this event type with a threshold set at +2 standard deviations.</plag_sens>
+    <tag_file_ids>gen_doc2172</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>There were always 2 threshold crossings for this event type if the threshold was set at +2 standard deviations from the trace mean.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2523</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Men is a signalling cascade that is located at the pole body.</plag_sens>
+    <tag_file_ids>gen_doc939</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>MEN is a signalling cascade that is located at the spindle pole body.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2523</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We reported that HA/A binding to E-cadherin disrupted the barrier.</plag_sens>
+    <tag_file_ids>gen_doc1364</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>We previously reported that HA/A binding to E-cadherin and disrupting the epithelial barrier.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2523</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The proportion positive from Table 1 was applied to the whole study population if diagnostic test results weren't available for all participants.</plag_sens>
+    <tag_file_ids>gen_doc2469</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The proportion positive from Table 1 was applied to the whole study population when diagnostic test results were not available for all participants.</tag_plag_sens>
+  </row>
+</data>

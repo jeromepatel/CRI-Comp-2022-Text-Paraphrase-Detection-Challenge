@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2811</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The application of science to the control of crime is what crime science is all about.</plag_sens>
+    <tag_file_ids>gen_doc2072</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The application of science to the control of crime is what crime science (CS) is about.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2811</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The main cause of human brucellosis in The Netherlands was mainly the isolates of B. melitensis and B. abortus.</plag_sens>
+    <tag_file_ids>gen_doc3818</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The main cause of human brucellosis in The Netherlands was mainly the isolates of B. melitensis and B. abortus.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2811</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The distribution of selenium in seafood and its effects on the body should be understood.</plag_sens>
+    <tag_file_ids>gen_doc3291</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The distribution of seafood with and without selenium should be characterized because of its effects on MeHg.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2811</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There are no long term follow up studies on how volunteering during adolescence may affect criminal activity later on in life.</plag_sens>
+    <tag_file_ids>gen_doc1405</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There are no long term follow up studies that address how volunteering during adolescence may affect criminal activity in adulthood.</tag_plag_sens>
+  </row>
+</data>

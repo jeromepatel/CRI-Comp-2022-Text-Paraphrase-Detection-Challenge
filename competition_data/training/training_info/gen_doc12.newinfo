@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc12</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Irritability was measured using a scale that is both parent and self- reported.</plag_sens>
+    <tag_file_ids>gen_doc515</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Irritability was measured using a scale that is both parent and self-reported.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc12</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There are differences in the structure of the primary structure of different members of the NirK family.</plag_sens>
+    <tag_file_ids>gen_doc222</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>There are differences in the structure of the primary structure of different members of the NirK proteins family.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc12</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The work has led to the observation that mechanical forces are involved in microtubule orientation.</plag_sens>
+    <tag_file_ids>gen_doc985</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The work has led to the observation that mechanical forces are involved in microtubule orientation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc12</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The abnormality in any of these processes can lead to the breakdown of the mitochondria, the cells in the body.</plag_sens>
+    <tag_file_ids>gen_doc978</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The abnormality in any of these processes can lead to the breakdown of the mitochondria.</tag_plag_sens>
+  </row>
+</data>

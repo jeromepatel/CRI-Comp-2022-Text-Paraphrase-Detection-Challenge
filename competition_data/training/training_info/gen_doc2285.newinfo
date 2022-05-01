@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2285</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The urgent calls are returned within 20 minutes and the routine takes 60 minutes to complete.</plag_sens>
+    <tag_file_ids>gen_doc2547</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The urgent calls are returned within 20 minutes and the routine within 60 minutes after receipt.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2285</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The process decreases the level of LexA, which in turn causes the release of the repression of the SOS genes.</plag_sens>
+    <tag_file_ids>gen_doc3732</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The process decreases the level of LexA, which in turn releases the repression of SOS genes.</tag_plag_sens>
+  </row>
+</data>

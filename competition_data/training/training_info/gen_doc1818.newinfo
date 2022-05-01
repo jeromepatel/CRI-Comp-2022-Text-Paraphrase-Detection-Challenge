@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1818</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There are two HR+ breast cancer and two HR breast cancer.</plag_sens>
+    <tag_file_ids>gen_doc372</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There are two HR+ breast cancer and two HR breast cancer, both of which are related to human growth factor-neu receptor.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1818</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The BAT of these mice were shown to be stressed by the increased phosphorylation of theAMPK targets.</plag_sens>
+    <tag_file_ids>gen_doc2355</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The BAT of these mice were shown to be stressed by the increased phosphorylation of the AMPK targets.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1818</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Thirty-eight individual phages were isolated, and all of them have morphotypes.</plag_sens>
+    <tag_file_ids>gen_doc177</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Thirty-eight individual phages were isolated, and electron microscopy shows that all of them have morphotypes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1818</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Flucloxacillin is the first choice antibiotic, but there are alternatives such as cefuroxime and cefixime.</plag_sens>
+    <tag_file_ids>gen_doc1464</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Flucloxacillin is the first choice antibiotic, but alternatives include clavulanic acid, cefuroxime and ceFixime.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1818</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The ternary structure explains how the nucleotide and lipid binding sites interact.</plag_sens>
+    <tag_file_ids>gen_doc2827</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In atomic detail, the ternary structure explains how the nucleotide and lipid-binding sites interact.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1818</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The regulation of NF-B activity plays a key role in innate and adaptive immunity.</plag_sens>
+    <tag_file_ids>gen_doc881</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The regulation of NF-B activity plays a key role in innate and adaptive immune function and the defense againstbacterial and viral pathogens.</tag_plag_sens>
+  </row>
+</data>

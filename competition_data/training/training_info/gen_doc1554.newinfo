@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1554</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>It is possible that Ku70 is not unique in assuring Bax.</plag_sens>
+    <tag_file_ids>gen_doc1790</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>It is possible that Ku70 is not unique in assuring Bax sequestration in the cytosol.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1554</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Referred for further details.</plag_sens>
+    <tag_file_ids>gen_doc1116</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Referred to for further details.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1554</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Some L. reuteri strains have more than one type ofidase.</plag_sens>
+    <tag_file_ids>gen_doc1265</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Some L. reuteri strains have both types of enzyme, but others only have one.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1554</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>There is scope to investigate the collective activity of blood profiles of phenolics on inflammatory processes because of their higher concentrations and longer duration.</plag_sens>
+    <tag_file_ids>gen_doc2280</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There is scope to investigate the collective activity of blood profiles of phenolics on inflammatory processes, given that they circulate at higher concentrations and for longer duration relative to their precursor structures.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1554</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The EDX line profile of the cell@bio hybrid shell shows that the bio hybrid aggregates are uniformly coated on the cell surface.</plag_sens>
+    <tag_file_ids>gen_doc2335</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The EDX line profile of cell@bio hybrid shell confirms that the bio hybrid aggregates are uniformly coated on the cell surface.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc428</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A highly ranked target, S 100A4, was identified by our network approach as specific to a single tumor line.</plag_sens>
+    <tag_file_ids>gen_doc3724</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A highly ranked target, S 100A4, was identified by our network approach and turned out to be specific to a single tumor line.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc428</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In the presence of microtubule-associated proteins and phosphorylates tubulin-associated Tau, in the presence of R1441G trangenic mice, tubulin-associated Tau is hyperphosphorylated in the brain.</plag_sens>
+    <tag_file_ids>gen_doc2724</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The presence of microtubule-associated proteins and phosphorylates tubulin-associated Tau in the presence of LRRK2 enhances tubulin polymerization in the presence of them.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc428</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We performed a quantitative analysis of the SuPAR content in the patients' blood.</plag_sens>
+    <tag_file_ids>gen_doc2454</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We performed a quantitative analysis of the SuPAR content in patients using a commercially available kit.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc428</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>Alteration of the VHL promoter has been correlated with increased HIF1a expression and deletion of miR-23b has been reported to reduce HIF1a expression.</plag_sens>
+    <tag_file_ids>gen_doc3355</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Alteration of the VHL promoter has been correlated with increased HIF1a expression, and deletion of miR-23b has been reported to reduce HIF1a and VEGFA expression via its targeting of VHL.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc428</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The connection between inflammation and stress has been well documented.</plag_sens>
+    <tag_file_ids>gen_doc2442</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The connection between inflammation and stress has been well documented.</tag_plag_sens>
+  </row>
+</data>

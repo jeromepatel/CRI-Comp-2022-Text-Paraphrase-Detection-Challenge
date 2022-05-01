@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1580</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Since PAA was present in the functionalized membranes, a response of water permeation through the membranes would be expected.</plag_sens>
+    <tag_file_ids>gen_doc3938</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Since PAA was present in the functionalized membranes, a response of water permeation through the membranes would be expected.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1580</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The gel phase at room temperature shows a phase transition at a temperature of 41.3 C.</plag_sens>
+    <tag_file_ids>gen_doc2062</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The gel phase at room temperature shows a phase transition at a temperature of 41.3 C, which is the same temperature as the artificial lipid membrane dipalmitoylphosphatidylcholine (DPPC).</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1580</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The identification of the FC-affecting mutations is done by the data-driven data analysis of the virco.</plag_sens>
+    <tag_file_ids>gen_doc2929</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The identification of the FC-affecting mutations is done by the data-driven data analysis of the virco.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1580</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The human pathogens are the most prominent members of the Corynebacterianeae, and they are Gram-positive.</plag_sens>
+    <tag_file_ids>gen_doc3441</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The human pathogens are the most prominent members of the Corynebacterianeae, which is a group of Gram-positivebacteria.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1580</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The controls were injected with PBS.</plag_sens>
+    <tag_file_ids>gen_doc436</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>An equivalent volume of PBS was injected with the negative controls.</tag_plag_sens>
+  </row>
+</data>

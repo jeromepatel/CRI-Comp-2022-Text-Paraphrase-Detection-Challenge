@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1709</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Governments around the world are trying to change the delivery of health care.</plag_sens>
+    <tag_file_ids>gen_doc2468</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Governments around the world have set out an agenda to shift the delivery of health care.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1709</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The cumulative intake of psychostimulant medication did not have a beneficial impact on the outcomes of our sample.</plag_sens>
+    <tag_file_ids>gen_doc40</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The cumulative intake of psychostimulant medication did not have a beneficial impact on the outcomes of ADHD or functioning in our sample.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1709</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The His6-tag was replaced by a strep-tag in the pQE 30 vector.</plag_sens>
+    <tag_file_ids>gen_doc2237</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The His6-tag was replaced by a strep-tag in the pQE-30 vector used to get therep-tagged versions of the proteins.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1709</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The results do not support a correlation between total testosterone and vitamins D and E.</plag_sens>
+    <tag_file_ids>gen_doc583</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Our results do not support a correlation between total testosterone and vitamin D levels, which was reported in previous studies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1709</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Roberton and Konczak (2001) see an increasing amount of difference in the throwing performance.</plag_sens>
+    <tag_file_ids>gen_doc3137</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Roberton and Konczak (2001) see an increasing amount of difference in the throwing performance.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2771</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>C2C12/shCdo cells transfected with the control pcDNA showed impaired myotube formation.</plag_sens>
+    <tag_file_ids>gen_doc992</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Similar to the previous reports, C2C12/shCdo cells transfected with the control pcDNA exhibited impaired myotube formation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2771</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>After the first report of the role of ITO as a charge generation layer, several other studies followed to demonstrate the effect of CGL based on oxide films.</plag_sens>
+    <tag_file_ids>gen_doc2028</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>After the first report of the role of ITO as a charge generation layer, several other studies followed to demonstrate the effect of CGL based on oxide films, such as MoO3 and V2O5.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2771</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>bacteria did not adhere to any structure</plag_sens>
+    <tag_file_ids>gen_doc1259</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Few double-walledbacteria were found, as they did not adhere to any structure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2771</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The direction detection capability for passive spaceborne nadir-looking systems has been confirmed by experimental studies.</plag_sens>
+    <tag_file_ids>gen_doc385</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The direction detection capability for passive spaceborne nadir-looking systems was demonstrated by the fact that the sensitivity of passive microwave measurements on ocean wind direction at nadir incidence was confirmed.</tag_plag_sens>
+  </row>
+</data>

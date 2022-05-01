@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3869</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The main source of update was the addition of additional expression data that signaled a modification of one or multiple EGMs.</plag_sens>
+    <tag_file_ids>gen_doc1281</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In this study, the main source of annotations was the addition of additional expression data that indicated a modification of one or multiple EGMs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3869</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>This loading condition allowed us to assess the effect of the soft cuticle and the patch on the joint's elasticity.</plag_sens>
+    <tag_file_ids>gen_doc2881</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>This loading condition allowed us to assess the effect of the soft cuticle and the patch on the joint's elasticity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3869</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>While TUNEL can be used to determine the fraction of cells undergoing apoptosis, the laddering pattern on agarose gel electrophoresis that represents the biochemical changes involved in the breakdown of chromosomes into nucleosome units is what the laddering pattern on agarose gel electrophoresis is all about.</plag_sens>
+    <tag_file_ids>gen_doc3557</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>While TUNEL can be used to determine the fraction of cells undergoing apoptosis, the laddering pattern on agarose gel electrophoresis that represents the biochemical changes involved in the breakdown of chromosomes into nucleosome units is what the laddering pattern on agarose gel electrophoresis represents.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3869</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There is a visual check of the accuracy of the prediction model.</plag_sens>
+    <tag_file_ids>gen_doc1335</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>A visual check of the accuracy of the prediction model is provided by the standard error interpolation surface.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3869</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The relationship between VEGF-induced vessel permeability and the degradation of the VE-cadherin is known as the VEGF-Induced vessel permeability.</plag_sens>
+    <tag_file_ids>gen_doc3010</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The relationship between VEGF-induced vessel permeability and the degradation of the VE-cadherin is known as the VEGF-Induced vessel permeability.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3869</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>It could be due to incorrect diagnoses of asthma or COPD.</plag_sens>
+    <tag_file_ids>gen_doc1115</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>It could also be due to previous incorrect diagnoses of asthma or COPD of individuals not having the recorded disease.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc821</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>High carbon dioxide tension and hypoxic can result in cerebral hyperaemia if airway maintenance isn't done early.</plag_sens>
+    <tag_file_ids>gen_doc684</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>High carbon dioxide tension and hypoxic can result in cerebral hyperaemia and early airway maintenance is necessary to protect the airway.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc821</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We looked at the expression levels of hacA, bipA, and pdiA in the strains that had an impaired ERAD pathway.</plag_sens>
+    <tag_file_ids>gen_doc2284</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>We analyzed the expression levels of hacA, bipA, and pdiA in the strains with an impaired ERAD pathway in combination with the GlaGus protein expressed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc821</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>In a comparison of the Aka and Baka, there were no differences in any microwear variables.</plag_sens>
+    <tag_file_ids>gen_doc2554</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In a comparison of the Aka and Baka, no significant differences in any microwear variables were found.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc821</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The analysis showed that the extended exon 1 species are expressed in many places.</plag_sens>
+    <tag_file_ids>gen_doc3607</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The analysis showed that the extended exon 1 species are mostly expressed in the body's organs.</tag_plag_sens>
+  </row>
+</data>

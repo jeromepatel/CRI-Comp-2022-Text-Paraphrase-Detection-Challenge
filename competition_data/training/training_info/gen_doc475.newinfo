@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc475</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The CHD included diagnoses of fatal myocardial infarction which are clinically well-distinguishable, characterized by progressing atherosclerosis and pathogenetically close to a group of cerebral strokes.</plag_sens>
+    <tag_file_ids>gen_doc44</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The CHD included diagnoses of fatal myocardial infarction (I21-23) which are clinically well-distinguishable, characterized by progressing atherosclerosis and pathogenetically close to a relatively well-defined group of cerebral strokes (I60-I64), but also vaguely.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc475</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Ruptured-patch whole-cell voltage-clamp was used to measure the potential of the membrane.</plag_sens>
+    <tag_file_ids>gen_doc2998</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Ruptured-patch whole-cell voltage-clamp was used to measure the potential of the membrane.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc475</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>It has been reported that S. aureus primes nave T cells to differentiate.</plag_sens>
+    <tag_file_ids>gen_doc704</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>It has been reported that S. aureus primes nave T cells to differentiate into IL-10-produced TH17 cells.</tag_plag_sens>
+  </row>
+</data>

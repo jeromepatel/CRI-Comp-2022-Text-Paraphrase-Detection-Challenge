@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1017</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Blood pressure, pulse rate, sympathetic nerve activity, parasympathetic nerve activity, salivary cortisol levels, and cerebral blood flow were all reported to have been decreased in these studies.</plag_sens>
+    <tag_file_ids>gen_doc303</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The studies reported decreased blood pressure and pulse rate, suppression of sympathetic nerve activity, increased parasympathetic nerve activity, decreased salivary cortisol levels, and decreased cerebral blood flow in the prefrontal cortex.</tag_plag_sens>
+  </row>
+</data>

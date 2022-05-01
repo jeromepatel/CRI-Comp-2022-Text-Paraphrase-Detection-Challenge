@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1523</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>This speedup was reduced as WMC decreased until it was an advantage for low-WMC readers.</plag_sens>
+    <tag_file_ids>gen_doc1456</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The speedup was reduced as WMC decreased until it became an advantage for the low-WMC readers in Experiment 2.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1523</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>They are summarized in the body of this paper.</plag_sens>
+    <tag_file_ids>gen_doc648</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>They are summarized in the body of this paper.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1523</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Drug shortages are a multi-faceted issue according to the interviews.</plag_sens>
+    <tag_file_ids>gen_doc2243</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Drug shortages are a multi-faceted issue according to the interviewees.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1523</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Less color resulted in an extended period of negative color selection, with the most pronounced difference occurring between the top and center of the picture.</plag_sens>
+    <tag_file_ids>gen_doc1604</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Less color resulted in an extended period of negative color selection, with the most pronounced difference occurring between the top and center of the picture.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1523</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Most colocalizing with the Z ring is what all bacterial cell division and FtsZ regulatory proteins are known to do.</plag_sens>
+    <tag_file_ids>gen_doc3349</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Most colocalizing with the Z ring is what bacterial cell division and FtsZ regulatory proteins are known to exhibit.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1523</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The microphone signal was split into two channels, one providing an unprocessed signal and the other altered with a digital signal processor to decrease the frequencies of all vowels.</plag_sens>
+    <tag_file_ids>gen_doc1782</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The microphone signal was amplified and split into two channels, one providing an unprocessed signal and the other altered using a digital signal processor to decrease the frequencies of all vowels.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1523</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The average age of the subjects was over 30 years old.</plag_sens>
+    <tag_file_ids>gen_doc385</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The average age of the subjects was 31.73 years old.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1523</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Mortality in the western hemisphere is caused by cardiovascular diseases.</plag_sens>
+    <tag_file_ids>gen_doc3276</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Cardiovascular diseases are the leading cause of mortality in the western hemisphere.</tag_plag_sens>
+  </row>
+</data>

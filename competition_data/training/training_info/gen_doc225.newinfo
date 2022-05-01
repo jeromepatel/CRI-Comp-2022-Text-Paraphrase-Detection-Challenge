@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc225</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Alterations in cell-cell and cell-matrix interactions can result in abnormal cell behavior, which can lead to invasion and transformation of tumors.</plag_sens>
+    <tag_file_ids>gen_doc2012</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A variety of changes in cell-cell and cell-matrix interactions can result in abnormal cell behavior at the early stages of tumor development.</tag_plag_sens>
+  </row>
+</data>

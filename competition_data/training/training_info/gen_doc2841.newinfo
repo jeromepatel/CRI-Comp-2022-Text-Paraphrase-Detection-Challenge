@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2841</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Figure S3 was collected from the embryos from the melanogaster flag.</plag_sens>
+    <tag_file_ids>gen_doc2686</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Figure S3 was collected from the embryos from the flag tagged rbf1</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2841</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>A detailed assessment of the degree of promiscuity in different compounds at different stages of the drug development pathway is of interest.</plag_sens>
+    <tag_file_ids>gen_doc1373</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>A detailed assessment of the degree of promiscuity among compounds at different stages of the drug development pathway is of interest given that compound promiscuity represents the molecular basis of polypharmacological effects.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2841</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The genes were enriched for functions related to the metabolism of sugar.</plag_sens>
+    <tag_file_ids>gen_doc633</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The genes were enriched for functions related toCarbohydrate metabolism as well asProtein targeting and sorting.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2841</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The High Impacts Tracking System is a web-based software tool developed by the National Institute of Environmental Health Sciences, and it imports data from existing National Institutes of Health databases of grant information as well as the texts of progress reports and notes of programme managers.</plag_sens>
+    <tag_file_ids>gen_doc1392</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A similar US model is the High Impacts Tracking System, a web-based software tool developed by the National Institute of Environmental Health Sciences and it imports data from existing National Institutes of Health databases of grant information as well as the texts of progress reports and notes of programme managers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2841</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>One of the mechanisms involves contraction through Ca2+ release, whereas the other involves the stimulation of Ca2+ channels with nonselective cation channels.</plag_sens>
+    <tag_file_ids>gen_doc629</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>One of the mechanisms involves contraction through Ca2+ release, while the other involves the stimulation of Ca2+ channels with nonselective cation channels.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2841</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Some people argue that a log-normal function is more appropriate because it describes distributions that arise from the product of many random events.</plag_sens>
+    <tag_file_ids>gen_doc1828</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Some argue that a log-normal function is more appropriate because it describes distributions that arise from the product of many random independent events.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2841</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>A 2000 study using health checkup data from five occupational health organizations found that the prevalence of hypertension and obese men in large-scale companies was lower than in small-scale companies.</plag_sens>
+    <tag_file_ids>gen_doc1829</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A previous study using health checkup data in 2000 from five occupational health organizations reported that the prevalence of hypertension and obese men in large-scale companies was slightly lower than those in small-scale enterprises.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1676</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The amount of acrolein can be determined by the temperature of the oil and the type of oil it is.</plag_sens>
+    <tag_file_ids>gen_doc262</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The amount of acrolein produced depends on the type of oil heated and the temperature of the oil.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1676</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The cell proliferation was determined by the CHEMICON®'s BrdU Cell Proliferation Kit.</plag_sens>
+    <tag_file_ids>gen_doc1458</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>At the end of stress treatment, the cell proliferation was determined by the CHEMICON®'s BrdU Cell Proliferation Kit.</tag_plag_sens>
+  </row>
+</data>

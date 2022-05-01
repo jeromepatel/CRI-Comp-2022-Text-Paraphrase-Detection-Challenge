@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3916</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The essential practices that support the admission transition of patient care as well as practices that were detrimental to the admission transition were identified in phase one and three.</plag_sens>
+    <tag_file_ids>gen_doc368</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In order to identify the essential practices that support the admission transition of patient care, as well as practices that were detrimental to the admission transition, phase one and three were necessary.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3916</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Mre11-Rad50 has recently been shown to initiate a 5′-strand resection.</plag_sens>
+    <tag_file_ids>gen_doc470</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>For instance, Mre11-Rad50 has recently been shown to initiate 5′-strand resection at DSBs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3916</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>It is obvious that the study shows that stress causes muscle cell loss.</plag_sens>
+    <tag_file_ids>gen_doc3424</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>It is obvious that the study shows that stress causes muscle cell loss.</tag_plag_sens>
+  </row>
+</data>

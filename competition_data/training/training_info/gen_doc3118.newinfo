@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3118</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The control group was not found to be different from the control group when it was tested.</plag_sens>
+    <tag_file_ids>gen_doc3548</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A control+vehicle group was established to test the response to the vehicle, but was not found to be different than the control group.</tag_plag_sens>
+  </row>
+</data>

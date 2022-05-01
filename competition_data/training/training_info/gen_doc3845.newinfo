@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3845</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The median uncertainty in standard processing is ca.</plag_sens>
+    <tag_file_ids>gen_doc1929</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The median epicentral uncertainty is ca. in standard processing.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3845</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>People with higher activity are expected to have less fat.</plag_sens>
+    <tag_file_ids>gen_doc3074</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>People with higher activity are expected to have less fat.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3845</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In Section 3, we show a singular version of the inequality with the exact growth condition on hyperbolic space.</plag_sens>
+    <tag_file_ids>gen_doc884</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In Section 3, we show a singular version of the inequality with the exact growth condition on hyperbolic space.</tag_plag_sens>
+  </row>
+</data>

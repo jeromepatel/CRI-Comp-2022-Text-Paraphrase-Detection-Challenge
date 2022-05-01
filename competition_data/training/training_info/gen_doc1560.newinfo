@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1560</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>At the time of diagnosis, the volume of the fibroid was 408 cm, at 20 weeks 528 cm, and at the time of labour it was 884 cm.</plag_sens>
+    <tag_file_ids>gen_doc2399</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>At the time of diagnosis, the volume of the fibroid was 408 cm, at 20 weeks 528 cm, and 885 cm after labour.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1560</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The ankle was kept in the neutral position and the knees were bent at an angle of 90 as the angle was measured.</plag_sens>
+    <tag_file_ids>gen_doc1288</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The ankle kept in the neutral position was used to measure the angle formed by each line that divides the longitudinal axis of the thigh and calcaneus.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1560</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>S2B</plag_sens>
+    <tag_file_ids>gen_doc2089</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>S2B</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1560</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The majority of patients had an increase in their cell numbers after surgery.</plag_sens>
+    <tag_file_ids>gen_doc1356</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The majority of patients saw an increase in their cell numbers after surgery.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1560</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The motifs shown in Figure 6A represent the shortest version of the motifs found to be overrepresented.</plag_sens>
+    <tag_file_ids>gen_doc805</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The motifs shown in Figure 6A are the shortest versions of the motifs found to be overrepresented.</tag_plag_sens>
+  </row>
+</data>

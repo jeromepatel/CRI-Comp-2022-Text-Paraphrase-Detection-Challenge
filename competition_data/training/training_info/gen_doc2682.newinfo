@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2682</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Perzin and Bridge analyzed 392,000 surgical pathology cases over a 62-year period, and found that there was anoma of the small bowel.</plag_sens>
+    <tag_file_ids>gen_doc2952</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Perzin and Bridge analyzed 392,000 surgical pathology cases over a 62-year period, and reported anomalies of the small bowel as well.</tag_plag_sens>
+  </row>
+</data>

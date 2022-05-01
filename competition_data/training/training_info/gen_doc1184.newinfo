@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1184</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The density is at the top of the lane and F is at the right.</plag_sens>
+    <tag_file_ids>gen_doc3978</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The density is at the top of the lane and F is at the right based on migration.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1184</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>To confirm the role of SAMHD1 in the ability of Vpx to overcome HIV-1 restriction in quiescent CD4+ T-cells, we used PBMCs isolated from patients with Aicardi-Goutires syndrome.</plag_sens>
+    <tag_file_ids>gen_doc1670</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>To confirm the role of SAMHD1 in the ability of Vpx to overcome HIV-1 restriction in quiescent CD4+ T-cells, we used PBMCs isolated from 4 Aicardi-Goutires syndrome patients.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1184</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The coverage thresholds required for herd protection to eliminate disease are not necessarily the same as the ones that will result in a shift in the age.</plag_sens>
+    <tag_file_ids>gen_doc1388</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The coverage thresholds required for herd protection to eliminate disease are not necessarily the same as those that will result in a shift in the age, so it is wise to know that.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1184</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The insert was cloned at NheI and XhoI sites.</plag_sens>
+    <tag_file_ids>gen_doc2948</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The iglA-TEM1 insert was cloned at NheI and XhoI sites by In-Fusion®.</tag_plag_sens>
+  </row>
+</data>

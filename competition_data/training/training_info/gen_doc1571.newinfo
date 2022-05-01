@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1571</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There was a doubling of the relative expression of granzyme B and perforin in comparison to short-term or no IL-21.</plag_sens>
+    <tag_file_ids>gen_doc926</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The presence of IL-21 in the culture resulted in a doubling of the relative expression of granzyme B and perforin in comparison to short-term or no IL-21.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1571</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The TGF1/Smad pathway in cancer cells and the platelet–cancer cell interaction are both activated by the TGF1/Smad pathway.</plag_sens>
+    <tag_file_ids>gen_doc958</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The TGF1/Smad pathway in cancer cells and the platelet–cancer cell interaction are both activated by TGF1, which is produced by Platelets.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1571</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The figure 3.</plag_sens>
+    <tag_file_ids>gen_doc2759</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Figure 3.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1571</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>A satisfactory fit with R2  0.990 is provided by Peak deconvolution of the anodic stripping voltammogram, upon application of a 1:2 peak II/peak III area ratio constraint.</plag_sens>
+    <tag_file_ids>gen_doc3512</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A satisfactory fit with R2  0.990 is provided by Peak deconvolution of the anodic stripping voltammogram, upon application of a 1:2 peak II/peak III area ratio constraint.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1571</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The nuclei were separated from the extract in 5 minutes.</plag_sens>
+    <tag_file_ids>gen_doc577</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The cytoplasmic extract was separated from the nuclei by low-speed centrifugation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1571</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Hair concentrations ranged from 2 to 7 doses per week, with minimal inter-individual variation in dose effect.</plag_sens>
+    <tag_file_ids>gen_doc3621</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Hair concentrations ranged from 2 to 7 doses per week, with minimal inter-individual variation in dose effect.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1571</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The lack of apparent response of the ORS to ectopic snail may be due to the less active K14 promoter.</plag_sens>
+    <tag_file_ids>gen_doc1646</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The lack of apparent response of the ORS to ectopic Snail might be due to the fact that the K14 promoter is less active in the ORS than the epidermis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1571</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>We included patients with impaired glucose tolerance, even though we excluded patients with diabetes.</plag_sens>
+    <tag_file_ids>gen_doc1654</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We included 7 patients with impaired glucose tolerance, even though we excluded patients with diabetes.</tag_plag_sens>
+  </row>
+</data>

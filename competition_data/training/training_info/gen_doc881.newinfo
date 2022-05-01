@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc881</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Pol V, but not Pol II or Pol IV, promotes the replicative bypass of N3-CMdT and O4-CMdT in Escherichia coli cells.</plag_sens>
+    <tag_file_ids>gen_doc2578</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Pol V, but not Pol II or Pol IV, promotes the replicative bypass of N3-CMdT and O4-CMdT in E. coli cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc881</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Over the last decades, our understanding of the development and progression of HF has evolved.</plag_sens>
+    <tag_file_ids>gen_doc1228</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Over the last decades, our understanding of the development and progression of HF has changed.</tag_plag_sens>
+  </row>
+</data>

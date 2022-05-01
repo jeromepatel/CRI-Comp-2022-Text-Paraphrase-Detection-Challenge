@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3928</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>There have been many scoring functions reported in the past decades, and new ones are still emerging.</plag_sens>
+    <tag_file_ids>gen_doc1335</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A number of scoring functions have been reported in the past decades, and new ones are still emerging.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3928</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The majority of the AIVs were isolated from Korean native chickens, while H3 and H6 were isolated from other sources.</plag_sens>
+    <tag_file_ids>gen_doc2581</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>A total of 219 AIVs were isolated in LBMs between 2012 and the present day.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3928</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Stopping rules have also been developed for this trial, and the development of these rules was done taking into consideration common and serious adverse events which can occur in adolescents being treated for a major depressive episode with antidepressants.</plag_sens>
+    <tag_file_ids>gen_doc601</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Stopping rules have also been developed for this trial, and the development of these rules has been done taking into consideration common and serious adverse events which can occur in adolescents being treated for a major depressive episode with antidepressant medication.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3928</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>In patients with chronic kidney disease, the expression of MT-CO1 has increased.</plag_sens>
+    <tag_file_ids>gen_doc2576</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In patients with chronic kidney disease, the expression of MT-CO1 has been shown to be increased.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3928</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The leaf size, leaf texture, and number of branches, which have not necessarily evolved as plant defenses, can also affect biological control.</plag_sens>
+    <tag_file_ids>gen_doc621</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The leaf size, leaf texture, and number of branches, which have not necessarily evolved as plant defenses, can also affect biological control.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3928</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The survival rate for D. radiodurans cells is the same whether they have 4 or 10 genome copies.</plag_sens>
+    <tag_file_ids>gen_doc3297</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>D. radiodurans cells have the same survival rate regardless of the number of genome copies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3928</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The lung disease state is based on the FEV% prediction.</plag_sens>
+    <tag_file_ids>gen_doc1131</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The lung disease state is based on FEV% prediction.</tag_plag_sens>
+  </row>
+</data>

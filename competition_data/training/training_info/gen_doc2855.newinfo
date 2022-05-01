@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2855</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In a large retrospective review of the Nationwide Inpatient Sample, it was found that newborn circumcision rates have risen from 48.3% in 1988 to 61.1% in 2001</plag_sens>
+    <tag_file_ids>gen_doc2881</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In a large retrospective review of the Nationwide Inpatient Sample, the estimated rates of newborn circumcision have risen from 48.3% in 1988 to 61.1% in 2001.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2855</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Out of the 41 hospitalized case-patient families, 25 borrowed money in order to pay for the treatment.</plag_sens>
+    <tag_file_ids>gen_doc2467</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Of the 41 hospitalized case-patient families, 25 borrowed money in order to pay for the treatment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2855</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>It is believed that MECU personnel are exposed to the same levels of noise as the in-hospital controls.</plag_sens>
+    <tag_file_ids>gen_doc3662</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>It is believed that MECU personnel are exposed to the same noise levels as the in-hospital controls during periods outside the vehicles.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2855</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Females have additional sensitivity to longer wavelength.</plag_sens>
+    <tag_file_ids>gen_doc1523</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Females have additional sensitivity to longer wavelengths.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2855</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Ca2+-binding sites are involved in channel gating with the help of five negatively charged amino-acids.</plag_sens>
+    <tag_file_ids>gen_doc2165</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Ca2+binding sites are involved in channel gating with the help of five negatively charged amino-acid residues.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2855</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In the present study, we looked at the function of miR-10b in IDD.</plag_sens>
+    <tag_file_ids>gen_doc3445</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In the present study, we examined the functional role of miR-10b in IDD.</tag_plag_sens>
+  </row>
+</data>

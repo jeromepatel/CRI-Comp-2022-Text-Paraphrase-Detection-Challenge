@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc796</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Catalysing the conversion of citrulin to arginine3940 is required for a key intermediate step in arginine synthesis.</plag_sens>
+    <tag_file_ids>gen_doc322</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>As a result, the enterocytes of suckling animals and humans express high levels of argininosuccinate synthesis 1, which is required for a key intermediate step in arginine synthesis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc796</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>We were able to capture 36-45 images/second with 22 to 30 ms exposures based on the measurement.</plag_sens>
+    <tag_file_ids>gen_doc415</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>We were able to capture 36-45 images/second with 22 to 30 ms exposure by using the proper Nyquist sampling method.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc796</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>This image was then low-pass and high-pass, with a 2- and 5-pixel cut-offs, respectively.</plag_sens>
+    <tag_file_ids>gen_doc1447</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>This image was then low-pass and high-pass, with a 2- and 5-pixel cut-offs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc796</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Most of the proteins in the biological process were regulatory in function, according to the functional analysis.</plag_sens>
+    <tag_file_ids>gen_doc3023</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Most of the proteins in the biological process were regulatory in function, according to the functional analysis of the significant proteins in each of the groups.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc796</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The study gives an in-depth understanding of the consequences of the Dark Triad–POPS link.</plag_sens>
+    <tag_file_ids>gen_doc1291</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>This study gives an in-depth understanding of the political consequences of the Dark Triad–POPS link.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc796</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>We show the necessity of the ciliary cargo and KIF3A in the activation of the TrkB.</plag_sens>
+    <tag_file_ids>gen_doc2817</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>We show the necessity of the ciliary cargo and KIF3A proteins in the activation of TrkB by BDNF.</tag_plag_sens>
+  </row>
+</data>

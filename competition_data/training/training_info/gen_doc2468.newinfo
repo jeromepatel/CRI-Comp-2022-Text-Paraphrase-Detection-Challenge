@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2468</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The utility of the MRC technique with older adults is unknown.</plag_sens>
+    <tag_file_ids>gen_doc529</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The effects of MRC are known to vary, and little is known about the utility of the technique with older adults.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2468</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There is no biological significance to this phenomenon.</plag_sens>
+    <tag_file_ids>gen_doc1339</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The biological significance of this phenomenon is unknown.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2468</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Forty-nine families had a variation in EXT1, and fifteen families had variations in EXT2.</plag_sens>
+    <tag_file_ids>gen_doc2769</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Twenty-nine families had a variation in EXT1, and 15 families had variations in EXT2.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2468</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The difference in the mean intake of total sugars between SMILE-FFQ1 and 24HR was the only difference between the methods.</plag_sens>
+    <tag_file_ids>gen_doc2186</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The difference in the mean intake of total sugars between SMILE-FFQ1 and 24HR was the only difference found in the group level comparison.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2468</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Figures were created with the help of Adobe software.</plag_sens>
+    <tag_file_ids>gen_doc1869</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Figures were created with the help of Adobe software.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2468</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There is no consensus about the indications for combined TACE and HAIC.</plag_sens>
+    <tag_file_ids>gen_doc1576</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There is no consensus regarding the indications for combined TACE and HAIC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2468</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>It has been proposed that the representation of the selected feature must be active in order to allow the matching between it and the stimuli.</plag_sens>
+    <tag_file_ids>gen_doc3775</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>It has been proposed that the representation of the selected feature must be active in order to allow the matching between the selected feature and the stimulus.</tag_plag_sens>
+  </row>
+</data>

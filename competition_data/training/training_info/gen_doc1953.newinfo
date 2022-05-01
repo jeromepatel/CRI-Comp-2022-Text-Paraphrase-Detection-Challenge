@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1953</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The results showed that the effects of EGF treatment on the release of Ca2+ from the ER to the cytoplasm were reversed.</plag_sens>
+    <tag_file_ids>gen_doc40</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The results showed that EGF treatment increased the release of Ca2+ from the ER to the cytoplasm and high expression and activity of PKG II caused the release to be reversed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1953</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Anti-HAV prevalence in the 10, 20, 30, 40, 50, and &gt; 60 years age groups was less than 50%.</plag_sens>
+    <tag_file_ids>gen_doc2300</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Anti-HAV prevalence in the 10, 20, 30, 40, 50, 60, and &gt; 60 years age groups was 91.1%.</tag_plag_sens>
+  </row>
+</data>

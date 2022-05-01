@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3677</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In an article published in the first volume of the journal Brain, he said that perception is the end of a stage beginning by the unconscious or subconscious revival of images.</plag_sens>
+    <tag_file_ids>gen_doc2169</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In an article on aphasia published in the first volume of the journal Brain, he wrote that perception is the end of a stage beginning by the unconscious or subconscious revival of images.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3677</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The recent articles of Baller were written.</plag_sens>
+    <tag_file_ids>gen_doc2222</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The recent articles of Baller et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3677</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Two studies have investigated the use of NIPPV in patients with ARF of varied causes.</plag_sens>
+    <tag_file_ids>gen_doc1440</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There are only two studies that have investigated the use of NIPPV in patients with ARF of varied causes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3677</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The two screens had a set of deletion strains that were sensitive to the two metals.</plag_sens>
+    <tag_file_ids>gen_doc3984</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The two screens had a combined set of deletion strains.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3677</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>WEC and the greater Toronto HUs are hot spots for WNV positive mosquitoes each year according to our estimates.</plag_sens>
+    <tag_file_ids>gen_doc2529</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>WEC and the greater Toronto HUs are hot spots for WNV positive mosquitoes each year according to our kriging estimates.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3112</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Tumours are multicellular organs.</plag_sens>
+    <tag_file_ids>gen_doc847</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Tumours function as complex, interactive, multi-cellular organs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3112</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Both 37 and 23 were recorded.</plag_sens>
+    <tag_file_ids>gen_doc2965</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Both of them were 37 and 23, respectively.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3112</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>LSK cells lack the Lin markers that are found on mature myeloid and lymphoid cells.</plag_sens>
+    <tag_file_ids>gen_doc1344</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>LSK cells lack the Lin markers that are found on mature myeloid and lymphoid cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3112</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Some flowers hide their pollen grains poricidal anthers and bees buzz them even if they are not able to detect visual or chemical pollen signals before buzzing the flowers, but immediately recognize the release of pollen.</plag_sens>
+    <tag_file_ids>gen_doc1433</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>Some flowers hide their pollen grains poricidal anthers and bees buzz them even if they aren't able to detect visual or chemical signals before buzzing the flowers, but immediately recognize pollen release.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3112</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The participants were reimbursed for their time and travel expenses with a department store voucher.</plag_sens>
+    <tag_file_ids>gen_doc2366</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>During Phases 2–5 participants were reimbursed for their time and travel expenses with a department store voucher.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3112</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In the cells of the pheochromocytoma, GALR2 regulates calcium.</plag_sens>
+    <tag_file_ids>gen_doc146</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In adrenal pheochromocytoma cells, GALR2 upregulates calcium.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1408</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>In the second step, additional information about the simulation was provided if the patient was questioned by the pharmacy.</plag_sens>
+    <tag_file_ids>gen_doc1391</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In the second step, additional information about the simulation situation was provided if the patient was questioned by the pharmacist.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1408</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The locations of the HIV particles were analysed.</plag_sens>
+    <tag_file_ids>gen_doc1578</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We looked at the locations of the HIV particles in relation to the cell surface membranes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1408</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The 19th most common cause of GAS diseases in Asia was the emm5 strain.</plag_sens>
+    <tag_file_ids>gen_doc3962</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The 19th most common cause of GAS diseases in Asia is emm5 strains, which cause 2.5% of pharyngeal diseases.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1408</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Each set of simulations had a certain number of runs.</plag_sens>
+    <tag_file_ids>gen_doc3293</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Each set of simulations had 1,000 attempts.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1754</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>A2HSG and A1AT were differentially glycosylated in chronic pancreatitis.</plag_sens>
+    <tag_file_ids>gen_doc1135</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A2HSG and A1AT were found to be differentially glycosylated in chronic pancreatitis and pancreatic cancer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1754</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>A correlation was found between the occurrence of cysteine and the complexity of the organisms.</plag_sens>
+    <tag_file_ids>gen_doc3286</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>A positive correlation was found between cysteine occurrence and complexity organisms by using hundreds of proteins from various species.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1754</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Most brains of post-puberalautistic subjects display a significant downregulation of reelin genes compared to controls figureb, in line with previous reports.</plag_sens>
+    <tag_file_ids>gen_doc3412</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Most brains of post-puberal autistic subjects display a significant downregulation of reelin gene expression compared to controls figureb, in line with previous reports.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1754</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A patient's ability to understand and adhere to a prescribed course of medical treatment is the key principle in the successful management of their disease.</plag_sens>
+    <tag_file_ids>gen_doc2749</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>As with other chronic illnesses, a patient's ability to understand and adhere to a prescribed course of medical treatment is the fundamental principle in the successful management of their disease.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1754</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In animal models of colon, breast and lung cancer, the tumor-preventing effect of the Sulfone metabolite has been shown.</plag_sens>
+    <tag_file_ids>gen_doc2627</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In animal models of colon, breast and lung cancer, the tumor-preventing effect of the Sulfone metabolite has been shown.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1754</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The overall structure of this cold- tolerant and moderatelyphilic halophilic bacterium suggests that their adaptation to higher temperatures and NaCl concentrations is determined by their overall structure.</plag_sens>
+    <tag_file_ids>gen_doc1941</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The overall structure of this cold- tolerant and moderatelyphilic halophilic bacterium suggests that their adaptation to higher temperatures and elevated NaCl concentrations is determined by their overall structure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1754</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The lack of considering dispersion interactions may have led to the prediction of the absence of an H-bond.</plag_sens>
+    <tag_file_ids>gen_doc1158</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The lack of considering dispersion interactions may have led to the prediction of the absence of an H-bond, which would have been mitigated by favorable and remarkable dispersion interactions otherwise.</tag_plag_sens>
+  </row>
+</data>

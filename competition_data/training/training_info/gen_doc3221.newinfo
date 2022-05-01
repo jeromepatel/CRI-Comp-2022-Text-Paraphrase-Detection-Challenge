@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3221</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>An evolution pitch diagram shows the behavior of the cholesteric phase from low concentration to the final dry state.</plag_sens>
+    <tag_file_ids>gen_doc1082</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>An evolution pitch diagram depicts the behavior of the cholesteric phase from low concentration to the final dry state, thanks to this particular configuration.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3221</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>For two weeks prior to a 120 minute, moderate intensity cycle ergometer test, 12 grams of branched chain amino acids (BCAAs) were administered, followed by an additional 20 grams immediately before and after the test.</plag_sens>
+    <tag_file_ids>gen_doc3839</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>For two weeks prior to a 120 minute, moderate intensity cycle ergometer test, 12 grams of branched chain amino acids (BCAAs) were administered, with an additional 20 grams administered immediately before and after the test.</tag_plag_sens>
+  </row>
+</data>

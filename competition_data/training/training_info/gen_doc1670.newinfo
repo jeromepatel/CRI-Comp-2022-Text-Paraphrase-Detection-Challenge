@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1670</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The application has been shown to be a valid method for measuring joint angles and has a high level of inter-rater.</plag_sens>
+    <tag_file_ids>gen_doc438</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The application has been shown to be a valid method for measuring joint angles and has a high level of inter-rater and reliability.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1670</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>If increasing basis sets give different predictions with respect to the existence of a BCP, conclusions based on medium-size basis sets are uncertain.</plag_sens>
+    <tag_file_ids>gen_doc3307</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>If increasing basis sets give different predictions with respect to the existence of a BCP, then conclusions based on medium-size basis sets remain uncertain.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1670</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The provision of family planning information was not within the purview of the ward-midwives, but the responsibility of the PHM, they claimed during an in-depth interview.</plag_sens>
+    <tag_file_ids>gen_doc3514</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The provision of family planning information was not within the purview of the ward-midwives, but the responsibility of thePHM, they claimed in an interview.</tag_plag_sens>
+  </row>
+</data>

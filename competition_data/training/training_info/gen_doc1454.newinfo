@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1454</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Roughly 1/3 of the injected feelgood mutant embryos showed a partial rescue of the feelgood phenotype as indicated by the longer jaw, which protrudes past the eyes, and the presence of cartilage elements whose shape closely resembles that of wild types figureF,H).</plag_sens>
+    <tag_file_ids>gen_doc2741</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>Approximately 1/3 of the injected feelgood mutant embryos showed a partial rescue of the feelgood phenotype as indicated by the longer jaw, which protrudes past the eyes, and the presence of cartilage elements whose shape closely resembles that of wild types figureF,H).</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1454</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It took several months to leverage the thousands of compute nodes in Blue Gene.</plag_sens>
+    <tag_file_ids>gen_doc1812</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>It took several months to leverage the thousands of compute nodes available in Blue Gene.</tag_plag_sens>
+  </row>
+</data>

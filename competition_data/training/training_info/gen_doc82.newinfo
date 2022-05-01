@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc82</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Ben Amor &amp; Zid were both born in 1988.</plag_sens>
+    <tag_file_ids>gen_doc2784</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Ben Amor &amp; Zid were born in 1988 and 2006.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc82</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>For maximum monosaccharide yield, the combination of the GH and Xyn10C acted on monosaccharide substitution.</plag_sens>
+    <tag_file_ids>gen_doc3831</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>For maximum monosaccharide yield, the combination of the GH acting on monosaccharide substitution with the Xyn10C backbone cleaving enzyme was effective.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc82</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The clinical activity score ranged from 0 to 10 with these scores added.</plag_sens>
+    <tag_file_ids>gen_doc2450</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A clinical activity score ranged from 0 to 10 after these scores were added.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc82</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In the presence of leupeptin, most of the class II molecules recovered as 70kD Ii-p10 complexes (p70) failed to reach the cell surface even after 4 h of chase figure, bottom).</plag_sens>
+    <tag_file_ids>gen_doc772</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In the presence of leupeptin, most of the class II molecules recovered as 70kD Ii-p10 complexes (p70) failed to reach the cell surface even after 4 h of chase figure, bottom).</tag_plag_sens>
+  </row>
+</data>

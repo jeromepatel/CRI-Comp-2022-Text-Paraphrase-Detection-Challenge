@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2132</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Ovarian hormones regulate the growth and death of cells.</plag_sens>
+    <tag_file_ids>gen_doc3730</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Cell death and cell proliferation are regulated by ovarian hormones.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2132</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>At the time of original diagnosis subjects were 13-18 years old, at the follow-up from 35 to 45 years.</plag_sens>
+    <tag_file_ids>gen_doc2751</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>At the time of original diagnosis subjects were 13-18 years of age, at the follow-up from 35-45 years, the inclusion criteria for the study were.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2132</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Oades et al. did not show statistically significant differences between children and young adults.</plag_sens>
+    <tag_file_ids>gen_doc811</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Oades et al. did not show statistically significant differences between children and young adults in the beta response bias parameters.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2132</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>This may explain why TRAIL-related necroptosis is enhanced by BV6.</plag_sens>
+    <tag_file_ids>gen_doc1952</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>This may explain why TRAIL-related necroptosis is enhanced by BV6.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2132</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Polymicrogyria and pachygyri are indicative of abnormality relative to a healthy brain.</plag_sens>
+    <tag_file_ids>gen_doc2800</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Polymicrogyria, or too many small gyri, or pachygyri, are indicative of abnormality relative to a healthy brain.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2132</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In the presence of F11-t5 with or without different concentrations of C11-t6 over time, the activity of Sp-I (500 nM) may be activated.</plag_sens>
+    <tag_file_ids>gen_doc355</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In the presence of F11-t5 with or without different concentrations of C11-t6 over time, the activity of Sp-I (500 nM) is activated.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1075</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Small intestinal bleeding can be caused by a variety of diseases, including peptic duodenal erosion, diverticulosis of the small intestine, and inflammatory bowel disease.</plag_sens>
+    <tag_file_ids>gen_doc712</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Small intestinal bleeding can be caused by peptic duodenal erosion or ulcer, diverticulosis of the small intestine, or an inflammatory bowel disease.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1075</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The city environment can be enhanced by influencing temperature, wind, humidity, rainfall, soil erosion, flooding, air quality, visual quality, and sound quality, while also encouraging plant and animal diversity.</plag_sens>
+    <tag_file_ids>gen_doc3686</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The city environment can be enhanced by influencing temperature, wind, humidity, rainfall, soil erosion, flooding, air quality, visual quality, and sound quality, while also encouraging plant and animal diversity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1075</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The sociodemographic variables (sex, education, marital status, and age) and the clinical variables (comorbidities, use of vasoactive drugs, sedative, oxygen therapy, type of CVA, number of episodes, and time since the event) were verified.</plag_sens>
+    <tag_file_ids>gen_doc1478</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The sociodemographic variables (sex, education, marital status, and age) and clinical variables (comorbidities, use of vasoactive drugs, sedative, oxygen therapy, type of CVA, number of episodes, and time since the event) were also verified.</tag_plag_sens>
+  </row>
+</data>

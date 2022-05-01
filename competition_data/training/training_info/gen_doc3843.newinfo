@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3843</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The mechanistic understanding of the utilization of NCoR exon 37b is not known.</plag_sens>
+    <tag_file_ids>gen_doc1022</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The mechanistic understanding of the utilization of NCoR exon 37b is still largely unrecognized.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3843</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Several types of breast cancer can't be activated by autophagy because of the deletion of the Beclin1 gene, which functions as a haploinsufficient tumor suppressor gene.</plag_sens>
+    <tag_file_ids>gen_doc3801</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Several types of breast cancer can't be activated by autophagy because of the deletion of the Beclin1 gene, which functions as a haploinsufficient tumor suppressor gene.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3843</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Both DNA-B/MVA-B and DNA-B/MVA-B A41L/B16R immunization groups induce HIV-1 specific CD4+ and CD8+ T-cell responses at 11 days post-boost.</plag_sens>
+    <tag_file_ids>gen_doc3912</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>At 11 days post-boost, both DNA-B/MVA-B and DNA-B/MVA-B A41L/B16R immunization groups elicited HIV-1specific CD4+ and CD8+ T-cell responses.</tag_plag_sens>
+  </row>
+</data>

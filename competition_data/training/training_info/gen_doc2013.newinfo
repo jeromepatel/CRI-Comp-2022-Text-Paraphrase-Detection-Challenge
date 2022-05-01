@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2013</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>We have previously developed a method to identify the individual sialylation and fucosylation of the HDL-associated proteins, and we found that it is important to distinguish between individuals with and without coronary artery disease.</plag_sens>
+    <tag_file_ids>gen_doc1928</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>We have previously developed a method to identify the individual sialylation and fucosylation of the HDL-associated proteins, and we found that it is important to distinguish between individuals with and without coronary artery disease.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2013</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>After treatment, one set of cells was put into a 37C and the other at 4C, and the final DiI concentration was obtained by adding 10 g/ml to each well.</plag_sens>
+    <tag_file_ids>gen_doc915</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>After treatment, one set of cells was put into a 37C and the other at 4C, and the final DiI concentration was obtained by adding 10 g/ml to each well.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2013</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A more important indicator of disease status than the exclusive presence of specificbacterial OTU is the relative abundance of severalbacterial OTU.</plag_sens>
+    <tag_file_ids>gen_doc1553</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A more important indicator of disease status than the exclusive presence of specific bacterial OTUs is the relative abundance of several bacterial OTUs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2013</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The analysis was made using a digital torquimeter Kratos, which was coupled to devices or mounts adapted to the respective implants shapes.</plag_sens>
+    <tag_file_ids>gen_doc2929</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The analysis was made using a digital torquimeter Kratos, which was coupled to devices or mounts adapted to the respective implants shapes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2013</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There were two genes that were differentially represented in the fig.</plag_sens>
+    <tag_file_ids>gen_doc105</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>There were two genes that were differentially represented in the fig pulp.</tag_plag_sens>
+  </row>
+</data>

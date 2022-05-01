@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1438</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Table S1 has more detailed descriptions and Figure S1 has examples of the defects observed.</plag_sens>
+    <tag_file_ids>gen_doc1221</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>For more detailed descriptions and examples of the defects observed, see Table S1 and Figure S1.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1438</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Multiple cancer types, includingHCC, are associated with the expression of several miRNAs.</plag_sens>
+    <tag_file_ids>gen_doc2545</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Multiple cancer types, includingHCC, are associated with the expression of several miRNAs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1438</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The coordinates were downloaded from the UCSC table browser.</plag_sens>
+    <tag_file_ids>gen_doc1446</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The coordinates for the transcripts were downloaded from the UCSC table browser.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1438</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Each segment shows one roof plane and vegetation is removed.</plag_sens>
+    <tag_file_ids>gen_doc1431</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Each segment shows one roof plane and vegetation is removed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1438</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Eight patients refused to receive any antineoplastic therapy before radioactive seed implantation and in the follow-up period, the others underwent different degrees of chemoradiotherapy, but they quit as a result of poor efficacy or intolerance.</plag_sens>
+    <tag_file_ids>gen_doc2768</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Eight patients refused to receive any antineoplastic therapies before radioactive seed implantation and in the follow-up period; the others underwent different degrees of chemoradiotherapy before seed implantation, but they quit as a result of poor efficacy or intolerance.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1438</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>To study the role of BMSCs in PCa progression, we injected GFP BMMSCs with RM-1 cells.</plag_sens>
+    <tag_file_ids>gen_doc1928</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In order to study the role of BMSCs in PCa progression, we co-injected GFP BMMSCs with RM-1 cells and monitored their influence on cell growth.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1438</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The three groups had an average accuracy of 70%.</plag_sens>
+    <tag_file_ids>gen_doc1339</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>For the three groups, the results of classification yielded an average accuracy of 70.5%.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc1438</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The results of the study were only applicable to people with disabilities who were visiting a convalescent center for community-dwelling stroke patients.</plag_sens>
+    <tag_file_ids>gen_doc1335</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The results of the study were only applicable to people with disabilities who were visiting a convalescent center for community-dwelling stroke patients.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc1438</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>It is reasonable to combine the synapsis formation and end processing into one step, according to the sensitivity analysis of kEP.</plag_sens>
+    <tag_file_ids>gen_doc1335</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>It is reasonable to combine the synapsis formation and end processing into one step according to the sensitivity analysis of kEP.</tag_plag_sens>
+  </row>
+  <row>
+    <index>9</index>
+    <file_ids>gen_doc1438</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Smoking accounts for the overwhelming majority of cases in Western populations and among men, but lung cancer among non-smokers is now known to be a distinct clinico-pathologic entity.</plag_sens>
+    <tag_file_ids>gen_doc3636</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Smoking accounts for the overwhelming majority of cases in Western populations and among men, but lung cancer among non-smokers is now known to be a distinct clinico-pathologic entity that is as yet poorly understood.</tag_plag_sens>
+  </row>
+  <row>
+    <index>10</index>
+    <file_ids>gen_doc1438</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Hemodialysis patients are more exposed to blood and blood products than the general population.</plag_sens>
+    <tag_file_ids>gen_doc2290</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>Hemodialysis patients are exposed to blood and blood products more than the general population.</tag_plag_sens>
+  </row>
+  <row>
+    <index>11</index>
+    <file_ids>gen_doc1438</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The compound labeled with technetium undergoes redistribution in the myocardium, which is different from the one labeled with the latter.</plag_sens>
+    <tag_file_ids>gen_doc2029</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The compound labeled with technetium undergoes redistribution in the myocardium, which is different from the compound that is hardly used in Poland.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2874</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>They still worry that having close contact with them could put them at risk of contracting HIV.</plag_sens>
+    <tag_file_ids>gen_doc2998</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>They still fear that having close contact with them might put them at risk of contracting HIV.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2874</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The longest post-operative survival in the literature is found in the two cases of primary AS of the kidney.</plag_sens>
+    <tag_file_ids>gen_doc1131</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The longest post-operative survival in the literature is found in the two cases of primary AS of the kidney.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2874</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There was a slow movement phase with a fast positioning phase in high magnification.</plag_sens>
+    <tag_file_ids>gen_doc2405</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In high magnification setting, there was a slow movement phase with a fast positioning phase.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2874</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>They are subjected to scrutiny, peer review and evaluation when pilot tested extensively for construct validity.</plag_sens>
+    <tag_file_ids>gen_doc822</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>They are pilot tested extensively for construct validity and are subjected to scrutiny, peer review and evaluation by the central coordinating team.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2874</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>In the general population, a majority of people between the ages of 25 and 54 work full time.</plag_sens>
+    <tag_file_ids>gen_doc457</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>In the general population, more than 70% of people between 25 and 54 worked full time, but less than 50% for people 55 to 64 years.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3236</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The question "Do you smoke cigarettes now?" was used to assess cigarette smoking.</plag_sens>
+    <tag_file_ids>gen_doc411</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The question was "Do you smoke cigarettes now?" and the subjects were classified as former/never versus current.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3236</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Annotation data sets prepared by users or from other databases can be used in our package.</plag_sens>
+    <tag_file_ids>gen_doc3693</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Annotation data sets prepared by users or from other databases can be used directly in our package.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3236</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>After purification, the compound was recrystalized.</plag_sens>
+    <tag_file_ids>gen_doc596</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>After purification, the compound was recrystallized from the Ethanol solution.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3236</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>It was shown that low density markers could be used in GS with a limited loss in accuracy compared to high density markers.</plag_sens>
+    <tag_file_ids>gen_doc3258</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>It was shown that low-density marker panels could be used in GS with a limited loss in accuracy compared to high-density panels.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3236</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The results showed that patients with a high baseline d-NLR had a worse RFS and OS.</plag_sens>
+    <tag_file_ids>gen_doc2181</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The results showed that patients with a high baseline d-NLR also had worse RFS and OS.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3236</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The X-ray structures of E. coli GS and HvSS1 show a closed and open version of the molecule.</plag_sens>
+    <tag_file_ids>gen_doc3476</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>According to the X-ray structures of E. coli GS and HvSS1, the closed and open version of SS1 can be deduced.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3236</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>When HK-2 cells were treated with 25 M and 50 M propofol 30 minutes before exposure to 8 mM H2O2 and then incubated in the presence of 8 mM H2O2 for 4 hours, the percentages of viable cells significantly increased to 19.5</plag_sens>
+    <tag_file_ids>gen_doc1932</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>When HK-2 cells were treated with 25 M and 50 M propofol 30 minutes before exposure to 8 mM H2O2 and then incubated in the presence of 8 mM H2O2 for 4 hours, the percentages of viable cells increased to 19.5.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc3236</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The donor seems to be the same as usual live donors.</plag_sens>
+    <tag_file_ids>gen_doc2315</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Figures 2 and 6 show that the donor seems to be the same as usual live donors.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2354</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>It has been found that signaling proteins and lipids can be found in either the front or back, but how this is generated, maintained, and reversed remains a mystery.</plag_sens>
+    <tag_file_ids>gen_doc3926</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>It has been found that signaling proteins and lipids can be found in either the front or back, but how this spatial polarization is generated, maintained, and reversed is not well understood.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2354</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>It's between 6 and 12 years of age.</plag_sens>
+    <tag_file_ids>gen_doc2808</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>A range of 6 to 12 years of age.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2354</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There are rarely systemic allergic reactions to bed bug bites.</plag_sens>
+    <tag_file_ids>gen_doc3328</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The health effects of bed bug bites include pruritic lesions, bullae, and rarely systemic allergic reactions.</tag_plag_sens>
+  </row>
+</data>

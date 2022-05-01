@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1979</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The VIth European Congress of Entomology was held in Cesk Budejovice in the Czech Republic in 1998 and I decided to organize a workshop on bark and timber beetles to bring all of these specialists together.</plag_sens>
+    <tag_file_ids>gen_doc3308</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The VIth European Congress of Entomology was held in Cesk Budejovice in the Czech Republic in 1998 and I decided to organize a workshop on bark and timber beetles to bring all these specialists together.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1979</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>It is important to remember that the number of outliers will change according to the method used, the sample size and the distribution type of the data</plag_sens>
+    <tag_file_ids>gen_doc2454</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>It is important to note that the number of outliers will change according to the method used, the sample size and the distribution type of the data.</tag_plag_sens>
+  </row>
+</data>

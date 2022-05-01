@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1765</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The released GABA is removed from the extracellular space by satellite glia as reported previously.</plag_sens>
+    <tag_file_ids>gen_doc1688</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The released GABA is removed from the extracellular space by satellite glia, and probably by neurons as well, as reported previously (51, 52).</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1765</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Their growth arrest is caused by the forced over expression of 6B.</plag_sens>
+    <tag_file_ids>gen_doc1148</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The forced over-expression of 6B in undifferentiated IECs leads to their growth arrest.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1765</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Lower-grade glioma and glioblastoma samples showed a gain of chromosomes 7 as compared to diploid tumors, and the expression of the PTN was significantly higher in the lower-grade glioma.</plag_sens>
+    <tag_file_ids>gen_doc1435</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Lower-grade glioma and glioblastoma samples showed a gain of chromosomes 7 as compared to diploid tumors, and the expression of the PTN was significantly higher.</tag_plag_sens>
+  </row>
+</data>

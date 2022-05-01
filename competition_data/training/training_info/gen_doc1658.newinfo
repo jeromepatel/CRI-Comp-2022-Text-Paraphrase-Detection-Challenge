@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1658</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The 'CVA' has two separate senses, 'cerebrovascular accident' and 'costovertebral angle'.</plag_sens>
+    <tag_file_ids>gen_doc3585</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>For instance, 'CVA' has two separate senses, 'cerebrovascular accident' and 'costovertebral angle'.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1658</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Bovine hypothalamic extracts have been identified as the first source of somatostatin, which plays a role in the production of growth hormone and thyroid-stimulating hormone.</plag_sens>
+    <tag_file_ids>gen_doc3985</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Bovine hypothalamic extracts have been identified as the first source of somatostatin, apeptide that plays an inhibitory role in the production of growth hormone and thyroid-stimulating hormone.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1658</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The first thing that could be improved is the filter, since it could reduce in-band noise as much as possible and therefore improve the SNR.</plag_sens>
+    <tag_file_ids>gen_doc3477</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The first thing that could be improved is the filter, since it could reduce the in-band noise as much as possible and therefore improve the SNR.</tag_plag_sens>
+  </row>
+</data>

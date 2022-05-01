@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc956</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Epithelioid, nested spindled cells, and stromal myofibroblastic cells can be confirmed with the help of a Immunohistochemical examination.</plag_sens>
+    <tag_file_ids>gen_doc2015</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Epithelioid, nested spindled cells, and stromal myofibroblastic cells can be confirmed with the help of Immunohistochemical examination.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc956</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The UPK2 is present in both the reticulum and the plasma.</plag_sens>
+    <tag_file_ids>gen_doc2133</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The UPK2 is present in the reticulum and the plasma.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc956</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Smith and Eyre-Walker collected a sample of genes for which they had data on sequence polymorphisms between the two flies.</plag_sens>
+    <tag_file_ids>gen_doc2133</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Smith and Eyre-Walker started by collecting a sample of genes for which there were data on sequence polymorphisms.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc956</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>Alcohol-related outcomes can be inferred from the structural context and the individual.</plag_sens>
+    <tag_file_ids>gen_doc345</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Although individual outcomes cannot be inferred from group-level measures, alcohol-related outcomes are an independent by-product of the structural context and the individual.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc956</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>During the first day of the study, the AMB counts were under 2 log cfu/g, and reached 6 log cfu/g after one week of storage, and ended at 7 log cfu/g.</plag_sens>
+    <tag_file_ids>gen_doc1194</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>During the first day of the study, the AMB counts were under 2 log cfu/g and reached 6 log cfu/g after one week of storage, and ended at 7 log cfu/g at the end of the refrigerated storage.</tag_plag_sens>
+  </row>
+</data>

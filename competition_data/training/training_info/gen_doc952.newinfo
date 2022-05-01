@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc952</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Within a few days of stopping the drug use, the symptoms may level off, fluctuate or decrease, and they can be reversed.</plag_sens>
+    <tag_file_ids>gen_doc1579</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Within a few days of stopping the drug use, the symptoms may level off, fluctuate or decrease.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc952</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The correlation coefficients for immature HAstV and mature HAstV were 0.898 and 0.902, respectively.</plag_sens>
+    <tag_file_ids>gen_doc3239</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The correlation coefficients for immature HAstV and mature HAstV were 0.898 and 0.902, respectively.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1508</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The weighted generalized taxon proportion was used since the most significant p value was provided by MiSPUw.</plag_sens>
+    <tag_file_ids>gen_doc301</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The weighted generalized taxon proportion was used because MiSPUw(3) provided the most significant p value.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1508</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The model of the calcium fluctuation is based on the number of SERCA pumps.</plag_sens>
+    <tag_file_ids>gen_doc685</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Depending on the number of SERCA pumps, the calcium fluctuation is model by the Langevin equation with a noise term.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1508</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The genes that were differentially expressed in microdissected glomeruli with endocapillary proliferation were identified.</plag_sens>
+    <tag_file_ids>gen_doc3877</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The genes we identified are differentially expressed in microdissected glomeruli with endocapillary proliferation versus glomeruli without endocapillary proliferation at a conservative false-discovery-adjusted q-value of 0.05.</tag_plag_sens>
+  </row>
+</data>

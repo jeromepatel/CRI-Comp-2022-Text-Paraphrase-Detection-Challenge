@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2997</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Our interpretation of the network analysis is different from previous studies.</plag_sens>
+    <tag_file_ids>gen_doc3270</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Our interpretation of the network analysis differs from previous studies.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2997</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The activity from the hippocampus jumped to the end of the mEC before jumping to the end of the lEC.</plag_sens>
+    <tag_file_ids>gen_doc3302</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The activity from the hippocampus jumped to the end of the mEC before jumping to the end of the lEC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2997</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>It works as an alternative energy source and quality control to remove damaged proteins.</plag_sens>
+    <tag_file_ids>gen_doc1919</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>It works as an alternative energy source and quality control to remove damaged proteins.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2997</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The sensory organ number, myelinated afferent counts, and S1 cortical area representation were compared in the previous investigation.</plag_sens>
+    <tag_file_ids>gen_doc3326</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In the previous investigation, sensory organ number, myelinated afferent counts, and S1 cortical area representation for each ray from 4 moles was quantified and compared.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2997</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The legal trade involves hundreds of millions of plants and animals.</plag_sens>
+    <tag_file_ids>gen_doc2587</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The legal trade involves hundreds of millions of wild plants and animals.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2997</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>She had lived in a school dormitory for a year without incident but had trouble breathing and coughing when she visited her family's house.</plag_sens>
+    <tag_file_ids>gen_doc1361</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>She had lived in a school dormitory for a year without incident but experienced breathing difficulty and coughing when she visited her family's house.</tag_plag_sens>
+  </row>
+</data>

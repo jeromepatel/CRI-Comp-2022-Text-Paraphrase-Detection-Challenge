@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc163</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>When compared with L. m. muta venom, the venom shows lower lethal and myotoxic activities.</plag_sens>
+    <tag_file_ids>gen_doc796</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>When compared with L. m. muta venom, the venom shows lower lethal and hemorrhagic activities.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc163</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>It is difficult to use captopril as a hypertension-preventive agent because its application is limited to the diseases.</plag_sens>
+    <tag_file_ids>gen_doc2441</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>It is difficult to use captopril as a hypertension-preventive agent because its application is limited to the diseased patients.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc163</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>S. aureus can be isolated from up to 90 percent of skin problems.</plag_sens>
+    <tag_file_ids>gen_doc1309</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>S. aureus can be isolated from up to 90 percent of skin diseases.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc163</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Chagas disease is among them.</plag_sens>
+    <tag_file_ids>gen_doc1161</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Chagas disease is among them.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1140</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The pattern of neural activity in the dorsal striatum during learning of a simple motor skill can be mimicked by the adaptation of dopamine D1 and D2 receptors in these neurons.</plag_sens>
+    <tag_file_ids>gen_doc1036</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The pattern of neural activity in the dorsal striatum during learning of a simple motor skill can be mimicked by the adaptation of dopamine D1 and D2 receptors in these neurons.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1140</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Mixed C. Bovis/C.</plag_sens>
+    <tag_file_ids>gen_doc1434</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>mixed C.Bovis/C.</tag_plag_sens>
+  </row>
+</data>

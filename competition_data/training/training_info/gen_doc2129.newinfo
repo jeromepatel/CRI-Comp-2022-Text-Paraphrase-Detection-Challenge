@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2129</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The suppression of growth was caused by an increase in the expression of the KRP1 gene around the margin area.</plag_sens>
+    <tag_file_ids>gen_doc2381</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>An increase in KRP1 gene expression around the margin area led to suppression of growth, resulting in the arrest of outgrowths and 3-D leaf blade changes.</tag_plag_sens>
+  </row>
+</data>

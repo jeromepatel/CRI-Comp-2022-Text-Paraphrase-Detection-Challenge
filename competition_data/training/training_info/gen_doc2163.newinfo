@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2163</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The foundation for further studies can be found in the methods presented here.</plag_sens>
+    <tag_file_ids>gen_doc2804</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Additional studies can be devised to gain further insights into the dynamic cellular metabolic network if the substrate oxidation methods presented here are followed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2163</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There are fewer cells than normal in the mutant suspensor.</plag_sens>
+    <tag_file_ids>gen_doc2473</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Mayer et al. show that the mutant suspensor contains fewer cells than normal.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2163</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>cattle (Charlier et al.</plag_sens>
+    <tag_file_ids>gen_doc1241</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>cattle (Charlier et al.).</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2163</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Diffraction of light has impeded the precise control of the light fields at sub-wavelength scale and is one of the major barriers faced by the optical community</plag_sens>
+    <tag_file_ids>gen_doc2278</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Diffraction of light has impeded the precise control of the light fields at sub-wavelength scale since the discovery of the diffraction limit in the late 19th century.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2163</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A previous study found that BAL neutrophilia was associated with a lung disease.</plag_sens>
+    <tag_file_ids>gen_doc15</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>A previous study found that BAL neutrophilia was associated with infections.</tag_plag_sens>
+  </row>
+</data>

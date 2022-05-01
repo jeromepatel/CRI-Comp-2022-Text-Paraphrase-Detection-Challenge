@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2843</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We looked at the predictions against the data from multiple field sites which had a range of 47 days in budburst.</plag_sens>
+    <tag_file_ids>gen_doc1066</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We looked at the predictions against data from multiple field sites which had a range of 47 days in budburst.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2843</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The goat anti-mouse IgG wasconjugated with horseradish peroxidase.</plag_sens>
+    <tag_file_ids>gen_doc847</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The goat anti-mouse IgG was used as a secondary antibody.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2843</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The Shp2 mice were intercrossed and the blastocysts were collected and cultured.</plag_sens>
+    <tag_file_ids>gen_doc2000</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>To derive mESC lines, Shp2 mice were intercrossed and blastocysts were collected and cultured as described previously.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2843</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>fluorotelomer alcohols, fluorotelomer iodides, and fluorotelomer Olefins are formed.</plag_sens>
+    <tag_file_ids>gen_doc788</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Then, the PFAIs are formed into fluorotelomer iodides, fluorotelomer alcohols and fluorotelomer olefins.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2843</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The rs9034CT genotype presented longer overall survival than the CC genotype, according to the univariate analysis.</plag_sens>
+    <tag_file_ids>gen_doc2278</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The univariate analysis showed that the rs9034CT genotype presented longer overall survival than the CC genotype.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2843</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The radiculopaty did not resolve after she went for the stand-alone approach.</plag_sens>
+    <tag_file_ids>gen_doc3466</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Her radiculopaty did not resolve after she underwent the stand-alone approach.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2843</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The earliest possible initiation of ERT+ITI is required to maximize long-term clinical outcomes and improve safety.</plag_sens>
+    <tag_file_ids>gen_doc528</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The earliest possible initiation of ERT+ITI is required to maximize long-term clinical outcomes by avoiding cumulative doses of ITI and thus improved safety.</tag_plag_sens>
+  </row>
+</data>

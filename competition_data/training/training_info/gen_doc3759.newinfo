@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3759</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The RvD5 is given in the range.</plag_sens>
+    <tag_file_ids>gen_doc892</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>RvD5 can be given in the range of physiologic range.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3759</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The US study found no correlation between the single-nucleotide polymorphisms in VDR and the risk of multiplesclerosis, but it did find an interaction between the two.</plag_sens>
+    <tag_file_ids>gen_doc2645</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A US study found no associations between single-nucleotide polymorphisms in VDR and the risk of multiplesclerosis, but found an interaction between the two.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3759</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>-Cryptoxanthin was not present in either of the cultivars.</plag_sens>
+    <tag_file_ids>gen_doc3242</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>-Cryptoxanthin was not detected in either cultivar.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3759</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>A model of the metabolism of S. hygroscopicus var.</plag_sens>
+    <tag_file_ids>gen_doc125</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The model of the metabolic network of S. hygroscopicus var.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3759</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>During the cancer initiation, histone deacetylase 1 gene has been reported as a TSG, but as an oncogene.</plag_sens>
+    <tag_file_ids>gen_doc437</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>During the cancer initiation, histone deacetylase 1 gene (HDAC1) has been reported as a TSG, but as an oncogene during the tumor maintenance process.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3759</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>When the GNPs were complexed with PEI and chitosan the transfection effeicency was higher.</plag_sens>
+    <tag_file_ids>gen_doc3720</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>When the GNPs were complexed with PEI and chitosan, there was higher transfection effeicency for gene delivery.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc3759</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Cortisol and testosterone were not predictors of bear density.</plag_sens>
+    <tag_file_ids>gen_doc432</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Bear density was not an important predictor of cortisol or testosterone.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc3759</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The patient was advised Ultra Sonography after the report was available, but the results were notcontributory.</plag_sens>
+    <tag_file_ids>gen_doc3318</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The patient was advised Ultra Sonography (USG) and magnetic resonance imaging of the abdomen and pelvis after the report was available, but the results were not contributory.</tag_plag_sens>
+  </row>
+</data>

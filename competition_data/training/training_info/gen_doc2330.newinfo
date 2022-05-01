@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2330</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The ERAD strains that did not express the GlaGusprotein did not have quantified levels of UPR target genes.</plag_sens>
+    <tag_file_ids>gen_doc3662</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The ERAD strains in the background figurec do not express the GlaGus protein, but have quantified mRNA levels of UPR target genes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2330</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>We compared the levels of each of the three proteins in various organs of Msh2, Msh3 and Msh6 mice and mice.</plag_sens>
+    <tag_file_ids>gen_doc1672</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We compared the levels of each of the three proteins in various organs of Msh2, Msh3 and Msh6 mice and mice WT.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2330</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The explanation for the Flynn effect is controversial.</plag_sens>
+    <tag_file_ids>gen_doc3687</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The explanation for the Flynn effect is still controversial.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2330</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Fluctuations in fluorescent intensities and strong shifts in emission maxima clearly showed that there were distinct conformational changes in theProtein via positioning of Trp residues into a more hydrophilic environment</plag_sens>
+    <tag_file_ids>gen_doc3753</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Fluctuations in fluorescent intensities and strong shifts in emission maxima clearly indicated distinct changes in the structure of theProtein via positioning of Trp residues into a more hydrophilic environment as shown previously.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2330</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The double exponential decay function was used to fit the data.</plag_sens>
+    <tag_file_ids>gen_doc1094</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Prior to averaging, the data was fitted to a double exponential decay function.</tag_plag_sens>
+  </row>
+</data>

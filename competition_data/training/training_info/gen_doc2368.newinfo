@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2368</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The data suggests that the attentional selection of other non-spatial attributes is different from the attentional selection of the color.</plag_sens>
+    <tag_file_ids>gen_doc2398</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The data suggests that the attentional selection of other non-spatial attributes, such as stimulus form, is different from the attentional selection of color.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2368</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There were at least 200 cells on the slides that were stained with Diff-Quick Cells.</plag_sens>
+    <tag_file_ids>gen_doc2226</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>There were at least 200 cells on the slides that were stained with Diff-Quick Cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2368</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Only 3% of the data was seen by an attending physician, while 79% was seen by a post-graduate student or medical officer.</plag_sens>
+    <tag_file_ids>gen_doc3824</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Only 3% of the data for 193 patients were seen by an attending physician, while 79% were seen by a post-graduate trainee or medical officer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2368</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>Success rates have ranged from 43 to 85%.</plag_sens>
+    <tag_file_ids>gen_doc1892</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>There have been success rates from 43 to 85% reported.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2368</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The results of this stage show that mint, chocolate, lime, and cheddar cheese are the odors that best predict the presence of MCI in older individuals.</plag_sens>
+    <tag_file_ids>gen_doc1409</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The results of this stage show that mint, chocolate, lime, and cheddar cheese are the odors that best predict the presence of MCI in older individuals.</tag_plag_sens>
+  </row>
+</data>

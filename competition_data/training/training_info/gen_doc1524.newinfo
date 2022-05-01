@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1524</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Longitudinal studies have shown that obese children are less likely to have asthma.</plag_sens>
+    <tag_file_ids>gen_doc2148</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Studies show that obese children are more likely to have asthma, and longitudinal studies show that obese children are more likely to have asthma.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1524</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>We compared the predicted secondary structure with the original Rfam annotations to see if it was accurate.</plag_sens>
+    <tag_file_ids>gen_doc21</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>We compared the predicted secondary structure with the original Rfam annotation to see if it was accurate.</tag_plag_sens>
+  </row>
+</data>

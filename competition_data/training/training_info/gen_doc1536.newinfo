@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1536</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The incomplete list of public and commercial chemical databases is summarized in the second table.</plag_sens>
+    <tag_file_ids>gen_doc412</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The incomplete list of public and commercial chemical databases is summarized in Table II.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1536</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Treatment with 4H3MC alone did not change the levels of IgE in the figureD.</plag_sens>
+    <tag_file_ids>gen_doc2256</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Treatment with 4H3MC alone did not change the levels of IgE in the figureD.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1536</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The study focuses on thick- and thin-filament interactions along the axial direction of the sarcomere lattice and investigates the effect of geometry on two spatial processes.</plag_sens>
+    <tag_file_ids>gen_doc1849</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The study focuses on thick- and thin-filament interactions along the axial direction of the sarcomere lattice and investigates the effect of geometry on two coupled, spatial processes that are important modulators of contraction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1536</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>They received on-demand TACE, but not systemic chemotherapy.</plag_sens>
+    <tag_file_ids>gen_doc2274</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>They received on-demand TACE but not systemic chemotherapy.</tag_plag_sens>
+  </row>
+</data>

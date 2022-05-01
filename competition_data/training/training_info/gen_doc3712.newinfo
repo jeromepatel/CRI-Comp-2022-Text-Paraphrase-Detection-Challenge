@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3712</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Chlorothalonil is used to control fungus on peanuts.</plag_sens>
+    <tag_file_ids>gen_doc42</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Chlorothalonil is widely used to control fungus on peanuts, corn, and potatoes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3712</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Understanding the CVD risk in Japanese patients is important for risk management.</plag_sens>
+    <tag_file_ids>gen_doc3345</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Understanding the risk of CVD in Japanese RA patients is important for risk management.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3712</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Two groups of vectors were used for a comparative experiment.</plag_sens>
+    <tag_file_ids>gen_doc1157</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Two groups of vectors were used for a comparative experiment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3712</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The IELTs of the controls were not measured by a stopwatch.</plag_sens>
+    <tag_file_ids>gen_doc1233</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In this study, the IELTs of the controls were not measured using a stopwatch.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3712</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The 5' RACE clones obtained in the study were used to sequence the ghrelin genes.</plag_sens>
+    <tag_file_ids>gen_doc1116</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The 5' RACE clones obtained in this study were used to derive the 5' UTR sequence of the murine ghrelin gene.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc3712</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The total number of ESTs from the target tissue and all other tissues are summed up by the numbers x and y.</plag_sens>
+    <tag_file_ids>gen_doc319</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>N1 and N2 are the total number of ESTs from the target tissue and all other tissues, and x and y are the numbers of ESTs expressed in the same gene.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2616</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>In a majority of subjects, some cytokines were not detected.</plag_sens>
+    <tag_file_ids>gen_doc3825</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>In a majority of subjects detected in our study, some cytokines were not detected in the serum.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2616</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The Leuthardt et al., 2007, show that high-frequency has more spatial origin than low-frequency.</plag_sens>
+    <tag_file_ids>gen_doc3562</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The Leuthardt et al., 2007, show that high-frequency has more concentrated spatial origin than low-frequency.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2616</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>integrin  tails have reduced binding of talin, but not of Dok1.</plag_sens>
+    <tag_file_ids>gen_doc1244</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The binding of talin, but not of Dok1, is reduced by integrin  tails.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2616</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The range and mean of the obtained value are included.</plag_sens>
+    <tag_file_ids>gen_doc1899</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The range and mean of the obtained value are subtracted from the mean recovery for each analyte.</tag_plag_sens>
+  </row>
+</data>

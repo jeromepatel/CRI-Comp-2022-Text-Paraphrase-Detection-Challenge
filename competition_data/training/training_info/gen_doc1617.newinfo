@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1617</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The epidemic of T2DM is increasing at a higher rate among individuals from a lower socio-economic position.</plag_sens>
+    <tag_file_ids>gen_doc3470</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The epidemic of T2DM is increasing at a higher rate among individuals from a lower socio-economic position.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1617</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The maximal attack rate can be attained only if there is no active indoctrination and pA=0.</plag_sens>
+    <tag_file_ids>gen_doc3686</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The maximal attack rate can be attained only if there is no active indoctrination and pA=0.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1617</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The results show that a reduction in viral load in the circulating blood can be achieved by vaccination.</plag_sens>
+    <tag_file_ids>gen_doc3239</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The results show that the reduction in viral load in the circulating blood can be achieved by vaccination.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1617</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>It is possible to probe the changes of basement membranes in different colonic cancer stages with the help of SHG microscope.</plag_sens>
+    <tag_file_ids>gen_doc3932</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In order to probe the changes of basement membranes in different colonic cancer stages, we can use SHG microscopy.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1617</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>aqueous solutions of fibroin should be dialyzed for several days in order to reduce the disadvantages.</plag_sens>
+    <tag_file_ids>gen_doc2070</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>aqueous solutions of fibroin should be dialyzed for several days because of the long preparation time.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1617</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The mixtures were preincubated at 95C for 20 s, followed by 40 cycles of 95C for 3 s and 62C for 30 s.</plag_sens>
+    <tag_file_ids>gen_doc1516</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The mixture was preincubated at 95C for 20 s, followed by 40 cycles of 95C for 3 s and 62C for 30 s by the Applied Biosystems.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2529</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>A cross table was used to show that anxiety and depression were related.</plag_sens>
+    <tag_file_ids>gen_doc1363</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A 4  4 cross table was used to demonstrate that anxiety and depression were related.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2529</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The Hammer et al.</plag_sens>
+    <tag_file_ids>gen_doc125</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>Hammer et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2529</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Nine local factors explained 10.0% of the total variability in rotifer composition, and this part of variability could not be explained by the regional factors figure.</plag_sens>
+    <tag_file_ids>gen_doc2234</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>For the 17.0% variability explained by all 13 variables, our pRDA analyses showed that nine local factors explained 10.0% of the total variability in rotifer composition, and this part of variability could not be explained by the regional factors figure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2529</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The six species of scorpions that are found in the north of the country are T. trivittatus, T confluens, T argentinus, T uruguayensis and T. paraguayensis.</plag_sens>
+    <tag_file_ids>gen_doc3242</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The six species of scorpions that are found in the north of the country are T. trivittatus, T confluens, T argentinus, T uruguayensis and T. paraguayensis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2529</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The HP1 and DmORC subunits 2 and 6 were found in the eluted fractions.</plag_sens>
+    <tag_file_ids>gen_doc1525</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We used immunoblot analyses to find the HP1 and DmORC in the eluted fractions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2529</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The values from each residue were plotted using the excel program.</plag_sens>
+    <tag_file_ids>gen_doc2349</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The values from each residue were plotted using the excel program.</tag_plag_sens>
+  </row>
+</data>

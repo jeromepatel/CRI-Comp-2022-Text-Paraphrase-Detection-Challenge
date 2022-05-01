@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc129</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>In other words, it's possible that due to its association with the membrane, MTS-CBD3 could be able to block Ca2+ influx but without a long incubation, an insufficient amount gets into the cells to be able to.</plag_sens>
+    <tag_file_ids>gen_doc1146</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In other words, it's possible that due to its association with the membrane, MTS-CBD3 could be able to block Ca2+ influx but without a long incubation, an insufficient amount gets into the cells to be able to.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc129</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The CAR model takes into account the lack of independence in the data</plag_sens>
+    <tag_file_ids>gen_doc85</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The CAR model takes into account the lack of independence in the data, so we chose it.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc129</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>13 percent of GCD is accounted for by it during childhood.</plag_sens>
+    <tag_file_ids>gen_doc619</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>It presents during childhood and accounts for 13 percent of GCD.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc129</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Ecological studies show that -diversity is the most important contributor.</plag_sens>
+    <tag_file_ids>gen_doc3766</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The most significant contributor to -diversity is Ecological Studies of Additive Partition.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc129</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The group of children who were recruited from a group of children who had been passive controls in a previous study of a commercially available computerized cognitive rehabilitation training program were all diagnosed with HIV/AIDS.</plag_sens>
+    <tag_file_ids>gen_doc3388</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The group of children who were recruited from a group of children who had been passive controls in a previous study of a commercially available computerized cognitive rehabilitation training program were diagnosed with HIV/AIDS and resided in a rural town area of Kayunga, Uganda.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc129</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Our study shows that the emergency treatment received by women following unsafe abortion was the same as any other hospital care.</plag_sens>
+    <tag_file_ids>gen_doc2998</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Our study shows that the emergency treatment received by women following unsafe abortion was not different from the usual hospital care.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc129</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Storage overhead is influenced by the values of M, N, S for the two different structures of the network.</plag_sens>
+    <tag_file_ids>gen_doc1779</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>For the two different structures of the network, the different values of M, N, S will have different influences on storage overhead, because the more polynomials are stored in a node, the larger the storage space cost will be.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc129</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>All values of variable j and row R are contained in column C.</plag_sens>
+    <tag_file_ids>gen_doc2308</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Column Ccontains all values of variable j and row Rcontains all values of the sample I.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3927</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The forms for the medication errors were designed to collect demographic data, past medical and drug history, patients' medications at ED and clinical findings.</plag_sens>
+    <tag_file_ids>gen_doc2709</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The forms for the medication errors were designed to include demographic data, past medical and drug history, patients' medications at ED, and clinical findings.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3927</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Comorbidities and death due to lung cancer were more frequent among the controls.</plag_sens>
+    <tag_file_ids>gen_doc2111</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Comorbidities and death due to lung cancer were more frequent among the controls, but the differences between cases and controls were mostly negligible.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3927</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>In a study in Australia, the average individual coverage average was reported as 320%, which was higher than what we observed.</plag_sens>
+    <tag_file_ids>gen_doc3857</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In a study in Australia, the average of individual coverage average was reported as 320%, which was much higher than what we observed.</tag_plag_sens>
+  </row>
+</data>

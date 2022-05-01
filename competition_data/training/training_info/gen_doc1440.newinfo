@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1440</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The rat brain has up to 40% of the amygdala in it's cortex.</plag_sens>
+    <tag_file_ids>gen_doc936</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Up to 40% of amygdala neurons in rat brains respond to olfactory stimuli.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1440</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Our previous study showed that the hTERT gene did not need CpG methylation to be silenced, but our current study shows that it does.</plag_sens>
+    <tag_file_ids>gen_doc1080</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Our previous study showed that the hTERT gene did not need CpG methylation to be silenced, but our current study suggests that the hTERT promoter might be different in tel+ cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1440</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Women in Poland and Greece were less likely to meet the WHO PA recommendations.</plag_sens>
+    <tag_file_ids>gen_doc1098</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Women in Poland and Greece appeared less likely than women in Ireland to meet the WHO PA recommendations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1440</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The data gave us the ability to collect time-series data after the perturbation to generate more dynamic fluctuations and provide deeper insights.</plag_sens>
+    <tag_file_ids>gen_doc1930</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The data allowed us to collect time-series data after the perturbation to generate more dynamic fluctuations and provide deeper insights, compared with static communities.</tag_plag_sens>
+  </row>
+</data>

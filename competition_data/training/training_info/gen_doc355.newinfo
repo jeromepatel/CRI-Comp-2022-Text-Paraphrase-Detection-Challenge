@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc355</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The cells treated with PCO (9 and 46 M) showed a twofold increase in numbers.</plag_sens>
+    <tag_file_ids>gen_doc2662</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>In organic solvent, PCO (9 and 46 M)-treated cells showed two-fold increased numbers.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc355</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The remaining sequence were edited using Geneious.</plag_sens>
+    <tag_file_ids>gen_doc1315</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Geneious, version 5.5 was used to organize the remaining sequences.</tag_plag_sens>
+  </row>
+</data>

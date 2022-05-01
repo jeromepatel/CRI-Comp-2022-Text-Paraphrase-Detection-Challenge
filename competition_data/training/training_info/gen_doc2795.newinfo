@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2795</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The composition of mTORC1 and mTORC2 is shown in Figure.</plag_sens>
+    <tag_file_ids>gen_doc3153</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The composition of mTORC1 and mTORC2 is shown in Figure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2795</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The lack of meiosis-related genes in our sample is a result of exponential growth.</plag_sens>
+    <tag_file_ids>gen_doc3493</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The lack of meiosis-related genes in our sample is a result of exponential growth.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2795</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The control group had a lower body weight than the PNA mice at 3 weeks of age.</plag_sens>
+    <tag_file_ids>gen_doc1944</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The control group had a lower body weight than the PNA mice at 3 weeks of age.</tag_plag_sens>
+  </row>
+</data>

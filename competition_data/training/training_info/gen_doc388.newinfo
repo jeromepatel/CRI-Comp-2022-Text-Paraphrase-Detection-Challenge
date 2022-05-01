@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc388</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>One could express the different mitochondrial types in the same nuclear background in cybrid cell lines, which have been produced for many species.</plag_sens>
+    <tag_file_ids>gen_doc2178</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>One could express the different mitochondrial types in the same nuclear background in cybrid cell lines, which have been produced for numerous species, to eliminate differences caused by nuclear-coded mitochondrial proteins.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc388</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In Indonesia, the centralized budget allows staff to move to preferred locations in developed areas without proper planning or supervision.</plag_sens>
+    <tag_file_ids>gen_doc1429</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In Indonesia, the centralized budget allows staff to migrate to preferred locations in developed areas, without adequate control, planning or supervision at the provincial and district level.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc388</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Shrinkage correction shows a correlation between attraction and spatial effects.</plag_sens>
+    <tag_file_ids>gen_doc490</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Shrinkage correction shows a negative correlation between spatial and attraction effects.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc388</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The Go/No-Go task was called hack-a-mole.</plag_sens>
+    <tag_file_ids>gen_doc3</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The Go/No-Go task is called whack-a-mole.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc388</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>To overcome this problem, clinicians should use the proper techniques, such as manipulating the curing modes or using reinmodified glass ionomer liners.</plag_sens>
+    <tag_file_ids>gen_doc1937</tag_file_ids>
+    <tag_para_ids>12</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Clinically, clinicians should use the proper techniques to overcome this problem, such as manipulating the curing modes or using reinmodified glass ionomer liners.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc388</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The displacement along the i eigenmode is proportional to the projection of a distance on a screen.</plag_sens>
+    <tag_file_ids>gen_doc1846</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The displacement along the i eigenmode is proportional to the projection of the instantaneous distance vector on and scaled by the step size.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc388</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The developing reagent malachite green creates an intense green color, which can be absorbed by up to 600 nm.</plag_sens>
+    <tag_file_ids>gen_doc2407</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The developing reagent malachite green creates an intense green color, which can be absorbed at 610–620 nm.</tag_plag_sens>
+  </row>
+</data>

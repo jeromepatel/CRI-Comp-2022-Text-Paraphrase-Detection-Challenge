@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1287</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The table shows the differences between the two hospitals.</plag_sens>
+    <tag_file_ids>gen_doc2599</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The main differences between the two hospitals are shown in Table 3.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1287</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The target was placed within a string of distractors in the low perceptual load condition.</plag_sens>
+    <tag_file_ids>gen_doc1812</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In the low perceptual load condition, the target was placed within a string of distractors.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1287</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>We tested the effect of G34R or P38V on the ability of H3K36M to stop SETD2 activity.</plag_sens>
+    <tag_file_ids>gen_doc368</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>We tested the effects of G34R or P38V on the ability of H3K36M peptide to block SETD2 activity.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1287</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Egg production in the terminal proglottid could not be seen under these conditions until now.</plag_sens>
+    <tag_file_ids>gen_doc3060</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Egg production in the terminal proglottid could not be observed under these conditions until now.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1287</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The results of qRT-PCR show that the levels of four genes are lower in 16 pituitary tumors compared to four normal pituitary tumors.</plag_sens>
+    <tag_file_ids>gen_doc700</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The results of qRT-PCR show that the levels of four genes are lower in sixteen pituitary tumors compared to four normal pituitary tumors.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1287</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The extent of CAC has been shown to predict a cardiac event.</plag_sens>
+    <tag_file_ids>gen_doc2316</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The extent of CAC has shown to predict a cardiac event in the population.</tag_plag_sens>
+  </row>
+</data>

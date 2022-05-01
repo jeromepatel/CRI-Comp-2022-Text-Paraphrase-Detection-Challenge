@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2382</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There is a summary of all of the hybrid vectors that were used to deliver.</plag_sens>
+    <tag_file_ids>gen_doc2287</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>There is a summary of all of the hybrid vectors that were used in the delivery vehicle.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2382</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The beating of the flagellar is slow and erratic 24 hours after the anti-PF16 morpholino was used.</plag_sens>
+    <tag_file_ids>gen_doc1002</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The beating of the flagellar is slow and erratic 24 hours after the anti-pf16 morpholino.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2382</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The results show an important role for p53 in the growth of tumors.</plag_sens>
+    <tag_file_ids>gen_doc306</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The results show an important role for p53 in the growth of pituitary tumors.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2382</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The relatively simple trypanosomatid genome organization, with high levels ofHR, has allowed for the development of many biological tools to probe trypanosomatid physiology.</plag_sens>
+    <tag_file_ids>gen_doc2290</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The relatively simple trypanosomatid genome organization, with high levels ofHR, has allowed for the development of numerous biological tools to probe trypanosomatid physiology.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2382</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Tobacco use in conjunction with betel quid and alcohol drinking has been shown to cause oral cancer.</plag_sens>
+    <tag_file_ids>gen_doc2879</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Tobacco use in conjunction with betel quid chewing and alcohol drinking has been shown to have a role in the etiology of oral cancer.</tag_plag_sens>
+  </row>
+</data>

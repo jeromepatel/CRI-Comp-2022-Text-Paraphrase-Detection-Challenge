@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc661</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>A mixture of CH3CN/H2O and 100 L of a 5% solution of NaHCO3 was added to the dissolved peptides.</plag_sens>
+    <tag_file_ids>gen_doc372</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A mixture of CH3CN/H2O and 100 L of a 5% solution of NaHCO3 was added to the dissolved peptide monomer.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc661</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The small intestine of chickens does not contain the expression of TLR2 and TLR4.</plag_sens>
+    <tag_file_ids>gen_doc2746</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The small intestine of chickens does not contain the expression of TLR2 and TLR4.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc661</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The nuclear fraction of mammary tissue lysates was used to confirm the ability of the transgene to cause activity.</plag_sens>
+    <tag_file_ids>gen_doc1137</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The nuclear fraction of mammary tissue lysates was used to confirm the ability of the transgene to cause activity in NF-B.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc661</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The pathological grade of the tumor was scored according to the criteria of the American Joint Committee on Cancer.</plag_sens>
+    <tag_file_ids>gen_doc1118</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The pathological grade of the tumor was scored according to the American Joint Committee on Cancer's criteria, and the stage of the tumor was also scored.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc661</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The title compound was synthesised by Bernstein et al.</plag_sens>
+    <tag_file_ids>gen_doc2770</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>For the synthesis of the title compound, see: Bernstein et al.</tag_plag_sens>
+  </row>
+</data>

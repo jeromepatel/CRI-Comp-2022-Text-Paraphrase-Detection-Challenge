@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3640</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The activity of alpha-toxin and perfringolysin O in culture and in a cell culture model do not correspond to the virulence of C. perfringens strain 13.</plag_sens>
+    <tag_file_ids>gen_doc2253</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The activity of alpha-toxin and perfringolysin O in culture supernatants and alpha toxin in a cell culture model do not correspond to the virulence of C. perfringens strain 13 in an in vivo mouse infection model.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3640</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The force constants of the Silicone nitride cantilevers were around 20 mN/m.</plag_sens>
+    <tag_file_ids>gen_doc1977</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The force constants of the Silicone nitride cantilevers were around 20 mN/m.</tag_plag_sens>
+  </row>
+</data>

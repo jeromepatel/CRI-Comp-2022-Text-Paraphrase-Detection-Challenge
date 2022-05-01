@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc936</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The conclusion is thatDarwinian selection is not operating at maximum efficacy.</plag_sens>
+    <tag_file_ids>gen_doc1092</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The conclusion is thatDarwinian selection is not operating at maximum efficacy.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc936</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>It may not have much utility as a cellular label due to its high expression levels.</plag_sens>
+    <tag_file_ids>gen_doc3517</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>It may have limited utility as a cellular label due to high expression levels, even if an FP has desirable fluorescence properties.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc936</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The highest daily mean values of Legionella in water were reported by 75% of the HF in which it was found.</plag_sens>
+    <tag_file_ids>gen_doc2773</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>At least one of the culture-based methods reported the highest daily mean values of Legionella in water for 75% of the HF in which it was found in the air.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc936</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Microfluidic chips were designed to be compatible with the MOFs.</plag_sens>
+    <tag_file_ids>gen_doc1404</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Microfluidic chips were designed to interface the MOFs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc936</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Many ATG8/LC3 interacting proteins have a basic AIM/LIR with a core sequence.</plag_sens>
+    <tag_file_ids>gen_doc3545</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Many ATG8/LC3 interacting proteins have a basic AIM/LIR with a core sequence of (W/F/Y)XX(L/I/V) (22).</tag_plag_sens>
+  </row>
+</data>

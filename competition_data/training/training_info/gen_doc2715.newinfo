@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2715</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The meta-response theory says that the pleasure we derive from tragedy is a response to the fact that others do the same thing.</plag_sens>
+    <tag_file_ids>gen_doc1241</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The meta-response theory states that the pleasure we derive from tragedy is a response to the fact that others do the same thing.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2715</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>In order to maximize the number of shared SNPs, we chose to include a subset of populations that had been genotyped with Illumina.</plag_sens>
+    <tag_file_ids>gen_doc1261</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The analysis of genetic differentiation was done using Datasets D–E, where we chose to include a subset of populations that had been genotyped with Illumina array.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2715</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>There is a theory that the 1918 H1N1 virus is an evolution of the swine flu.</plag_sens>
+    <tag_file_ids>gen_doc2417</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The 1918 H1N1 virus is thought to have originated in swine, and the theory that it is of avian origin is supported here.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2715</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The trials and the protocol were published for eight years and cover topics in the fields of psychology, internal medicine, and investigations related to drug addiction and to HIV/AIDS.</plag_sens>
+    <tag_file_ids>gen_doc124</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The trials and the protocol were published for eight years and cover topics in the fields of psychology and internal medicine and investigations related to drug addiction and to HIV/AIDS.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2715</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Spontaneous coiling was previously described.</plag_sens>
+    <tag_file_ids>gen_doc1337</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Spontaneous coiling was measured as previously described.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2715</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The Japanese art of paper cutting is what inspired the technique.</plag_sens>
+    <tag_file_ids>gen_doc2778</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The Japanese art of paper cutting inspired the authors to call this technique kirigami.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2715</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>No single gene has been identified as the origin of strabismus.</plag_sens>
+    <tag_file_ids>gen_doc3344</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>No single gene has been identified as the direct origin of strabismus.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc67</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The production of -Lactamase has been found to be present in the genomes of manybacteria.</plag_sens>
+    <tag_file_ids>gen_doc285</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The production of -Lactamase has been found to possess genes in the wild-type genomes of manybacteria.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc67</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>One can envision two main approaches.</plag_sens>
+    <tag_file_ids>gen_doc2685</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>One can envision two main approaches.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc67</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Fourteen eyes became sterile after being injected with IVB from a single batches.</plag_sens>
+    <tag_file_ids>gen_doc110</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There were 14 eyes that developed sterile endophthalmitis after IVB injections.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc67</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The spectrum of the sample is dominated by the Ti- pattern.</plag_sens>
+    <tag_file_ids>gen_doc2391</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The spectrum of the sample is dominated by the Ti- pattern.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc67</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The Latin American and Caribbean Household Food Security Scale (ELCSA) tool was used in this research to identify the prevalence of food insecurity among an urban, disadvantaged population.</plag_sens>
+    <tag_file_ids>gen_doc882</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The Latin American and Caribbean Household Food Security Scale (ELCSA) tool was used in this research to identify the prevalence of food insecurity among an urban, disadvantaged population in HCMC.</tag_plag_sens>
+  </row>
+</data>

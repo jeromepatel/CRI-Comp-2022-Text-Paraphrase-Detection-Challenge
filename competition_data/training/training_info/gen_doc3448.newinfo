@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3448</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Standard procedures were used to extract Genomic DNA from normal skin fibroblasts or EDTA whole blood.</plag_sens>
+    <tag_file_ids>gen_doc1085</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Standard procedures were used to extract Genomic DNA from normal skin fibroblasts or EDTA whole blood.</tag_plag_sens>
+  </row>
+</data>

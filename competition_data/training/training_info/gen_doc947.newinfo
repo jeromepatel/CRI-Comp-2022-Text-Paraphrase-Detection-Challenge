@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc947</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>While both data and aggregate items are represented by a V, data items define the set L and aggregate items define the complement I of interior and root.</plag_sens>
+    <tag_file_ids>gen_doc3948</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>While both data and aggregate items are represented by a V, data items define the set L and aggregate items define the complement I of interior and root nodes.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc947</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>According to the thermal image acquisition criteria described by Ring and Ammer, images will be taken from the anterior and posterior sides of the plane.</plag_sens>
+    <tag_file_ids>gen_doc2303</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>According to the thermal image acquisition criteria described by Ring and Ammer, images in the frontal plane will be taken from the anterior and anterior sides.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc947</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The difference in funding between Nigerian and Kenyan CBOs wasn't statistically significant.</plag_sens>
+    <tag_file_ids>gen_doc3752</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The difference in funding between Nigerian and Kenyan CBOs was not statistically significant.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc947</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The levels of the genes in HepAD 38 cells were higher when the HBV was not blocked than when it was, and all P  0.05).</plag_sens>
+    <tag_file_ids>gen_doc796</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The levels of MDR1 in HepAD 38 cells were higher when the secretion of HBV was not blocked, and they were all P  0.05).</tag_plag_sens>
+  </row>
+</data>

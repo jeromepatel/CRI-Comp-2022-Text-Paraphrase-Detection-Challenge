@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3599</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The woman had a curve that was high above the mean at 14–16 weeks but less so at 30 weeks.</plag_sens>
+    <tag_file_ids>gen_doc502</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The woman had a curve that was high above the mean at 14–16 weeks but less so at 30–32 weeks.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3599</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>After stopping Azathioprine, her platelet count increased to 139,000/l.</plag_sens>
+    <tag_file_ids>gen_doc296</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>After stopping Azathioprine, her platelet count had increased to 139,000/l.</tag_plag_sens>
+  </row>
+</data>

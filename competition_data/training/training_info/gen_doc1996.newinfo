@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1996</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Micro-CT scanning was done for the human bone.</plag_sens>
+    <tag_file_ids>gen_doc3182</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Micro-CT scanning was done for the human bone at the BMIT-BM.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1996</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The policy of tobacco control seems to be based on the idea that public health is best served by a range of measures that will provide overall population benefit.</plag_sens>
+    <tag_file_ids>gen_doc2699</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Tobacco control policy seems to be based on the principle that public health is best served by a range of measures that will provide overall population benefit.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1996</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There were reported to be changes in muscle activation level and fatigue associated with the intensity of the EMG.</plag_sens>
+    <tag_file_ids>gen_doc1522</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The fatigue and changes in muscle activation level were reported to be associated with the intensity of EMG.</tag_plag_sens>
+  </row>
+</data>

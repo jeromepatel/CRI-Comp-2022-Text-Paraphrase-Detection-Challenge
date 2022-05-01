@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1605</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The experiment applied a fixed length of 8 to the tree.</plag_sens>
+    <tag_file_ids>gen_doc1244</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The length of the tree was fixed.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1605</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The Badge of Life psychological survival for police officers program teaches officers about job-related stress and trauma and emphasizes the importance of a voluntary, confidential mental health check.</plag_sens>
+    <tag_file_ids>gen_doc3676</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The Badge of Life Psychological Survival for Police Officers program teaches officers about job-related stress and trauma and emphasizes the importance of a voluntary, confidential "annual mental health check." Dowling, Moynihan, Genet.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3232</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Recent studies of mice lacking DUSP1/MKP-1 have shown that the inactivation of multiple MAPK pathways by DUSP1/MKP-1 is a key role in a wide variety of settings in the body.</plag_sens>
+    <tag_file_ids>gen_doc2962</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>Recent studies of mice lacking DUSP1/MKP-1 have shown that inactivation of multiple MAPK pathways by DUSP1/MKP-1 plays a key role in a wide variety of settings in the body.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3232</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The details of how this integration may work are sketched in.</plag_sens>
+    <tag_file_ids>gen_doc3552</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The details of how this integration may work are sketched in, but are beyond the scope of this paper.</tag_plag_sens>
+  </row>
+</data>

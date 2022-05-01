@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc95</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The mice were generated in C57BL/6 as described in Figure 3 A.</plag_sens>
+    <tag_file_ids>gen_doc284</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>As described in Figure 3A, Axl mice were generated in C57BL/6 as previously described.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc95</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The formation of the E cadherin and -catenin complex, which would decrease intercellular adhesion and promote the invasion and metastasis of tumors, may be altered by the expression of MUC1, which may affect patient progess.</plag_sens>
+    <tag_file_ids>gen_doc626</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The formation of the E cadherin and -catenin complex, which would decrease intercellular adhesion and promote the invasion and metastasis of tumors, may be altered by the expression of MUC1, which may affect patient progess.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc95</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>73 survey respondents answered the third open-ended question about the main benefits of consumer and community involvement, and comments are summarized in Table 2.</plag_sens>
+    <tag_file_ids>gen_doc739</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The third open-ended question, about the main benefits of implementing consumer and community involvement, was answered by 73 survey respondents and comments are summarized in Table 2.</tag_plag_sens>
+  </row>
+</data>

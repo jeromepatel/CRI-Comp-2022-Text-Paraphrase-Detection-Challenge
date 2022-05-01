@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2787</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The park is located north of Beijing.</plag_sens>
+    <tag_file_ids>gen_doc2236</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The park is located northwest of Beijing, China.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2787</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Table 1 shows the effect of soil flooding on internode dimensions.</plag_sens>
+    <tag_file_ids>gen_doc1058</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>There was no effect of soil flooding on the internode dimensions figure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2787</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>For the exact classifications used, see Table 2.</plag_sens>
+    <tag_file_ids>gen_doc855</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>See Table 2 for the exact classifications used.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2787</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Diesel engine exhaust particles and outdoor air pollution have been classified by the International Agency for Research on Cancer as a form of cancer.</plag_sens>
+    <tag_file_ids>gen_doc2844</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The International Agency for Research on Cancer classified diesel engine exhaust particles and outdoor air pollution as carcinogenic to humans.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2787</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The figure shows that the paste at the barrel exit is higher in water than the paste at the plunger side.</plag_sens>
+    <tag_file_ids>gen_doc1859</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The paste at the barrel exit was higher in water content than the paste located at the plunger side.</tag_plag_sens>
+  </row>
+</data>

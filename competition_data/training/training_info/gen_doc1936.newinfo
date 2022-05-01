@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1936</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The TIFY gene family can be classified into four subfamilies if they contain additional domains.</plag_sens>
+    <tag_file_ids>gen_doc1311</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The TIFY gene family can be classified into four subfamilies depending on whether they contain additional domain/motifs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1936</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>We were unable to produce 6x His-tagged ALY2 in E. coli, so we synthesised it as a 35S-methione-labelled protein.</plag_sens>
+    <tag_file_ids>gen_doc2172</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Since we were unable to produce 6x His-tagged ALY2 in E. coli, it was synthesized as a 35S-methione-labelled protein using a coupled in vitro transcription/translation system and wheat germ extract system.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1936</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>PR may lead to social inequality if it only applies to a small group.</plag_sens>
+    <tag_file_ids>gen_doc3087</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>PR, based on RCTs, may lead to social inequality if it only applies to a limited subset of the target population.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1936</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The function of LRRK2 in neuronal cells has been linked to a number of factors, but how it causes Parkinson's disease is currently under debate.</plag_sens>
+    <tag_file_ids>gen_doc1086</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The function of LRRK2 in neuronal cells has been linked to vesicular trafficking, but how it causes Parkinson's disease is still under debate.</tag_plag_sens>
+  </row>
+</data>

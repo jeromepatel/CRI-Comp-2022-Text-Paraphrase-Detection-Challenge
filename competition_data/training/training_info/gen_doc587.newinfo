@@ -1,0 +1,102 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc587</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Further studies showed that the concentration of the EPCs in peripheral blood was correlated with the increase in VEGF and NO release after a maximal stress test.</plag_sens>
+    <tag_file_ids>gen_doc1676</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Further studies showed that the concentration of the EPCs in peripheral blood after a stress test improved the flow-mediated dilatation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc587</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The immunolabeling signal was particularly strong in the CA3 stratum lucidum and the hilus of theDG, suggesting that the synapses formed by the glutamatergic mossy fiber (MF) projection contains high level of associated SNAP47</plag_sens>
+    <tag_file_ids>gen_doc972</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The immunolabeling signal was particularly strong in the CA3 stratum lucidum and the hilus of the DG, suggesting that the synapses formed by the glutamatergic mossy fiber (MF) projection contains high level of associated SNAP47 protein.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc587</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The most common cancer causes of death were cancer of the liver, pancreas, colorectum, and the biliary system.</plag_sens>
+    <tag_file_ids>gen_doc2051</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The most common cancer causes of death were cancer of the liver, pancreas, colorectum, and the biliary system.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc587</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In patients with inflammatory skin disorders, the cells produced only IL-22, but not IFN, IL-4, or IL-17.</plag_sens>
+    <tag_file_ids>gen_doc2947</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In patients with inflammatory skin disorders, these cells were found to produce only IL-22.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc587</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The interviewer used a semi-structured interview guide to probe into issues that arose during the interviews.</plag_sens>
+    <tag_file_ids>gen_doc2544</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Interviews were conducted via telephone and used a semi-structured interview guide to allow the interviewer to probe into issues that arose.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc587</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Gambling behavior can be summed up as a sequence of actions based on decisions.</plag_sens>
+    <tag_file_ids>gen_doc2424</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>All gambling behavior can be described as a sequence of actions based on a series of decisions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc587</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The data in figure show that the absolute and relative lengths of these delays vary from one study to another.</plag_sens>
+    <tag_file_ids>gen_doc2750</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The data in figure show that the absolute and relative lengths of these delays vary from one study to another, and need to be measured in each setting.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc587</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Approximately one quarter of B-ALL cases, defined as "B-NEG" throughout the text, have no known genetic basis, as well as recurring lack of cytogenetic and molecular abnormality.</plag_sens>
+    <tag_file_ids>gen_doc2812</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Approximately one quarter of B-ALL cases, defined as "B-NEG" throughout the text, have no known genetic basis, and there are recurring lack of cytogenetic and molecular abnormality.</tag_plag_sens>
+  </row>
+  <row>
+    <index>8</index>
+    <file_ids>gen_doc587</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The effect of Na on root growth is similar to the effect of 20 mM Na.</plag_sens>
+    <tag_file_ids>gen_doc199</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Similar to the effect of Na on root growth, the addition of 20 mM Na did not affect the tissue Mn concentration.</tag_plag_sens>
+  </row>
+</data>

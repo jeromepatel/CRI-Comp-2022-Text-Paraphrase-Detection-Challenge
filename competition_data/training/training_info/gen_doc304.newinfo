@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc304</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>This method allowed us to perform image stacking once steady state was reached and to detect APD and CaD variations with temporal resolution better than the 2 ms sampling rate of the camera.</plag_sens>
+    <tag_file_ids>gen_doc246</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The method allowed us to do image stacking once steady state was reached and to detect APD and CaD variations with temporal resolution better than the 2 ms sampling rate of the camera.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc304</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>An isolated model system consisting of a 5-methylimidazole mimicking H252, a protons and a strontium mimicking K10 was studied.</plag_sens>
+    <tag_file_ids>gen_doc546</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>A model system consisting of a 5-methylimidazole on N1 mimicking H252, a proton and aminomethane mimicking K10* was studied.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc304</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Abundance at the Chiswell rookery fell from 1,106 adults in 1976 to 90 adults and 80 pups in the 2000s, just like other rookeries in the central Gulf of Alaska.</plag_sens>
+    <tag_file_ids>gen_doc546</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The Chiswell rookery's population decline was similar to that of other rookeries in the central Gulf of Alaska, as the abundance fell from 1,106 adults in 1976 to approximately 90 adults and 50 pups in the 2000s.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc304</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>It is possible to reach D1 and D2 by very short stimulation regimes.</plag_sens>
+    <tag_file_ids>gen_doc3813</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The D1 and D2 can be reached by very short stimulation regimes-epochs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc304</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There was clear evidence of GTP being unstable.</plag_sens>
+    <tag_file_ids>gen_doc1132</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There was clear evidence of GTP being unstable.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc304</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In this report, we compared the antibacterial activity of the combination of vancomycin and teicoplanin against the h-VISA/VISA isolates using three laboratory methods.</plag_sens>
+    <tag_file_ids>gen_doc3238</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>In this report, we compared the antibacterial activity of different cephalosporin combinations against h-VISA/VISA isolates using three laboratory methods.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc304</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>After correction for multiple testing, they found that no genes were significantly correlated with response.</plag_sens>
+    <tag_file_ids>gen_doc2921</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>After correction for multiple testing, they found that no genes were significantly correlated with response.</tag_plag_sens>
+  </row>
+</data>

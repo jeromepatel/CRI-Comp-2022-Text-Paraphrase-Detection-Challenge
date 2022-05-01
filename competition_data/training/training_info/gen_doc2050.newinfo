@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2050</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The proliferation of human epidermal stem cells is driven by over-expression of c-Myc-estrogen fusion protein.</plag_sens>
+    <tag_file_ids>gen_doc3194</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>The proliferation of human epidermal stem cells is driven by over-expression of c-Myc-estrogen receptor fusion.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2050</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>In terms of shape and lack of dehiscence figureA–C and F, thepods of are similar to those of some species.</plag_sens>
+    <tag_file_ids>gen_doc1171</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>In terms of shape and lack of dehiscence figureA–C and F, thepods of are similar to those of some South American species.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2050</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In case of additional databank annotations, and in case of additional AMIGA predictions, the status was assigned as 'WRONG or SUSPICIOUS.'</plag_sens>
+    <tag_file_ids>gen_doc2885</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In case of additional databank annotations and additional AMIGA predictions, a status was assigned as 'WRONG or SUSPICIOUS'.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2050</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There are 182 compounds in the dataset that have a label indicating whether a compound is positive or negative for cholesterol.</plag_sens>
+    <tag_file_ids>gen_doc2127</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There are 182 compounds in the dataset that have a label indicating whether a compound is positive or negative for phospholipidosis, or not.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2050</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The low expression of PNNs in the hippocampus of both mice and rats makes it hard to understand their role.</plag_sens>
+    <tag_file_ids>gen_doc3178</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The low expression of PNNs in the hippocampus of both mice and rats argues against using it as a model to understand the role of PNNs.</tag_plag_sens>
+  </row>
+</data>

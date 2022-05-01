@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2061</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>To maintain aircraft-to-aircraft separation and route aircraft through the sector or to their destination airport within the sector, an experienced ATCS must observe the radar screen and give clearances to aircraft adjusting their altitudes, headings, or speeds so as to maintain aircraft-to-aircraft separation.</plag_sens>
+    <tag_file_ids>gen_doc2540</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>To maintain aircraft-to-aircraft separation and route aircraft through the sector or to their destination airport within the sector, an experienced ATCS needs to observe the radar screen and give clearances to aircraft adjusting their altitudes, headings, or speeds.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2061</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The neurosurgeon and the maxillofacial surgeon operated 21 patients in the same surgical time, including 4 patients with trans-ethmoidal meningo-encephalocele.</plag_sens>
+    <tag_file_ids>gen_doc2443</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>All of our patients underwent surgery, the neurosurgeon and the maxillofacial surgeon operated 21 patients in the same surgical time, including 4 patients with trans-ethmoidal meningo-encephalocele.</tag_plag_sens>
+  </row>
+</data>

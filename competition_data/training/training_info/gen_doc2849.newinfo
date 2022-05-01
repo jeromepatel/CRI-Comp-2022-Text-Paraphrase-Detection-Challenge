@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2849</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>There were reports of COX-2 upregulation and smooth muscle contractile hyperreactivity in the mice.</plag_sens>
+    <tag_file_ids>gen_doc819</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>There were reports of COX-2 upregulation and smooth muscle contractile hyperreactivity in mice.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2849</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The present study indicated that the maximum NaCl tolerance was within 100200 mM, but that of the other isolates was over 200 mM.</plag_sens>
+    <tag_file_ids>gen_doc3053</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The present study indicated that the maximum NaCl tolerance was within 100200 mM, but that of the other isolates was over 200 mM.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2849</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>I was participating in effective BPV, performed in an infant with balloon catheter valver produced by Balton.</plag_sens>
+    <tag_file_ids>gen_doc2013</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>I was participating in effective BPV, performed in an infant with balloon catheter Valver produced by Balton.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2849</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The majority of cases were classified by the analysis of their genetic make-up.</plag_sens>
+    <tag_file_ids>gen_doc2658</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The majority of cases were classified using a method called bulk PCR.</tag_plag_sens>
+  </row>
+</data>

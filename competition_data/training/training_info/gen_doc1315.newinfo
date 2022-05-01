@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1315</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There is a suggestion that an increased expression of SMN7 could lead to a higher life expectancy.</plag_sens>
+    <tag_file_ids>gen_doc3806</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>A higher life expectancy has been suggested by increased expression of SMN7 in an SMA mouse model.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1315</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The preparation of cell lysates, SDS-PAGE and western blotting were performed as described elsewhere.</plag_sens>
+    <tag_file_ids>gen_doc2661</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The preparation of cell lysates, SDS-PAGE, and western blotting were performed as described elsewhere.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1315</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>A systematic review concluded that a prevalence of 2.3 to 5.3% among never-injecting drug users is a serious health concern, but the cause of transmission was not clear.</plag_sens>
+    <tag_file_ids>gen_doc1225</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A systematic review concluded that a prevalence of 2.3 to 5.3% among never-injecting drug users is a serious health concern, but the cause of transmission was not clear.</tag_plag_sens>
+  </row>
+</data>

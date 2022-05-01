@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc42</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>2.98 to 6.82 for current and ever.</plag_sens>
+    <tag_file_ids>gen_doc223</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>For current and ever.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc42</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>We examined the benthic macroinvertebrate spatial distribution in an Andean glacierized Watershed to understand and predict temporal change that would occur along a glacier melting process.</plag_sens>
+    <tag_file_ids>gen_doc223</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>We looked at the benthic macroinvertebrate spatial distribution in an Andean glacierized watershed to understand and predict temporal change that would occur along a glacier melting process.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc42</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The treatments we used prevented a change in the calcium in the cells.</plag_sens>
+    <tag_file_ids>gen_doc3045</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>We found that all treatments prevented a change in the calcium in the brain.</tag_plag_sens>
+  </row>
+</data>

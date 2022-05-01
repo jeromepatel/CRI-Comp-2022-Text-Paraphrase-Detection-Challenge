@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1546</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Some melanoma cell lines can't be detected using certain markers, which is a common feature of many experimental investigations.</plag_sens>
+    <tag_file_ids>gen_doc3255</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Some melanoma cell lines are not able to be detected using certain markers, which is a common feature of many experimental investigations.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1546</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>There is a balancing act between rushing a patient to the operating room and waiting for the obstruction to be fixed.</plag_sens>
+    <tag_file_ids>gen_doc1807</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There is a good balance between rushing a patient to the operating room and waiting for the obstruction to be resolved.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1546</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>It was originally proposed.</plag_sens>
+    <tag_file_ids>gen_doc1180</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>It was originally proposed in ref.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1546</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Live cell based sensors are sensitive to the concentration and affinity of the aptamers.</plag_sens>
+    <tag_file_ids>gen_doc799</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The sensitivity of live cell based sensors is determined by the concentration and affinity of the aptamers.</tag_plag_sens>
+  </row>
+</data>

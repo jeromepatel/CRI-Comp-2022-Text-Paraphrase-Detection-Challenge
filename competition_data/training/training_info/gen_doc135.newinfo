@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc135</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The mean age was older than 30 years.</plag_sens>
+    <tag_file_ids>gen_doc1643</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The mean age was 34.9%.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc135</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The reduction of prevailing IOP is the main target of almost all major glaucoma therapies, and this in turn shows the strong IOP reducing effect of RM applied.</plag_sens>
+    <tag_file_ids>gen_doc499</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The reduction of prevailing IOP is the main target of almost all major glaucoma therapies, and this in turn shows the strong IOP reducing effect of RM applied in the short term.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc135</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>There were no statistical significant associations found in the analysis of the association of caffeine intake with ED.</plag_sens>
+    <tag_file_ids>gen_doc1609</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>There were no statistical significant associations found in the analysis of the association of caffeine intake with ED in the age categories of 40–49, 50–59, and 60 years old.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc135</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The scented and Medicial rice varieties have high market value.</plag_sens>
+    <tag_file_ids>gen_doc2757</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The scented and medicinal rice varieties have high market value.</tag_plag_sens>
+  </row>
+</data>

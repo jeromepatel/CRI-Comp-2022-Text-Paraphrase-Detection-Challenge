@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc875</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>A series of proteolytic cleavage events of the Notch receptor are caused by the binding of various ligands to the cell surface.</plag_sens>
+    <tag_file_ids>gen_doc1584</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>A series of proteolytic cleavage events of the Notch receptor occur when the cell surface bind various ligands, including Jagged-1.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc875</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The complement system's components, such as C3a or C5a, have been modified.</plag_sens>
+    <tag_file_ids>gen_doc1788</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The complement system's components, such as C3a or C5a, have been modulated.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc875</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>On the surface, this mechanism was not compatible with the lack of elevated GS activity in mouse tissues.</plag_sens>
+    <tag_file_ids>gen_doc974</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>On the surface, this mechanism seemed to conflict with the lack of elevated GS activity in the mouse tissues.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc875</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The example of a lower fitness in captive-bred individuals in the wild comes from the authors.</plag_sens>
+    <tag_file_ids>gen_doc1520</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Another example of a lower fitness in captive-bred individuals in the wild comes from Heath et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc875</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The data from 3 independent experiments shows the means of sd from LacZ group and PKG II group.</plag_sens>
+    <tag_file_ids>gen_doc1214</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The data from 3 independent experiments shows the means of sd compared to LacZ group and PKG II group.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc875</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Females were 3–5 days old and of a wild-type background, which had recently been backcrossed by the sparkling poliert.</plag_sens>
+    <tag_file_ids>gen_doc2440</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>Females were 3–5 days old and of a wild-type background, which had recently been backcrossed by the sparkling poliert (spa) mutation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc875</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There was a 6.8-fold higher probability of a positive biopsy for subjects with a PCA3 score of 35 or greater.</plag_sens>
+    <tag_file_ids>gen_doc76</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Those with a PCA3 score greater than 35 had a 6.8-fold higher probability of a positive biopsy than those with a PCA3 score less than 35.</tag_plag_sens>
+  </row>
+</data>

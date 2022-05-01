@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1159</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The diagnosis of HIV MCD is based on clinical and pathological findings and at least 3 of 12 additional features.</plag_sens>
+    <tag_file_ids>gen_doc2482</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The diagnosis of HIV MCD is based on clinical and pathological findings and at least 3 of 12 additional clinical features.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1159</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>We use data to identify health messages.</plag_sens>
+    <tag_file_ids>gen_doc1517</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>We use data to identify health messages.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1159</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The dense and highly valuable tough wood has been used to prepare various mechanical parts, instead of the fruits.</plag_sens>
+    <tag_file_ids>gen_doc615</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The dense and highly valuable tough wood has been used for preparing various mechanical parts, instead of the fruits.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3808</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In the aLA group, aLA was given after 24 hours of symptom onset, based on the choices of the physician and the patient figure.</plag_sens>
+    <tag_file_ids>gen_doc503</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In the aLA group, aLA was administered after 24 hours of symptom onset based on the choices of the physician and the patient figure.</tag_plag_sens>
+  </row>
+</data>

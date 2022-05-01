@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3229</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The mean concentration of besifloxacin remained stable between 15 minutes (2.30  1.42 g/g) and 30 minutes (2.29 ) despite the fact that concentrations at 30 minutes were half those of the respective 15 minute time-points.</plag_sens>
+    <tag_file_ids>gen_doc2295</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The mean concentration of besifloxacin remained stable between 15 minutes (2.30  1.42 g/g) and 30 minutes (2.29 ) despite the fact that concentrations at 30 minutes for moxifloxacin and gatifloxacin were half those of the respective 15 minute</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3229</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The constant flow of new maroons balanced the genetic lost in some communities.</plag_sens>
+    <tag_file_ids>gen_doc2077</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The constant flow of new maroons balanced the genetic lost in some communities, even though they were briefly reduced to a hundred individuals.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3229</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Quality controls, experimental runs and statistical methods were done.</plag_sens>
+    <tag_file_ids>gen_doc2459</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Quality controls, experimental runs, and statistical methods were performed as described.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3229</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The genes were scored for the presence of at least one variant in the affected and sporadic patients.</plag_sens>
+    <tag_file_ids>gen_doc2064</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The genes were scored for the presence of at least one variant at either Heterozygosity, or one or more variant at Homozygosity, in the affected and sporadic patients.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc3229</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The metal nanoparticles are attached to a self-assembled monolayer on the inside of the MOF.</plag_sens>
+    <tag_file_ids>gen_doc388</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A self-assembled monolayer on the inner surfaces of the MOF is attached to a dynamic low-pressure chemical deposition of metal nanoparticles.</tag_plag_sens>
+  </row>
+</data>

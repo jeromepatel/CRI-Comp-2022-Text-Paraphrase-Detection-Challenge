@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2660</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The term restriction has been used to describe a set of echocardiographic and catheterization variables that may be present in a subset of patients with heart failure.</plag_sens>
+    <tag_file_ids>gen_doc1167</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The term restrictive has been used to describe a set of echocardiographic and catheterization variables that may be present in a subset of patients suffering from heart failure symptoms with preserved ejection fraction.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2660</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The cloning of expression was described in 2003 by Kitamura et al.</plag_sens>
+    <tag_file_ids>gen_doc203</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The cloning of expression was described in 2003 by Kitamura et al.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2660</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In the US alone, more than five million individuals are diagnosed with sporadic AD and four million are under treatment for the disease at an annual cost of 3.8 billion US dollars.</plag_sens>
+    <tag_file_ids>gen_doc845</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In the US alone, more than five million individuals are diagnosed with sporadic AD and four million are under treatment at an annual cost of 3.8 billion US dollars.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2660</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>If participants did not respond to the trial targets, they would receive the same error message.</plag_sens>
+    <tag_file_ids>gen_doc764</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The same error message was sent to participants if they did not respond to trial targets.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2660</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Even though cells expressing both truncations, Vps3N and Vps8N, show poor Localization, they grew better than vps3 cells.</plag_sens>
+    <tag_file_ids>gen_doc2257</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Even though cells expressing both truncations, Vps3N and Vps8N, show poor localization, they grew better than vps3 cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2660</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>This shows that the LD is very similar between the durum wheat, bread wheat and barley accessions studied here and in the cited literature.</plag_sens>
+    <tag_file_ids>gen_doc851</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The population structure indicates that the LD is very similar between the durum wheat, bread wheat and barley accessions studied here and in the cited literature.</tag_plag_sens>
+  </row>
+</data>

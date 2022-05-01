@@ -1,0 +1,91 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2827</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>PyMol is a Python-based visualization software that can be used to see the PDB files.</plag_sens>
+    <tag_file_ids>gen_doc141</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>PyMol is a Python-based visualization software that can be used to see the PDB files of proteins.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2827</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>It is slower than PON-SC.</plag_sens>
+    <tag_file_ids>gen_doc2401</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>It is 26 times slower than PON-SC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2827</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In the early 2000s, fewer than 25% of adults with major depression in the US received recommended treatment.</plag_sens>
+    <tag_file_ids>gen_doc1941</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In the early 2000s, fewer than 25% of adults with major depressive disorders in the US received the recommended treatment.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2827</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>After adjusting for covariates, WSR was lower than C subjects.</plag_sens>
+    <tag_file_ids>gen_doc128</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>WSR was lower in C subjects than in NPDR.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2827</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>20 trials were presented per market</plag_sens>
+    <tag_file_ids>gen_doc3689</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There were 20 trials presented per market.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2827</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The exception of GLUT13 is a myo-inositol-H+ symporter, which is an overwhelmingly uniporters.</plag_sens>
+    <tag_file_ids>gen_doc3156</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The exception of GLUT13 is a myo-inositol-H+ symporter, which is overwhelmingly uniporters.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc2827</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The addition of NO to the thiol group in Cys is critical for S-nitrosylation and the addition of Cys to another thiol group is critical for S-thiolation.</plag_sens>
+    <tag_file_ids>gen_doc3242</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The addition of NO to the thiol group in Cys is critical for S-nitrosylation, and the addition of Cys to another Cys thiol group is critical for S-thiolation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>7</index>
+    <file_ids>gen_doc2827</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The Dahomey Gap, a naturally non-forested stretch of land from eastern Ghana to western Nigeria, consists of unsuitable habitats and therefore provides a distributional barrier figurec.</plag_sens>
+    <tag_file_ids>gen_doc2938</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>We believe that the Dahomey Gap, a naturally non-forested stretch ranging from eastern Ghana to western Nigeria, consists of unsuitable habitats and therefore provides a distributional barrier figurec, because the fungus prefers moist and comparatively cooler environments.</tag_plag_sens>
+  </row>
+</data>

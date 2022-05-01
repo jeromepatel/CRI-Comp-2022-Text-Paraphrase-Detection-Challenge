@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1802</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>More Fe(II) iron appeared after the first tests in the water with a lower initial value.</plag_sens>
+    <tag_file_ids>gen_doc1671</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>After the first batches of tests in water with a lower initial value of pH, more ion of Fe(II) iron appeared.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1625</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>One sixth volume of buffer A containing 0.2M sucrose and  1.2% Triton N-101 was added and the samples were homogenized using a chilled dounce.</plag_sens>
+    <tag_file_ids>gen_doc2961</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>One sixth volume of buffer A containing 0.2M sucrose and 1.2% Triton N-101 was added and the samples were homogenized using a chilled dounce with a 0.004-0.006 inch clearance.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1625</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>It is of interest to develop treatments that increase the sensitivity of myeloid cells.</plag_sens>
+    <tag_file_ids>gen_doc3290</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>It is of interest to develop treatment strategies which increase the sensitivity of myeloid cells to ATRA action.</tag_plag_sens>
+  </row>
+</data>

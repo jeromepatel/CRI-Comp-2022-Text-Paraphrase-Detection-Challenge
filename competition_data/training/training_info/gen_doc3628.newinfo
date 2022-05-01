@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3628</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>In 9 of the 16 experiments, depression levels were assessed using the Beck Depression Inventory Second Edition.</plag_sens>
+    <tag_file_ids>gen_doc3537</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>In 9 of the 16 experiments, current depression levels were assessed using the Beck Depression Inventory Second Edition.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3628</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>Soymilk, pills, and bars made up 27% of isoflavone intake.</plag_sens>
+    <tag_file_ids>gen_doc434</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Soymilk, pills, and bars made up 27% of isoflavone intake in this cohort.</tag_plag_sens>
+  </row>
+</data>

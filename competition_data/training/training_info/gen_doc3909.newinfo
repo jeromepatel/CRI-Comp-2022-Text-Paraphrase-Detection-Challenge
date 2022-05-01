@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3909</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>In high-resource settings, there is evidence that annual CBE is as effective as screening mammography in lowering breast cancer mortality.</plag_sens>
+    <tag_file_ids>gen_doc906</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>In high-resource settings, there is some evidence that annual CBE might be as effective as screening mammography in lowering breast cancer mortality.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3909</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>Patients with the T-allele were more likely to have ZnT8WA 18,20 than patients with the C-allele.</plag_sens>
+    <tag_file_ids>gen_doc299</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>T1D patients with the C-allele had more autoantibodies against the ZnT8R variant.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3909</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The expression of NOD2 was elevated after being exposed to the pathogen.</plag_sens>
+    <tag_file_ids>gen_doc2764</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The expression of NOD2 was elevated after the gram-positive pathogen S. pneumoniae.</tag_plag_sens>
+  </row>
+</data>

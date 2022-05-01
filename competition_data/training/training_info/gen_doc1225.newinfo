@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1225</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>There is no reason to think that the changes of branching will affect O-GlcNAcylation of mTOR.</plag_sens>
+    <tag_file_ids>gen_doc3117</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>There is no reason to think that the manipulation of branching will affect O-GlcNAcylation of mTOR.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1225</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The distribution curve for all 100 replications is presented in Figure 1 at the time step, where reporters can be distinguished using a k-means clustering approach.</plag_sens>
+    <tag_file_ids>gen_doc3235</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The distribution curve for all 100 replications is presented in Figure 1 at the time step, where reporters can be distinguished using a k-means clustering approach.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1225</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There are several studies that look at possible associations between local control and treatment failure.</plag_sens>
+    <tag_file_ids>gen_doc87</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>Several studies looked at possible associations between local control modality and treatment failure.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1225</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>We found that both miR-135b/24 and miR-196a were only moderately accurate at detecting the disease.</plag_sens>
+    <tag_file_ids>gen_doc2289</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>We found that both miR-135b/24 and miR-196a were only moderately predictive at detecting the disease with AUCs of 0.741 and 0.737 respectively.</tag_plag_sens>
+  </row>
+</data>

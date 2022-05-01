@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1944</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The strain has the same ability to cause disease.</plag_sens>
+    <tag_file_ids>gen_doc1477</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The strain has the same potential to cause diseases.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1944</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>According to the 1987 national survey in the country, trachoma is one of the leading causes of avoidable blindness.</plag_sens>
+    <tag_file_ids>gen_doc1945</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>According to the 1987 national survey in the country, trachoma was one of the leading causes of avoidable blindness.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1944</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The two closely related compounds shown in Figure 2o,p have the same potency of inhibition against GRK2 as that of balanol, but they have vastly better selectivity for the same molecule.</plag_sens>
+    <tag_file_ids>gen_doc3444</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The two closely related compounds shown in Figure 2o,p have the same potency of inhibition against GRK2 as that of balanol, but they have vastly better selectivity over other GRKs and AGC.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1944</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>Although the space required and cost make these systems impractical for clinical use, their wide FOV allow research laboratories to investigate.</plag_sens>
+    <tag_file_ids>gen_doc1492</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Although the space required and cost make these systems impractical for clinical use, their wide FOV allow research laboratories to investigate how different motion cues affect balance and vestibular rehabilitation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1944</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The MIC of wild type cells was increased by most aryl substituents.</plag_sens>
+    <tag_file_ids>gen_doc109</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The MIC of wild-type cells were increased by most aryl substituents.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1944</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The models used for the analysis of the P53 sequence of 65 mammals were implemented by the PAML.</plag_sens>
+    <tag_file_ids>gen_doc2649</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The models used to analyze the P53 sequence of 65 mammals were implemented by PAML, Selecton, and hy phy tools.</tag_plag_sens>
+  </row>
+  <row>
+    <index>6</index>
+    <file_ids>gen_doc1944</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The p 24 test was used to calculate the Lentiviral vector titration.</plag_sens>
+    <tag_file_ids>gen_doc3989</tag_file_ids>
+    <tag_para_ids>13</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The p 24 test was used to calculate the Lentiviral vector titration.</tag_plag_sens>
+  </row>
+</data>

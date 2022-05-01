@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1731</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>GAPDH was used as the internal control, and 2CT method was used to evaluate the relative quantities of each amplified product.</plag_sens>
+    <tag_file_ids>gen_doc1831</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>GAPDH was used as the internal control, and 2CT method was used to evaluate the relative quantities of each amplified product in the samples.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1731</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The second network was built in the same way as the first one, using 608 randomly chosen proteins that are expressed in the prostrate but not in the brain.</plag_sens>
+    <tag_file_ids>gen_doc145</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The second network was built in the same way as the first, using 608 randomly chosen proteins that are expressed in the prostate but not in the miRNAs.</tag_plag_sens>
+  </row>
+</data>

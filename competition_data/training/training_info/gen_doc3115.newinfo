@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3115</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>HRB tool adaptation and psychometric properties are not reported in many studies on chronically ill adolescents.</plag_sens>
+    <tag_file_ids>gen_doc3816</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>HRB tool adaptation and psychometric properties are rarely reported in studies of chronically ill adolescents.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc3115</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The myotubes were fixed with 3% ice-cold paraformaldehyde and permeabilized with 0.1%.</plag_sens>
+    <tag_file_ids>gen_doc3219</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>The myotubes were fixed with 3% ice-cold paraformaldehyde and 0.1% Triton X-100.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc3115</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The exosomal-enriched fraction of the blood was obtained by thawing a small amount of it and adding a cocktail of drugs to reach the final concentration.</plag_sens>
+    <tag_file_ids>gen_doc3687</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In order to obtain the exosomal-enriched fraction of the blood, a cocktail of protease and RNase inhibitors was added in a volume of 70 L/mL.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc3115</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>While the initial rise in O2Hb during phase I may reflect the spike in BP and some extracranial shunting and associated increase in flow to the skin and face, the late rise up until the strain release at phase III seems unlikely to be attributable to extracranial flow changes</plag_sens>
+    <tag_file_ids>gen_doc3021</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>While the initial rise in O2Hb during phase I may reflect the spike in BP and some extracranial shunting and associated increase in flow to the skin and face, the plateau and then late rise up until the strain release at phase III seems unlikely to be attributable to extracranial flow</tag_plag_sens>
+  </row>
+</data>

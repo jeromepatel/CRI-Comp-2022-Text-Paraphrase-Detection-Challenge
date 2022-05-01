@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2954</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>Smaller sample sizes and shorter follow-up periods may have been a limitation.</plag_sens>
+    <tag_file_ids>gen_doc2609</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The small sample sizes and shorter follow-up periods for some studies might have been a limitation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2954</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>In the hotter and calmer summer months, the xeric site is more productive due to its low overstory density and high proportion of C4 grass.</plag_sens>
+    <tag_file_ids>gen_doc960</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>Because of its low overstory density and high proportion of C4 grasses, the xeric site is able to be more productive in the hotter and calmer summer months.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2954</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>There are various pathways that have been suggested to explain the inequalities.</plag_sens>
+    <tag_file_ids>gen_doc689</tag_file_ids>
+    <tag_para_ids>11</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Psychosocial pathways have been suggested to explain the inequalities in TDIs.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2954</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The level of MDAR expression increases when there is stress.</plag_sens>
+    <tag_file_ids>gen_doc459</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The level of MDAR expression increases in response to stress conditions.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2954</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Thequantum of pain for different types of surgeries could be predicted by the anesthesiologists or pain physicians.</plag_sens>
+    <tag_file_ids>gen_doc660</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Post-operative pain could be better managed if the anesthesiologists or pain physicians could predict the amount of pain for individual patients.</tag_plag_sens>
+  </row>
+</data>

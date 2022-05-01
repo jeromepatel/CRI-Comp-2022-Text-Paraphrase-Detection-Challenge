@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc3322</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>If nihilism can be overcome in the management of SAH patients, the early application of mild therapeutic hypothermia may improve outcomes.</plag_sens>
+    <tag_file_ids>gen_doc3370</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>If nihilism can be overcome in the management of poor-grade SAH patients, the early application of mild therapeutic hypothermia may improve outcomes further.</tag_plag_sens>
+  </row>
+</data>

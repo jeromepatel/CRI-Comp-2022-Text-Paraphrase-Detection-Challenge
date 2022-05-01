@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc846</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>LRH-1 was identified as being a transcriptional regulator by us.</plag_sens>
+    <tag_file_ids>gen_doc1745</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>LRH-1 was identified as a transcriptional regulator by STAT6</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc846</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>We observed a limited number of genome regions that were not covered by Ensembl from the whole genome mapping.</plag_sens>
+    <tag_file_ids>gen_doc3828</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>We observed a limited number of genome regions that were not covered by Ensembl from the whole genome EST mapping.</tag_plag_sens>
+  </row>
+</data>

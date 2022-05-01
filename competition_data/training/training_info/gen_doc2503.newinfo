@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2503</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The co-occurrence matrix is used the most.</plag_sens>
+    <tag_file_ids>gen_doc2623</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The co-occurrence matrix is the most widely used TA method.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2503</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>For a general bi simple tensile test, the following pseudo-elastic strain energy function was proposed for a rubber-like material, where 1 and 2 are two principal stretches.</plag_sens>
+    <tag_file_ids>gen_doc1362</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>For a general bi simple tensile test, the following pseudo-elastic strain energy function was proposed by Ogden and Roxburgh for an incompressible rubber-like material: where 1 and 2 are two principal stretches, is an Ogden-type strain energy without damage.</tag_plag_sens>
+  </row>
+</data>

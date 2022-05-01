@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2490</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>There are 13 mandatory diseases and syndromes covered in the IDSP in India, with a focus on the districts.</plag_sens>
+    <tag_file_ids>gen_doc2037</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>The IDSP in India covers 13 mandatory diseases and syndromes with a focus on the districts.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2490</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>The included articles are shown in the table.</plag_sens>
+    <tag_file_ids>gen_doc1145</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The included articles are in Table 1.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2490</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>During the final years of the First World War, the encephalitis letargica outbreak, the thesis was drafted by Tretiakoff.</plag_sens>
+    <tag_file_ids>gen_doc2537</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>During the final years of the First World War, the encephalitis letargica outbreak, the thesis was drafted by Tretiakoff.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2490</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>We looked at heavily transcribed genes in the cells.</plag_sens>
+    <tag_file_ids>gen_doc1611</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>We looked at heavily transcribed genes in both cells.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2490</file_ids>
+    <para_ids>8</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The deletion from the bull will result in 50% of his offspring having no functional MIMT1 gene.</plag_sens>
+    <tag_file_ids>gen_doc3614</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The 50% of his offspring that receive the deletion from the bull will have no functional MIMT1 gene.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc2490</file_ids>
+    <para_ids>12</para_ids>
+    <sens_ids>8</sens_ids>
+    <plag_sens>The last possibility is that the mismatch between summer and winter temperatures resulted in increased mortality during the winter.</plag_sens>
+    <tag_file_ids>gen_doc1266</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>It is possible that our treatments in the summer caused a mismatch between summer and winter temperatures, which resulted in increased mortality during the winter.</tag_plag_sens>
+  </row>
+</data>

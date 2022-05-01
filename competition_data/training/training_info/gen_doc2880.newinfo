@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2880</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>A two-step sequential gelation process combined with droplet coalescence created the multi-compartmental hydrogel particles.</plag_sens>
+    <tag_file_ids>gen_doc939</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The multi-compartmental hydrogel particles were created through a two-step sequential gelation process with droplet coalescence.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2880</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Hayashi et al. showed in a previous study that the HA could be a new useful marker of AD in a routine clinical setting.</plag_sens>
+    <tag_file_ids>gen_doc738</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>In a previous study, Hayashi et al. showed that by hippocampal atrophy in AD, the HA could be a new useful marker of AD in the routine clinical setting.</tag_plag_sens>
+  </row>
+</data>

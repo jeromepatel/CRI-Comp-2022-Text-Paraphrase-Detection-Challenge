@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc499</file_ids>
+    <para_ids>6</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The striatum and hippocampus have vessels that are subcortical.</plag_sens>
+    <tag_file_ids>gen_doc16</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>8</tag_sens_ids>
+    <tag_plag_sens>The striatum and hippocampus have vessels that are subcortical.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc499</file_ids>
+    <para_ids>13</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>Stable single-channel recordings were obtained in 1999.</plag_sens>
+    <tag_file_ids>gen_doc2067</tag_file_ids>
+    <tag_para_ids>6</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Stable single-channel recordings were obtained in 1999.</tag_plag_sens>
+  </row>
+</data>

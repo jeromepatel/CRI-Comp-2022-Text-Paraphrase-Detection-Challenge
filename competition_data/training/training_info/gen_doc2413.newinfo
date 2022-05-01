@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2413</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>There are two items on the differential diagnosis.</plag_sens>
+    <tag_file_ids>gen_doc894</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>IPT is one of the other items on the differential diagnosis.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2413</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>The data does not show a better percentage-agreement in the modified group compared to the standard group.</plag_sens>
+    <tag_file_ids>gen_doc1127</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The data doesn't show a greater percentage-agreement in the modified MRC group compared to the standard MRC group.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2413</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>The prevalence of MCI in our subjects over sixty-five was 19.4%, which is well within the range of most previously reported prevalence rates.</plag_sens>
+    <tag_file_ids>gen_doc2421</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The prevalence of MCI in our subjects over sixty-five was 19.4%, which is well within the range of most previously reported prevalence rates.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2413</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>The LSSV was performed for 0.01 M H2O2 in 0.05 M PBS at a scanned rate of 50 mv s1 and in saturated N2 with a potential range from 0.3 V to 0 V.</plag_sens>
+    <tag_file_ids>gen_doc14</tag_file_ids>
+    <tag_para_ids>2</tag_para_ids>
+    <tag_sens_ids>7</tag_sens_ids>
+    <tag_plag_sens>The LSSV was performed for 0.01 M H2O2 in 0.05 M PBS at a scanned rate of 50 mv s1 and in saturated N2 with a potential range from 0.3 V to 0 V.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2413</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>graded cycling and recovery associations are presented.</plag_sens>
+    <tag_file_ids>gen_doc2541</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>graded cycling and recovery associations are presented in figurea.</tag_plag_sens>
+  </row>
+</data>

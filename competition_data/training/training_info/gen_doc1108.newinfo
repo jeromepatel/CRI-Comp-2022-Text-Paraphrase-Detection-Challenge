@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1108</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>Many years after initial exposure, a small percentage of these women will be diagnosed with cancer.</plag_sens>
+    <tag_file_ids>gen_doc1158</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Many years after initial exposure, a small fraction of these women develop cancer.</tag_plag_sens>
+  </row>
+</data>

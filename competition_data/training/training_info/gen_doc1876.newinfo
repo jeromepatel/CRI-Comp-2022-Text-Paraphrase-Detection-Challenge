@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1876</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Most A. terreus isolates are resistant to a fixed concentration of amphotericin B.</plag_sens>
+    <tag_file_ids>gen_doc3198</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Most A. terreus isolates were resistant to a fixed concentration of amphotericin B.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1876</file_ids>
+    <para_ids>2</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The distance from X to the surface front S is represented by the equation.</plag_sens>
+    <tag_file_ids>gen_doc3203</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The distance from X to the surface front S was represented by the following equation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1876</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>In parallel with HKL-2000, data sets were scaled using iMosFLm and AIMLESS.</plag_sens>
+    <tag_file_ids>gen_doc2091</tag_file_ids>
+    <tag_para_ids>8</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>Data sets were integrated and scaled using iMosflm and AIMLESS, and in parallel using HKL-2000.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1876</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The dilatory capacity of larger vessels is determined by the difference between the resting diameter and the diameter.</plag_sens>
+    <tag_file_ids>gen_doc747</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>The dilatory capacity of larger vessels is determined by the difference between the resting diameter and the diameter during a peak hyperemia.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc1876</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>While a shorter distance between two electrodes increases the common mode and reduces measured amplitudes, the same effect is retained for other influences, such as far-field noise, resulting in comparable signal-to-noise levels for large distance and small distance channels.</plag_sens>
+    <tag_file_ids>gen_doc2245</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>While a shorter distance between two electrodes increases the common mode and reduces measured amplitudes, the same effect holds for other influences, such as far-field noise, resulting in comparable signal-to-noise levels for large and small distance channels.</tag_plag_sens>
+  </row>
+  <row>
+    <index>5</index>
+    <file_ids>gen_doc1876</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The false discovery rates of Benjamini–Hochberg were used to adjust the Global Test.</plag_sens>
+    <tag_file_ids>gen_doc2141</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>The false discovery rates of Benjamini–Hochberg were used to adjust the Global Test.</tag_plag_sens>
+  </row>
+</data>

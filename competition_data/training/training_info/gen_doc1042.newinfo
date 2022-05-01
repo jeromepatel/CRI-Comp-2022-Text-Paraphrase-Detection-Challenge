@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1042</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>During periods of high infanticidal risk, lactating females with a male friend show a reduced stress response.</plag_sens>
+    <tag_file_ids>gen_doc3420</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>During periods of high infanticidal risk, lactating females with a male friend exhibit a reduced stress response compared with lactating females without a male friend.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1042</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>The upregulation of p16INK4a was observed after surgery.</plag_sens>
+    <tag_file_ids>gen_doc3886</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>The upregulation of p16INK4a was observed only after surgery, and all ETS groups showed the same tendency.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1042</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>The conclusion was that the treatment of CYC reduced organs recurrence.</plag_sens>
+    <tag_file_ids>gen_doc3830</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>It was concluded that the combined treatment of CYC reduced organs recurrence.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1042</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The contigs were merged to produce a single draft genome.</plag_sens>
+    <tag_file_ids>gen_doc1845</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>After aligning, contigs were ordered and merged to produce a single draft genome.</tag_plag_sens>
+  </row>
+</data>

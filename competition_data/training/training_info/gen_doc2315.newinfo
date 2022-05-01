@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2315</file_ids>
+    <para_ids>1</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The FAZ areas in the superficial layer were smaller than those shown in the fluorescein angiography images, and were correlated with each other.</plag_sens>
+    <tag_file_ids>gen_doc898</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>FAZ areas in the superficial layer of the angiograms were smaller than those in the fluorescein angiography images and were correlated with each other.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2315</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>FACS isolated EGFP+ IMCs from the bone marrow of Hdc-EGFP mice, and analyzed them for the effects of histamine.</plag_sens>
+    <tag_file_ids>gen_doc1173</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>FACS isolated EGFP+ IMCs from the bone marrow of Hdc-EGFP mice, and analyzed them for the effects of histamine, either alone or in combination with GM-CSF.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2315</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>6</sens_ids>
+    <plag_sens>To allow a good fit across all species and all experimental datasets, we include saturation functions for all parameters.</plag_sens>
+    <tag_file_ids>gen_doc3978</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>To allow a good fit across all species and all experimental datasets, we include saturation functions for all the parameters.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2315</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>7</sens_ids>
+    <plag_sens>There are four subcategories that provide adequate information and support mechanisms that involve inflammation and eosinophils in ECRS.</plag_sens>
+    <tag_file_ids>gen_doc766</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>There are four subcategories that provide adequate information and support mechanisms that involve inflammation and eosinophils in ECRS.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2315</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The link goes from BAN to body sensors.</plag_sens>
+    <tag_file_ids>gen_doc3599</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>3</tag_sens_ids>
+    <tag_plag_sens>From BAN to body sensors, downlink.</tag_plag_sens>
+  </row>
+</data>

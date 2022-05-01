@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc1239</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>5</sens_ids>
+    <plag_sens>More research is needed to understand the relationship between environmental factors and children's physical activity.</plag_sens>
+    <tag_file_ids>gen_doc3973</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>More research is needed to understand the relationships between environmental factors, psychosocial variables, and children's physical activity behaviour.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc1239</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>With the conditions to which the lowest values of Kobs correspond, a notable chromium removal can be achieved.</plag_sens>
+    <tag_file_ids>gen_doc409</tag_file_ids>
+    <tag_para_ids>4</tag_para_ids>
+    <tag_sens_ids>6</tag_sens_ids>
+    <tag_plag_sens>A notable chromium removal, in restricted reaction time, can be obtained with the conditions to which the lowest values of Kobs correspond.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc1239</file_ids>
+    <para_ids>10</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>There was an association between higher morning waking cortisol and 5-HTTLPR low-expression genotype.</plag_sens>
+    <tag_file_ids>gen_doc1740</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>A small association remained between higher morning waking cortisol and 5-HTTLPR low-expression genotype with this reduced sample size.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc1239</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>According to a review of an extensive body of research, RAN tasks are one of the best, perhaps universal predictors of reading ability.</plag_sens>
+    <tag_file_ids>gen_doc3567</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A review of an extensive body of research led to the conclusion that RAN tasks are one of the best, perhaps universal predictors of reading fluency across all known orthographies.</tag_plag_sens>
+  </row>
+</data>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2992</file_ids>
+    <para_ids>0</para_ids>
+    <sens_ids>0</sens_ids>
+    <plag_sens>A form made popular in China as specific for cancer care is called Guolin Qigong, and it has a stylized walk and trunk rotation.</plag_sens>
+    <tag_file_ids>gen_doc1719</tag_file_ids>
+    <tag_para_ids>3</tag_para_ids>
+    <tag_sens_ids>0</tag_sens_ids>
+    <tag_plag_sens>A form made popular in China as specific for cancer care, Guolin Qigong has a stylized walk, coordinated arm swing, trunk rotation, and breath regulation.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2992</file_ids>
+    <para_ids>4</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>When cyclin D/Cdk4/6 activity is low and ineffective in limiting the nuclear localization of Smad2/3, it only occurs in early G1, as shown by Pauklin and Vallier.</plag_sens>
+    <tag_file_ids>gen_doc1057</tag_file_ids>
+    <tag_para_ids>10</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>When cyclin D/Cdk4/6 activity is low and ineffective in limiting the nuclear localization of Smad2/3, it only occurs in early G1, as demonstrated by Pauklin and Vallier.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2992</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>The high fat diet resulted in a 65% increase in body weight.</plag_sens>
+    <tag_file_ids>gen_doc2075</tag_file_ids>
+    <tag_para_ids>1</tag_para_ids>
+    <tag_sens_ids>4</tag_sens_ids>
+    <tag_plag_sens>The high fat diet resulted in a 65% increase in body weight over the lean controls.</tag_plag_sens>
+  </row>
+</data>

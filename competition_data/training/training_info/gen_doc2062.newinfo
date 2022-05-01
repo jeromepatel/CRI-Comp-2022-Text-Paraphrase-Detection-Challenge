@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <index>0</index>
+    <file_ids>gen_doc2062</file_ids>
+    <para_ids>3</para_ids>
+    <sens_ids>1</sens_ids>
+    <plag_sens>In 2005; Chen et al.</plag_sens>
+    <tag_file_ids>gen_doc3657</tag_file_ids>
+    <tag_para_ids>0</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>Chen et al. were published in 2005.</tag_plag_sens>
+  </row>
+  <row>
+    <index>1</index>
+    <file_ids>gen_doc2062</file_ids>
+    <para_ids>5</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>Early passage is used to evaluate the capacity of anti-LPP3-RGD to block capillary morphogenesis.</plag_sens>
+    <tag_file_ids>gen_doc725</tag_file_ids>
+    <tag_para_ids>7</tag_para_ids>
+    <tag_sens_ids>5</tag_sens_ids>
+    <tag_plag_sens>In order to evaluate the capacity of anti-LPP3-RGD to block capillary morphogenesis of ECs, we used early passage.</tag_plag_sens>
+  </row>
+  <row>
+    <index>2</index>
+    <file_ids>gen_doc2062</file_ids>
+    <para_ids>7</para_ids>
+    <sens_ids>3</sens_ids>
+    <plag_sens>Delays in the decision to limit treatment may be caused by this.</plag_sens>
+    <tag_file_ids>gen_doc1628</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>2</tag_sens_ids>
+    <tag_plag_sens>Delays in the decision to limit treatment may be caused by this, as well as prolonging the disease's duration.</tag_plag_sens>
+  </row>
+  <row>
+    <index>3</index>
+    <file_ids>gen_doc2062</file_ids>
+    <para_ids>9</para_ids>
+    <sens_ids>4</sens_ids>
+    <plag_sens>It is important for providers to be trained in the correct information on the methods and their side effects.</plag_sens>
+    <tag_file_ids>gen_doc952</tag_file_ids>
+    <tag_para_ids>5</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>It is important for providers to be trained in the correct information about the methods and their side effects for female clients.</tag_plag_sens>
+  </row>
+  <row>
+    <index>4</index>
+    <file_ids>gen_doc2062</file_ids>
+    <para_ids>11</para_ids>
+    <sens_ids>2</sens_ids>
+    <plag_sens>The outbreak in Italy was caused by a group of Cmm.</plag_sens>
+    <tag_file_ids>gen_doc2739</tag_file_ids>
+    <tag_para_ids>9</tag_para_ids>
+    <tag_sens_ids>1</tag_sens_ids>
+    <tag_plag_sens>A population of Cmm was responsible for the outbreak in Italy.</tag_plag_sens>
+  </row>
+</data>
