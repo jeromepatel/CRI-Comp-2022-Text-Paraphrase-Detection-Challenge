@@ -7,6 +7,9 @@ import os
 from os.path import isfile,join
 from typing import Set
 import xml.etree.ElementTree as ET
+from tqdm import tqdm
+import pandas as pd
+import time
 
 '''
 csv format
@@ -19,7 +22,7 @@ def read_csv(csv_name):
     with open(csv_name,'rt', newline='', encoding='utf-8-sig',errors='ignore') as csvfile:
         reader = csv.reader(csvfile)
         try:
-            for row in reader:
+            for row in tqdm(reader):
                 if row[0] == "id1" and row[1] == "id2": 
                     continue
                 csv_info.append(row)
@@ -27,14 +30,24 @@ def read_csv(csv_name):
         except csv.Error as e:
             print("Can't open csv file")
             return False, []    
-    
+
+def read_csv_pandas(csv_name):
+    csv_info = []
+    try:
+        df = pd.read_csv(csv_name)
+        for row in df.iterrows():
+            csv_info.append([row[1]['id1'],row[1]['id2']])
+        return True, csv_info
+    except:
+        print("caught error opening & parsing csv file")
+        return False, []
 def reverse(pair):
     return [pair[1],pair[0]]
 
 def clean(ans):
     clean_ans = []
     clean_set = set()
-    for each in ans:
+    for each in tqdm(ans):
         if not clean_set or each[0] not in clean_set:
             clean_set.add(each[0])
         else:
@@ -47,7 +60,7 @@ def clean(ans):
 def get_f1score(ans,evl):
     tp,fn,fp=0,0,0;
     ans = clean(ans)
-    for each in ans:
+    for each in tqdm(ans):
         if each in evl or reverse(each) in evl:
             tp += 1
     fp = len(ans)-tp
@@ -66,9 +79,9 @@ if __name__ == "__main__":
         ans_info, evl_info = [],[]
         index_ans = args.index('--ans')
         index_evl = args.index('--evl')
-        result,ans_info = read_csv(args[index_ans+1])
+        result,ans_info = read_csv_pandas(args[index_ans+1])
         if result == True:
-            result,evl_info = read_csv(args[index_evl+1])
+            result,evl_info = read_csv_pandas(args[index_evl+1])
             if result == True:
                 recall,precision,F1_score = get_f1score(ans_info,evl_info)
                 print("Recall: " + str(recall))

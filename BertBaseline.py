@@ -26,7 +26,7 @@ import sentence_transformers
 N = 2000
 # MODEL = 'paraphrase-albert-small-v2'
 MODEL = 'all-MiniLM-L12-v2'
-TRAIN = False
+TRAIN = True
 
 def read_info(file_name):
     xml_data = open(file_name,'r', encoding="utf8").read()
@@ -101,7 +101,7 @@ def get_solution_parapharse_mining(model,dataset):
     for a,b in dataset.items():
         rev_subset[b] = a
     #use inbuilt function for paraphrase mining
-    solution = sentence_transformers.util.paraphrase_mining(model,list(dataset.values()),show_progress_bar=True, top_k = 2)
+    solution = sentence_transformers.util.paraphrase_mining(model,list(dataset.values()),corpus_chunk_size=20000,show_progress_bar=True, top_k = 100)
     return (solution,rev_subset)
     
 def get_solution_pairs(sub_dataset,dataset_info):
@@ -164,7 +164,7 @@ if __name__ == '__main__':
     if TRAIN:
         dataset_info = get_dataset_info(training_info)
         sub_dataset = get_subset_dataset(training_files, dataset_info, n = N)
-    # dataset = create_dataset(training_files)
+        # sub_dataset = create_dataset(training_files)
     else:
         #for validation, we don't have info files
         val_files = os.listdir('validation_text')
@@ -186,17 +186,16 @@ if __name__ == '__main__':
     if save_preds:
         val_df = pd.DataFrame(soln_pairs.items())
         val_df.columns = ['id1','id2']
-        val_df.to_csv("sentenceTransformer_baseline_results.csv",index=False)
+        val_df.to_csv("..\sentenceTransformer_baseline_results.csv",index=False)
     
     if TRAIN:
         gt_pairs = get_solution_pairs(sub_dataset, dataset_info)
         cnt = 0
-        total = 0
+        total = len(gt_pairs)
         for sol in soln_pairs.keys():
             if sol in gt_pairs.keys():
                 if soln_pairs[sol] == gt_pairs[sol]:
                     cnt += 1
-                total += 1
         
         print(f"The accuracy of this method on subset is: {cnt/total}")
     
@@ -211,3 +210,23 @@ if __name__ == '__main__':
     # print([dataset[s] for s in dataset.keys() if s[2:3] == '0'])
     # print(dataset.keys())
     # print(dataset['0_1_0'])
+    
+    
+    
+'''
+
+Results:
+    on training set: (The scores are calculated using evaluation.py script against training_eval.csv )
+        subset size | Model | recall | f1 score | precision | other hyper parameter imp change (time to calculate batches embeddings)
+        1000 | 'all-MiniLM-L12-v2' | 0.02 | 0.01 | 0.01 | with corpus_chunk_size = 1k and top_k = 2 (something went wrong here, dk)
+        
+        1000 | 'all-MiniLM-L12-v2' | 0.289 | 0.058 | 0.032 | with corpus_chunk_size = 10k and top_k = 2  (time: 3:11)
+        1000 | 'all-MiniLM-L12-v2' | 0.289 | 0.061 | 0.035 | with corpus_chunk_size = 10k and top_k = 50 (Time: 2:53)
+        1000 | 'all-MiniLM-L12-v2' | 0.289 | 0.062 | 0.034 | with corpus_chunk_size = 20k and top_k = 50 (Time: 3:00)
+        2000 | 'all-MiniLM-L12-v2' | 0.502 | 0.050 | 0.091 | with corpus_chunk_size = 20k and top_k = 100 (Time: 5:06)
+        full dataset | 'all-MiniLM-L12-v2' | 0.653 | 0.059 | 0.109 | with corpus_chunk_size = 20k and top_k = 100 (Time: 6:45 ) + misc time: 4:30
+        
+        1000 | 'paraphrase-albert-small-v2' | 0.29 | 0.067 | 0.04 | with corpus_chunk_size = 10k and top_k = 50 (Time: 6:25)
+        
+        
+'''
