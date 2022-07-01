@@ -1,7 +1,7 @@
 from audioop import reverse
 import csv
 from importlib.resources import path
-from msilib.schema import Error
+#from msilib.schema import Error
 import sys
 import os
 from os.path import isfile,join
@@ -73,6 +73,7 @@ def get_f1score(ans,evl):
         F1_score = 2*(Recall*Precision) / (Recall + Precision)
     return Recall,Precision,F1_score
     
+
 if __name__ == "__main__":
     args = sys.argv[1:]
     if len(args) >=4 and '--ans' in args and '--evl' in args:

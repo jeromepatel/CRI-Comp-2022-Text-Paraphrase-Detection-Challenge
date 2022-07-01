@@ -21,12 +21,14 @@ from pprint import pprint
 from tqdm import tqdm
 from sentence_transformers import SentenceTransformer
 import sentence_transformers
+from subprocess import Popen
 
 # nltk.download('punkt')
-N = 2000
+N =2000
 # MODEL = 'paraphrase-albert-small-v2'
 MODEL = 'all-MiniLM-L12-v2'
 TRAIN = True
+
 
 def read_info(file_name):
     xml_data = open(file_name,'r', encoding="utf8").read()
@@ -38,13 +40,12 @@ def read_info(file_name):
     df.columns = list(s.tag for s in root[0])
     return df
 
-def create_dataset(training_files):
+def create_dataset(root, training_files):
     dataset = {}
     #create dictionary from files
     print("loading training files.......")
     for file in tqdm(training_files):
         # print(file)
-        root = 'training_text' if TRAIN else 'validation_text'
         raw_text = open(os.path.join(root,file),'r', encoding="utf8").read()
         get_sentences_with_ids(dataset,file,raw_text)
     return dataset
@@ -67,13 +68,13 @@ def create_id(file_id,para_id,sent_id):
     file_id = int(re.search(r"\d+", file_id).group(0))
     return f'{file_id}_{para_id}_{sent_id}'
     
-def get_dataset_info(info_files):
+def get_dataset_info(root,training_info):
     #get dataset from list of files
     dataset_info = {}
     cnt_none = 0
     print("loading training info...... ")
     for file in tqdm(training_info):
-        df = read_info(os.path.join('training_info',file))
+        df = read_info(os.path.join(root,file))
         #the df will contain file_names in columns if its empty
         if 'file_names' in df.columns:
             #skip that file in training_info
@@ -101,7 +102,7 @@ def get_solution_parapharse_mining(model,dataset):
     for a,b in dataset.items():
         rev_subset[b] = a
     #use inbuilt function for paraphrase mining
-    solution = sentence_transformers.util.paraphrase_mining(model,list(dataset.values()),corpus_chunk_size=20000,show_progress_bar=True, top_k = 100)
+    solution = sentence_transformers.util.paraphrase_mining(model,list(dataset.values()),query_chunk_size=10000,corpus_chunk_size=20000,show_progress_bar=True, top_k = 100)
     return (solution,rev_subset)
     
 def get_solution_pairs(sub_dataset,dataset_info):
@@ -161,14 +162,16 @@ if __name__ == '__main__':
         print(df['source_ids'])
 
     model = SentenceTransformer(MODEL,device='cuda')
+    root = 'training_text' if TRAIN else 'validation_text'
     if TRAIN:
-        dataset_info = get_dataset_info(training_info)
-        sub_dataset = get_subset_dataset(training_files, dataset_info, n = N)
-        # sub_dataset = create_dataset(training_files)
+        dataset_info = get_dataset_info('training_info',training_info)
+        # sub_dataset = get_subset_dataset(training_files, dataset_info, n = N)
+        sub_dataset = create_dataset(root,training_files)
+        print(len(sub_dataset))
     else:
         #for validation, we don't have info files
         val_files = os.listdir('validation_text')
-        sub_dataset = create_dataset(val_files)
+        sub_dataset = create_dataset(root,val_files)
 
     # embeddings = get_vector_encodings(sub_dataset,model)
     # print(embeddings['0_1_0'])
@@ -176,28 +179,37 @@ if __name__ == '__main__':
     #get solution for subseet
     soln, rev_ds = get_solution_parapharse_mining(model,sub_dataset)
     
-    key_ind_subset = list(sub_dataset.keys())
-    soln_pairs = {}
-    for (score, id1,id2) in soln:
-        if score > 0.5 and key_ind_subset[id1] not in soln_pairs.keys():
-            soln_pairs[key_ind_subset[id1]] = key_ind_subset[id2]
+    print("Paraphrase extracted...........")
+    # thresholds = [0.9,0.8,0.7,0.6,0.5]
+    thresholds = [0.81,0.82,0.83,0.84,0.85,0.86,0.87,0.88,0.89,0.95]
     
-    save_preds = True
-    if save_preds:
-        val_df = pd.DataFrame(soln_pairs.items())
-        val_df.columns = ['id1','id2']
-        val_df.to_csv("..\sentenceTransformer_baseline_results.csv",index=False)
-    
-    if TRAIN:
-        gt_pairs = get_solution_pairs(sub_dataset, dataset_info)
-        cnt = 0
-        total = len(gt_pairs)
-        for sol in soln_pairs.keys():
-            if sol in gt_pairs.keys():
-                if soln_pairs[sol] == gt_pairs[sol]:
-                    cnt += 1
+    for th in thresholds:
+        key_ind_subset = list(sub_dataset.keys())
+        soln_pairs = {}
+        for (score, id1,id2) in soln:
+            if score > th and key_ind_subset[id1] not in soln_pairs.keys():
+                soln_pairs[key_ind_subset[id1]] = key_ind_subset[id2]
         
-        print(f"The accuracy of this method on subset is: {cnt/total}")
+        save_preds = True
+        if save_preds:
+            val_df = pd.DataFrame(soln_pairs.items())
+            val_df.columns = ['id1','id2']
+            df_name = f"..\Val_sentenceTransformer_baseline_results_thres_{th}.csv"
+            df_name = df_name.replace('Val','train') if TRAIN else df_name
+            val_df.to_csv(df_name,index=False)
+        
+        if TRAIN:
+            gt_pairs = get_solution_pairs(sub_dataset, dataset_info)
+            cnt = 0
+            total = len(gt_pairs)
+            for sol in soln_pairs.keys():
+                if sol in gt_pairs.keys():
+                    if soln_pairs[sol] == gt_pairs[sol]:
+                        cnt += 1
+            
+            print(f"The accuracy of this method on subset is: {cnt/total}")
+            
+            
     
     # print(dataset)
     print("#"*20)
@@ -220,13 +232,26 @@ Results:
         subset size | Model | recall | f1 score | precision | other hyper parameter imp change (time to calculate batches embeddings)
         1000 | 'all-MiniLM-L12-v2' | 0.02 | 0.01 | 0.01 | with corpus_chunk_size = 1k and top_k = 2 (something went wrong here, dk)
         
-        1000 | 'all-MiniLM-L12-v2' | 0.289 | 0.058 | 0.032 | with corpus_chunk_size = 10k and top_k = 2  (time: 3:11)
-        1000 | 'all-MiniLM-L12-v2' | 0.289 | 0.061 | 0.035 | with corpus_chunk_size = 10k and top_k = 50 (Time: 2:53)
-        1000 | 'all-MiniLM-L12-v2' | 0.289 | 0.062 | 0.034 | with corpus_chunk_size = 20k and top_k = 50 (Time: 3:00)
-        2000 | 'all-MiniLM-L12-v2' | 0.502 | 0.050 | 0.091 | with corpus_chunk_size = 20k and top_k = 100 (Time: 5:06)
-        full dataset | 'all-MiniLM-L12-v2' | 0.653 | 0.059 | 0.109 | with corpus_chunk_size = 20k and top_k = 100 (Time: 6:45 ) + misc time: 4:30
+        1000 | 'all-MiniLM-L12-v2' | 0.289 | 0.058 | 0.032 | with corpus_chunk_size = 10k and top_k = 2  and threshold = 0.5 (time: 3:11)
+        1000 | 'all-MiniLM-L12-v2' | 0.289 | 0.061 | 0.035 | with corpus_chunk_size = 10k and top_k = 50 and threshold = 0.5 (Time: 2:53)
+        1000 | 'all-MiniLM-L12-v2' | 0.198 | 0.198 | 0.198 | with corpus_chunk_size = 10k and top_k = 50 and threshold = 0.9 (Time: 2:53)
+        1000 | 'all-MiniLM-L12-v2' | 0.261 | 0.144 | 0.185 | with corpus_chunk_size = 10k and top_k = 50 and threshold = 0.8 (Time: 2:53)
+        1000 | 'all-MiniLM-L12-v2' | 0.283 | 0.057 | 0.096 | with corpus_chunk_size = 10k and top_k = 50 and threshold = 0.7 (Time: 2:53)
+        following are the score with above model but with different thresholds (0.81 to 0.89)
+        Thres: 0.81 | 0.82 | 0.83 | 0.84 | 0.85 | 0.86 | 0.87 | 0.88 | 0.89
+        Recall: 0.255 | 0.251 | 0.247 | 0.241 | 0.237 | 0.230 | 0.223 | 0.214 | 0.206
+        Precision: 0.153| 0.162 | 0.171 | 0.179 | 0.187 | 0.193 | 0.197 | 0.198 | 0.198
+        F1-score: 0.192| 0.197 | 0.202 | 0.205 | 0.2094 | 0.2097 | 0.2094 | 0.206 | 0.202
         
-        1000 | 'paraphrase-albert-small-v2' | 0.29 | 0.067 | 0.04 | with corpus_chunk_size = 10k and top_k = 50 (Time: 6:25)
+        Conclusion: the highest f1 score for subset 1000 is from threshold 0.86
+                    the highest f1 score for subset 2000 occurs at threshold 0.87 (The scores for 0.86 & 0.87 is 0.2355 vs 0.2363)
+                    for the full dataset highest f1score occurs at thres 0.87 with value 0.2348 (towards 0.88)        
+                
+        1000 | 'all-MiniLM-L12-v2' | 0.289 | 0.062 | 0.034 | with corpus_chunk_size = 20k and top_k = 50 and threshold = 0.5 (Time: 3:00)
+        2000 | 'all-MiniLM-L12-v2' | 0.502 | 0.050 | 0.091 | with corpus_chunk_size = 20k and top_k = 100 and threshold = 0.5 (Time: 5:06)
+        full dataset | 'all-MiniLM-L12-v2' | 0.653 | 0.059 | 0.109 | with corpus_chunk_size = 20k and top_k = 100 and threshold = 0.5 (Time: 6:45 ) + misc time: 4:30
+        
+        1000 | 'paraphrase-albert-small-v2' | 0.29 | 0.067 | 0.04 | with corpus_chunk_size = 10k and top_k = 50 and threshold = 0.5 (Time: 6:25)
         
         
 '''
